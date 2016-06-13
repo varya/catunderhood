@@ -1,0 +1,14 @@
+doctype html
+html(dir="LTR" lang="ru")
+  head
+    include head
+
+  body
+    include header
+    block content
+    include share
+    include footer
+    include gauges
+    include googleAnalytics
+    include yandexMetric
+    script(src="/app.js")
