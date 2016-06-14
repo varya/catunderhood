@@ -1,6 +1,66 @@
 {
   "followers": [
     {
+      "id": 76302270,
+      "id_str": "76302270",
+      "name": "bjørn",
+      "screen_name": "ustrimova",
+      "location": "Oslo, Norge",
+      "description": "jerk philosopher",
+      "url": "https://t.co/KT4BIhj7TM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KT4BIhj7TM",
+              "expanded_url": "http://owos.co",
+              "display_url": "owos.co",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 150,
+      "friends_count": 134,
+      "listed_count": 7,
+      "created_at": "Tue Sep 22 10:46:40 +0000 2009",
+      "favourites_count": 3587,
+      "utc_offset": 7200,
+      "time_zone": "Copenhagen",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 64919,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/695535469392699392/CM7H873C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/695535469392699392/CM7H873C_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/76302270/1460376955",
+      "profile_link_color": "696969",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
       "id": 181508262,
       "id_str": "181508262",
       "name": "Жаржан/Zharzhan",
