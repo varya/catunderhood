@@ -2,7 +2,7 @@
 set -e
 
 echo "set git environment"
-git config user.email "iamstarkov+tachikombie@gmail.com"
+git config user.email "mail@varya.me"
 git config user.name "Tachikoma Zombie"
 git remote rm origin
 git remote add origin https://varya:${GITHUB_TOKEN}@github.com/varya/git@github.com:varya/catunderhood.git.git
