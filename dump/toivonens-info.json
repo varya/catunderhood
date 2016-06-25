@@ -13,7 +13,7 @@
     }
   },
   "protected": false,
-  "followers_count": 126,
+  "followers_count": 129,
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -22,13 +22,13 @@
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 74,
+  "statuses_count": 87,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jun 24 10:25:03 +0000 2016",
-    "id": 746288019229966300,
-    "id_str": "746288019229966336",
-    "text": "Пришлось покупать теплицу и держать её в квартире. Иначе рассада просто не вырастает!!! https://t.co/mSkry13ZAz",
+    "created_at": "Sat Jun 25 19:01:04 +0000 2016",
+    "id": 746780267692490800,
+    "id_str": "746780267692490758",
+    "text": "Я в домике! https://t.co/erCrCFscIW",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -37,17 +37,17 @@
       "urls": [],
       "media": [
         {
-          "id": 745612604270346200,
-          "id_str": "745612604270346240",
+          "id": 745240533933625300,
+          "id_str": "745240533933625344",
           "indices": [
-            88,
-            111
+            12,
+            35
           ],
-          "media_url": "http://pbs.twimg.com/media/CljytpGWgAAqPv8.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CljytpGWgAAqPv8.jpg",
-          "url": "https://t.co/mSkry13ZAz",
-          "display_url": "pic.twitter.com/mSkry13ZAz",
-          "expanded_url": "http://twitter.com/catunderhood/status/746288019229966336/photo/1",
+          "media_url": "http://pbs.twimg.com/media/ClegUTFWEAAVjpO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ClegUTFWEAAVjpO.jpg",
+          "url": "https://t.co/erCrCFscIW",
+          "display_url": "pic.twitter.com/erCrCFscIW",
+          "expanded_url": "http://twitter.com/catunderhood/status/746780267692490758/photo/1",
           "type": "photo",
           "sizes": {
             "medium": {
@@ -61,8 +61,8 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1536,
-              "h": 2048,
+              "w": 960,
+              "h": 1280,
               "resize": "fit"
             },
             "small": {
@@ -77,17 +77,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 745612604270346200,
-          "id_str": "745612604270346240",
+          "id": 745240533933625300,
+          "id_str": "745240533933625344",
           "indices": [
-            88,
-            111
+            12,
+            35
           ],
-          "media_url": "http://pbs.twimg.com/media/CljytpGWgAAqPv8.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CljytpGWgAAqPv8.jpg",
-          "url": "https://t.co/mSkry13ZAz",
-          "display_url": "pic.twitter.com/mSkry13ZAz",
-          "expanded_url": "http://twitter.com/catunderhood/status/746288019229966336/photo/1",
+          "media_url": "http://pbs.twimg.com/media/ClegUTFWEAAVjpO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ClegUTFWEAAVjpO.jpg",
+          "url": "https://t.co/erCrCFscIW",
+          "display_url": "pic.twitter.com/erCrCFscIW",
+          "expanded_url": "http://twitter.com/catunderhood/status/746780267692490758/photo/1",
           "type": "photo",
           "sizes": {
             "medium": {
@@ -101,8 +101,8 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1536,
-              "h": 2048,
+              "w": 960,
+              "h": 1280,
               "resize": "fit"
             },
             "small": {
@@ -126,7 +126,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
