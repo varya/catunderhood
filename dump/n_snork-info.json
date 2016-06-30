@@ -13,121 +13,46 @@
     }
   },
   "protected": false,
-  "followers_count": 162,
+  "followers_count": 172,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 1,
+  "favourites_count": 3,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 164,
+  "statuses_count": 207,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jun 28 16:32:26 +0000 2016",
-    "id": 747830023873245200,
-    "id_str": "747830023873245184",
-    "text": "Любишь котиков, люби и их фотографировать! \n\nВстречайте новую рубрику #котикимира\n\nЭтот котик живет в Риме. https://t.co/cV7KvMYXz7",
+    "created_at": "Wed Jun 29 21:53:01 +0000 2016",
+    "id": 748273088870096900,
+    "id_str": "748273088870096897",
+    "text": "@yoksel бракованные нам коты попались )))",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "котикимира",
+          "screen_name": "yoksel",
+          "name": "Йоксель",
+          "id": 86940582,
+          "id_str": "86940582",
           "indices": [
-            70,
-            81
+            0,
+            7
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 747829577284718600,
-          "id_str": "747829577284718593",
-          "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/CmDTCdKWEAE5PK9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmDTCdKWEAE5PK9.jpg",
-          "url": "https://t.co/cV7KvMYXz7",
-          "display_url": "pic.twitter.com/cV7KvMYXz7",
-          "expanded_url": "http://twitter.com/catunderhood/status/747830023873245184/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 452,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 797,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1360,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 747829577284718600,
-          "id_str": "747829577284718593",
-          "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/CmDTCdKWEAE5PK9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmDTCdKWEAE5PK9.jpg",
-          "url": "https://t.co/cV7KvMYXz7",
-          "display_url": "pic.twitter.com/cV7KvMYXz7",
-          "expanded_url": "http://twitter.com/catunderhood/status/747830023873245184/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 452,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 797,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1360,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 748259802581721100,
+    "in_reply_to_status_id_str": "748259802581721088",
+    "in_reply_to_user_id": 86940582,
+    "in_reply_to_user_id_str": "86940582",
+    "in_reply_to_screen_name": "yoksel",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -139,7 +64,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
