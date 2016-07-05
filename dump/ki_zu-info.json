@@ -13,146 +13,41 @@
     }
   },
   "protected": false,
-  "followers_count": 179,
+  "followers_count": 182,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 22,
+  "favourites_count": 23,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 309,
+  "statuses_count": 395,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 04 16:04:04 +0000 2016",
-    "id": 749997214848671700,
-    "id_str": "749997214848671745",
-    "text": "RT @quicker_liquor: @catunderhood кошка Рипли до и после, месяц ходила по району и в итоге улеглась в подъезде https://t.co/PR0qJl0eQO",
+    "created_at": "Tue Jul 05 19:00:08 +0000 2016",
+    "id": 750403909815005200,
+    "id_str": "750403909815005185",
+    "text": "Любила пойти и упасть на бок где-нибудь, а также играть под дверью от туалета, пытаясь из-под неё что-нибудь достать https://t.co/GKDlyKE3vR",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "quicker_liquor",
-          "name": "Аврора Бореаназ",
-          "id": 6436912,
-          "id_str": "6436912",
-          "indices": [
-            3,
-            18
-          ]
-        },
-        {
-          "screen_name": "catunderhood",
-          "name": "catunderhood",
-          "id": 739569483556225000,
-          "id_str": "739569483556225025",
-          "indices": [
-            20,
-            33
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [],
       "media": [
         {
-          "id": 749996790821290000,
-          "id_str": "749996790821289985",
+          "id": 750403873718796300,
+          "id_str": "750403873718796288",
           "indices": [
-            111,
-            134
+            117,
+            140
           ],
-          "media_url": "http://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-          "url": "https://t.co/PR0qJl0eQO",
-          "display_url": "pic.twitter.com/PR0qJl0eQO",
-          "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 749996842755194900,
-          "source_status_id_str": "749996842755194880",
-          "source_user_id": 6436912,
-          "source_user_id_str": "6436912"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 749996790821290000,
-          "id_str": "749996790821289985",
-          "indices": [
-            111,
-            134
-          ],
-          "media_url": "http://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-          "url": "https://t.co/PR0qJl0eQO",
-          "display_url": "pic.twitter.com/PR0qJl0eQO",
-          "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 749996842755194900,
-          "source_status_id_str": "749996842755194880",
-          "source_user_id": 6436912,
-          "source_user_id_str": "6436912"
-        },
-        {
-          "id": 749996832743358500,
-          "id_str": "749996832743358464",
-          "indices": [
-            111,
-            134
-          ],
-          "media_url": "http://pbs.twimg.com/media/CmiGJU5WAAAdy-i.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmiGJU5WAAAdy-i.jpg",
-          "url": "https://t.co/PR0qJl0eQO",
-          "display_url": "pic.twitter.com/PR0qJl0eQO",
-          "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cmn4WOsWAAA16yt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cmn4WOsWAAA16yt.jpg",
+          "url": "https://t.co/GKDlyKE3vR",
+          "display_url": "pic.twitter.com/GKDlyKE3vR",
+          "expanded_url": "http://twitter.com/catunderhood/status/750403909815005185/photo/1",
           "type": "photo",
           "sizes": {
             "medium": {
@@ -175,11 +70,47 @@
               "h": 680,
               "resize": "fit"
             }
-          },
-          "source_status_id": 749996842755194900,
-          "source_status_id_str": "749996842755194880",
-          "source_user_id": 6436912,
-          "source_user_id_str": "6436912"
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 750403873718796300,
+          "id_str": "750403873718796288",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cmn4WOsWAAA16yt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cmn4WOsWAAA16yt.jpg",
+          "url": "https://t.co/GKDlyKE3vR",
+          "display_url": "pic.twitter.com/GKDlyKE3vR",
+          "expanded_url": "http://twitter.com/catunderhood/status/750403909815005185/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -195,166 +126,11 @@
     "contributors": [
       8400822
     ],
-    "retweeted_status": {
-      "created_at": "Mon Jul 04 16:02:36 +0000 2016",
-      "id": 749996842755194900,
-      "id_str": "749996842755194880",
-      "text": "@catunderhood кошка Рипли до и после, месяц ходила по району и в итоге улеглась в подъезде https://t.co/PR0qJl0eQO",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "catunderhood",
-            "name": "catunderhood",
-            "id": 739569483556225000,
-            "id_str": "739569483556225025",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": [],
-        "media": [
-          {
-            "id": 749996790821290000,
-            "id_str": "749996790821289985",
-            "indices": [
-              91,
-              114
-            ],
-            "media_url": "http://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-            "url": "https://t.co/PR0qJl0eQO",
-            "display_url": "pic.twitter.com/PR0qJl0eQO",
-            "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 768,
-                "h": 1024,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 768,
-                "h": 1024,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 510,
-                "h": 680,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 749996790821290000,
-            "id_str": "749996790821289985",
-            "indices": [
-              91,
-              114
-            ],
-            "media_url": "http://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CmiGG4uWAAEaUHM.jpg",
-            "url": "https://t.co/PR0qJl0eQO",
-            "display_url": "pic.twitter.com/PR0qJl0eQO",
-            "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "medium": {
-                "w": 768,
-                "h": 1024,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 768,
-                "h": 1024,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 510,
-                "h": 680,
-                "resize": "fit"
-              }
-            }
-          },
-          {
-            "id": 749996832743358500,
-            "id_str": "749996832743358464",
-            "indices": [
-              91,
-              114
-            ],
-            "media_url": "http://pbs.twimg.com/media/CmiGJU5WAAAdy-i.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CmiGJU5WAAAdy-i.jpg",
-            "url": "https://t.co/PR0qJl0eQO",
-            "display_url": "pic.twitter.com/PR0qJl0eQO",
-            "expanded_url": "http://twitter.com/quicker_liquor/status/749996842755194880/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 900,
-                "h": 1200,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1536,
-                "h": 2048,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 510,
-                "h": 680,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-      "in_reply_to_status_id": 749936754434646000,
-      "in_reply_to_status_id_str": "749936754434646016",
-      "in_reply_to_user_id": 739569483556225000,
-      "in_reply_to_user_id_str": "739569483556225025",
-      "in_reply_to_screen_name": "catunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "favorited": true,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
   },
