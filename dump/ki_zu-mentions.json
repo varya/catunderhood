@@ -7374,6 +7374,94 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 10 18:13:00 +0000 2016",
+      "id": 752203987651334100,
+      "id_str": "752203987651334144",
+      "text": "@catunderhood ты очень крутой, спасибо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 752186778027778000,
+      "in_reply_to_status_id_str": "752186778027778048",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 11051452,
+        "id_str": "11051452"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 10 18:15:31 +0000 2016",
+      "id": 752204619237949400,
+      "id_str": "752204619237949441",
+      "text": "@catunderhood Отличная неделя! Спасибо :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 752186778027778000,
+      "in_reply_to_status_id_str": "752186778027778048",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 215559242,
+        "id_str": "215559242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
