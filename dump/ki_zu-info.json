@@ -5,7 +5,7 @@
   "screen_name": "catunderhood",
   "location": "Moscow",
   "profile_location": null,
-  "description": "Каждую неделю новый кот. Фото, видео, смешные рассказы и много мимими! На этой неделе ведёт @ki_zu.",
+  "description": "Каждую неделю новые котики и котички. Фото, видео, смешные рассказы и много мимими! На этой неделе ведёт @ki_zu.",
   "url": null,
   "entities": {
     "description": {
@@ -13,54 +13,72 @@
     }
   },
   "protected": false,
-  "followers_count": 172,
+  "followers_count": 201,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9,
+  "favourites_count": 23,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 293,
+  "statuses_count": 529,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 03 20:03:02 +0000 2016",
-    "id": 749694962174873600,
-    "id_str": "749694962174873600",
-    "text": "Ciao!\n#котикимира https://t.co/tD6btRUpKK",
+    "created_at": "Sat Jul 09 17:38:57 +0000 2016",
+    "id": 751833028700278800,
+    "id_str": "751833028700278784",
+    "text": "RT @_dancie_: @catunderhood и с другом, большую часть дня они так вместе проводят https://t.co/Ki0t8nISIY",
     "truncated": false,
     "entities": {
-      "hashtags": [
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
         {
-          "text": "котикимира",
+          "screen_name": "_dancie_",
+          "name": "Meowth",
+          "id": 111939867,
+          "id_str": "111939867",
           "indices": [
-            6,
-            17
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "catunderhood",
+          "name": "catunderhood",
+          "id": 739569483556225000,
+          "id_str": "739569483556225025",
+          "indices": [
+            14,
+            27
           ]
         }
       ],
-      "symbols": [],
-      "user_mentions": [],
       "urls": [],
       "media": [
         {
-          "id": 749668256605151200,
-          "id_str": "749668256605151232",
+          "id": 751797897818173400,
+          "id_str": "751797897818173440",
           "indices": [
-            18,
-            41
+            82,
+            105
           ],
-          "media_url": "http://pbs.twimg.com/media/CmdbTrZWIAAlMen.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmdbTrZWIAAlMen.jpg",
-          "url": "https://t.co/tD6btRUpKK",
-          "display_url": "pic.twitter.com/tD6btRUpKK",
-          "expanded_url": "http://twitter.com/catunderhood/status/749694962174873600/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+          "url": "https://t.co/Ki0t8nISIY",
+          "display_url": "pic.twitter.com/Ki0t8nISIY",
+          "expanded_url": "http://twitter.com/_dancie_/status/751797911579680768/photo/1",
           "type": "photo",
           "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
             "medium": {
-              "w": 1000,
-              "h": 664,
+              "w": 1200,
+              "h": 900,
               "resize": "fit"
             },
             "thumb": {
@@ -69,38 +87,42 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1000,
-              "h": 664,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 452,
+              "w": 2048,
+              "h": 1536,
               "resize": "fit"
             }
-          }
+          },
+          "source_status_id": 751797911579680800,
+          "source_status_id_str": "751797911579680768",
+          "source_user_id": 111939867,
+          "source_user_id_str": "111939867"
         }
       ]
     },
     "extended_entities": {
       "media": [
         {
-          "id": 749668256605151200,
-          "id_str": "749668256605151232",
+          "id": 751797897818173400,
+          "id_str": "751797897818173440",
           "indices": [
-            18,
-            41
+            82,
+            105
           ],
-          "media_url": "http://pbs.twimg.com/media/CmdbTrZWIAAlMen.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmdbTrZWIAAlMen.jpg",
-          "url": "https://t.co/tD6btRUpKK",
-          "display_url": "pic.twitter.com/tD6btRUpKK",
-          "expanded_url": "http://twitter.com/catunderhood/status/749694962174873600/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+          "url": "https://t.co/Ki0t8nISIY",
+          "display_url": "pic.twitter.com/Ki0t8nISIY",
+          "expanded_url": "http://twitter.com/_dancie_/status/751797911579680768/photo/1",
           "type": "photo",
           "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
             "medium": {
-              "w": 1000,
-              "h": 664,
+              "w": 1200,
+              "h": 900,
               "resize": "fit"
             },
             "thumb": {
@@ -109,16 +131,15 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1000,
-              "h": 664,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 452,
+              "w": 2048,
+              "h": 1536,
               "resize": "fit"
             }
-          }
+          },
+          "source_status_id": 751797911579680800,
+          "source_status_id_str": "751797911579680768",
+          "source_user_id": 111939867,
+          "source_user_id_str": "111939867"
         }
       ]
     },
@@ -131,14 +152,135 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      8400822
+    ],
+    "retweeted_status": {
+      "created_at": "Sat Jul 09 15:19:24 +0000 2016",
+      "id": 751797911579680800,
+      "id_str": "751797911579680768",
+      "text": "@catunderhood и с другом, большую часть дня они так вместе проводят https://t.co/Ki0t8nISIY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 751797897818173400,
+            "id_str": "751797897818173440",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+            "url": "https://t.co/Ki0t8nISIY",
+            "display_url": "pic.twitter.com/Ki0t8nISIY",
+            "expanded_url": "http://twitter.com/_dancie_/status/751797911579680768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 751797897818173400,
+            "id_str": "751797897818173440",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cm7sNHJWcAAvcu5.jpg",
+            "url": "https://t.co/Ki0t8nISIY",
+            "display_url": "pic.twitter.com/Ki0t8nISIY",
+            "expanded_url": "http://twitter.com/_dancie_/status/751797911579680768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 751789006430564400,
+      "in_reply_to_status_id_str": "751789006430564352",
+      "in_reply_to_user_id": 111939867,
+      "in_reply_to_user_id_str": "111939867",
+      "in_reply_to_screen_name": "_dancie_",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
-    "lang": "it"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
