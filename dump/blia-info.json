@@ -17,42 +17,109 @@
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 24,
+  "favourites_count": 25,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 615,
+  "statuses_count": 653,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 11 17:21:32 +0000 2016",
-    "id": 752553424776990700,
-    "id_str": "752553424776990720",
-    "text": "@chikiro_twi нууу.... это проблематично))))",
+    "created_at": "Tue Jul 12 12:10:39 +0000 2016",
+    "id": 752837575547691000,
+    "id_str": "752837575547691008",
+    "text": "и, конечно же, на вешалке ) https://t.co/TLY4xxxcfP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "chikiro_twi",
-          "name": "Chikiro",
-          "id": 51188176,
-          "id_str": "51188176",
+          "id": 752837556325191700,
+          "id_str": "752837556325191681",
           "indices": [
-            0,
-            12
-          ]
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/CnKdxM5WEAEN5xe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CnKdxM5WEAEN5xe.jpg",
+          "url": "https://t.co/TLY4xxxcfP",
+          "display_url": "pic.twitter.com/TLY4xxxcfP",
+          "expanded_url": "http://twitter.com/catunderhood/status/752837575547691008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 642,
+              "h": 803,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 642,
+              "h": 803,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 752837556325191700,
+          "id_str": "752837556325191681",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/CnKdxM5WEAEN5xe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CnKdxM5WEAEN5xe.jpg",
+          "url": "https://t.co/TLY4xxxcfP",
+          "display_url": "pic.twitter.com/TLY4xxxcfP",
+          "expanded_url": "http://twitter.com/catunderhood/status/752837575547691008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 642,
+              "h": 803,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 642,
+              "h": 803,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 752549881651273700,
-    "in_reply_to_status_id_str": "752549881651273729",
-    "in_reply_to_user_id": 51188176,
-    "in_reply_to_user_id_str": "51188176",
-    "in_reply_to_screen_name": "chikiro_twi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -64,6 +131,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
