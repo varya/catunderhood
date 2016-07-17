@@ -13,25 +13,40 @@
     }
   },
   "protected": false,
-  "followers_count": 217,
+  "followers_count": 221,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 28,
+  "favourites_count": 39,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 681,
+  "statuses_count": 733,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jul 13 11:25:59 +0000 2016",
-    "id": 753188721785237500,
-    "id_str": "753188721785237504",
-    "text": "раскроем вам тайну про Титушу, котя любит кусать за попки не только других котиков, но даже нам перепадает иногда  =)",
+    "created_at": "Sun Jul 17 19:51:48 +0000 2016",
+    "id": 754765567232442400,
+    "id_str": "754765567232442368",
+    "text": "С вам были: Бляша, Саша, Дэйзи, Дарвин и Титуша :3 Спасибо за лайки, ретвиты и  добрые слова #love #peace",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "love",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "peace",
+          "indices": [
+            99,
+            105
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": []
@@ -46,11 +61,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      1076554944
+      11051452
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
