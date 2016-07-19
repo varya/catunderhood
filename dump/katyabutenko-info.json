@@ -13,43 +13,38 @@
     }
   },
   "protected": false,
-  "followers_count": 221,
+  "followers_count": 233,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 39,
+  "favourites_count": 46,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 733,
+  "statuses_count": 784,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 17 19:51:48 +0000 2016",
-    "id": 754765567232442400,
-    "id_str": "754765567232442368",
-    "text": "С вам были: Бляша, Саша, Дэйзи, Дарвин и Титуша :3 Спасибо за лайки, ретвиты и  добрые слова #love #peace",
+    "created_at": "Tue Jul 19 17:57:44 +0000 2016",
+    "id": 755461636656361500,
+    "id_str": "755461636656361473",
+    "text": ":'-) https://t.co/9n64LQgwe1",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "love",
-          "indices": [
-            93,
-            98
-          ]
-        },
-        {
-          "text": "peace",
-          "indices": [
-            99,
-            105
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/9n64LQgwe1",
+          "expanded_url": "https://twitter.com/WarrrWara/status/755461373098876928",
+          "display_url": "twitter.com/WarrrWara/stat…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,14 +56,17 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      11051452
+      1853452880
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 755461373098876900,
+    "quoted_status_id_str": "755461373098876928",
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -77,8 +75,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/754781553616642048/wnqmvd_s_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/754781553616642048/wnqmvd_s_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/754990961839792133/EzMjCPt9_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/754990961839792133/EzMjCPt9_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/739569483556225025/1468788910",
   "profile_link_color": "2B7BB9",
   "profile_sidebar_border_color": "C0DEED",
