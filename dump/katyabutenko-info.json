@@ -6,43 +6,125 @@
   "location": "",
   "profile_location": null,
   "description": "Каждую неделю новые котики и котички. Фото, видео, смешные рассказы и много мимими! На этой неделе с вами @katyabutenko.",
-  "url": null,
+  "url": "https://t.co/VeGvYVoiNB",
   "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/VeGvYVoiNB",
+          "expanded_url": "http://catunderhood.com/",
+          "display_url": "catunderhood.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
     "description": {
       "urls": []
     }
   },
   "protected": false,
-  "followers_count": 233,
+  "followers_count": 237,
   "friends_count": 0,
   "listed_count": 4,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 46,
+  "favourites_count": 47,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 784,
+  "statuses_count": 800,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jul 19 17:57:44 +0000 2016",
-    "id": 755461636656361500,
-    "id_str": "755461636656361473",
-    "text": ":'-) https://t.co/9n64LQgwe1",
+    "created_at": "Wed Jul 20 13:00:22 +0000 2016",
+    "id": 755749187963150300,
+    "id_str": "755749187963150336",
+    "text": "Приятно помнить, что где-то там на просторах интернетов есть море кошачьих фото, точно отобранных с большой любовью https://t.co/1gvWt07707",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/9n64LQgwe1",
-          "expanded_url": "https://twitter.com/WarrrWara/status/755461373098876928",
-          "display_url": "twitter.com/WarrrWara/stat…",
+          "id": 755512424107765800,
+          "id_str": "755512424107765760",
           "indices": [
-            5,
-            28
-          ]
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cnwei_5WcAAdd3m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cnwei_5WcAAdd3m.jpg",
+          "url": "https://t.co/1gvWt07707",
+          "display_url": "pic.twitter.com/1gvWt07707",
+          "expanded_url": "http://twitter.com/catunderhood/status/755749187963150336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 705,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 599,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 705,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 755512424107765800,
+          "id_str": "755512424107765760",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cnwei_5WcAAdd3m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cnwei_5WcAAdd3m.jpg",
+          "url": "https://t.co/1gvWt07707",
+          "display_url": "pic.twitter.com/1gvWt07707",
+          "expanded_url": "http://twitter.com/catunderhood/status/755749187963150336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 705,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 599,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 705,
+              "resize": "fit"
+            }
+          },
+          "ext_alt_text": null
         }
       ]
     },
@@ -55,18 +137,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1853452880
-    ],
-    "is_quote_status": true,
-    "quoted_status_id": 755461373098876900,
-    "quoted_status_id_str": "755461373098876928",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "und"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
