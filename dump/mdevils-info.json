@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 234,
+  "followers_count": 233,
   "friends_count": 0,
   "listed_count": 5,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 63,
+  "favourites_count": 67,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 889,
+  "statuses_count": 938,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 25 09:31:38 +0000 2016",
-    "id": 757508599706976300,
-    "id_str": "757508599706976256",
-    "text": "Через неделю стало ясно, что Бусинке очень грустно одной дома. И так появился в квартире ее брат, который сразу получил имя Пиксель :-)",
+    "created_at": "Wed Jul 27 15:02:28 +0000 2016",
+    "id": 758316632502591500,
+    "id_str": "758316632502591489",
+    "text": "У Бусинки есть свой огород https://t.co/kqapabGYfa",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/kqapabGYfa",
+          "expanded_url": "https://youtu.be/CrrerK3OOog",
+          "display_url": "youtu.be/CrrerK3OOog",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -66,6 +76,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
