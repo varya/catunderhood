@@ -1,0 +1,59 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 22 09:25:08 +0000 2016",
+      "id": 767653823330541600,
+      "id_str": "767653823330541568",
+      "text": "Thanks for @asinnema for nice photos of her cats and lovely neighborhoods last week :-) This is the archive https://t.co/oGRktI1zZz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "asinnema",
+            "name": "Anneke Sinnema",
+            "id": 16417206,
+            "id_str": "16417206",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oGRktI1zZz",
+            "expanded_url": "http://catunderhood.com/asinnema/",
+            "display_url": "catunderhood.com/asinnema/",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}
