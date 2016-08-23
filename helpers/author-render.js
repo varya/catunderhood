@@ -21,7 +21,7 @@ const getQuotedUser = pipe(
   head,
   pipe(parse, prop('path'), split('/'), nth(1)));
 
-moment.locale('ru');
+moment.locale('en');
 
 const weekday = date => moment(new Date(date)).format('dddd');
 const tweetLink = (tweet) => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
@@ -40,7 +40,7 @@ const prevAuthor = author => {
 };
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
-const tweetsUnit = numd('твит', 'твита', 'твитов');
+const tweetsUnit = numd('tweet', 'tweets', 'tweets');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
 const prepareTweets = pipe(
