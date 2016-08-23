@@ -1,11 +1,11 @@
 {
   "underhood": "catunderhood",
-  "underhoodDesc": "Каждую неделю новый котики и котички. Фото, видео, смешные рассказы и много мимими!",
+  "underhoodDesc": "Fresh cats every week. Photos, videos, funny stories and other sweet things!",
   "underhoodSite": "http://catunderhood.com",
   "githubUser": "varya",
   "githubRepo": "catunderhood",
   "curatorEmail": "catunderhood@gmail.com",
-  "curatorTwitter": "toivonens",
+  "curatorTwitter": "varya_en",
   "creatorTwitter": "iamstarkov",
   "gauges": "56742cb6c88d9046da0016f5",
   "googleAnalytics": "UA-52228839-2",
@@ -13,14 +13,14 @@
   "creatorCreds": "iamstarkov@gmail.com (Vladimir Starkov)",
   "underhoodVersion": "0.1.2",
   "site": {
-    "title": "Сайт @catunderhood",
-    "description": "Каждую неделю новый котики и котички. Фото, видео, смешные рассказы и много мимими!",
+    "title": "@catunderhood twitter project",
+    "description": "Fresh cats every week. Photos, videos, funny stories and other sweet things!",
     "feed_url": "https://catunderhood.com/rss.xml",
     "site_url": "https://catunderhood.com/",
     "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
     "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
     "copyright": "MIT",
-    "language": "ru",
-    "categories": [ "twitter" ]
+    "language": "en",
+    "categories": [ "twitter", "cats" ]
   }
 }
