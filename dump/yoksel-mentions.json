@@ -2035,6 +2035,157 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 23 15:53:09 +0000 2016",
+      "id": 768113859563515900,
+      "id_str": "768113859563515904",
+      "text": "Maintaining @catunderhood while listening very useful #redux talk at @helsinkijs ;-P\nhttps://t.co/g3r2DVZIlw https://t.co/De6GPCnxEO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "redux",
+            "indices": [
+              54,
+              60
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              12,
+              25
+            ]
+          },
+          {
+            "screen_name": "helsinkijs",
+            "name": "HelsinkiJS",
+            "id": 427202134,
+            "id_str": "427202134",
+            "indices": [
+              69,
+              80
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g3r2DVZIlw",
+            "expanded_url": "http://catunderhood.com",
+            "display_url": "catunderhood.com",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 768113857831309300,
+            "id_str": "768113857831309312",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cqjje-sXEAApZmn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cqjje-sXEAApZmn.jpg",
+            "url": "https://t.co/De6GPCnxEO",
+            "display_url": "pic.twitter.com/De6GPCnxEO",
+            "expanded_url": "https://twitter.com/varya_en/status/768113859563515904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 768113857831309300,
+            "id_str": "768113857831309312",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cqjje-sXEAApZmn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cqjje-sXEAApZmn.jpg",
+            "url": "https://t.co/De6GPCnxEO",
+            "display_url": "pic.twitter.com/De6GPCnxEO",
+            "expanded_url": "https://twitter.com/varya_en/status/768113859563515904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2279709949,
+        "id_str": "2279709949"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
     }
   ]
 }
