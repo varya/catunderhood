@@ -43,8 +43,8 @@ const jadeDefaults = {
   locals: {
     site: underhood.site,
     latestInfo,
-    numbers: input => numbers(input, { locale: 'ru' }),
-    people: numd('человек', 'человека', 'человек'),
+    numbers: input => numbers(input, { locale: 'en' }),
+    people: numd('person', 'people', 'people'),
   },
 };
 
@@ -65,7 +65,7 @@ task('index', ['css'], () => {
   return src('layouts/index.jade')
     .pipe(jade({
       locals: {
-        title: `Сайт @${underhood.underhood}`,
+        title: `${underhood.underhood} twitter project`,
         desc: underhood.underhoodDesc,
         underhood,
         currentAuthor: head(authors),
@@ -81,7 +81,7 @@ task('stats', ['css'], () =>
   src('layouts/stats.jade')
     .pipe(jade({
       locals: {
-        title: `Статистика @${underhood.underhood}`,
+        title: `Stats @${underhood.underhood}`,
         url: 'stats/',
         desc: underhood.underhoodDesc,
         lastUpdated,
@@ -96,9 +96,9 @@ task('stats', ['css'], () =>
 
 task('md-pages', ['css'], done => {
   each([
-    { name: 'about', title: 'О проекте' },
-    { name: 'authoring', title: 'Авторам' },
-    { name: 'instruction', title: 'Инструкция' },
+    { name: 'about', title: 'About the project' },
+    { name: 'authoring', title: 'For authors' },
+    { name: 'instruction', title: 'Instruction' },
   ], item => {
     const page = fs.readFileSync(`./pages/${item.name}.md`, { encoding: 'utf8' });
     const article = articleData(page, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
@@ -138,7 +138,7 @@ task('authors', ['css'], done => {
       .pipe(jade({
         pretty: true,
         locals: {
-          title: `Неделя @${author.username} в @${underhood.underhood}`,
+          title: `Week of @${author.username} в @${underhood.underhood}`,
           author, underhood,
           helpers: { authorRender, bust },
         },
