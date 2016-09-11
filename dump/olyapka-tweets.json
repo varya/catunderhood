@@ -1,0 +1,59 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Sep 11 21:05:53 +0000 2016",
+      "id": 775077932414951400,
+      "id_str": "775077932414951424",
+      "text": "Спасибо @mothersmonster и мини-кошке Марси :-) Архив тут https://t.co/pZMkAzKMtU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mothersmonster",
+            "name": "chanel #1",
+            "id": 194425038,
+            "id_str": "194425038",
+            "indices": [
+              8,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pZMkAzKMtU",
+            "expanded_url": "http://catunderhood.com/mothersmonster/",
+            "display_url": "catunderhood.com/mothersmonster/",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
