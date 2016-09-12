@@ -1,0 +1,58 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Sep 12 10:40:42 +0000 2016",
+      "id": 775282984689819600,
+      "id_str": "775282984689819648",
+      "text": "@catunderhood @olyapka привет, Оля! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              14,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 775282762551001100,
+      "in_reply_to_status_id_str": "775282762551001088",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 20683579,
+        "id_str": "20683579"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
