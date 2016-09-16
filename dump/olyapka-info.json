@@ -26,57 +26,123 @@
     }
   },
   "protected": false,
-  "followers_count": 304,
+  "followers_count": 316,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 182,
+  "favourites_count": 203,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1784,
+  "statuses_count": 1896,
   "lang": "en",
   "status": {
-    "created_at": "Tue Sep 13 20:48:41 +0000 2016",
-    "id": 775798376294129700,
-    "id_str": "775798376294129665",
-    "text": "@jungervati во, это и есть знаменитый фурминатор!",
+    "created_at": "Fri Sep 16 09:01:06 +0000 2016",
+    "id": 776707472471928800,
+    "id_str": "776707472471928832",
+    "text": "Ура, пятница! https://t.co/eQhGQsDGeo",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "jungervati",
-          "name": "Молодой Папаша",
-          "id": 3833383973,
-          "id_str": "3833383973",
+          "id": 776687315561439200,
+          "id_str": "776687315561439232",
           "indices": [
-            0,
-            11
-          ]
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/CsdY_5mXYAAUFDi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CsdY_5mXYAAUFDi.jpg",
+          "url": "https://t.co/eQhGQsDGeo",
+          "display_url": "pic.twitter.com/eQhGQsDGeo",
+          "expanded_url": "https://twitter.com/catunderhood/status/776707472471928832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 672,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1068,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1068,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 776687315561439200,
+          "id_str": "776687315561439232",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/CsdY_5mXYAAUFDi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CsdY_5mXYAAUFDi.jpg",
+          "url": "https://t.co/eQhGQsDGeo",
+          "display_url": "pic.twitter.com/eQhGQsDGeo",
+          "expanded_url": "https://twitter.com/catunderhood/status/776707472471928832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 672,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1068,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1068,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 775798289182646300,
-    "in_reply_to_status_id_str": "775798289182646272",
-    "in_reply_to_user_id": 3833383973,
-    "in_reply_to_user_id_str": "3833383973",
-    "in_reply_to_screen_name": "jungervati",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      10533432
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
