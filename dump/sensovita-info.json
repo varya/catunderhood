@@ -26,106 +26,39 @@
     }
   },
   "protected": false,
-  "followers_count": 295,
+  "followers_count": 296,
   "friends_count": 0,
   "listed_count": 7,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 401,
+  "favourites_count": 403,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2488,
+  "statuses_count": 2491,
   "lang": "en",
   "status": {
-    "created_at": "Sun Sep 25 16:03:36 +0000 2016",
-    "id": 780075290068394000,
-    "id_str": "780075290068393988",
-    "text": "Надо прощаться. https://t.co/6amfin6CSS",
+    "created_at": "Sun Sep 25 16:43:43 +0000 2016",
+    "id": 780085384277483500,
+    "id_str": "780085384277483520",
+    "text": "Всю неделю с вами была @sensovita, любите котиков и делайте мир добрее!:)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 780074650860683300,
-          "id_str": "780074650860683265",
+          "screen_name": "Sensovita",
+          "name": "Σβ",
+          "id": 452759025,
+          "id_str": "452759025",
           "indices": [
-            16,
-            39
-          ],
-          "media_url": "http://pbs.twimg.com/media/CtNhww7WgAECH9b.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CtNhww7WgAECH9b.jpg",
-          "url": "https://t.co/6amfin6CSS",
-          "display_url": "pic.twitter.com/6amfin6CSS",
-          "expanded_url": "https://twitter.com/catunderhood/status/780075290068393988/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 800,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1365,
-              "resize": "fit"
-            }
-          }
+            23,
+            33
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 780074650860683300,
-          "id_str": "780074650860683265",
-          "indices": [
-            16,
-            39
-          ],
-          "media_url": "http://pbs.twimg.com/media/CtNhww7WgAECH9b.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CtNhww7WgAECH9b.jpg",
-          "url": "https://t.co/6amfin6CSS",
-          "display_url": "pic.twitter.com/6amfin6CSS",
-          "expanded_url": "https://twitter.com/catunderhood/status/780075290068393988/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 800,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1365,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -141,10 +74,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
