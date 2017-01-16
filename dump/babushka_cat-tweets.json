@@ -1,0 +1,665 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 16 10:33:31 +0000 2017",
+      "id": 820942050564644900,
+      "id_str": "820942050564644865",
+      "text": "Привет, друзья. На связи @babushka_cat. #дауменя5кошек и это не страшно. Будем знакомиться? https://t.co/1wnWc8h1ny",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "дауменя5кошек",
+            "indices": [
+              40,
+              54
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "babushka_cat",
+            "name": "Бабушка Кэт",
+            "id": 413852291,
+            "id_str": "413852291",
+            "indices": [
+              25,
+              38
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 820942010504843300,
+            "id_str": "820942010504843264",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2SSaLVWEAAH__6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2SSaLVWEAAH__6.jpg",
+            "url": "https://t.co/1wnWc8h1ny",
+            "display_url": "pic.twitter.com/1wnWc8h1ny",
+            "expanded_url": "https://twitter.com/catunderhood/status/820942050564644865/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 820942010504843300,
+            "id_str": "820942010504843264",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2SSaLVWEAAH__6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2SSaLVWEAAH__6.jpg",
+            "url": "https://t.co/1wnWc8h1ny",
+            "display_url": "pic.twitter.com/1wnWc8h1ny",
+            "expanded_url": "https://twitter.com/catunderhood/status/820942050564644865/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 10:38:16 +0000 2017",
+      "id": 820943242623647700,
+      "id_str": "820943242623647744",
+      "text": "Начнем со старушки Вспышки. Пришла к нам в дом из коробки в парадной. Трижды мама и один раз бабушка. За маслину ду… https://t.co/rBJNZ2Qto8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rBJNZ2Qto8",
+            "expanded_url": "https://twitter.com/i/web/status/820943242623647744",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 11:06:00 +0000 2017",
+      "id": 820950225195913200,
+      "id_str": "820950225195913217",
+      "text": "Когда у меня появилась Вспышка, у меня уже был кот Макс. Именно он и дал начало нашей большой семье. Был образцовым… https://t.co/rivMUpGurc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rivMUpGurc",
+            "expanded_url": "https://twitter.com/i/web/status/820950225195913217",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 11:13:58 +0000 2017",
+      "id": 820952227410022400,
+      "id_str": "820952227410022400",
+      "text": "@toivonens принципиально никому не стригу. Мы ездим на дачу, там собаки и другие коты. Надо иметь возможность защищаться. Диван стерпит)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820951953383493600,
+      "in_reply_to_status_id_str": "820951953383493632",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 11:23:50 +0000 2017",
+      "id": 820954711058686000,
+      "id_str": "820954711058685952",
+      "text": "@pieceofdasha сейчас стерилизованы абсолютно все. Как и розданные выросшие котята, так и моя оставшаяся стая.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pieceofdasha",
+            "name": "Dasha Fommm",
+            "id": 3292934247,
+            "id_str": "3292934247",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820952478531383300,
+      "in_reply_to_status_id_str": "820952478531383297",
+      "in_reply_to_user_id": 3292934247,
+      "in_reply_to_user_id_str": "3292934247",
+      "in_reply_to_screen_name": "pieceofdasha",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 11:25:35 +0000 2017",
+      "id": 820955150718222300,
+      "id_str": "820955150718222336",
+      "text": "@toivonens оу, это неприятно да((( У нас матриархат, Вспышка контролирует, чтобы никто друг друга не обижал, иначе она сама всех обидит)))))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820952737915473900,
+      "in_reply_to_status_id_str": "820952737915473920",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 11:27:19 +0000 2017",
+      "id": 820955588867801100,
+      "id_str": "820955588867801089",
+      "text": "@olyapka ой, это к администратору вопрос. Чукча только писатель, чукча не владелец сего аккаунта)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820955015376498700,
+      "in_reply_to_status_id_str": "820955015376498688",
+      "in_reply_to_user_id": 10533432,
+      "in_reply_to_user_id_str": "10533432",
+      "in_reply_to_screen_name": "olyapka",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 12:07:01 +0000 2017",
+      "id": 820965577942532100,
+      "id_str": "820965577942532097",
+      "text": "От черного бати и черепаховой маман появились на свет две серые девахи и рыжий парень. Фокс уехал на алтай. Девы на… https://t.co/Wv1APeSWnD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Wv1APeSWnD",
+            "expanded_url": "https://twitter.com/i/web/status/820965577942532097",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 13:12:01 +0000 2017",
+      "id": 820981936722063400,
+      "id_str": "820981936722063360",
+      "text": "Фокс и Буся были первыми котятами на моем опыте и потому творили дичь вседозволенности. Они искупались в борще. Два… https://t.co/SHxDCIO488",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SHxDCIO488",
+            "expanded_url": "https://twitter.com/i/web/status/820981936722063360",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 13:56:00 +0000 2017",
+      "id": 820993006316699600,
+      "id_str": "820993006316699648",
+      "text": "@gip00 да, я напомнила администратору. Как только - так сразу)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gip00",
+            "name": "Gip",
+            "id": 34578514,
+            "id_str": "34578514",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820990756416430100,
+      "in_reply_to_status_id_str": "820990756416430081",
+      "in_reply_to_user_id": 34578514,
+      "in_reply_to_user_id_str": "34578514",
+      "in_reply_to_screen_name": "gip00",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 14:13:27 +0000 2017",
+      "id": 820997396280856600,
+      "id_str": "820997396280856577",
+      "text": "@verbaux @catchipovsky @babushka_cat @toivonens все случилось) Теперь не попутаете)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "verbaux",
+            "name": "verbaux",
+            "id": 335207292,
+            "id_str": "335207292",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "catchipovsky",
+            "name": "Cat Chipovsky",
+            "id": 4385203541,
+            "id_str": "4385203541",
+            "indices": [
+              9,
+              22
+            ]
+          },
+          {
+            "screen_name": "babushka_cat",
+            "name": "Бабушка Кэт",
+            "id": 413852291,
+            "id_str": "413852291",
+            "indices": [
+              23,
+              36
+            ]
+          },
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              37,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 820994822399987700,
+      "in_reply_to_status_id_str": "820994822399987713",
+      "in_reply_to_user_id": 335207292,
+      "in_reply_to_user_id_str": "335207292",
+      "in_reply_to_screen_name": "verbaux",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        413852291
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 16 14:15:01 +0000 2017",
+      "id": 820997791807930400,
+      "id_str": "820997791807930368",
+      "text": "Крайней в первом помете была Елка. Мамина любимица, потому что не пакостила. А потом однажды принесла домой сразу 5… https://t.co/8V5TnY1nx9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8V5TnY1nx9",
+            "expanded_url": "https://twitter.com/i/web/status/820997791807930368",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
