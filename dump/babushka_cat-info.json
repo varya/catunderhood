@@ -30,32 +30,119 @@
   "friends_count": 23,
   "listed_count": 9,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 870,
+  "favourites_count": 935,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4013,
+  "statuses_count": 4092,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 16 14:15:01 +0000 2017",
-    "id": 820997791807930400,
-    "id_str": "820997791807930368",
-    "text": "Крайней в первом помете была Елка. Мамина любимица, потому что не пакостила. А потом однажды принесла домой сразу 5… https://t.co/8V5TnY1nx9",
-    "truncated": true,
+    "created_at": "Sun Jan 22 14:51:01 +0000 2017",
+    "id": 823181176378519600,
+    "id_str": "823181176378519554",
+    "text": "До встречи на просторах сети. Можете искать моих хвостов по хэштегу #дауменя5кошек. Всегда ваша @babushka_cat https://t.co/3OBVaxvmRk",
+    "truncated": false,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "hashtags": [
         {
-          "url": "https://t.co/8V5TnY1nx9",
-          "expanded_url": "https://twitter.com/i/web/status/820997791807930368",
-          "display_url": "twitter.com/i/web/status/8…",
+          "text": "дауменя5кошек",
           "indices": [
-            117,
-            140
+            68,
+            82
           ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "babushka_cat",
+          "name": "Бабушка Кэт",
+          "id": 413852291,
+          "id_str": "413852291",
+          "indices": [
+            96,
+            109
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 822481786383061000,
+          "id_str": "822481786383060993",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2oK07eXUAEfOWQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2oK07eXUAEfOWQ.jpg",
+          "url": "https://t.co/3OBVaxvmRk",
+          "display_url": "pic.twitter.com/3OBVaxvmRk",
+          "expanded_url": "https://twitter.com/catunderhood/status/823181176378519554/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 807,
+              "h": 570,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 807,
+              "h": 570,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 822481786383061000,
+          "id_str": "822481786383060993",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2oK07eXUAEfOWQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2oK07eXUAEfOWQ.jpg",
+          "url": "https://t.co/3OBVaxvmRk",
+          "display_url": "pic.twitter.com/3OBVaxvmRk",
+          "expanded_url": "https://twitter.com/catunderhood/status/823181176378519554/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 807,
+              "h": 570,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 807,
+              "h": 570,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +158,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
