@@ -1,0 +1,221 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Jan 29 18:09:00 +0000 2017",
+      "id": 825767719182151700,
+      "id_str": "825767719182151680",
+      "text": "Следующую неделю уже будут вести, я видела:) https://t.co/X88JFJpIg0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X88JFJpIg0",
+            "expanded_url": "https://twitter.com/olyapka/status/825762078686330880",
+            "display_url": "twitter.com/olyapka/status…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        98026540
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 825762078686330900,
+      "quoted_status_id_str": "825762078686330880",
+      "quoted_status": {
+        "created_at": "Sun Jan 29 17:46:36 +0000 2017",
+        "id": 825762078686330900,
+        "id_str": "825762078686330880",
+        "text": "@catunderhood спасибо вам! Надеюсь, аккаунт продолжит жить 😊",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "catunderhood",
+              "name": "catunderhood",
+              "id": 739569483556225000,
+              "id_str": "739569483556225025",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 825761817809002500,
+        "in_reply_to_status_id_str": "825761817809002496",
+        "in_reply_to_user_id": 739569483556225000,
+        "in_reply_to_user_id_str": "739569483556225025",
+        "in_reply_to_screen_name": "catunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "341052b72a294f4b",
+          "url": "https://api.twitter.com/1.1/geo/id/341052b72a294f4b.json",
+          "place_type": "city",
+          "name": "Lublin",
+          "full_name": "Lublin, Poland",
+          "country_code": "PL",
+          "country": "Poland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.453445,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.29656
+                ],
+                [
+                  22.453445,
+                  51.29656
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 29 18:11:02 +0000 2017",
+      "id": 825768227376595000,
+      "id_str": "825768227376594944",
+      "text": "@toivonens Вам спасибо, что разрешили высказаться)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 825767929807503400,
+      "in_reply_to_status_id_str": "825767929807503365",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        98026540
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 29 18:32:16 +0000 2017",
+      "id": 825773574501843000,
+      "id_str": "825773574501842945",
+      "text": "@pieceofdasha Пенни, на самом деле, кожа да кости, это просто шерсть) А Лео, да, мощный кот.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pieceofdasha",
+            "name": "Dasha Fommm",
+            "id": 3292934247,
+            "id_str": "3292934247",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 825763039890833400,
+      "in_reply_to_status_id_str": "825763039890833410",
+      "in_reply_to_user_id": 3292934247,
+      "in_reply_to_user_id_str": "3292934247",
+      "in_reply_to_screen_name": "pieceofdasha",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        98026540
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
