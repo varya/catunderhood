@@ -30,12 +30,12 @@ block content
                 = ", "
                 span.glyphicon.glyphicon-map-marker
                 = " " + author.info.location
-          
+
           each weekday in helpers.authorRender.prepareTweets(author.tweets)
             - var weekdayID = helpers.authorRender.unidecode(weekday.weekday);
             h2(id=weekdayID)
               a(href="#" + weekdayID) #
-              = " " + helpers.authorRender.capitalize(weekday.weekday)
+              = " " + helpers.authorRender.getWeekday(weekday)
               small= " " + helpers.authorRender.tweetsUnit(weekday.tweets.length)
 
             each tweet in weekday.tweets

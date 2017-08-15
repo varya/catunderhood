@@ -24,6 +24,7 @@ const getQuotedUser = pipe(
 moment.locale('en');
 
 const weekday = date => moment(new Date(date)).format('dddd');
+const dayOfYear = date => moment(new Date(date)).format('DDD');
 const tweetLink = (tweet) => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
 const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
 
@@ -42,16 +43,23 @@ const prevAuthor = author => {
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('tweet', 'tweets', 'tweets');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
+const getWeekday = dump => {
+  if (dump.tweets) {
+    const weekdayToDisplay = weekday(dump.tweets[0].created_at);
+    return capitalize(weekdayToDisplay);
+  }
+}
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), weekday)),
+  groupBy(pipe(prop('created_at'), dayOfYear)),
   ungroupInto('weekday', 'tweets'));
 
 export default {
   d,
   prepareTweets,
   capitalize,
+  getWeekday,
   tweetsUnit,
   getQuotedUser,
   unidecode,
