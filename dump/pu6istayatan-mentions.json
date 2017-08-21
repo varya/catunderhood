@@ -7781,6 +7781,171 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 20 18:36:51 +0000 2017",
+      "id": 899339463578583000,
+      "id_str": "899339463578583040",
+      "text": "@catunderhood Вам спасибо за интересную неделю! Котик очаровательный.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 899339215233830900,
+      "in_reply_to_status_id_str": "899339215233830913",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 98026540,
+        "id_str": "98026540"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 20 18:56:15 +0000 2017",
+      "id": 899344346645921800,
+      "id_str": "899344346645921792",
+      "text": "@catunderhood Успела полюбить Каспера)) Он чудесный~♡\nСпасибо за эту неделю с вами!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+      "in_reply_to_status_id": 899339215233830900,
+      "in_reply_to_status_id_str": "899339215233830913",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 207166567,
+        "id_str": "207166567"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 20 21:22:08 +0000 2017",
+      "id": 899381059586056200,
+      "id_str": "899381059586056192",
+      "text": "@catunderhood И вам спасибо!) котики - счастье",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 899339215233830900,
+      "in_reply_to_status_id_str": "899339215233830913",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 94995488,
+        "id_str": "94995488"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

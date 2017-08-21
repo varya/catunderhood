@@ -30,109 +30,52 @@
   "friends_count": 28,
   "listed_count": 8,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 1292,
+  "favourites_count": 1296,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5622,
+  "statuses_count": 5626,
   "lang": "en",
   "status": {
-    "created_at": "Sun Aug 20 13:46:38 +0000 2017",
-    "id": 899266426112008200,
-    "id_str": "899266426112008193",
-    "text": "Мальчики на прогулке 🙂🐱 https://t.co/So8Qst6M2p",
+    "created_at": "Sun Aug 20 19:20:18 +0000 2017",
+    "id": 899350397546106900,
+    "id_str": "899350397546106880",
+    "text": "@catchipovsky @pu6istayatan Он тренировался :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 899266086297899000,
-          "id_str": "899266086297899008",
+          "screen_name": "catchipovsky",
+          "name": "Cat Chipovsky",
+          "id": 4385203541,
+          "id_str": "4385203541",
           "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/DHrVvbBXkAA4g0n.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DHrVvbBXkAA4g0n.jpg",
-          "url": "https://t.co/So8Qst6M2p",
-          "display_url": "pic.twitter.com/So8Qst6M2p",
-          "expanded_url": "https://twitter.com/catunderhood/status/899266426112008193/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+            0,
+            13
+          ]
+        },
         {
-          "id": 899266086297899000,
-          "id_str": "899266086297899008",
+          "screen_name": "pu6istayatan",
+          "name": "pu6istaya",
+          "id": 1972308020,
+          "id_str": "1972308020",
           "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/DHrVvbBXkAA4g0n.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DHrVvbBXkAA4g0n.jpg",
-          "url": "https://t.co/So8Qst6M2p",
-          "display_url": "pic.twitter.com/So8Qst6M2p",
-          "expanded_url": "https://twitter.com/catunderhood/status/899266426112008193/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
+            14,
+            27
+          ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 899341858580594700,
+    "in_reply_to_status_id_str": "899341858580594688",
+    "in_reply_to_user_id": 4385203541,
+    "in_reply_to_user_id_str": "4385203541",
+    "in_reply_to_screen_name": "catchipovsky",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -141,10 +84,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
