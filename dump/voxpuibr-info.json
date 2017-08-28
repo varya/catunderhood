@@ -26,55 +26,44 @@
     }
   },
   "protected": false,
-  "followers_count": 530,
+  "followers_count": 535,
   "friends_count": 28,
   "listed_count": 8,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 1307,
+  "favourites_count": 1323,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 5754,
+  "statuses_count": 5830,
   "lang": "en",
   "status": {
-    "created_at": "Fri Aug 25 17:37:21 +0000 2017",
-    "id": 901136428104634400,
-    "id_str": "901136428104634368",
-    "text": "@jullik_jull мы тоже так сделали!",
+    "created_at": "Mon Aug 28 06:19:39 +0000 2017",
+    "id": 902053041850986500,
+    "id_str": "902053041850986496",
+    "text": "Котейка категорически не признает воду в миске, только проточную. Смеемся что в миске она расступается и потому попить не выходит )",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "jullik_jull",
-          "name": "Julia_L",
-          "id": 98026540,
-          "id_str": "98026540",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 901131065590460400,
-    "in_reply_to_status_id_str": "901131065590460416",
-    "in_reply_to_user_id": 98026540,
-    "in_reply_to_user_id_str": "98026540",
-    "in_reply_to_screen_name": "jullik_jull",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
-      41597893
+      701078288026968000
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
