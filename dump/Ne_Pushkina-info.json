@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 534,
+  "followers_count": 538,
   "friends_count": 28,
   "listed_count": 9,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6310,
+  "statuses_count": 6364,
   "lang": "en",
   "status": {
-    "created_at": "Sun Sep 24 19:52:58 +0000 2017",
-    "id": 912042193724100600,
-    "id_str": "912042193724100609",
-    "text": "Сдаю самый приятный пост из всех, что у меня был!) Доброй вам всем ночи 🌠 https://t.co/KfYE5CSw3F",
-    "truncated": false,
+    "created_at": "Mon Sep 25 13:06:04 +0000 2017",
+    "id": 912302181776322600,
+    "id_str": "912302181776322561",
+    "text": "Еся - очень спокойная кошка. Она даже ничего  не разбила за 4 года.Спать и ест -два основных занятия.Чего не скажеш… https://t.co/CP6xjWY4Zr",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 912042085481685000,
-          "id_str": "912042085481684993",
+          "url": "https://t.co/CP6xjWY4Zr",
+          "expanded_url": "https://twitter.com/i/web/status/912302181776322561",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            74,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/DKg5cc1XoAE6fVE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DKg5cc1XoAE6fVE.jpg",
-          "url": "https://t.co/KfYE5CSw3F",
-          "display_url": "pic.twitter.com/KfYE5CSw3F",
-          "expanded_url": "https://twitter.com/catunderhood/status/912042193724100609/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 534,
-              "h": 960,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 534,
-              "h": 960,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 378,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 912042085481685000,
-          "id_str": "912042085481684993",
-          "indices": [
-            74,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/DKg5cc1XoAE6fVE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DKg5cc1XoAE6fVE.jpg",
-          "url": "https://t.co/KfYE5CSw3F",
-          "display_url": "pic.twitter.com/KfYE5CSw3F",
-          "expanded_url": "https://twitter.com/catunderhood/status/912042193724100609/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 534,
-              "h": 960,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 534,
-              "h": 960,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 378,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -137,11 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      266168457
+      636436934
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 32,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
