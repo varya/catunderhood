@@ -1,0 +1,58 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Oct 23 07:44:40 +0000 2017",
+      "id": 922368160740847600,
+      "id_str": "922368160740847616",
+      "text": "@catunderhood @pieceofdasha НАКАНЕЦТА!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "pieceofdasha",
+            "name": "Dasha Fommm",
+            "id": 3292934247,
+            "id_str": "3292934247",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 922367161426956300,
+      "in_reply_to_status_id_str": "922367161426956288",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 3182519501,
+        "id_str": "3182519501"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}
