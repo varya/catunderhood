@@ -1,0 +1,256 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Oct 29 18:51:12 +0000 2017",
+      "id": 924710224375812100,
+      "id_str": "924710224375812096",
+      "text": "На этом мы с вами прощаемся. Спасибо за лайки, Коде вы тоже понравились! ;) https://t.co/IGEXGEiREp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 924709925661610000,
+            "id_str": "924709925661609985",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/DNU6xy9WkAEr_XW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DNU6xy9WkAEr_XW.jpg",
+            "url": "https://t.co/IGEXGEiREp",
+            "display_url": "pic.twitter.com/IGEXGEiREp",
+            "expanded_url": "https://twitter.com/catunderhood/status/924710224375812096/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 924709925661610000,
+            "id_str": "924709925661609985",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/DNU6xy9WkAEr_XW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DNU6xy9WkAEr_XW.jpg",
+            "url": "https://t.co/IGEXGEiREp",
+            "display_url": "pic.twitter.com/IGEXGEiREp",
+            "expanded_url": "https://twitter.com/catunderhood/status/924710224375812096/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3292934247
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 29 18:52:19 +0000 2017",
+      "id": 924710505427632100,
+      "id_str": "924710505427632128",
+      "text": "@olyapka Коооот!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 924709917734457300,
+      "in_reply_to_status_id_str": "924709917734457344",
+      "in_reply_to_user_id": 10533432,
+      "in_reply_to_user_id_str": "10533432",
+      "in_reply_to_screen_name": "olyapka",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3292934247
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 29 18:52:40 +0000 2017",
+      "id": 924710594317561900,
+      "id_str": "924710594317561858",
+      "text": "@albaregija Разморило, расслабился, ну с кем ни бывает!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "albaregija",
+            "name": "в сырном лаваше",
+            "id": 72008545,
+            "id_str": "72008545",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 924710093005971500,
+      "in_reply_to_status_id_str": "924710093005971456",
+      "in_reply_to_user_id": 72008545,
+      "in_reply_to_user_id_str": "72008545",
+      "in_reply_to_screen_name": "albaregija",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3292934247
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 29 18:53:18 +0000 2017",
+      "id": 924710752505811000,
+      "id_str": "924710752505810944",
+      "text": "@0lga___ Лучшая благодарность - их милые наглые мордахи)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0lga___",
+            "name": "Olga",
+            "id": 1603732728,
+            "id_str": "1603732728",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 924710499618521100,
+      "in_reply_to_status_id_str": "924710499618521088",
+      "in_reply_to_user_id": 1603732728,
+      "in_reply_to_user_id_str": "1603732728",
+      "in_reply_to_screen_name": "0lga___",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        3292934247
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
