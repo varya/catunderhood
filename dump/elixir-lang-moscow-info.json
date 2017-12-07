@@ -13,36 +13,117 @@
     }
   },
   "protected": false,
-  "followers_count": 563,
+  "followers_count": 585,
   "friends_count": 29,
   "listed_count": 11,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 1615,
+  "favourites_count": 1619,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7234,
+  "statuses_count": 7292,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 13 07:05:27 +0000 2017",
-    "id": 929968434531594200,
-    "id_str": "929968434531594240",
-    "text": "Ну а мы с нашими красавицами прощаемся с вами :) спасибо за эфир и комментарии, было очень интересно! Кому интересн… https://t.co/TIv8Okd6Th",
-    "truncated": true,
+    "created_at": "Sun Dec 03 18:15:01 +0000 2017",
+    "id": 937384695293034500,
+    "id_str": "937384695293034496",
+    "text": "Спасибо всем кто провел эту неделю вместе с нами. Мы с Сеней прощаемся с вами, и желаем доброты. Пока, ребята! https://t.co/tgJlonZgJ3",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/TIv8Okd6Th",
-          "expanded_url": "https://twitter.com/i/web/status/929968434531594240",
-          "display_url": "twitter.com/i/web/status/9…",
+          "id": 937369859536621600,
+          "id_str": "937369859536621570",
           "indices": [
-            117,
-            140
-          ]
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQI067zWkAIAj5y.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQI067zWkAIAj5y.jpg",
+          "url": "https://t.co/tgJlonZgJ3",
+          "display_url": "pic.twitter.com/tgJlonZgJ3",
+          "expanded_url": "https://twitter.com/catunderhood/status/937384695293034496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 937369859536621600,
+          "id_str": "937369859536621570",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DQI067zWkAIAj5y.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQI067zWkAIAj5y.jpg",
+          "url": "https://t.co/tgJlonZgJ3",
+          "display_url": "pic.twitter.com/tgJlonZgJ3",
+          "expanded_url": "https://twitter.com/catunderhood/status/937384695293034496/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 360,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/DQI067zWkAIAj5y.mp4"
+              }
+            ]
+          }
         }
       ]
     },
@@ -55,9 +136,7 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      2927985566
-    ],
+    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 16,
