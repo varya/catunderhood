@@ -50,10 +50,29 @@ const getWeekday = dump => {
   }
 }
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
-const prepareTweets = pipe(
-  filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), dayOfYear)),
-  ungroupInto('weekday', 'tweets'));
+const prepareTweets = (tweets, offset) => {
+  tweets = map(fullText, tweets);
+  tweets = filter(filterTimeline, tweets);
+  tweets = groupBy(item => prop(item.created_at, dayOfYear), tweets);
+  tweets = ungroupInto('weekday', 'tweets')(tweets);
+
+  return tweets;
+}
+
+const fullText = item => {
+  item.text = item.full_text || item.text;
+
+  if (item.quoted_status) {
+    item.quoted_status.text = item.quoted_status.full_text || item.quoted_status.text;
+  }
+
+  if (item.retweeted_status) {
+    item.retweeted_status.text = item.retweeted_status.full_text || item.retweeted_status.text;
+  }
+
+  return item;
+};
+
 
 export default {
   d,

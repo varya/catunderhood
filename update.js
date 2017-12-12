@@ -9,7 +9,7 @@ import { underhood } from './.underhoodrc.json';
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
-import getTweets from 'get-tweets';
+import getTweets from './helpers/get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
