@@ -1,6 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
+    { username: 'Ohirro',  start: '1 January 2018', first: '940673427693887489', post: false },
     { username: 'elixir-lang-moscow',  start: '27 November 2017', first: '935059260546994176' },
     { username: 'alexsashaport',  start: '06 November 2017', first: '927445652203642900' },
     { username: 'Shelly_Roxo',  start: '30 October 2017', first: '924910365267374100' },
