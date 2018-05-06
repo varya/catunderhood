@@ -13,66 +13,55 @@
     }
   },
   "protected": false,
-  "followers_count": 599,
+  "followers_count": 583,
   "friends_count": 30,
   "listed_count": 11,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 1605,
+  "favourites_count": 1598,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 7289,
+  "statuses_count": 7305,
   "lang": "en",
   "status": {
-    "created_at": "Tue Dec 12 20:03:16 +0000 2017",
-    "id": 940673427693887500,
-    "id_str": "940673427693887489",
-    "text": "Удалось починить архив! Последний автор был @elixir_lang_mos с очаровательным Сеней!\nhttps://t.co/GamI1GBQZa",
+    "created_at": "Thu Jan 25 05:17:38 +0000 2018",
+    "id": 956395616527159300,
+    "id_str": "956395616527159296",
+    "text": "@Lousy_Bard Привет. С ключами всё в порядке, просто нет желающих писать про своих котиков. А если есть - пусть они напишут директ мессадж.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "elixir_lang_mos",
-          "name": "elixir-lang-moscow",
-          "id": 777952454218580000,
-          "id_str": "777952454218579968",
+          "screen_name": "Lousy_Bard",
+          "name": "Так себе бард",
+          "id": 154864799,
+          "id_str": "154864799",
           "indices": [
-            44,
-            60
+            0,
+            11
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/GamI1GBQZa",
-          "expanded_url": "http://catunderhood.info/elixir-lang-moscow/",
-          "display_url": "catunderhood.info/elixir-lang-mo…",
-          "indices": [
-            85,
-            108
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 956332554101149700,
+    "in_reply_to_status_id_str": "956332554101149697",
+    "in_reply_to_user_id": 154864799,
+    "in_reply_to_user_id_str": "154864799",
+    "in_reply_to_screen_name": "Lousy_Bard",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
