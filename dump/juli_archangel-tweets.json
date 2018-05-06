@@ -1,0 +1,52 @@
+{
+  "tweets": [
+    {
+      "created_at": "Thu Jan 25 05:17:38 +0000 2018",
+      "id": 956395616527159300,
+      "id_str": "956395616527159296",
+      "full_text": "@Lousy_Bard Привет. С ключами всё в порядке, просто нет желающих писать про своих котиков. А если есть - пусть они напишут директ мессадж.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lousy_Bard",
+            "name": "Так себе бард",
+            "id": 154864799,
+            "id_str": "154864799",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 956332554101149700,
+      "in_reply_to_status_id_str": "956332554101149697",
+      "in_reply_to_user_id": 154864799,
+      "in_reply_to_user_id_str": "154864799",
+      "in_reply_to_screen_name": "Lousy_Bard",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
