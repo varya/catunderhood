@@ -1,65 +1,6 @@
 {
   "tweets": [
     {
-      "created_at": "Tue Dec 12 20:03:16 +0000 2017",
-      "id": 940673427693887500,
-      "id_str": "940673427693887489",
-      "full_text": "Удалось починить архив! Последний автор был @elixir_lang_mos с очаровательным Сеней!\nhttps://t.co/GamI1GBQZa",
-      "truncated": false,
-      "display_text_range": [
-        0,
-        108
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "elixir_lang_mos",
-            "name": "elixir-lang-moscow",
-            "id": 777952454218580000,
-            "id_str": "777952454218579968",
-            "indices": [
-              44,
-              60
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/GamI1GBQZa",
-            "expanded_url": "http://catunderhood.info/elixir-lang-moscow/",
-            "display_url": "catunderhood.info/elixir-lang-mo…",
-            "indices": [
-              85,
-              108
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 739569483556225000,
-        "id_str": "739569483556225025"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    {
       "created_at": "Mon Jan 01 12:32:15 +0000 2018",
       "id": 947807683490582500,
       "id_str": "947807683490582528",
