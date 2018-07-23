@@ -272,6 +272,969 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 07:48:07 +0000 2018",
+      "id": 1018764199667920900,
+      "id_str": "1018764199667920896",
+      "full_text": "Котики, привет! На этой неделе тут будет котик Жижек — ему всего 4 месяца и глаза такие, будто он все время чему-то удивляется :) https://t.co/einv8KSKRS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1018763737283612700,
+            "id_str": "1018763737283612672",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiNgOK7W0AAxBOA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiNgOK7W0AAxBOA.jpg",
+            "url": "https://t.co/einv8KSKRS",
+            "display_url": "pic.twitter.com/einv8KSKRS",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018764199667920896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1018763737283612700,
+            "id_str": "1018763737283612672",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiNgOK7W0AAxBOA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiNgOK7W0AAxBOA.jpg",
+            "url": "https://t.co/einv8KSKRS",
+            "display_url": "pic.twitter.com/einv8KSKRS",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018764199667920896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 68,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 08:21:08 +0000 2018",
+      "id": 1018772508454150100,
+      "id_str": "1018772508454150144",
+      "full_text": "Жижек у нас появился практически случайно — мы очень хотели кота и увидели, что моя знакомая отдаёт котят своей соседки. Сначала приглянулся другой — ярко-рыжий и очень пушистый, но его успели забрать до нас",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 08:22:48 +0000 2018",
+      "id": 1018772927624482800,
+      "id_str": "1018772927624482818",
+      "full_text": "и в итоге нам отдали другого — персикового, короткошерстного и ОЧЕНЬ ушастого\n\nназвали в честь Славоя Жижека в надежде, что котик будет часто тереть нос и говорить с восточноевропейским акцентом",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1018772508454150100,
+      "in_reply_to_status_id_str": "1018772508454150144",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 09:55:28 +0000 2018",
+      "id": 1018796249934417900,
+      "id_str": "1018796249934417921",
+      "full_text": "Жижек любит спать на нас — обычно ложится тебе на грудь и щечкой ложится на твою щёку, а лапой обнимает за шею\n\nНУ ВЫ ТОЛЬКО ПОСМОТРИТЕ КАКАЯ МИЛОТА https://t.co/pUcxrBfvQs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1018795899470966800,
+            "id_str": "1018795899470966784",
+            "indices": [
+              149,
+              172
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiN9eQaXcAA_UD2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiN9eQaXcAA_UD2.jpg",
+            "url": "https://t.co/pUcxrBfvQs",
+            "display_url": "pic.twitter.com/pUcxrBfvQs",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018796249934417921/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1018795899470966800,
+            "id_str": "1018795899470966784",
+            "indices": [
+              149,
+              172
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiN9eQaXcAA_UD2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiN9eQaXcAA_UD2.jpg",
+            "url": "https://t.co/pUcxrBfvQs",
+            "display_url": "pic.twitter.com/pUcxrBfvQs",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018796249934417921/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 50,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 09:59:35 +0000 2018",
+      "id": 1018797283301843000,
+      "id_str": "1018797283301842944",
+      "full_text": "второй режим сна — втиснуться между нами с @aplodismerti и обнимать кого-нибудь из нас за ручку https://t.co/OoLW1LHEOj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aplodismerti",
+            "name": "аплодисмерти",
+            "id": 290538070,
+            "id_str": "290538070",
+            "indices": [
+              43,
+              56
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1018797197406756900,
+            "id_str": "1018797197406756864",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiN-pzmX4AAEiv4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiN-pzmX4AAEiv4.jpg",
+            "url": "https://t.co/OoLW1LHEOj",
+            "display_url": "pic.twitter.com/OoLW1LHEOj",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018797283301842944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 586,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1034,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1765,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1018797197406756900,
+            "id_str": "1018797197406756864",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiN-pzmX4AAEiv4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiN-pzmX4AAEiv4.jpg",
+            "url": "https://t.co/OoLW1LHEOj",
+            "display_url": "pic.twitter.com/OoLW1LHEOj",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018797283301842944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 586,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1034,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1765,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1018796249934417900,
+      "in_reply_to_status_id_str": "1018796249934417921",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 12:10:32 +0000 2018",
+      "id": 1018830237348585500,
+      "id_str": "1018830237348585472",
+      "full_text": "категорически не знаю, до какого возраста растут коты\nЖижеку сейчас 4 месяца, и я абсолютно не понимаю, до какого размера он вырастет и будет ли расти ещё вообще\n\nа вот такой мелочью он к нам попал (ему было около 3 недель) https://t.co/vsdhXKkwm9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1018829822083117000,
+            "id_str": "1018829822083117057",
+            "indices": [
+              224,
+              247
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiOcUz_WsAETD9t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiOcUz_WsAETD9t.jpg",
+            "url": "https://t.co/vsdhXKkwm9",
+            "display_url": "pic.twitter.com/vsdhXKkwm9",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018830237348585472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1018829822083117000,
+            "id_str": "1018829822083117057",
+            "indices": [
+              224,
+              247
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiOcUz_WsAETD9t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiOcUz_WsAETD9t.jpg",
+            "url": "https://t.co/vsdhXKkwm9",
+            "display_url": "pic.twitter.com/vsdhXKkwm9",
+            "expanded_url": "https://twitter.com/catunderhood/status/1018830237348585472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:08:50 +0000 2018",
+      "id": 1019146900040290300,
+      "id_str": "1019146900040290305",
+      "full_text": "Доброе утро, котики! https://t.co/n7BC3BL9lW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1019146854171324400,
+            "id_str": "1019146854171324416",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiS8qgjWsAAsUln.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiS8qgjWsAAsUln.jpg",
+            "url": "https://t.co/n7BC3BL9lW",
+            "display_url": "pic.twitter.com/n7BC3BL9lW",
+            "expanded_url": "https://twitter.com/catunderhood/status/1019146900040290305/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1019146854171324400,
+            "id_str": "1019146854171324416",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiS8qgjWsAAsUln.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiS8qgjWsAAsUln.jpg",
+            "url": "https://t.co/n7BC3BL9lW",
+            "display_url": "pic.twitter.com/n7BC3BL9lW",
+            "expanded_url": "https://twitter.com/catunderhood/status/1019146900040290305/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:10:12 +0000 2018",
+      "id": 1019147242983362600,
+      "id_str": "1019147242983362561",
+      "full_text": "Самая большая проблема, с которой мы столкнулись, заведя кота — его ежедневная беготня, которая начинается в 5-6 утра и продолжается, пока Жижеку не надоест",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        156
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:11:20 +0000 2018",
+      "id": 1019147530712600600,
+      "id_str": "1019147530712600576",
+      "full_text": "что значит, на шкаф нельзя забираться? в смысле там много вещей? буду прыгать туда до тех пор, пока не уроню оттуда ВООБЩЕ ВСЁ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:12:02 +0000 2018",
+      "id": 1019147706923737100,
+      "id_str": "1019147706923737093",
+      "full_text": "иногда мне кажется, что по утрам Жижек думает, что мы умерли, раз не обращаем на него внимания, и он так пытается нас разбудить",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:13:43 +0000 2018",
+      "id": 1019148127968923600,
+      "id_str": "1019148127968923649",
+      "full_text": "способы, которые я нашла, чтобы справиться с утренней беготней кота:\n1) побольше играть с ним вечером — прямо до тех пор, пока он не устанет и не перестанет на тебя реагировать\n2) покормить его какой-нибудь вкусняшкой, чтобы умаявшийся котик тут же уснул",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:15:35 +0000 2018",
+      "id": 1019148598498549800,
+      "id_str": "1019148598498549760",
+      "full_text": "3) оставить ему побольше еды на утро, чтобы исключить хотя бы ситуацию «он меня будит потому, что он голодный»\n\nна самом деле, все эти способы работают и не работают вообще рандомно, поэтому в какой-то момент я просто начала спать в наушниках под тихую музыку",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1019148127968923600,
+      "in_reply_to_status_id_str": "1019148127968923649",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 09:17:09 +0000 2018",
+      "id": 1019148993065115600,
+      "id_str": "1019148993065115648",
+      "full_text": "главное, что я поняла — нельзя, когда вас будит кот, насыпать ему еду (особенно если она уже есть в миске) — это только поощряет плохое поведение, потому что он запомнит, что можно так выпрашивать еду",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1019148598498549800,
+      "in_reply_to_status_id_str": "1019148598498549760",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 17 10:54:16 +0000 2018",
+      "id": 1019173434037715000,
+      "id_str": "1019173434037714946",
+      "full_text": "А расскажите, получалось ли у вас выводить своих котиков на улицу на шлейке?\nа то у меня получалось только примерно вот такое\nhttps://t.co/76VHWYQSgw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/76VHWYQSgw",
+            "expanded_url": "https://youtu.be/9C1leq--_wM",
+            "display_url": "youtu.be/9C1leq--_wM",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        203637182
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
