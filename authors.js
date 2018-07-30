@@ -1,7 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
-    { username: 'okertanov',  start: '23 July 2018', first: '1019173434037714946', post: false },
+    { username: 'okertanov',  start: '23 July 2018', first: '1021364833466437600', post: false },
     { username: 'blokalike',  start: '16 July 2018', first: '1018764199667920900' },
     { username: 'Nadiah_Twit',  start: '9 July 2018', first: '1016058700153393200' },
     { username: 'juli_archangel',  start: '7 May 2018', first: '993362072053444608' },
