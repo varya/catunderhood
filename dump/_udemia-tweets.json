@@ -1,65 +1,6 @@
 {
   "tweets": [
     {
-      "created_at": "Mon Jul 30 05:42:46 +0000 2018",
-      "id": 1023806083968716800,
-      "id_str": "1023806083968716800",
-      "full_text": "Архив @okertanov. Добавляйте в закладки, чтобы перечитывать :-) https://t.co/X1Ercuuzwz",
-      "truncated": false,
-      "display_text_range": [
-        0,
-        87
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "okertanov",
-            "name": "Oleg Kertanov",
-            "id": 10353542,
-            "id_str": "10353542",
-            "indices": [
-              6,
-              16
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/X1Ercuuzwz",
-            "expanded_url": "http://catunderhood.info/okertanov/",
-            "display_url": "catunderhood.info/okertanov/",
-            "indices": [
-              64,
-              87
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 739569483556225000,
-        "id_str": "739569483556225025"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    {
       "created_at": "Mon Jul 30 12:28:39 +0000 2018",
       "id": 1023908229418557400,
       "id_str": "1023908229418557440",
