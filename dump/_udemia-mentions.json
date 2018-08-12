@@ -10892,6 +10892,50 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 12 18:43:42 +0000 2018",
+      "id": 1028713653871288300,
+      "id_str": "1028713653871288321",
+      "text": "Всю следующую неделю пишу в @catunderhood про нашего кота Беню :) подписывайтесь и не пропускайте!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              28,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4502874617,
+        "id_str": "4502874617"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
