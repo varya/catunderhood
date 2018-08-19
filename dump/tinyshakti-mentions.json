@@ -16259,6 +16259,114 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 19 19:21:19 +0000 2018",
+      "id": 1031259835453587500,
+      "id_str": "1031259835453587456",
+      "text": "@catunderhood @tinyshakti Спасибо за отличную неделю и пополнение словарно-кошачьего запаса!:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "tinyshakti",
+            "name": "маленькая шакти",
+            "id": 4502874617,
+            "id_str": "4502874617",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 1031242493445189600,
+      "in_reply_to_status_id_str": "1031242493445189634",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 90616019,
+        "id_str": "90616019"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 19 19:37:27 +0000 2018",
+      "id": 1031263897825824800,
+      "id_str": "1031263897825824769",
+      "text": "@catunderhood @tinyshakti незабываемый котейка!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "tinyshakti",
+            "name": "маленькая шакти",
+            "id": 4502874617,
+            "id_str": "4502874617",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1031242493445189600,
+      "in_reply_to_status_id_str": "1031242493445189634",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 1378985976,
+        "id_str": "1378985976"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
