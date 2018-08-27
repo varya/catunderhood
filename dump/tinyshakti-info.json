@@ -13,46 +13,46 @@
     }
   },
   "protected": false,
-  "followers_count": 824,
+  "followers_count": 835,
   "friends_count": 33,
   "listed_count": 13,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2030,
+  "favourites_count": 2029,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8367,
+  "statuses_count": 8368,
   "lang": "en",
   "status": {
-    "created_at": "Sun Aug 19 18:12:24 +0000 2018",
-    "id": 1031242493445189600,
-    "id_str": "1031242493445189634",
-    "text": "Наша неделя заканчивается, пришло время прощаться.\n\nСпасибо @catunderhood за площадку и возможность поделиться, а в… https://t.co/jd1FoiPTnl",
-    "truncated": true,
+    "created_at": "Mon Aug 20 09:08:01 +0000 2018",
+    "id": 1031467881366777900,
+    "id_str": "1031467881366777856",
+    "text": "Держите архив @tinyshakti с кучей жбикующих фоточек :-) https://t.co/vhehLuMCR2",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "catunderhood",
-          "name": "catunderhood",
-          "id": 739569483556225000,
-          "id_str": "739569483556225025",
+          "screen_name": "tinyshakti",
+          "name": "маленькая шакти",
+          "id": 4502874617,
+          "id_str": "4502874617",
           "indices": [
-            60,
-            73
+            14,
+            25
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/jd1FoiPTnl",
-          "expanded_url": "https://twitter.com/i/web/status/1031242493445189634",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/vhehLuMCR2",
+          "expanded_url": "http://catunderhood.info/tinyshakti/",
+          "display_url": "catunderhood.info/tinyshakti/",
           "indices": [
-            117,
-            140
+            56,
+            79
           ]
         }
       ]
@@ -67,11 +67,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      4502874617
+      796151160
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 27,
+    "retweet_count": 3,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
