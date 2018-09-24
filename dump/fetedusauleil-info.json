@@ -14,50 +14,39 @@
   },
   "protected": false,
   "followers_count": 842,
-  "friends_count": 33,
+  "friends_count": 32,
   "listed_count": 13,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2049,
+  "favourites_count": 2079,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8555,
+  "statuses_count": 8641,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 17 07:18:14 +0000 2018",
-    "id": 1041587115010740200,
-    "id_str": "1041587115010740224",
-    "text": "Архив @lotuseateer. Огромное спасибо за рассказ и фоточки! https://t.co/nKEjP4rTlT",
-    "truncated": false,
+    "created_at": "Sun Sep 23 19:56:13 +0000 2018",
+    "id": 1043952195681562600,
+    "id_str": "1043952195681562624",
+    "text": "Дымок и некоторые другие коты и кошки прощаются с вами.\nЭто было здорово и удивительно.\n\nБуду ждать ваших ответов п… https://t.co/A3IxAFNww3",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "lotuseateer",
-          "name": "An",
-          "id": 714160562859548700,
-          "id_str": "714160562859548672",
-          "indices": [
-            6,
-            18
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/nKEjP4rTlT",
-          "expanded_url": "http://catunderhood.info/lotuseateer/",
-          "display_url": "catunderhood.info/lotuseateer/",
+          "url": "https://t.co/A3IxAFNww3",
+          "expanded_url": "https://twitter.com/i/web/status/1043952195681562624",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            59,
-            82
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -66,10 +55,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      972389536989925400
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
