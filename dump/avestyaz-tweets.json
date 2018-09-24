@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 24 05:52:34 +0000 2018",
+      "id": 1044102271066415100,
+      "id_str": "1044102271066415104",
+      "full_text": "Спасибо @fetedusauleil и котикам за прошлую неделю :-) https://t.co/xQ5RBjNiBn",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fetedusauleil",
+            "name": "moly",
+            "id": 972389536989925400,
+            "id_str": "972389536989925376",
+            "indices": [
+              8,
+              22
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xQ5RBjNiBn",
+            "expanded_url": "http://catunderhood.info/fetedusauleil/",
+            "display_url": "catunderhood.info/fetedusauleil/",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
