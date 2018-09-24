@@ -1,65 +1,6 @@
 {
   "tweets": [
     {
-      "created_at": "Mon Sep 17 07:18:14 +0000 2018",
-      "id": 1041587115010740200,
-      "id_str": "1041587115010740224",
-      "full_text": "Архив @lotuseateer. Огромное спасибо за рассказ и фоточки! https://t.co/nKEjP4rTlT",
-      "truncated": false,
-      "display_text_range": [
-        0,
-        82
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "lotuseateer",
-            "name": "An",
-            "id": 714160562859548700,
-            "id_str": "714160562859548672",
-            "indices": [
-              6,
-              18
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/nKEjP4rTlT",
-            "expanded_url": "http://catunderhood.info/lotuseateer/",
-            "display_url": "catunderhood.info/lotuseateer/",
-            "indices": [
-              59,
-              82
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 739569483556225000,
-        "id_str": "739569483556225025"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    {
       "created_at": "Mon Sep 17 15:26:50 +0000 2018",
       "id": 1041710076346736600,
       "id_str": "1041710076346736643",
