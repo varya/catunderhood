@@ -58,6 +58,4236 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 08:32:34 +0000 2018",
+      "id": 1044142536158302200,
+      "id_str": "1044142536158302210",
+      "full_text": "Всем привет! На этой неделе с вами Катя (@avestyaz) и мой кот по имени Рича-Ричард-Риченька.  15 лет, глаза голубые, порода не установлена. https://t.co/RwSt0ed6BZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avestyaz",
+            "name": "🌙",
+            "id": 4218430156,
+            "id_str": "4218430156",
+            "indices": [
+              41,
+              50
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044142428876419100,
+            "id_str": "1044142428876419073",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn2KAcgXsAEBrE-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn2KAcgXsAEBrE-.jpg",
+            "url": "https://t.co/RwSt0ed6BZ",
+            "display_url": "pic.twitter.com/RwSt0ed6BZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044142536158302210/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 810,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 810,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044142428876419100,
+            "id_str": "1044142428876419073",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn2KAcgXsAEBrE-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn2KAcgXsAEBrE-.jpg",
+            "url": "https://t.co/RwSt0ed6BZ",
+            "display_url": "pic.twitter.com/RwSt0ed6BZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044142536158302210/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 810,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 810,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 45,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 08:45:55 +0000 2018",
+      "id": 1044145896299081700,
+      "id_str": "1044145896299081728",
+      "full_text": "@avestyaz Рича незапланированный кот. В далеком 2003 году его поймали местные ребятишки и подкинули знакомой моей бабушки (она жила на первом этаже и не любила закрывать окна), но кот ей был не к месту из-за двух собак в доме. Так у моей бабушки появился котенок.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avestyaz",
+            "name": "🌙",
+            "id": 4218430156,
+            "id_str": "4218430156",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044142536158302200,
+      "in_reply_to_status_id_str": "1044142536158302210",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 08:54:14 +0000 2018",
+      "id": 1044147987885232100,
+      "id_str": "1044147987885232128",
+      "full_text": "Мы с сестрой всегда хотели котика или собачку. Но слышали только \"вот будешь жить одна, заводи хоть носорога\". А тут котенок. В гости к бабушке стали приходить еще чаще обычного, благо жила через дорогу. Изначально его нарекли Кешей. Ну серьезно, разве он похож на Кешу? Рича же!! https://t.co/2WkvHBPoBZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044147634385166300,
+            "id_str": "1044147634385166338",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn2OvciXoAIWIHP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn2OvciXoAIWIHP.jpg",
+            "url": "https://t.co/2WkvHBPoBZ",
+            "display_url": "pic.twitter.com/2WkvHBPoBZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044147987885232128/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044147634385166300,
+            "id_str": "1044147634385166338",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn2OvciXoAIWIHP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn2OvciXoAIWIHP.jpg",
+            "url": "https://t.co/2WkvHBPoBZ",
+            "display_url": "pic.twitter.com/2WkvHBPoBZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044147987885232128/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 15:51:47 +0000 2018",
+      "id": 1044253068555096000,
+      "id_str": "1044253068555096064",
+      "full_text": "Так вот. Спустя пару месяцев бабушка уезжала в санаторий, так вышло, что после него сразу в больницу и, в общем, кот прогостил у нас около двух месяцев, неплохо адаптировался и родители дали добро на то, чтобы он остался.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044147987885232100,
+      "in_reply_to_status_id_str": "1044147987885232128",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 15:59:23 +0000 2018",
+      "id": 1044254980310478800,
+      "id_str": "1044254980310478848",
+      "full_text": "Как я уже сказала, мы до сих пор не знаем какой породы наш котичек. Он крупный, голубоглазый, шерсть густая. Если здесь есть знатоки, то было бы интересно услышать варианты :) https://t.co/K4hf70nhUZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044254918100623400,
+            "id_str": "1044254918100623361",
+            "indices": [
+              176,
+              199
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn3wULhXoAE2Bj1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn3wULhXoAE2Bj1.jpg",
+            "url": "https://t.co/K4hf70nhUZ",
+            "display_url": "pic.twitter.com/K4hf70nhUZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044254980310478848/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044254918100623400,
+            "id_str": "1044254918100623361",
+            "indices": [
+              176,
+              199
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn3wULhXoAE2Bj1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn3wULhXoAE2Bj1.jpg",
+            "url": "https://t.co/K4hf70nhUZ",
+            "display_url": "pic.twitter.com/K4hf70nhUZ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044254980310478848/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 16:11:02 +0000 2018",
+      "id": 1044257912657506300,
+      "id_str": "1044257912657506311",
+      "full_text": "Характер у пацана скверный. Сюсюкаться с ним нельзя, велик риск отхватить (правда прилетает только мне). Когда остаешься с ним один на один, становится реально страшно. Поэтому первое, что слышат гости: \"только кота не трогайте, он это не любит\". Хотя, каюсь, иногда сама драконю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 16:17:23 +0000 2018",
+      "id": 1044259510444052500,
+      "id_str": "1044259510444052480",
+      "full_text": "Причем тут гости, если он нападает только на меня, спросите вы? А потому что он мне за чужие косяки тоже мстит. Часто его нападки - это манипуляция, цель которой выпросить корм. Но не всегда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044257912657506300,
+      "in_reply_to_status_id_str": "1044257912657506311",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 24 16:40:36 +0000 2018",
+      "id": 1044265353092698100,
+      "id_str": "1044265353092698113",
+      "full_text": "RT @avestyaz: Через сутки после очередного нападения https://t.co/QA1n77ZT90",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avestyaz",
+            "name": "🌙",
+            "id": 4218430156,
+            "id_str": "4218430156",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 990281435629195300,
+            "id_str": "990281435629195266",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+            "url": "https://t.co/QA1n77ZT90",
+            "display_url": "pic.twitter.com/QA1n77ZT90",
+            "expanded_url": "https://twitter.com/zaytsevakatia/status/990281566189473793/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 990281566189473800,
+            "source_status_id_str": "990281566189473793",
+            "source_user_id": 4218430156,
+            "source_user_id_str": "4218430156"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 990281435629195300,
+            "id_str": "990281435629195266",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+            "url": "https://t.co/QA1n77ZT90",
+            "display_url": "pic.twitter.com/QA1n77ZT90",
+            "expanded_url": "https://twitter.com/zaytsevakatia/status/990281566189473793/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 990281566189473800,
+            "source_status_id_str": "990281566189473793",
+            "source_user_id": 4218430156,
+            "source_user_id_str": "4218430156",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 20395,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/pl/MXZS-u32E4MKhki5.m3u8?tag=3"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/1280x720/m4wOKBwOE7zlC2ab.mp4?tag=3"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/640x360/QcDYX_VSEi8wPAQb.mp4?tag=3"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/320x180/yQza7WJlJc983oVA.mp4?tag=3"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 4218430156,
+                "id_str": "4218430156",
+                "name": "🌙",
+                "screen_name": "avestyaz",
+                "location": "сибирь, нск",
+                "description": "твои слава поменяет цензура, но мы будем помнить во что ты верил",
+                "url": null,
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "protected": false,
+                "followers_count": 49,
+                "friends_count": 50,
+                "listed_count": 2,
+                "created_at": "Wed Nov 18 13:53:23 +0000 2015",
+                "favourites_count": 2144,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 482,
+                "lang": "ru",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1023889951883227138/npIsGx_V_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023889951883227138/npIsGx_V_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4218430156/1535789618",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "retweeted_status": {
+        "created_at": "Sat Apr 28 17:28:18 +0000 2018",
+        "id": 990281566189473800,
+        "id_str": "990281566189473793",
+        "full_text": "Через сутки после очередного нападения https://t.co/QA1n77ZT90",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          38
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 990281435629195300,
+              "id_str": "990281435629195266",
+              "indices": [
+                39,
+                62
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+              "url": "https://t.co/QA1n77ZT90",
+              "display_url": "pic.twitter.com/QA1n77ZT90",
+              "expanded_url": "https://twitter.com/zaytsevakatia/status/990281566189473793/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 990281435629195300,
+              "id_str": "990281435629195266",
+              "indices": [
+                39,
+                62
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/990281435629195266/pu/img/ke0MsCzURQZDWKtk.jpg",
+              "url": "https://t.co/QA1n77ZT90",
+              "display_url": "pic.twitter.com/QA1n77ZT90",
+              "expanded_url": "https://twitter.com/zaytsevakatia/status/990281566189473793/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 20395,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/pl/MXZS-u32E4MKhki5.m3u8?tag=3"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/1280x720/m4wOKBwOE7zlC2ab.mp4?tag=3"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/640x360/QcDYX_VSEi8wPAQb.mp4?tag=3"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/990281435629195266/pu/vid/320x180/yQza7WJlJc983oVA.mp4?tag=3"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4218430156,
+          "id_str": "4218430156"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:15:48 +0000 2018",
+      "id": 1044500705254477800,
+      "id_str": "1044500705254477824",
+      "full_text": "постоянно говорю Риченьке, что он самый красивый и потрясающий https://t.co/HvJDq8HZEk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        62
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044500691832705000,
+            "id_str": "1044500691832705024",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7P2GBWkAA1UY5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7P2GBWkAA1UY5.jpg",
+            "url": "https://t.co/HvJDq8HZEk",
+            "display_url": "pic.twitter.com/HvJDq8HZEk",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044500705254477824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044500691832705000,
+            "id_str": "1044500691832705024",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7P2GBWkAA1UY5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7P2GBWkAA1UY5.jpg",
+            "url": "https://t.co/HvJDq8HZEk",
+            "display_url": "pic.twitter.com/HvJDq8HZEk",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044500705254477824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 38,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:21:54 +0000 2018",
+      "id": 1044502240864727000,
+      "id_str": "1044502240864727040",
+      "full_text": "Риченька очень умный кот. И спокойный. У них отлично налажен быт с моей мамой. Какое-то время дома жил еще один кот - суперактивный и суперласковый Беня-сфинкс. В размеренную жизнь мамы и Ричи новый сосед принес много суматохи. https://t.co/WhV20wOHFx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044502112707792900,
+            "id_str": "1044502112707792896",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7RIzMX0AAkau1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7RIzMX0AAkau1.jpg",
+            "url": "https://t.co/WhV20wOHFx",
+            "display_url": "pic.twitter.com/WhV20wOHFx",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044502240864727040/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044502112707792900,
+            "id_str": "1044502112707792896",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7RIzMX0AAkau1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7RIzMX0AAkau1.jpg",
+            "url": "https://t.co/WhV20wOHFx",
+            "display_url": "pic.twitter.com/WhV20wOHFx",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044502240864727040/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:25:02 +0000 2018",
+      "id": 1044503027116388400,
+      "id_str": "1044503027116388352",
+      "full_text": "Риче важно, чтобы в строго отведенное время в его миске была его еда. А там уже он сам решает когда именно он поест. Беня же сметал все и сразу. В итоге Рича ел на балконе. Во-первых, проще не пускать Беню на балкон, чем лишать его возможности перемещаться по всем комнатам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044502240864727000,
+      "in_reply_to_status_id_str": "1044502240864727040",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:26:28 +0000 2018",
+      "id": 1044503389009313800,
+      "id_str": "1044503389009313792",
+      "full_text": "Во-вторых, даже в +25 Бене недостаточно тепло на балконе и в любое время года у него в приоритете батареи, пледики, одеялки и тд.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044503027116388400,
+      "in_reply_to_status_id_str": "1044503027116388352",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:31:41 +0000 2018",
+      "id": 1044504703588077600,
+      "id_str": "1044504703588077568",
+      "full_text": "Но, к сожалению, Беня в итоге нашел другой дом. Но для него к счастью. Его там очень любят! Серьезно, это самый ласковый кот в моей жизни. А еще он очень любит принимать душ (в меру теплый) https://t.co/OFrpKKgCD6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044504017035046900,
+            "id_str": "1044504017035046914",
+            "indices": [
+              190,
+              213
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7S3pXXsAIgJwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7S3pXXsAIgJwV.jpg",
+            "url": "https://t.co/OFrpKKgCD6",
+            "display_url": "pic.twitter.com/OFrpKKgCD6",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044504703588077568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044504017035046900,
+            "id_str": "1044504017035046914",
+            "indices": [
+              190,
+              213
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn7S3pXXsAIgJwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn7S3pXXsAIgJwV.jpg",
+            "url": "https://t.co/OFrpKKgCD6",
+            "display_url": "pic.twitter.com/OFrpKKgCD6",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044504703588077568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044503389009313800,
+      "in_reply_to_status_id_str": "1044503389009313792",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 08:39:45 +0000 2018",
+      "id": 1044506731685072900,
+      "id_str": "1044506731685072896",
+      "full_text": "Что касается меня, то самой большой болью стала аллергия на кошатину. На момент этого открытия Риче было 12. К слову, на шерсть нет реакции + Ричи кошкой не пахнет. У него густая шерсть и он чистюля. Просто не с чего пахнуть",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044504703588077600,
+      "in_reply_to_status_id_str": "1044504703588077568",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 11:52:57 +0000 2018",
+      "id": 1044555354061852700,
+      "id_str": "1044555354061852672",
+      "full_text": "@jullik_jull да :( я слабое звено..",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jullik_jull",
+            "name": "Julia_L",
+            "id": 98026540,
+            "id_str": "98026540",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044517865813168100,
+      "in_reply_to_status_id_str": "1044517865813168129",
+      "in_reply_to_user_id": 98026540,
+      "in_reply_to_user_id_str": "98026540",
+      "in_reply_to_screen_name": "jullik_jull",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 16:13:10 +0000 2018",
+      "id": 1044620839109480400,
+      "id_str": "1044620839109480450",
+      "full_text": "Детская мебель - котькина мебель https://t.co/Bhb9hB0YcQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044620810491756500,
+            "id_str": "1044620810491756544",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn89F65XgAAbBbs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn89F65XgAAbBbs.jpg",
+            "url": "https://t.co/Bhb9hB0YcQ",
+            "display_url": "pic.twitter.com/Bhb9hB0YcQ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044620839109480450/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044620810491756500,
+            "id_str": "1044620810491756544",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn89F65XgAAbBbs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn89F65XgAAbBbs.jpg",
+            "url": "https://t.co/Bhb9hB0YcQ",
+            "display_url": "pic.twitter.com/Bhb9hB0YcQ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044620839109480450/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 16:17:23 +0000 2018",
+      "id": 1044621899916083200,
+      "id_str": "1044621899916083200",
+      "full_text": "Рича в детстве любил купаться. Даже плавал немного в ванной. С возрастом этот недуг прошел. Пару раз участвовала в купательной операции, получила боевые ранения и на память остались небольшие шрамы на груди.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 16:18:54 +0000 2018",
+      "id": 1044622278879776800,
+      "id_str": "1044622278879776770",
+      "full_text": "Жаль, что альбом с фотографиями молодого Ричарда был утерян при переезде и ремонте.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1044621899916083200,
+      "in_reply_to_status_id_str": "1044621899916083200",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 25 16:26:24 +0000 2018",
+      "id": 1044624168120176600,
+      "id_str": "1044624168120176642",
+      "full_text": "Два состояния моего кота. По-моему, жутко. Так и хочется сказать: \"забирай все, что хочешь, только позволь мне покинуть квартиру в целости и сохранности\"\n\nоткуда у меня это фото я не помню. наверное, моя память блочит эти воспоминания https://t.co/JQrezJIa5M",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044624001019064300,
+            "id_str": "1044624001019064320",
+            "indices": [
+              235,
+              258
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn8__oiWsAAvoyS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn8__oiWsAAvoyS.jpg",
+            "url": "https://t.co/JQrezJIa5M",
+            "display_url": "pic.twitter.com/JQrezJIa5M",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044624168120176642/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044624001019064300,
+            "id_str": "1044624001019064320",
+            "indices": [
+              235,
+              258
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn8__oiWsAAvoyS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn8__oiWsAAvoyS.jpg",
+            "url": "https://t.co/JQrezJIa5M",
+            "display_url": "pic.twitter.com/JQrezJIa5M",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044624168120176642/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1044624001019117600,
+            "id_str": "1044624001019117570",
+            "indices": [
+              235,
+              258
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dn8__oiXgAIjWdg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dn8__oiXgAIjWdg.jpg",
+            "url": "https://t.co/JQrezJIa5M",
+            "display_url": "pic.twitter.com/JQrezJIa5M",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044624168120176642/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 26 12:26:33 +0000 2018",
+      "id": 1044926196163727400,
+      "id_str": "1044926196163727361",
+      "full_text": "Вы знаете кота, который равнодушен к коробкам и упаковочной бумаге? На этих фотографиях Риченька похож прям на котёночка! Но нет. Это все еще мой крупный кот. На фото ему 10 или 11 лет. https://t.co/uHxXFO75rT",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044926149313417200,
+            "id_str": "1044926149313417216",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoBSy-pX0AAfhs3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoBSy-pX0AAfhs3.jpg",
+            "url": "https://t.co/uHxXFO75rT",
+            "display_url": "pic.twitter.com/uHxXFO75rT",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044926196163727361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044926149313417200,
+            "id_str": "1044926149313417216",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoBSy-pX0AAfhs3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoBSy-pX0AAfhs3.jpg",
+            "url": "https://t.co/uHxXFO75rT",
+            "display_url": "pic.twitter.com/uHxXFO75rT",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044926196163727361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1044926149317599200,
+            "id_str": "1044926149317599234",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoBSy-qXoAIJKur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoBSy-qXoAIJKur.jpg",
+            "url": "https://t.co/uHxXFO75rT",
+            "display_url": "pic.twitter.com/uHxXFO75rT",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044926196163727361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1044926149317599200,
+            "id_str": "1044926149317599233",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoBSy-qXoAE0O0v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoBSy-qXoAE0O0v.jpg",
+            "url": "https://t.co/uHxXFO75rT",
+            "display_url": "pic.twitter.com/uHxXFO75rT",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044926196163727361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1044926149317599200,
+            "id_str": "1044926149317599232",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoBSy-qXoAA1kJ1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoBSy-qXoAA1kJ1.jpg",
+            "url": "https://t.co/uHxXFO75rT",
+            "display_url": "pic.twitter.com/uHxXFO75rT",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044926196163727361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 26 12:30:55 +0000 2018",
+      "id": 1044927293800493000,
+      "id_str": "1044927293800493056",
+      "full_text": "Когда Рича был маленьким, у нас стоял аквариум. Рича очень любил сидеть напротив и рассматривать рыбок. Когда был хомяк, он иногда поглядывал на него, но в целом оставался равнодушен. Только когда тот шумел ночью, мог стукнуть клетку. А так вообще пофиг. Но рыбки - любовь",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 26 15:57:15 +0000 2018",
+      "id": 1044979221737680900,
+      "id_str": "1044979221737680897",
+      "full_text": "*когда человек в очередной раз пытается сфотать тебя просто потому что ты существуешь и такой лапусичный* https://t.co/r0ylRqJaWX",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1044979210069192700,
+            "id_str": "1044979210069192705",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoCDDhXXsAEaQUj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoCDDhXXsAEaQUj.jpg",
+            "url": "https://t.co/r0ylRqJaWX",
+            "display_url": "pic.twitter.com/r0ylRqJaWX",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044979221737680897/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1910,
+                "h": 1910,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1044979210069192700,
+            "id_str": "1044979210069192705",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoCDDhXXsAEaQUj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoCDDhXXsAEaQUj.jpg",
+            "url": "https://t.co/r0ylRqJaWX",
+            "display_url": "pic.twitter.com/r0ylRqJaWX",
+            "expanded_url": "https://twitter.com/catunderhood/status/1044979221737680897/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1910,
+                "h": 1910,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 09:43:02 +0000 2018",
+      "id": 1045247431720554500,
+      "id_str": "1045247431720554498",
+      "full_text": "Я уже 2 года не живу с Ричей, но постоянно прихожу к нему в гости. И каждый раз мне кажется, что кисик исхудал. Кстати, только кажется, что от толстый. Это все шерсть. Если его побрить, то можно увидеть щуплые лапки и небольшой животик. https://t.co/Fv7Y4vecnC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1045247418797822000,
+            "id_str": "1045247418797821952",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoF2_UvWkAABdRq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoF2_UvWkAABdRq.jpg",
+            "url": "https://t.co/Fv7Y4vecnC",
+            "display_url": "pic.twitter.com/Fv7Y4vecnC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045247431720554498/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1045247418797822000,
+            "id_str": "1045247418797821952",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoF2_UvWkAABdRq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoF2_UvWkAABdRq.jpg",
+            "url": "https://t.co/Fv7Y4vecnC",
+            "display_url": "pic.twitter.com/Fv7Y4vecnC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045247431720554498/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:04:34 +0000 2018",
+      "id": 1045252853831471100,
+      "id_str": "1045252853831471104",
+      "full_text": "На повестке дня очень важная и тяжелая тема. \nВ общем, так вышло, что поздно заметили у кота опухоль. Кота оперировали. Это был его третий наркоз (первый - кастрация, второй - удаление зуба) и было очень страшно. Нам сразу сказали, что есть риски, тк кот возрастной.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:11:15 +0000 2018",
+      "id": 1045254536238174200,
+      "id_str": "1045254536238174209",
+      "full_text": "Рича очень привязан к маме. Он без нее даже спать не может. Ходит и ищет ее. Операция выпала именно на период маминого отпуска. Откладывать лечение было нельзя, поэтому я первые дни была с ним. Днем и ночью. Он от меня не отходил. Такой маленький и беззащитный. https://t.co/mYLVIVJeJj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1045254481582141400,
+            "id_str": "1045254481582141441",
+            "indices": [
+              262,
+              285
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoF9abqWsAEneG_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoF9abqWsAEneG_.jpg",
+            "url": "https://t.co/mYLVIVJeJj",
+            "display_url": "pic.twitter.com/mYLVIVJeJj",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045254536238174209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1045254481582141400,
+            "id_str": "1045254481582141441",
+            "indices": [
+              262,
+              285
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoF9abqWsAEneG_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoF9abqWsAEneG_.jpg",
+            "url": "https://t.co/mYLVIVJeJj",
+            "display_url": "pic.twitter.com/mYLVIVJeJj",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045254536238174209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045252853831471100,
+      "in_reply_to_status_id_str": "1045252853831471104",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:14:43 +0000 2018",
+      "id": 1045255406648533000,
+      "id_str": "1045255406648532992",
+      "full_text": "Он даже мог спать у меня на груди (никогда такого не было ранее, только дремать мог недолго). Вообще после всей этой ситуации мы с ним стали ближе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045254536238174200,
+      "in_reply_to_status_id_str": "1045254536238174209",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:15:46 +0000 2018",
+      "id": 1045255670969389000,
+      "id_str": "1045255670969389056",
+      "full_text": "Когда мама вернулась, он ее игнорировал какое-то время. Может обида, может успел отвыкнуть...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045255406648533000,
+      "in_reply_to_status_id_str": "1045255406648532992",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:18:40 +0000 2018",
+      "id": 1045256401411612700,
+      "id_str": "1045256401411612673",
+      "full_text": "Риченьке вырезали сосок и небольшой участок кожи вокруг. Врач рекомендовала носить бандаж защитный первое время. Тк Рича отходосы от наркоза сопровождаются ужасной беготней (не знаю как это назвать), он просто раздирал (специально или нет хз) этот бандаж.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045255670969389000,
+      "in_reply_to_status_id_str": "1045255670969389056",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:28:16 +0000 2018",
+      "id": 1045258815808122900,
+      "id_str": "1045258815808122880",
+      "full_text": "Пару раз даже лапа там застревала. Сменили ему несколько таких бандажей... Потом по новой. Он просыпался, куда-то срывался, разрывал бандаж, потом\nзасыпал снова где придется. У нас всюду были простынки и пеленки на всякий случай. Самый ужасный день. https://t.co/tAcJI0n3CS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1045258727568355300,
+            "id_str": "1045258727568355328",
+            "indices": [
+              250,
+              273
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGBRlMWsAACgY4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGBRlMWsAACgY4.jpg",
+            "url": "https://t.co/tAcJI0n3CS",
+            "display_url": "pic.twitter.com/tAcJI0n3CS",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045258815808122880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1361,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 798,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1045258727568355300,
+            "id_str": "1045258727568355328",
+            "indices": [
+              250,
+              273
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGBRlMWsAACgY4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGBRlMWsAACgY4.jpg",
+            "url": "https://t.co/tAcJI0n3CS",
+            "display_url": "pic.twitter.com/tAcJI0n3CS",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045258815808122880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1361,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 798,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045256401411612700,
+      "in_reply_to_status_id_str": "1045256401411612673",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 10:34:46 +0000 2018",
+      "id": 1045260450500431900,
+      "id_str": "1045260450500431872",
+      "full_text": "Кстати, на фото последний бандаж. Последний во всех смыслах. Не по размеру. Мы скупили все в округе. Вечером решили рискнуть и довериться инстинктам кота. Кот сам знает, когда ему можно лизать, когда нет. Так и вышло. Шов зажил очень удачно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1045258815808122900,
+      "in_reply_to_status_id_str": "1045258815808122880",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Sep 27 11:36:44 +0000 2018",
+      "id": 1045276048655626200,
+      "id_str": "1045276048655626240",
+      "full_text": "https://t.co/oMB6dqpDBC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        0
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1045276031534469100,
+            "id_str": "1045276031534469125",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGRAzfXkAUoEr0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGRAzfXkAUoEr0.jpg",
+            "url": "https://t.co/oMB6dqpDBC",
+            "display_url": "pic.twitter.com/oMB6dqpDBC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045276048655626240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1045276031534469100,
+            "id_str": "1045276031534469125",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGRAzfXkAUoEr0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGRAzfXkAUoEr0.jpg",
+            "url": "https://t.co/oMB6dqpDBC",
+            "display_url": "pic.twitter.com/oMB6dqpDBC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045276048655626240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1045276031542865900,
+            "id_str": "1045276031542865920",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGRAzhXsAADWEw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGRAzhXsAADWEw.jpg",
+            "url": "https://t.co/oMB6dqpDBC",
+            "display_url": "pic.twitter.com/oMB6dqpDBC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045276048655626240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1045276031555444700,
+            "id_str": "1045276031555444736",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoGRAzkXoAAAfqM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoGRAzkXoAAAfqM.jpg",
+            "url": "https://t.co/oMB6dqpDBC",
+            "display_url": "pic.twitter.com/oMB6dqpDBC",
+            "expanded_url": "https://twitter.com/catunderhood/status/1045276048655626240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sat Sep 29 12:06:39 +0000 2018",
+      "id": 1046008349840592900,
+      "id_str": "1046008349840592896",
+      "full_text": "Прошу прощения за вчерашнее молчание. В качестве извинения представляю вам рдну из любимых фотографий. Это он так аккуратно сидит на табуретке на кухне и напоминает, что его миска рядом :3 https://t.co/P6cyDFRAYN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046008323882078200,
+            "id_str": "1046008323882078208",
+            "indices": [
+              189,
+              212
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQrB1EX0AA2jHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQrB1EX0AA2jHK.jpg",
+            "url": "https://t.co/P6cyDFRAYN",
+            "display_url": "pic.twitter.com/P6cyDFRAYN",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046008349840592896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046008323882078200,
+            "id_str": "1046008323882078208",
+            "indices": [
+              189,
+              212
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQrB1EX0AA2jHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQrB1EX0AA2jHK.jpg",
+            "url": "https://t.co/P6cyDFRAYN",
+            "display_url": "pic.twitter.com/P6cyDFRAYN",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046008349840592896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:08:36 +0000 2018",
+      "id": 1046008840213463000,
+      "id_str": "1046008840213463041",
+      "full_text": "*одну",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        5
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1046008349840592900,
+      "in_reply_to_status_id_str": "1046008349840592896",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:10:58 +0000 2018",
+      "id": 1046009435552960500,
+      "id_str": "1046009435552960512",
+      "full_text": "Кстати, когда Рича у нас только появился, я пыталась с ним гулять. Но он очень боялся. Может сам по себе трусишка, может какие-то флэшбэки из своей бродячей юности ловит.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:14:07 +0000 2018",
+      "id": 1046010229530480600,
+      "id_str": "1046010229530480641",
+      "full_text": "Во время одной из немногочисленных прогулок ко мне подошли две девочки с просьбой посмотреть на кота поближе. Оказалось, что они видели его раньше и узнали. Нужно было спросить не они ли его подкинули знакомой... Сказала бы большое спасибо!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:17:26 +0000 2018",
+      "id": 1046011063949504500,
+      "id_str": "1046011063949504512",
+      "full_text": "Еще была одна попытка взять кота на дачу. от был в шоке. Забежал в первую попавшуюся дверь (баня) и забрался в печь. Вылезать не хотел. Мы решили его не трогать лишний раз и просто уехали домой пораньше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:19:57 +0000 2018",
+      "id": 1046011700305104900,
+      "id_str": "1046011700305104896",
+      "full_text": "Больше мы никуда его не вывозили и не выводили. Раз домашний мальчик, то пусть сидит дома. https://t.co/uRtxX8KCdf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046011655514193900,
+            "id_str": "1046011655514193920",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQuDwXXgAAy-P2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQuDwXXgAAy-P2.jpg",
+            "url": "https://t.co/uRtxX8KCdf",
+            "display_url": "pic.twitter.com/uRtxX8KCdf",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046011700305104896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046011655514193900,
+            "id_str": "1046011655514193920",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQuDwXXgAAy-P2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQuDwXXgAAy-P2.jpg",
+            "url": "https://t.co/uRtxX8KCdf",
+            "display_url": "pic.twitter.com/uRtxX8KCdf",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046011700305104896/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1046011063949504500,
+      "in_reply_to_status_id_str": "1046011063949504512",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:22:04 +0000 2018",
+      "id": 1046012231836717000,
+      "id_str": "1046012231836717057",
+      "full_text": "уехали пораньше и взяли с собой кота, конечно же. выманить его смогла только мама. он ей очень доверяет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:24:38 +0000 2018",
+      "id": 1046012878111813600,
+      "id_str": "1046012878111813632",
+      "full_text": "Иногда мне кажется, что все происходящее в его жизни приводит его в нашу семью. Все сводится к этому. Однажды он выпал из окна (напугался резкого звука с улицы). Он выпал, приземлился и просто куда-то рванул. И что вы думаете? Именно в это время навстречу ему шла с работы мама.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:29:20 +0000 2018",
+      "id": 1046014061316583400,
+      "id_str": "1046014061316583425",
+      "full_text": "Потом она рассказывала: \"поворачиваю за угол, смотрю, кот бежит. Присмотрелась - наш. Когда поймала, он вцепился в меня очень\"\n\nк слову, летел с 4-го этажа. Ветеринар сказал, что с ним все хорошо. Может быть он просто готовился к побегу давно... ну какая теперь разница ))",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:43:43 +0000 2018",
+      "id": 1046017680283709400,
+      "id_str": "1046017680283709448",
+      "full_text": "Я, конечно, понимаю, что, к сожалению, котики и с большей высоты падают... но когда это твой член семьи, то даже полет со шкафа воспринимаешь как \"о божечки мой мальчик как ты я продам почку если нужны будут деньги на лечение\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1046014061316583400,
+      "in_reply_to_status_id_str": "1046014061316583425",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 12:49:01 +0000 2018",
+      "id": 1046019011253858300,
+      "id_str": "1046019011253858304",
+      "full_text": "ты паникуешь, тем временем кот: https://t.co/ERCbNZhwkm",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046018990232014800,
+            "id_str": "1046018990232014848",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQ0usUXkAAWUJC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQ0usUXkAAWUJC.jpg",
+            "url": "https://t.co/ERCbNZhwkm",
+            "display_url": "pic.twitter.com/ERCbNZhwkm",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046019011253858304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1910,
+                "h": 1910,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046018990232014800,
+            "id_str": "1046018990232014848",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoQ0usUXkAAWUJC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoQ0usUXkAAWUJC.jpg",
+            "url": "https://t.co/ERCbNZhwkm",
+            "display_url": "pic.twitter.com/ERCbNZhwkm",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046019011253858304/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1910,
+                "h": 1910,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1046017680283709400,
+      "in_reply_to_status_id_str": "1046017680283709448",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 20:51:15 +0000 2018",
+      "id": 1046140370957078500,
+      "id_str": "1046140370957078528",
+      "full_text": "Так завелось, что Риче можно не на всех поверхностях спать. Но на протяжении 13-ти лет всегда было исключение - моя кровать. https://t.co/NXB3IbV5x5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046140319853682700,
+            "id_str": "1046140319853682688",
+            "indices": [
+              125,
+              148
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoSjFAYXoAAY1CP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoSjFAYXoAAY1CP.jpg",
+            "url": "https://t.co/NXB3IbV5x5",
+            "display_url": "pic.twitter.com/NXB3IbV5x5",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046140370957078528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046140319853682700,
+            "id_str": "1046140319853682688",
+            "indices": [
+              125,
+              148
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoSjFAYXoAAY1CP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoSjFAYXoAAY1CP.jpg",
+            "url": "https://t.co/NXB3IbV5x5",
+            "display_url": "pic.twitter.com/NXB3IbV5x5",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046140370957078528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Sep 29 20:55:41 +0000 2018",
+      "id": 1046141488374190100,
+      "id_str": "1046141488374190080",
+      "full_text": "Я ему ничего не запрещаю обычно (если это не грозит серьезным нападением), лишь бы позволил на него любоваться и просто тихонечко рядом существовать, тк я его оч люблю, а исчерпать установленный котом лимит на тисканья оч просто и лучше не пытаться не перейти черту (не сможешь) https://t.co/tbI1tQ1TaH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046140816962580500,
+            "id_str": "1046140816962580482",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoSjh8QXcAIFFap.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoSjh8QXcAIFFap.jpg",
+            "url": "https://t.co/tbI1tQ1TaH",
+            "display_url": "pic.twitter.com/tbI1tQ1TaH",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046141488374190080/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046140816962580500,
+            "id_str": "1046140816962580482",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoSjh8QXcAIFFap.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoSjh8QXcAIFFap.jpg",
+            "url": "https://t.co/tbI1tQ1TaH",
+            "display_url": "pic.twitter.com/tbI1tQ1TaH",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046141488374190080/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1046140370957078500,
+      "in_reply_to_status_id_str": "1046140370957078528",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 30 14:01:52 +0000 2018",
+      "id": 1046399735815446500,
+      "id_str": "1046399735815446528",
+      "full_text": "Невероятно горжусь этой фотографией. Первая ночь без сна на первом курсе, Риченька помогал :) https://t.co/oX11qU9ign",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046399726239842300,
+            "id_str": "1046399726239842305",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoWPAceXgAEHfwu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoWPAceXgAEHfwu.jpg",
+            "url": "https://t.co/oX11qU9ign",
+            "display_url": "pic.twitter.com/oX11qU9ign",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046399735815446528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046399726239842300,
+            "id_str": "1046399726239842305",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoWPAceXgAEHfwu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoWPAceXgAEHfwu.jpg",
+            "url": "https://t.co/oX11qU9ign",
+            "display_url": "pic.twitter.com/oX11qU9ign",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046399735815446528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 30 16:19:41 +0000 2018",
+      "id": 1046434416132837400,
+      "id_str": "1046434416132837376",
+      "full_text": "Сфотографировать зевающего кота как цель жизни https://t.co/ALz6EZn1Ni",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046434396180545500,
+            "id_str": "1046434396180545542",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoWuigEXgAYApJW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoWuigEXgAYApJW.jpg",
+            "url": "https://t.co/ALz6EZn1Ni",
+            "display_url": "pic.twitter.com/ALz6EZn1Ni",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046434416132837376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046434396180545500,
+            "id_str": "1046434396180545542",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoWuigEXgAYApJW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoWuigEXgAYApJW.jpg",
+            "url": "https://t.co/ALz6EZn1Ni",
+            "display_url": "pic.twitter.com/ALz6EZn1Ni",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046434416132837376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 30 16:44:41 +0000 2018",
+      "id": 1046440708402491400,
+      "id_str": "1046440708402491392",
+      "full_text": "я слышала, что сколько бы животных у человека не было, по-настоящему \"свой\" питомец только один не зависимо от того, как ты всех остальных любишь. Вы с этим согласны? Мои знакомые делятся на 2 лагеря. Я судить не берусь, у меня только один кот и аллергия\n\nhttps://t.co/mDhFybzgTo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mDhFybzgTo",
+            "expanded_url": "https://www.youtube.com/watch?v=2qzVYXDROKA",
+            "display_url": "youtube.com/watch?v=2qzVYX…",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 30 16:50:46 +0000 2018",
+      "id": 1046442237587066900,
+      "id_str": "1046442237587066880",
+      "full_text": "Наверное, на этом я вынуждена с вами попрощаться! Вообще было здорово целую неделю рассказывать о Риче.  Спасибо за внимание и активность. :) https://t.co/37sYT6bnbl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1046442152388169700,
+            "id_str": "1046442152388169728",
+            "indices": [
+              142,
+              165
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoW1l-MXkAAq1Yc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoW1l-MXkAAq1Yc.jpg",
+            "url": "https://t.co/37sYT6bnbl",
+            "display_url": "pic.twitter.com/37sYT6bnbl",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046442237587066880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046442152388169700,
+            "id_str": "1046442152388169728",
+            "indices": [
+              142,
+              165
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoW1l-MXkAAq1Yc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoW1l-MXkAAq1Yc.jpg",
+            "url": "https://t.co/37sYT6bnbl",
+            "display_url": "pic.twitter.com/37sYT6bnbl",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046442237587066880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1046442152388173800,
+            "id_str": "1046442152388173824",
+            "indices": [
+              142,
+              165
+            ],
+            "media_url": "http://pbs.twimg.com/media/DoW1l-MXoAAdYGM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DoW1l-MXoAAdYGM.jpg",
+            "url": "https://t.co/37sYT6bnbl",
+            "display_url": "pic.twitter.com/37sYT6bnbl",
+            "expanded_url": "https://twitter.com/catunderhood/status/1046442237587066880/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1044138869023789000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
