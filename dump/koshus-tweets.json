@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Sep 30 18:22:55 +0000 2018",
+      "id": 1046465430276239400,
+      "id_str": "1046465430276239360",
+      "full_text": "Вы всегда можете перечитать архив недели @avestyaz, пересмотреть фото и видео Ричи :-) https://t.co/u3PtyXz1Mj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "avestyaz",
+            "name": "🌙",
+            "id": 4218430156,
+            "id_str": "4218430156",
+            "indices": [
+              41,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u3PtyXz1Mj",
+            "expanded_url": "http://catunderhood.info/avestyaz/",
+            "display_url": "catunderhood.info/avestyaz/",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
