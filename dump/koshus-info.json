@@ -13,51 +13,40 @@
     }
   },
   "protected": false,
-  "followers_count": 837,
+  "followers_count": 854,
   "friends_count": 34,
   "listed_count": 14,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2079,
+  "favourites_count": 2077,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 8691,
+  "statuses_count": 8717,
   "lang": "en",
   "status": {
-    "created_at": "Sun Sep 30 18:22:55 +0000 2018",
-    "id": 1046465430276239400,
-    "id_str": "1046465430276239360",
-    "text": "Вы всегда можете перечитать архив недели @avestyaz, пересмотреть фото и видео Ричи :-) https://t.co/u3PtyXz1Mj",
-    "truncated": false,
+    "created_at": "Sun Oct 07 14:47:33 +0000 2018",
+    "id": 1048947945607974900,
+    "id_str": "1048947945607974912",
+    "text": "и на этой кудрявой солнечной ноте я заканчиваю апельсиновую неделю :) спасибо за приятные слова и за то, что были с… https://t.co/arXcTEL9YZ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "avestyaz",
-          "name": "🌙",
-          "id": 4218430156,
-          "id_str": "4218430156",
-          "indices": [
-            41,
-            50
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/u3PtyXz1Mj",
-          "expanded_url": "http://catunderhood.info/avestyaz/",
-          "display_url": "catunderhood.info/avestyaz/",
+          "url": "https://t.co/arXcTEL9YZ",
+          "expanded_url": "https://twitter.com/i/web/status/1048947945607974912",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            87,
-            110
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -66,10 +55,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      344801262
+    ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 48,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
