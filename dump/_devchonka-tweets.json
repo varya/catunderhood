@@ -1,65 +1,6 @@
 {
   "tweets": [
     {
-      "created_at": "Sun Oct 21 18:16:08 +0000 2018",
-      "id": 1054073868594413600,
-      "id_str": "1054073868594413568",
-      "full_text": "С опозданием, но вот он архив @koshus https://t.co/CDKPuoOk1V",
-      "truncated": false,
-      "display_text_range": [
-        0,
-        61
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "koshus",
-            "name": "cherry pie.",
-            "id": 344801262,
-            "id_str": "344801262",
-            "indices": [
-              30,
-              37
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/CDKPuoOk1V",
-            "expanded_url": "http://catunderhood.info/koshus/",
-            "display_url": "catunderhood.info/koshus/",
-            "indices": [
-              38,
-              61
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 739569483556225000,
-        "id_str": "739569483556225025"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
-    {
       "created_at": "Mon Oct 22 02:38:30 +0000 2018",
       "id": 1054200290981883900,
       "id_str": "1054200290981883904",
