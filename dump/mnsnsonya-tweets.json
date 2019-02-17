@@ -1,0 +1,63 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Feb 17 21:08:30 +0000 2019",
+      "id": 1097241402596040700,
+      "id_str": "1097241402596040704",
+      "full_text": "Спасибо @i_m_lovegood за очень классную неделю с кошкой Кошкой и всеми нами котами :-) Архив всегда тут — https://t.co/BIGxuBV83h",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_m_lovegood",
+            "name": "lipstick linguist",
+            "id": 2629279254,
+            "id_str": "2629279254",
+            "indices": [
+              8,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BIGxuBV83h",
+            "expanded_url": "http://catunderhood.info/i_m_lovegood/",
+            "display_url": "catunderhood.info/i_m_lovegood/",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
