@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 974,
+  "followers_count": 983,
   "friends_count": 39,
-  "listed_count": 15,
+  "listed_count": 14,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2099,
+  "favourites_count": 2126,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 9510,
+  "statuses_count": 9612,
   "lang": "en",
   "status": {
-    "created_at": "Tue Feb 26 05:36:39 +0000 2019",
-    "id": 1100268386116948000,
-    "id_str": "1100268386116947969",
-    "text": "Доброе утро! https://t.co/KJ93hDlzzC",
+    "created_at": "Sun Mar 03 20:44:17 +0000 2019",
+    "id": 1102308738638250000,
+    "id_str": "1102308738638249985",
+    "text": "Сладкий маленький Персик https://t.co/pa1VC2FPYz",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1100268320404717600,
-          "id_str": "1100268320404717568",
+          "url": "https://t.co/pa1VC2FPYz",
+          "expanded_url": "https://twitter.com/lotos_3/status/1102308230338932739",
+          "display_url": "twitter.com/lotos_3/status…",
           "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/media/D0TwNTtWwAAbKoP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D0TwNTtWwAAbKoP.jpg",
-          "url": "https://t.co/KJ93hDlzzC",
-          "display_url": "pic.twitter.com/KJ93hDlzzC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1100268386116947969/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1100268320404717600,
-          "id_str": "1100268320404717568",
-          "indices": [
-            13,
-            36
-          ],
-          "media_url": "http://pbs.twimg.com/media/D0TwNTtWwAAbKoP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/D0TwNTtWwAAbKoP.jpg",
-          "url": "https://t.co/KJ93hDlzzC",
-          "display_url": "pic.twitter.com/KJ93hDlzzC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1100268386116947969/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            25,
+            48
+          ]
         }
       ]
     },
@@ -139,13 +71,15 @@
     "contributors": [
       774194489409802200
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1102308230338932700,
+    "quoted_status_id_str": "1102308230338932739",
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
