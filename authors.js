@@ -1,6 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
+    { username: 'snobberries',  start: '25 March 2019', first: '1109872002901393410', post: false },
     { username: 'koshkikoshechki',  start: '18 March 2019', first: '1107735724173021186' },
     { username: 'nice_to_meet',  start: '25 February 2019', first: '1099948080152100864' },
     { username: 'mnsnsonya',  start: '18 February 2019', first: '1097356847642824704' },
