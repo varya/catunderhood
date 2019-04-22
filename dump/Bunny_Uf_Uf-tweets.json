@@ -1,0 +1,591 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Mar 31 20:13:32 +0000 2019",
+      "id": 1112447859641733100,
+      "id_str": "1112447859641733122",
+      "full_text": "RT @akikomiyiko: @catunderhood @snobberries Спасибо, было классно! (Рекомендую включить звук) https://t.co/VaenbSeTY1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "akikomiyiko",
+            "name": "Марин",
+            "id": 352341507,
+            "id_str": "352341507",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              17,
+              30
+            ]
+          },
+          {
+            "screen_name": "snobberries",
+            "name": "ноги на ширине плеч",
+            "id": 1009171428447572000,
+            "id_str": "1009171428447571968",
+            "indices": [
+              31,
+              43
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1112447270736351200,
+            "id_str": "1112447270736351232",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+            "url": "https://t.co/VaenbSeTY1",
+            "display_url": "pic.twitter.com/VaenbSeTY1",
+            "expanded_url": "https://twitter.com/akikomiyiko/status/1112447371374399494/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1112447371374399500,
+            "source_status_id_str": "1112447371374399494",
+            "source_user_id": 352341507,
+            "source_user_id_str": "352341507"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1112447270736351200,
+            "id_str": "1112447270736351232",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+            "url": "https://t.co/VaenbSeTY1",
+            "display_url": "pic.twitter.com/VaenbSeTY1",
+            "expanded_url": "https://twitter.com/akikomiyiko/status/1112447371374399494/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1112447371374399500,
+            "source_status_id_str": "1112447371374399494",
+            "source_user_id": 352341507,
+            "source_user_id_str": "352341507",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 34303,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/1280x720/VGewxikhtRiOPIQa.mp4?tag=8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/640x360/I4dwOuIDFP09-UMz.mp4?tag=8"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/320x180/tiuCWvv8XdMFs2kB.mp4?tag=8"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/pl/bp9nW6mT5oxeNxiL.m3u8?tag=8"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 352341507,
+                "id_str": "352341507",
+                "name": "Марин",
+                "screen_name": "akikomiyiko",
+                "location": "Saint-Petersburg",
+                "description": "Инстаграм для вязания, твиттер для туалета.",
+                "url": "https://t.co/z1XgDWJwTS",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "url": "https://t.co/z1XgDWJwTS",
+                        "expanded_url": "https://anchor.fm/mariniverse",
+                        "display_url": "anchor.fm/mariniverse",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "protected": false,
+                "followers_count": 158,
+                "friends_count": 99,
+                "listed_count": 3,
+                "created_at": "Wed Aug 10 13:49:20 +0000 2011",
+                "favourites_count": 839,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9173,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1103276006935285762/xH9DWVjG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103276006935285762/xH9DWVjG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/352341507/1447410383",
+                "profile_link_color": "2287AB",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "A5CBDE",
+                "profile_text_color": "2A2666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1009171428447572000
+      ],
+      "retweeted_status": {
+        "created_at": "Sun Mar 31 20:11:36 +0000 2019",
+        "id": 1112447371374399500,
+        "id_str": "1112447371374399494",
+        "full_text": "@catunderhood @snobberries Спасибо, было классно! (Рекомендую включить звук) https://t.co/VaenbSeTY1",
+        "truncated": false,
+        "display_text_range": [
+          27,
+          76
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "catunderhood",
+              "name": "catunderhood",
+              "id": 739569483556225000,
+              "id_str": "739569483556225025",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "snobberries",
+              "name": "ноги на ширине плеч",
+              "id": 1009171428447572000,
+              "id_str": "1009171428447571968",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1112447270736351200,
+              "id_str": "1112447270736351232",
+              "indices": [
+                77,
+                100
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+              "url": "https://t.co/VaenbSeTY1",
+              "display_url": "pic.twitter.com/VaenbSeTY1",
+              "expanded_url": "https://twitter.com/akikomiyiko/status/1112447371374399494/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1112447270736351200,
+              "id_str": "1112447270736351232",
+              "indices": [
+                77,
+                100
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112447270736351232/pu/img/PhN75fe-0tuuWhjT.jpg",
+              "url": "https://t.co/VaenbSeTY1",
+              "display_url": "pic.twitter.com/VaenbSeTY1",
+              "expanded_url": "https://twitter.com/akikomiyiko/status/1112447371374399494/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 34303,
+                "variants": [
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/1280x720/VGewxikhtRiOPIQa.mp4?tag=8"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/640x360/I4dwOuIDFP09-UMz.mp4?tag=8"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/vid/320x180/tiuCWvv8XdMFs2kB.mp4?tag=8"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1112447270736351232/pu/pl/bp9nW6mT5oxeNxiL.m3u8?tag=8"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1112446248303452200,
+        "in_reply_to_status_id_str": "1112446248303452161",
+        "in_reply_to_user_id": 739569483556225000,
+        "in_reply_to_user_id_str": "739569483556225025",
+        "in_reply_to_screen_name": "catunderhood",
+        "user": {
+          "id": 352341507,
+          "id_str": "352341507"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 31 20:14:27 +0000 2019",
+      "id": 1112448089212768300,
+      "id_str": "1112448089212768256",
+      "full_text": "@akikomiyiko @snobberries Я и сама кайфанула!\nА после этого мурлыкотного видео - ещё раз! сладкий нос",
+      "truncated": false,
+      "display_text_range": [
+        26,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "akikomiyiko",
+            "name": "Марин",
+            "id": 352341507,
+            "id_str": "352341507",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "snobberries",
+            "name": "ноги на ширине плеч",
+            "id": 1009171428447572000,
+            "id_str": "1009171428447571968",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1112447371374399500,
+      "in_reply_to_status_id_str": "1112447371374399494",
+      "in_reply_to_user_id": 352341507,
+      "in_reply_to_user_id_str": "352341507",
+      "in_reply_to_screen_name": "akikomiyiko",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1009171428447572000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 31 20:15:35 +0000 2019",
+      "id": 1112448373087457300,
+      "id_str": "1112448373087457282",
+      "full_text": "@Galyok09 @r0mko это да!",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Galyok09",
+            "name": "Galyok",
+            "id": 739184548949463000,
+            "id_str": "739184548949463041",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "r0mko",
+            "name": "множественные сарказмы",
+            "id": 112346604,
+            "id_str": "112346604",
+            "indices": [
+              10,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1112439177658986500,
+      "in_reply_to_status_id_str": "1112439177658986497",
+      "in_reply_to_user_id": 739184548949463000,
+      "in_reply_to_user_id_str": "739184548949463041",
+      "in_reply_to_screen_name": "Galyok09",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1009171428447572000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 31 20:16:08 +0000 2019",
+      "id": 1112448514653593600,
+      "id_str": "1112448514653593600",
+      "full_text": "@r0mko запили на ютубчик!",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        25
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "r0mko",
+            "name": "множественные сарказмы",
+            "id": 112346604,
+            "id_str": "112346604",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1112435990575104000,
+      "in_reply_to_status_id_str": "1112435990575104007",
+      "in_reply_to_user_id": 112346604,
+      "in_reply_to_user_id_str": "112346604",
+      "in_reply_to_screen_name": "r0mko",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1009171428447572000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}
