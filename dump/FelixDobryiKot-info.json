@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 1093,
+  "followers_count": 1184,
   "friends_count": 40,
   "listed_count": 13,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2447,
+  "favourites_count": 2446,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10174,
+  "statuses_count": 10182,
   "lang": null,
   "status": {
-    "created_at": "Mon Apr 29 00:43:13 +0000 2019",
-    "id": 1122662587643170800,
-    "id_str": "1122662587643170816",
-    "text": "Супер кружки! https://t.co/wKE4EwV3BN",
-    "truncated": false,
+    "created_at": "Fri Sep 06 18:31:16 +0000 2019",
+    "id": 1170041792252842000,
+    "id_str": "1170041792252841984",
+    "text": "У миня кота однажды была ужастная болезнь ПАНЛЕЙКОПЕНИЯ. Витиринар безсердечная узнала про ето и стала колоть в мен… https://t.co/oj6r0Hc2ha",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/wKE4EwV3BN",
-          "expanded_url": "https://twitter.com/d_svtrs/status/1122600905180946432",
-          "display_url": "twitter.com/d_svtrs/status…",
+          "url": "https://t.co/oj6r0Hc2ha",
+          "expanded_url": "https://twitter.com/i/web/status/1170041792252841984",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            14,
-            37
+            117,
+            140
           ]
         }
       ]
@@ -69,13 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      3335114470
+      1044161990648877000
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1122600905180946400,
-    "quoted_status_id_str": "1122600905180946432",
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 111,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
