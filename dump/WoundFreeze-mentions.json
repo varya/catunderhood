@@ -1,0 +1,124 @@
+{
+  "mentions": [
+    {
+      "created_at": "Fri Nov 01 19:21:21 +0000 2019",
+      "id": 1190348116442177500,
+      "id_str": "1190348116442177536",
+      "text": "@levwalkin Пользуясь случаем торгану @catunderhood \n\nhttps://t.co/S8B9CsHk1b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "levwalkin",
+            "name": "Lev Walkin",
+            "id": 103231091,
+            "id_str": "103231091",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              37,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S8B9CsHk1b",
+            "expanded_url": "https://twitter.com/catunderhood/status/1190347552719351808?s=21",
+            "display_url": "twitter.com/catunderhood/s…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1190346468508352500,
+      "in_reply_to_status_id_str": "1190346468508352512",
+      "in_reply_to_user_id": 103231091,
+      "in_reply_to_user_id_str": "103231091",
+      "in_reply_to_screen_name": "levwalkin",
+      "user": {
+        "id": 215559242,
+        "id_str": "215559242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1190347552719351800,
+      "quoted_status_id_str": "1190347552719351808",
+      "quoted_status": {
+        "created_at": "Fri Nov 01 19:19:06 +0000 2019",
+        "id": 1190347552719351800,
+        "id_str": "1190347552719351808",
+        "text": "Это аккаунт, где все рассказывают о своих котиках. Каждую неделю Новый автор, архивы на https://t.co/F6Dgxl2RqY\nДля… https://t.co/Y2MRCYUcf1",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/F6Dgxl2RqY",
+              "expanded_url": "http://catunderhood.info",
+              "display_url": "catunderhood.info",
+              "indices": [
+                88,
+                111
+              ]
+            },
+            {
+              "url": "https://t.co/Y2MRCYUcf1",
+              "expanded_url": "https://twitter.com/i/web/status/1190347552719351808",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 739569483556225000,
+          "id_str": "739569483556225025"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
