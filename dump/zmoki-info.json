@@ -26,36 +26,143 @@
     }
   },
   "protected": false,
-  "followers_count": 1583,
+  "followers_count": 1603,
   "friends_count": 41,
   "listed_count": 13,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 2505,
+  "favourites_count": 2524,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 10447,
+  "statuses_count": 10494,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 10 18:50:00 +0000 2019",
-    "id": 1193601717939658800,
-    "id_str": "1193601717939658753",
-    "text": "Штош, хоть завтра и на работку, но котики утешают :3 Спасибо за проявленный интерес и тёплый приём! Кузя, Танка, Ни… https://t.co/xsyyDbWdgq",
-    "truncated": true,
+    "created_at": "Fri Nov 15 12:25:46 +0000 2019",
+    "id": 1195316961657413600,
+    "id_str": "1195316961657413633",
+    "text": "Анфиса помогает вести @catunderhood https://t.co/slCoD4ppJJ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/xsyyDbWdgq",
-          "expanded_url": "https://twitter.com/i/web/status/1193601717939658753",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "catunderhood",
+          "name": "catunderhood",
+          "id": 739569483556225000,
+          "id_str": "739569483556225025",
           "indices": [
-            117,
-            140
+            22,
+            35
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1195316928748933000,
+          "id_str": "1195316928748933120",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+          "url": "https://t.co/slCoD4ppJJ",
+          "display_url": "pic.twitter.com/slCoD4ppJJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1195316961657413633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 902,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 962,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "large": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1195316928748933000,
+          "id_str": "1195316928748933120",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+          "url": "https://t.co/slCoD4ppJJ",
+          "display_url": "pic.twitter.com/slCoD4ppJJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1195316961657413633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 902,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 962,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "large": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          }
         }
       ]
     },
@@ -68,10 +175,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      47916683
+    ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 110,
+    "retweet_count": 0,
+    "favorite_count": 64,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
