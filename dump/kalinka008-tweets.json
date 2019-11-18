@@ -1,0 +1,161 @@
+{
+  "tweets": [
+    {
+      "created_at": "Fri Nov 15 12:25:46 +0000 2019",
+      "id": 1195316961657413600,
+      "id_str": "1195316961657413633",
+      "full_text": "Анфиса помогает вести @catunderhood https://t.co/slCoD4ppJJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              22,
+              35
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1195316928748933000,
+            "id_str": "1195316928748933120",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+            "url": "https://t.co/slCoD4ppJJ",
+            "display_url": "pic.twitter.com/slCoD4ppJJ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1195316961657413633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 902,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 962,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 511,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1195316928748933000,
+            "id_str": "1195316928748933120",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJaeaeQXUAAqLc9.jpg",
+            "url": "https://t.co/slCoD4ppJJ",
+            "display_url": "pic.twitter.com/slCoD4ppJJ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1195316961657413633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 902,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 962,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 511,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        47916683
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 64,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
