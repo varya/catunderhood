@@ -39,7 +39,7 @@ block content
                   = " / "
                 th.host-stats__col.host-stats__col_retweeted.rted--2p: span.sortable: nobr per tweet
                 th.host-stats__col.host-stats__col_favorited.faved--1p: nobr
-                  span.sortable All favorited
+                  span.sortable All liked
                   = " / "
                 th.host-stats__col.host-stats__col_favorited.faved--2p: span.sortable: nobr per tweet
 
@@ -85,10 +85,10 @@ block content
                 td.host-stats__col.host-stats__col_kpi.rted--2p(data-title='Retweeted per 1 tweet' data-sort=author.retweeted.average)
                   span.cell(class={ 'cell--best': author.maxRetweetedAverage }): span.cell__content
                     = author.retweeted.average
-                td.host-stats__col.host-stats__col_kpi.faved--1p(data-title='All favorited' data-sort=author.favorited.total)
+                td.host-stats__col.host-stats__col_kpi.faved--1p(data-title='All liked' data-sort=author.favorited.total)
                   span.cell(class={ 'cell--best': author.maxFavoritedTotal }): span.cell__content
                     = author.favorited.total
-                td.host-stats__col.host-stats__col_kpi.faved--2p(data-title='Favorited per 1 tweet' data-sort=author.favorited.average)
+                td.host-stats__col.host-stats__col_kpi.faved--2p(data-title='Liked per 1 tweet' data-sort=author.favorited.average)
                   span.cell(class={ 'cell--best': author.maxFavoritedAverage }): span.cell__content
                     = author.favorited.average
 

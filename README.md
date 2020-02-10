@@ -4,8 +4,8 @@
 
 ## Старт проекта
 
-    git clone git@github.com:varya/git@github.com:varya/catunderhood.git.git
-    cd git@github.com:varya/catunderhood.git
+    git clone git@github.com:varya/catunderhood.git
+    cd catunderhood
     npm install
     npm start
 
