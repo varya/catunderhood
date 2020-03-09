@@ -26,44 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 4499,
+  "followers_count": 4575,
   "friends_count": 39,
   "listed_count": 20,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 3211,
+  "favourites_count": 3210,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 11886,
+  "statuses_count": 11920,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 03 10:27:38 +0000 2020",
-    "id": 1234787509256806400,
-    "id_str": "1234787509256806400",
-    "text": "Я не пусечка, я тигррррр-рр!!\n\nhttps://t.co/iEdKRE7Zl8 https://t.co/2I8aiuYDjc",
-    "truncated": false,
+    "created_at": "Sun Mar 08 20:30:00 +0000 2020",
+    "id": 1236751039501455400,
+    "id_str": "1236751039501455360",
+    "text": "Это была интересная неделя. Я простой рыжий кот с проникновенным взглядом и любящими хозяевами.\n\nОказалось, что мне… https://t.co/cqwmCwaUpR",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/iEdKRE7Zl8",
-          "expanded_url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTM3MzYzNzQyMjE3OTE1?igshid=15iet1bsevozz&story_media_id=1882289605548379367_221357116",
-          "display_url": "instagram.com/s/aGlnaGxpZ2h0…",
+          "url": "https://t.co/cqwmCwaUpR",
+          "expanded_url": "https://twitter.com/i/web/status/1236751039501455360",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            31,
-            54
-          ]
-        },
-        {
-          "url": "https://t.co/2I8aiuYDjc",
-          "expanded_url": "https://twitter.com/purplerain256/status/1234786468729675777",
-          "display_url": "twitter.com/purplerain256/…",
-          "indices": [
-            55,
-            78
+            117,
+            140
           ]
         }
       ]
@@ -77,14 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      758022126607667200
-    ],
-    "is_quote_status": true,
-    "quoted_status_id": 1234786468729675800,
-    "quoted_status_id_str": "1234786468729675777",
-    "retweet_count": 0,
-    "favorite_count": 32,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 381,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -97,8 +84,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1234753462639964162/O7cD05r8_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234753462639964162/O7cD05r8_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1235521136026361856/wHouto9e_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235521136026361856/wHouto9e_normal.jpg",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
