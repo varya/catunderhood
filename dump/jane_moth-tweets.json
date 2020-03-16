@@ -1,0 +1,122 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Mar 15 19:52:13 +0000 2020",
+      "id": 1239278248292503600,
+      "id_str": "1239278248292503557",
+      "full_text": "Ну и прощальная – не могу удержаться и не запостить одну из моих любимых фотокарточек. Всем счастья, успехов и здоровий, умывайтесь лапкой, спите клубочком! Пока и спасибо! https://t.co/Y0n3tKa2C3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1239277791243370500,
+            "id_str": "1239277791243370497",
+            "indices": [
+              173,
+              196
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETLMlc0XgAEDWr9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETLMlc0XgAEDWr9.jpg",
+            "url": "https://t.co/Y0n3tKa2C3",
+            "display_url": "pic.twitter.com/Y0n3tKa2C3",
+            "expanded_url": "https://twitter.com/catunderhood/status/1239278248292503557/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1198,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 679,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1239277791243370500,
+            "id_str": "1239277791243370497",
+            "indices": [
+              173,
+              196
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETLMlc0XgAEDWr9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETLMlc0XgAEDWr9.jpg",
+            "url": "https://t.co/Y0n3tKa2C3",
+            "display_url": "pic.twitter.com/Y0n3tKa2C3",
+            "expanded_url": "https://twitter.com/catunderhood/status/1239278248292503557/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1198,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 1278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 679,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        363688931
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 222,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
