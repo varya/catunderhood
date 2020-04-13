@@ -1,0 +1,133 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Apr 13 01:15:59 +0000 2020",
+      "id": 1249506586394951700,
+      "id_str": "1249506586394951680",
+      "full_text": "Я так полагаю, это наш последний твит.Всем спасибо за внимание. Вы замечательные. Надеюсь, что после нашей недели, кто-то посмотрит на сфинксов совсем по-другому. \nМы отправляемся на прогулку по кухне ( спасает Фина от скуки) с вами была @ChiliKatte. Всем пока ❤️ https://t.co/5C3HugxJd6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ChiliKatte",
+            "name": "зернышко граната",
+            "id": 1062833442700906500,
+            "id_str": "1062833442700906498",
+            "indices": [
+              238,
+              249
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1249505465681117200,
+            "id_str": "1249505465681117184",
+            "indices": [
+              264,
+              287
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVcimdLVAAA2CwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVcimdLVAAA2CwY.jpg",
+            "url": "https://t.co/5C3HugxJd6",
+            "display_url": "pic.twitter.com/5C3HugxJd6",
+            "expanded_url": "https://twitter.com/catunderhood/status/1249506586394951680/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1249505465681117200,
+            "id_str": "1249505465681117184",
+            "indices": [
+              264,
+              287
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVcimdLVAAA2CwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EVcimdLVAAA2CwY.jpg",
+            "url": "https://t.co/5C3HugxJd6",
+            "display_url": "pic.twitter.com/5C3HugxJd6",
+            "expanded_url": "https://twitter.com/catunderhood/status/1249506586394951680/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1062833442700906500
+      ],
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 151,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
