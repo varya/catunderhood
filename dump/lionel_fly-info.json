@@ -26,57 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 5082,
+  "followers_count": 5111,
   "friends_count": 39,
   "listed_count": 19,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 3546,
+  "favourites_count": 3548,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 13240,
+  "statuses_count": 13276,
   "lang": null,
   "status": {
-    "created_at": "Sun May 24 20:19:52 +0000 2020",
-    "id": 1264652356874092500,
-    "id_str": "1264652356874092557",
-    "text": "@PanzhenskiyIlia Сестренка",
-    "truncated": false,
+    "created_at": "Sun May 31 20:58:42 +0000 2020",
+    "id": 1267198845626220500,
+    "id_str": "1267198845626220544",
+    "text": "Так классно сложилось, что мы завершаем эту весну. Через 3 минуты уже лето! Мы очень хотим, чтобы у каждого это лет… https://t.co/E3NfjCGmSU",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "PanzhenskiyIlia",
-          "name": "Илья Паньженский",
-          "id": 545355378,
-          "id_str": "545355378",
+          "url": "https://t.co/E3NfjCGmSU",
+          "expanded_url": "https://twitter.com/i/web/status/1267198845626220544",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            16
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1264292899761664000,
-    "in_reply_to_status_id_str": "1264292899761664000",
-    "in_reply_to_user_id": 545355378,
-    "in_reply_to_user_id_str": "545355378",
-    "in_reply_to_screen_name": "PanzhenskiyIlia",
+    "in_reply_to_status_id": 1267197674387882000,
+    "in_reply_to_status_id_str": "1267197674387881985",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
-      158143821
+      160888695
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 161,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
