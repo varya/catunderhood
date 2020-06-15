@@ -1,0 +1,54 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Jun 14 21:07:28 +0000 2020",
+      "id": 1272274480958787600,
+      "id_str": "1272274480958787585",
+      "full_text": "@Moonhalf Передам❤️",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Moonhalf",
+            "name": "Половинка луны",
+            "id": 14383707,
+            "id_str": "14383707",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1272274313371160600,
+      "in_reply_to_status_id_str": "1272274313371160576",
+      "in_reply_to_user_id": 14383707,
+      "in_reply_to_user_id_str": "14383707",
+      "in_reply_to_screen_name": "Moonhalf",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1576737026
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    }
+  ]
+}
