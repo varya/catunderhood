@@ -1,0 +1,131 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Jun 28 22:30:00 +0000 2020",
+      "id": 1277368680322527200,
+      "id_str": "1277368680322527232",
+      "full_text": "Ну а наблюдать за продолжением можно у меня в твиттере - @koshkinsk, эта кошка там бывает довольно часто.\n(А сама я постоянно жму сердечки другим классным котам в этом твиттере).\nТеперь точно всё, мяук мои милые друзья! :3 https://t.co/Kp6MqKhYXN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Koshkinsk",
+            "name": "街",
+            "id": 388459216,
+            "id_str": "388459216",
+            "indices": [
+              57,
+              67
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1277363485110829000,
+            "id_str": "1277363485110829057",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbobUmsWAAEUmkl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbobUmsWAAEUmkl.jpg",
+            "url": "https://t.co/Kp6MqKhYXN",
+            "display_url": "pic.twitter.com/Kp6MqKhYXN",
+            "expanded_url": "https://twitter.com/catunderhood/status/1277368680322527232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1277363485110829000,
+            "id_str": "1277363485110829057",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbobUmsWAAEUmkl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbobUmsWAAEUmkl.jpg",
+            "url": "https://t.co/Kp6MqKhYXN",
+            "display_url": "pic.twitter.com/Kp6MqKhYXN",
+            "expanded_url": "https://twitter.com/catunderhood/status/1277368680322527232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1277363090074603500,
+      "in_reply_to_status_id_str": "1277363090074603524",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 47,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
