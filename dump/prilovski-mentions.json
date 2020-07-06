@@ -1,0 +1,68 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Jul 06 04:26:55 +0000 2020",
+      "id": 1279995217907789800,
+      "id_str": "1279995217907789824",
+      "text": "@Mallcore @catunderhood конечно, стерилизация. Вы ведь сами говорите про брошенных ласковых детей, а выпуская гулят… https://t.co/GAYF9ydVqH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Mallcore",
+            "name": "Александр",
+            "id": 253437436,
+            "id_str": "253437436",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GAYF9ydVqH",
+            "expanded_url": "https://twitter.com/i/web/status/1279995217907789824",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1279970045976883200,
+      "in_reply_to_status_id_str": "1279970045976883202",
+      "in_reply_to_user_id": 253437436,
+      "in_reply_to_user_id_str": "253437436",
+      "in_reply_to_screen_name": "Mallcore",
+      "user": {
+        "id": 115324830,
+        "id_str": "115324830"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
