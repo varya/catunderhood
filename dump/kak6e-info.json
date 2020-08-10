@@ -26,160 +26,58 @@
     }
   },
   "protected": false,
-  "followers_count": 5316,
+  "followers_count": 5355,
   "friends_count": 39,
   "listed_count": 22,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 4059,
+  "favourites_count": 4112,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 14223,
+  "statuses_count": 14367,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 26 20:22:00 +0000 2020",
-    "id": 1287483327595913200,
-    "id_str": "1287483327595913217",
-    "text": "было очень клево, спасибо всем!\nкотику в середине августа кстати исполнится 4 года ☆⌒(≧▽​° ) https://t.co/TswXOwrtak",
+    "created_at": "Sun Aug 09 20:55:31 +0000 2020",
+    "id": 1292565195080990700,
+    "id_str": "1292565195080990721",
+    "text": "@jurgen811 ❤️",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1287398691456929800,
-          "id_str": "1287398691456929792",
+          "screen_name": "jurgen811",
+          "name": "Big Sister❌",
+          "id": 1041052548256477200,
+          "id_str": "1041052548256477184",
           "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ed3CSfiX0AAjEOW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ed3CSfiX0AAjEOW.jpg",
-          "url": "https://t.co/TswXOwrtak",
-          "display_url": "pic.twitter.com/TswXOwrtak",
-          "expanded_url": "https://twitter.com/catunderhood/status/1287483327595913217/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            0,
+            10
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1287398691456929800,
-          "id_str": "1287398691456929792",
-          "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ed3CSfiX0AAjEOW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ed3CSfiX0AAjEOW.jpg",
-          "url": "https://t.co/TswXOwrtak",
-          "display_url": "pic.twitter.com/TswXOwrtak",
-          "expanded_url": "https://twitter.com/catunderhood/status/1287483327595913217/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1287398691494678500,
-          "id_str": "1287398691494678528",
-          "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ed3CSfrX0AAMT3S.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ed3CSfrX0AAMT3S.jpg",
-          "url": "https://t.co/TswXOwrtak",
-          "display_url": "pic.twitter.com/TswXOwrtak",
-          "expanded_url": "https://twitter.com/catunderhood/status/1287483327595913217/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1292557410394165200,
+    "in_reply_to_status_id_str": "1292557410394165254",
+    "in_reply_to_user_id": 1041052548256477200,
+    "in_reply_to_user_id_str": "1041052548256477184",
+    "in_reply_to_screen_name": "jurgen811",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      39297315
+    ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 238,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -188,8 +86,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1290186026691043328/NPrz6N-r_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290186026691043328/NPrz6N-r_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1290201392091734017/8WS8xZBU_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290201392091734017/8WS8xZBU_normal.jpg",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
