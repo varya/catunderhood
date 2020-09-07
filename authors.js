@@ -1,7 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
-    { username: 'microclover_',  start: '31 August 2020', first: '1300098309839880194', post: false },
+    { username: 'microclover_',  start: '31 August 2020', first: '1300098309839880194' },
     { username: 'KPanyuta',  start: '24 August 2020', first: '1297799771978170371' },
     { username: 'DrKottof',  start: '10 August 2020', first: '1295284921636999169' },
     { username: 'kak6e',  start: '3 August 2020', first: '1290193197625299000' },
