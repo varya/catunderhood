@@ -353,6 +353,416 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 08:53:57 +0000 2020",
+      "id": 1305429570435330000,
+      "id_str": "1305429570435330055",
+      "full_text": "Всем привет! Меня зовут Маша @green_zelen и на этой неделе с вами мой кот Берия :3 \n\nОн одновременно строгий, но справедливый, и параллельно пирожок с нежностью.\n \nБудет много приключений и путешествий :) https://t.co/hRGnPr4nnJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "green_zelen",
+            "name": "ваше печеничество",
+            "id": 254491178,
+            "id_str": "254491178",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1305428780706603000,
+            "id_str": "1305428780706603008",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh3Qj0GWoAA2AV3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh3Qj0GWoAA2AV3.jpg",
+            "url": "https://t.co/hRGnPr4nnJ",
+            "display_url": "pic.twitter.com/hRGnPr4nnJ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1305429570435330055/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1305428780706603000,
+            "id_str": "1305428780706603008",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh3Qj0GWoAA2AV3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh3Qj0GWoAA2AV3.jpg",
+            "url": "https://t.co/hRGnPr4nnJ",
+            "display_url": "pic.twitter.com/hRGnPr4nnJ",
+            "expanded_url": "https://twitter.com/catunderhood/status/1305429570435330055/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        254491178
+      ],
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 148,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 09:07:30 +0000 2020",
+      "id": 1305432977057484800,
+      "id_str": "1305432977057484800",
+      "full_text": "Когда он появился, я бфла очень впечатлена вот этим мультфильмом – там Берия звали утку. Оказывается подзывать питомца \"Берия! Берия!\" очень забавно\n\nНу и он ОЧЕНЬ СТРОГИЙ ПАРЕНЬ\n\nhttps://t.co/fanov7W891 https://t.co/mjAeOyA001",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fanov7W891",
+            "expanded_url": "https://www.youtube.com/watch?v=JfkprN3hdak",
+            "display_url": "youtube.com/watch?v=JfkprN…",
+            "indices": [
+              180,
+              203
+            ]
+          },
+          {
+            "url": "https://t.co/mjAeOyA001",
+            "expanded_url": "https://twitter.com/kek7691/status/1305430701051916289",
+            "display_url": "twitter.com/kek7691/status…",
+            "indices": [
+              204,
+              227
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        254491178
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 1305430701051916300,
+      "quoted_status_id_str": "1305430701051916289",
+      "quoted_status_permalink": {
+        "url": "https://t.co/mjAeOyA001",
+        "expanded": "https://twitter.com/kek7691/status/1305430701051916289",
+        "display": "twitter.com/kek7691/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 14 08:58:27 +0000 2020",
+        "id": 1305430701051916300,
+        "id_str": "1305430701051916289",
+        "full_text": "@catunderhood @green_zelen Почему Берия?)",
+        "truncated": false,
+        "display_text_range": [
+          27,
+          41
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "catunderhood",
+              "name": "catunderhood",
+              "id": 739569483556225000,
+              "id_str": "739569483556225025",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "green_zelen",
+              "name": "ваше печеничество",
+              "id": 254491178,
+              "id_str": "254491178",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1305429570435330000,
+        "in_reply_to_status_id_str": "1305429570435330055",
+        "in_reply_to_user_id": 739569483556225000,
+        "in_reply_to_user_id_str": "739569483556225025",
+        "in_reply_to_screen_name": "catunderhood",
+        "user": {
+          "id": 1189799538002997200,
+          "id_str": "1189799538002997248"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 09:12:07 +0000 2020",
+      "id": 1305434139513020400,
+      "id_str": "1305434139513020417",
+      "full_text": "При этом отзывается он только на \"киса\"\n\nНУ ПОТОМУ ЧТО ОН РЕАЛЬНО КИСА, ПОСМОТРИТЕ :ЗЗЗ https://t.co/cfoxBN4e8I",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1305434127982907400,
+            "id_str": "1305434127982907392",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh3VbEQX0AA1tUZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh3VbEQX0AA1tUZ.jpg",
+            "url": "https://t.co/cfoxBN4e8I",
+            "display_url": "pic.twitter.com/cfoxBN4e8I",
+            "expanded_url": "https://twitter.com/catunderhood/status/1305434139513020417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1305434127982907400,
+            "id_str": "1305434127982907392",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh3VbEQX0AA1tUZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh3VbEQX0AA1tUZ.jpg",
+            "url": "https://t.co/cfoxBN4e8I",
+            "display_url": "pic.twitter.com/cfoxBN4e8I",
+            "expanded_url": "https://twitter.com/catunderhood/status/1305434139513020417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1305432977057484800,
+      "in_reply_to_status_id_str": "1305432977057484800",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        254491178
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 47,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 09:22:11 +0000 2020",
+      "id": 1305436672214143000,
+      "id_str": "1305436672214142976",
+      "full_text": "Вообще, мы зовем его Берик и во всяких документах он Берик, чтобы было поменьше вопросов. И чтоб не продолжали набегать всякие – я буду дальше его так называть.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        254491178
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
