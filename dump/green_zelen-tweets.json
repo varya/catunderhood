@@ -1,0 +1,358 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Sep 13 18:50:12 +0000 2020",
+      "id": 1305217233443065900,
+      "id_str": "1305217233443065863",
+      "full_text": "Вот и подошла эта неделя к концу. Спасибо, что читали) Мне было приятно поделиться и приятно читать комментарии, и надеюсь, что вам было интересно.\nЖелаю здоровья вашим котикам, крепкого сна и удовольствия от жизни)\nhttps://t.co/8uplaEqaie",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8uplaEqaie",
+            "expanded_url": "https://twitter.com/ninland/status/1304689003929710592?s=19",
+            "display_url": "twitter.com/ninland/status…",
+            "indices": [
+              216,
+              239
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        162354292
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 1304689003929710600,
+      "quoted_status_id_str": "1304689003929710592",
+      "quoted_status_permalink": {
+        "url": "https://t.co/8uplaEqaie",
+        "expanded": "https://twitter.com/ninland/status/1304689003929710592?s=19",
+        "display": "twitter.com/ninland/status…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Sep 12 07:51:13 +0000 2020",
+        "id": 1304689003929710600,
+        "id_str": "1304689003929710592",
+        "full_text": "https://t.co/jjk3xa9R8t",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          0
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1304688959419756500,
+              "id_str": "1304688959419756545",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304688959419756545/pu/img/ED53JQueQVbu9Ex2.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304688959419756545/pu/img/ED53JQueQVbu9Ex2.jpg",
+              "url": "https://t.co/jjk3xa9R8t",
+              "display_url": "pic.twitter.com/jjk3xa9R8t",
+              "expanded_url": "https://twitter.com/ninland/status/1304689003929710592/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 916,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 356,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 916,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1304688959419756500,
+              "id_str": "1304688959419756545",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304688959419756545/pu/img/ED53JQueQVbu9Ex2.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304688959419756545/pu/img/ED53JQueQVbu9Ex2.jpg",
+              "url": "https://t.co/jjk3xa9R8t",
+              "display_url": "pic.twitter.com/jjk3xa9R8t",
+              "expanded_url": "https://twitter.com/ninland/status/1304689003929710592/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 916,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 356,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 916,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  120,
+                  229
+                ],
+                "duration_millis": 15000,
+                "variants": [
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1304688959419756545/pu/vid/320x610/PmQnf73O5VsiGkaX.mp4?tag=10"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1304688959419756545/pu/pl/8jz_6AvpLjO9rHU-.m3u8?tag=10"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1304688959419756545/pu/vid/480x916/JgoDzERaT8GZAQqD.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1304688959419756545/pu/vid/360x686/YJObKqorfGxsJZSf.mp4?tag=10"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1304685110676131800,
+        "in_reply_to_status_id_str": "1304685110676131842",
+        "in_reply_to_user_id": 162354292,
+        "in_reply_to_user_id_str": "162354292",
+        "in_reply_to_screen_name": "ninland",
+        "user": {
+          "id": 162354292,
+          "id_str": "162354292"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 2,
+      "favorite_count": 156,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 13 20:37:41 +0000 2020",
+      "id": 1305244279510577200,
+      "id_str": "1305244279510577158",
+      "full_text": "@glokaiakuzdraa я очень рада!) спасибо)",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "glokaiakuzdraa",
+            "name": "Глокая Куздря",
+            "id": 4579151837,
+            "id_str": "4579151837",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1305226157890175000,
+      "in_reply_to_status_id_str": "1305226157890174976",
+      "in_reply_to_user_id": 4579151837,
+      "in_reply_to_user_id_str": "4579151837",
+      "in_reply_to_screen_name": "glokaiakuzdraa",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        162354292
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Sep 13 21:01:08 +0000 2020",
+      "id": 1305250183580733400,
+      "id_str": "1305250183580733446",
+      "full_text": "@jurgen811 я ей обязательно передам))",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jurgen811",
+            "name": "Big Sister❌",
+            "id": 1041052548256477200,
+            "id_str": "1041052548256477184",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1305245597969141800,
+      "in_reply_to_status_id_str": "1305245597969141765",
+      "in_reply_to_user_id": 1041052548256477200,
+      "in_reply_to_user_id_str": "1041052548256477184",
+      "in_reply_to_screen_name": "jurgen811",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        162354292
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 14 06:17:25 +0000 2020",
+      "id": 1305390177033113600,
+      "id_str": "1305390177033113600",
+      "full_text": "@raunijar Спасибо)",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        18
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raunijar",
+            "name": "AandreiA",
+            "id": 932200576825294800,
+            "id_str": "932200576825294849",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1305349631812022300,
+      "in_reply_to_status_id_str": "1305349631812022274",
+      "in_reply_to_user_id": 932200576825294800,
+      "in_reply_to_user_id_str": "932200576825294849",
+      "in_reply_to_screen_name": "raunijar",
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        162354292
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
