@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 5314,
+  "followers_count": 5379,
   "friends_count": 39,
-  "listed_count": 23,
+  "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 4610,
+  "favourites_count": 4779,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15514,
+  "statuses_count": 15798,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 14 09:22:11 +0000 2020",
-    "id": 1305436672214143000,
-    "id_str": "1305436672214142976",
-    "text": "Вообще, мы зовем его Берик и во всяких документах он Берик, чтобы было поменьше вопросов. И чтоб не продолжали набе… https://t.co/t7TO2F8egn",
-    "truncated": true,
+    "created_at": "Mon Sep 21 01:45:17 +0000 2020",
+    "id": 1307858407928541200,
+    "id_str": "1307858407928541185",
+    "text": "Как и у людей – все зависит от насадки на триммер :) но чем короче – тем дольше отрастает https://t.co/dqLaYhONTh",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/t7TO2F8egn",
-          "expanded_url": "https://twitter.com/i/web/status/1305436672214142976",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/dqLaYhONTh",
+          "expanded_url": "https://twitter.com/tupenchick/status/1307710990860120065",
+          "display_url": "twitter.com/tupenchick/sta…",
           "indices": [
-            117,
-            140
+            90,
+            113
           ]
         }
       ]
@@ -71,11 +71,14 @@
     "contributors": [
       254491178
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1307710990860120000,
+    "quoted_status_id_str": "1307710990860120065",
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
