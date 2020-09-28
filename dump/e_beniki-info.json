@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 5379,
+  "followers_count": 5522,
   "friends_count": 39,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 4779,
+  "favourites_count": 5153,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 15798,
+  "statuses_count": 16028,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 21 01:45:17 +0000 2020",
-    "id": 1307858407928541200,
-    "id_str": "1307858407928541185",
-    "text": "Как и у людей – все зависит от насадки на триммер :) но чем короче – тем дольше отрастает https://t.co/dqLaYhONTh",
-    "truncated": false,
+    "created_at": "Sun Sep 27 19:12:30 +0000 2020",
+    "id": 1310296275363995600,
+    "id_str": "1310296275363995649",
+    "text": "Друзья, Фенрир, Один и я, их котоматерь, желаем вам продуктивной новой недели! Спасибо за вашу активность, вы супер… https://t.co/Cvo3Gkey8u",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/dqLaYhONTh",
-          "expanded_url": "https://twitter.com/tupenchick/status/1307710990860120065",
-          "display_url": "twitter.com/tupenchick/sta…",
+          "url": "https://t.co/Cvo3Gkey8u",
+          "expanded_url": "https://twitter.com/i/web/status/1310296275363995649",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            90,
-            113
+            117,
+            140
           ]
         }
       ]
@@ -69,13 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      254491178
+      738612951318290400
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1307710990860120000,
-    "quoted_status_id_str": "1307710990860120065",
-    "retweet_count": 0,
-    "favorite_count": 5,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 355,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
