@@ -26,140 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 5685,
+  "followers_count": 5712,
   "friends_count": 39,
   "listed_count": 23,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5159,
+  "favourites_count": 5172,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 16255,
+  "statuses_count": 16309,
   "lang": null,
   "status": {
-    "created_at": "Sun Oct 11 18:25:24 +0000 2020",
-    "id": 1315357849762123800,
-    "id_str": "1315357849762123777",
-    "text": "Ну что, время прощаться! Брайан говорит вам прощальное «мяяяааааау», а Крис - «мяк мяк». Спасибо, что были с нами✨ https://t.co/Lh6uytRbyC",
-    "truncated": false,
+    "created_at": "Sun Oct 18 22:58:09 +0000 2020",
+    "id": 1317963204350402600,
+    "id_str": "1317963204350402563",
+    "text": "Пока меня отсюда не выпилили, вот вам ещё смишнявка: иногда у Мусика урчит в животе и он вопросительно смотрит на с… https://t.co/5HRYLMIXYv",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1315357792111399000,
-          "id_str": "1315357792111398912",
+          "url": "https://t.co/5HRYLMIXYv",
+          "expanded_url": "https://twitter.com/i/web/status/1317963204350402563",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            115,
-            138
-          ],
-          "media_url": "http://pbs.twimg.com/media/EkEW8V9XkAAyGaq.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EkEW8V9XkAAyGaq.jpg",
-          "url": "https://t.co/Lh6uytRbyC",
-          "display_url": "pic.twitter.com/Lh6uytRbyC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1315357849762123777/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 839,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 476,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1344,
-              "h": 1922,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1315357792111399000,
-          "id_str": "1315357792111398912",
-          "indices": [
-            115,
-            138
-          ],
-          "media_url": "http://pbs.twimg.com/media/EkEW8V9XkAAyGaq.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EkEW8V9XkAAyGaq.jpg",
-          "url": "https://t.co/Lh6uytRbyC",
-          "display_url": "pic.twitter.com/Lh6uytRbyC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1315357849762123777/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 839,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 476,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1344,
-              "h": 1922,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1315357792153350100,
-          "id_str": "1315357792153350144",
-          "indices": [
-            115,
-            138
-          ],
-          "media_url": "http://pbs.twimg.com/media/EkEW8WHXsAAac6q.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EkEW8WHXsAAac6q.jpg",
-          "url": "https://t.co/Lh6uytRbyC",
-          "display_url": "pic.twitter.com/Lh6uytRbyC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1315357849762123777/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 996,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1432,
-              "h": 1725,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 564,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -173,11 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      1606624230
+      3403322704
     ],
     "is_quote_status": false,
-    "retweet_count": 10,
-    "favorite_count": 667,
+    "retweet_count": 4,
+    "favorite_count": 209,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
