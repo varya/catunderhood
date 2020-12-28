@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 7027,
+  "followers_count": 7044,
   "friends_count": 39,
-  "listed_count": 23,
+  "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5729,
+  "favourites_count": 5816,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17852,
+  "statuses_count": 17970,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 20 18:08:33 +0000 2020",
-    "id": 1340720762123108400,
-    "id_str": "1340720762123108354",
-    "text": "Снова говорю всем спасибо и не болейте!\n\nhttps://t.co/Uhb77fJtQy",
-    "truncated": false,
+    "created_at": "Sun Dec 27 19:32:00 +0000 2020",
+    "id": 1343278475935793200,
+    "id_str": "1343278475935793153",
+    "text": "Спасибо всем большое за эту чудесную неделю! Я не ожидала получить столько интереса и комплиментов Бене и столько в… https://t.co/lIN5vru1i4",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/Uhb77fJtQy",
-          "expanded_url": "https://twitter.com/epistafija/status/1340720600311062529?s=20",
-          "display_url": "twitter.com/epistafija/sta…",
+          "url": "https://t.co/lIN5vru1i4",
+          "expanded_url": "https://twitter.com/i/web/status/1343278475935793153",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            41,
-            64
+            117,
+            140
           ]
         }
       ]
@@ -68,14 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      245791917
-    ],
-    "is_quote_status": true,
-    "quoted_status_id": 1340720600311062500,
-    "quoted_status_id_str": "1340720600311062529",
-    "retweet_count": 0,
-    "favorite_count": 33,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 256,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
