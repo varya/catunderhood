@@ -1,6 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
+    { username: 'Lapina_ann',  start: '28 December 2020', first: '1343278475935793153', post: false },
     { username: 'nsvet6',  start: '21 December 2020', first: '1340934883447894000' },
     { username: 'epistafija',  start: '14 December 2020', first: '1338415024361136000' },
     { username: 'shLapse',  start: '7 December 2020', first: '1335910258192117800' },
