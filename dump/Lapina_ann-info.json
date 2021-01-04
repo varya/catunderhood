@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 7044,
+  "followers_count": 7022,
   "friends_count": 39,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5816,
+  "favourites_count": 5861,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 17970,
+  "statuses_count": 18179,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 27 19:32:00 +0000 2020",
-    "id": 1343278475935793200,
-    "id_str": "1343278475935793153",
-    "text": "Спасибо всем большое за эту чудесную неделю! Я не ожидала получить столько интереса и комплиментов Бене и столько в… https://t.co/lIN5vru1i4",
-    "truncated": true,
+    "created_at": "Sun Jan 03 23:09:02 +0000 2021",
+    "id": 1345869808299085800,
+    "id_str": "1345869808299085824",
+    "text": "https://t.co/5Y0eerz07Q",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/lIN5vru1i4",
-          "expanded_url": "https://twitter.com/i/web/status/1343278475935793153",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1345869792239038500,
+          "id_str": "1345869792239038467",
           "indices": [
-            117,
-            140
-          ]
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq19cgBWMAMSwbM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq19cgBWMAMSwbM.jpg",
+          "url": "https://t.co/5Y0eerz07Q",
+          "display_url": "pic.twitter.com/5Y0eerz07Q",
+          "expanded_url": "https://twitter.com/catunderhood/status/1345869808299085824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1345869792239038500,
+          "id_str": "1345869792239038467",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq19cgBWMAMSwbM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq19cgBWMAMSwbM.jpg",
+          "url": "https://t.co/5Y0eerz07Q",
+          "display_url": "pic.twitter.com/5Y0eerz07Q",
+          "expanded_url": "https://twitter.com/catunderhood/status/1345869808299085824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -68,14 +136,16 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      165357575
+    ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 256,
+    "retweet_count": 4,
+    "favorite_count": 137,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
