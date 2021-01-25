@@ -30205,6 +30205,160 @@
       "favorited": true,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 25 08:50:40 +0000 2021",
+      "id": 1353626330152243200,
+      "id_str": "1353626330152243202",
+      "text": "@catunderhood ^_^ https://t.co/I4uUWviyWZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1353626253430022100,
+            "id_str": "1353626253430022149",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353626253430022149/pu/img/R4uNx-bRUS_z1bfh.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353626253430022149/pu/img/R4uNx-bRUS_z1bfh.jpg",
+            "url": "https://t.co/I4uUWviyWZ",
+            "display_url": "pic.twitter.com/I4uUWviyWZ",
+            "expanded_url": "https://twitter.com/Andromeda_Stark/status/1353626330152243202/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1353626253430022100,
+            "id_str": "1353626253430022149",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353626253430022149/pu/img/R4uNx-bRUS_z1bfh.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353626253430022149/pu/img/R4uNx-bRUS_z1bfh.jpg",
+            "url": "https://t.co/I4uUWviyWZ",
+            "display_url": "pic.twitter.com/I4uUWviyWZ",
+            "expanded_url": "https://twitter.com/Andromeda_Stark/status/1353626330152243202/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 27397,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1353626253430022149/pu/pl/BsTAvZVzDEHBayZ2.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1353626253430022149/pu/vid/720x1280/3XfJSKePHJZc2nLQ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1353626253430022149/pu/vid/320x568/kDp0RGYb5bZ2tDQG.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1353626253430022149/pu/vid/360x640/Fc-XjMWyuZSWOSyb.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1353040840046895000,
+      "in_reply_to_status_id_str": "1353040840046895104",
+      "in_reply_to_user_id": 739569483556225000,
+      "in_reply_to_user_id_str": "739569483556225025",
+      "in_reply_to_screen_name": "catunderhood",
+      "user": {
+        "id": 1107034477,
+        "id_str": "1107034477"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
