@@ -25944,6 +25944,70 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 22 07:48:52 +0000 2021",
+      "id": 1363757637679128600,
+      "id_str": "1363757637679128578",
+      "text": "@matachamatacha @catunderhood Я беру им через раз какой-нибудь беззерновой hairball или hills c/d для профилактики… https://t.co/r6TUz06gzV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "matachamatacha",
+            "name": "(╯°□°)╯",
+            "id": 2754551245,
+            "id_str": "2754551245",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/r6TUz06gzV",
+            "expanded_url": "https://twitter.com/i/web/status/1363757637679128578",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1363557993321750500,
+      "in_reply_to_status_id_str": "1363557993321750529",
+      "in_reply_to_user_id": 2754551245,
+      "in_reply_to_user_id_str": "2754551245",
+      "in_reply_to_screen_name": "matachamatacha",
+      "user": {
+        "id": 3018075850,
+        "id_str": "3018075850"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
