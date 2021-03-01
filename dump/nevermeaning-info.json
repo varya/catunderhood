@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 6922,
+  "followers_count": 7298,
   "friends_count": 39,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6397,
+  "favourites_count": 6394,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19175,
+  "statuses_count": 19239,
   "lang": null,
   "status": {
-    "created_at": "Sun Feb 21 18:42:00 +0000 2021",
-    "id": 1363559613434450000,
-    "id_str": "1363559613434449921",
-    "text": "Мякуня-кот обещает всем хорошую и добрую неделю! https://t.co/UfpqHwNIEA",
-    "truncated": false,
+    "created_at": "Sun Feb 28 18:55:54 +0000 2021",
+    "id": 1366099828116230100,
+    "id_str": "1366099828116230145",
+    "text": "Добрый вечер! Прошу прощение за тишину. В семье произошло горе. \nК сожалению,ведение блога не получилось как хотело… https://t.co/e81VYNkc1L",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1363543372930121700,
-          "id_str": "1363543372930121736",
+          "url": "https://t.co/e81VYNkc1L",
+          "expanded_url": "https://twitter.com/i/web/status/1366099828116230145",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            49,
-            72
-          ],
-          "media_url": "http://pbs.twimg.com/media/EuxHeStWgAg43NL.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EuxHeStWgAg43NL.jpg",
-          "url": "https://t.co/UfpqHwNIEA",
-          "display_url": "pic.twitter.com/UfpqHwNIEA",
-          "expanded_url": "https://twitter.com/catunderhood/status/1363559613434449921/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 891,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 505,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 950,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1363543372930121700,
-          "id_str": "1363543372930121736",
-          "indices": [
-            49,
-            72
-          ],
-          "media_url": "http://pbs.twimg.com/media/EuxHeStWgAg43NL.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EuxHeStWgAg43NL.jpg",
-          "url": "https://t.co/UfpqHwNIEA",
-          "display_url": "pic.twitter.com/UfpqHwNIEA",
-          "expanded_url": "https://twitter.com/catunderhood/status/1363559613434449921/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 891,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 505,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 950,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      485977172
+    ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 176,
+    "retweet_count": 2,
+    "favorite_count": 420,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
