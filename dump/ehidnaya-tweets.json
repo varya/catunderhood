@@ -1,0 +1,122 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sat Mar 06 18:31:16 +0000 2021",
+      "id": 1368267955033739300,
+      "id_str": "1368267955033739266",
+      "full_text": "Фемида желает вам хорошего субботнего вечера, если у вас ещё вечер :) https://t.co/nIiOYNZCIl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        69
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1368267867746148400,
+            "id_str": "1368267867746148357",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
+            "url": "https://t.co/nIiOYNZCIl",
+            "display_url": "pic.twitter.com/nIiOYNZCIl",
+            "expanded_url": "https://twitter.com/catunderhood/status/1368267955033739266/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 537,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1616,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 947,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1368267867746148400,
+            "id_str": "1368267867746148357",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
+            "url": "https://t.co/nIiOYNZCIl",
+            "display_url": "pic.twitter.com/nIiOYNZCIl",
+            "expanded_url": "https://twitter.com/catunderhood/status/1368267955033739266/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 537,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1616,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 947,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        200059041
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 157,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
