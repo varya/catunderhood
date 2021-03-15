@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 7293,
+  "followers_count": 7273,
   "friends_count": 39,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6462,
+  "favourites_count": 6694,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 19321,
+  "statuses_count": 19520,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 06 18:31:16 +0000 2021",
-    "id": 1368267955033739300,
-    "id_str": "1368267955033739266",
-    "text": "Фемида желает вам хорошего субботнего вечера, если у вас ещё вечер :) https://t.co/nIiOYNZCIl",
-    "truncated": false,
+    "created_at": "Sun Mar 14 20:59:28 +0000 2021",
+    "id": 1371204352677965800,
+    "id_str": "1371204352677965826",
+    "text": "Мы прощаемся с вами!\n\nСпасибо за возможность собрать фотки Клёпы в одном месте)\n\nЛюбите котов, заводите котов, с ни… https://t.co/rhWgDm0IVw",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1368267867746148400,
-          "id_str": "1368267867746148357",
+          "url": "https://t.co/rhWgDm0IVw",
+          "expanded_url": "https://twitter.com/i/web/status/1371204352677965826",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            70,
-            93
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
-          "url": "https://t.co/nIiOYNZCIl",
-          "display_url": "pic.twitter.com/nIiOYNZCIl",
-          "expanded_url": "https://twitter.com/catunderhood/status/1368267955033739266/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 537,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1616,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 947,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1368267867746148400,
-          "id_str": "1368267867746148357",
-          "indices": [
-            70,
-            93
-          ],
-          "media_url": "http://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Ev0QYFaXIAUPIwY.jpg",
-          "url": "https://t.co/nIiOYNZCIl",
-          "display_url": "pic.twitter.com/nIiOYNZCIl",
-          "expanded_url": "https://twitter.com/catunderhood/status/1368267955033739266/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 537,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1616,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 947,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -137,11 +69,13 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      200059041
+      69136179
     ],
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 157,
+    "is_quote_status": true,
+    "quoted_status_id": 1371203977115754500,
+    "quoted_status_id_str": "1371203977115754499",
+    "retweet_count": 1,
+    "favorite_count": 165,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
