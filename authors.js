@@ -1,6 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
+    { username: 'can_only_wait',  start: '26 April 2021', first: '1384133013697486860', post: false },
     { username: 'zyazevstepan',  start: '19 April 2021', first: '1384105521175613454' },
     { username: 'Utka_huyutka',  start: '12 April 2021', first: '1381540423697629189' },
     { username: 'hoperakova',  start: '5 April 2021', first: '1379096959416426500' },
