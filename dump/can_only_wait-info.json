@@ -26,140 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 7795,
+  "followers_count": 7799,
   "friends_count": 40,
   "listed_count": 27,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7421,
+  "favourites_count": 7514,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20433,
+  "statuses_count": 20588,
   "lang": null,
   "status": {
-    "created_at": "Mon Apr 19 13:13:21 +0000 2021",
-    "id": 1384133013697486800,
-    "id_str": "1384133013697486860",
-    "text": "\"Феликс и Персик\" Первое знакомство https://t.co/7C5OsQWbUM",
-    "truncated": false,
+    "created_at": "Sun May 02 15:30:00 +0000 2021",
+    "id": 1388878445891965000,
+    "id_str": "1388878445891964928",
+    "text": "на Сибирь опустилась ночь, и теперь мой дозор окончен :D надеюсь, с нами было интересно) \nспасибо вам за эту неделю… https://t.co/waTrxqyvuC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1384133003547340800,
-          "id_str": "1384133003547340804",
+          "url": "https://t.co/waTrxqyvuC",
+          "expanded_url": "https://twitter.com/i/web/status/1388878445891964928",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            36,
-            59
-          ],
-          "media_url": "http://pbs.twimg.com/media/EzVtoh5VcAQHa0s.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EzVtoh5VcAQHa0s.jpg",
-          "url": "https://t.co/7C5OsQWbUM",
-          "display_url": "pic.twitter.com/7C5OsQWbUM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1384133013697486860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 679,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1080,
-              "h": 1082,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1080,
-              "h": 1082,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1384133003547340800,
-          "id_str": "1384133003547340804",
-          "indices": [
-            36,
-            59
-          ],
-          "media_url": "http://pbs.twimg.com/media/EzVtoh5VcAQHa0s.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EzVtoh5VcAQHa0s.jpg",
-          "url": "https://t.co/7C5OsQWbUM",
-          "display_url": "pic.twitter.com/7C5OsQWbUM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1384133013697486860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 679,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1080,
-              "h": 1082,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1080,
-              "h": 1082,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1384133003505389600,
-          "id_str": "1384133003505389576",
-          "indices": [
-            36,
-            59
-          ],
-          "media_url": "http://pbs.twimg.com/media/EzVtohvVUAgu_XB.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EzVtohvVUAgu_XB.jpg",
-          "url": "https://t.co/7C5OsQWbUM",
-          "display_url": "pic.twitter.com/7C5OsQWbUM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1384133013697486860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 508,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 957,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 897,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -172,12 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1094001493
-    ],
+    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 267,
+    "favorite_count": 284,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -204,6 +98,7 @@
   "follow_request_sent": false,
   "notifications": false,
   "translator_type": "none",
+  "withheld_in_countries": [],
   "suspended": false,
   "needs_phone_verification": false
 }
