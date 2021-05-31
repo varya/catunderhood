@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 8158,
+  "followers_count": 8253,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7570,
+  "favourites_count": 7573,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 20742,
+  "statuses_count": 20834,
   "lang": null,
   "status": {
-    "created_at": "Sat May 22 11:00:01 +0000 2021",
-    "id": 1396058258650157000,
-    "id_str": "1396058258650157057",
-    "text": "иногда в квартиру залетает птичка, и патрик вспоминает, что он всё-таки хищник https://t.co/5VUfjcEDTC",
-    "truncated": false,
+    "created_at": "Sun May 30 18:45:30 +0000 2021",
+    "id": 1399074504358383600,
+    "id_str": "1399074504358383620",
+    "text": "Друзья! На этом я с вами прощаюсь. С вами было приятно и интересно (надеюсь, и вам со мной). Любите котиков и Стамб… https://t.co/brwRo5AWpB",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1395695701607202800,
-          "id_str": "1395695701607202816",
+          "url": "https://t.co/brwRo5AWpB",
+          "expanded_url": "https://twitter.com/i/web/status/1399074504358383620",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            79,
-            102
-          ],
-          "media_url": "http://pbs.twimg.com/media/E16B2IzWQAAauiy.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E16B2IzWQAAauiy.jpg",
-          "url": "https://t.co/5VUfjcEDTC",
-          "display_url": "pic.twitter.com/5VUfjcEDTC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1396058258650157057/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1395695701607202800,
-          "id_str": "1395695701607202816",
-          "indices": [
-            79,
-            102
-          ],
-          "media_url": "http://pbs.twimg.com/media/E16B2IzWQAAauiy.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E16B2IzWQAAauiy.jpg",
-          "url": "https://t.co/5VUfjcEDTC",
-          "display_url": "pic.twitter.com/5VUfjcEDTC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1396058258650157057/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      2748206381
+    ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 263,
+    "retweet_count": 1,
+    "favorite_count": 204,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
