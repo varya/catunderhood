@@ -1,0 +1,133 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun May 30 18:45:30 +0000 2021",
+      "id": 1399074504358383600,
+      "id_str": "1399074504358383620",
+      "full_text": "Друзья! На этом я с вами прощаюсь. С вами было приятно и интересно (надеюсь, и вам со мной). Любите котиков и Стамбул. Ваш Руслан @ablkmv https://t.co/L70z6BQkVq",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ablkmv",
+            "name": "Ruslan Ablyakimov",
+            "id": 2748206381,
+            "id_str": "2748206381",
+            "indices": [
+              130,
+              137
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1399073877993611300,
+            "id_str": "1399073877993611267",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/E2qCR4hWYAMT9XT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E2qCR4hWYAMT9XT.jpg",
+            "url": "https://t.co/L70z6BQkVq",
+            "display_url": "pic.twitter.com/L70z6BQkVq",
+            "expanded_url": "https://twitter.com/catunderhood/status/1399074504358383620/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1399073877993611300,
+            "id_str": "1399073877993611267",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/E2qCR4hWYAMT9XT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E2qCR4hWYAMT9XT.jpg",
+            "url": "https://t.co/L70z6BQkVq",
+            "display_url": "pic.twitter.com/L70z6BQkVq",
+            "expanded_url": "https://twitter.com/catunderhood/status/1399074504358383620/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 739569483556225000,
+        "id_str": "739569483556225025"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2748206381
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 208,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
