@@ -2,7 +2,7 @@
 
 export default [
     { username: 'oratblevat',  start: '14 June 2021', first: '1404158882587582468', post: false },
-    { username: 'senbermyau',  start: '7 June 2021', first: '1401785082810077200' },
+    { username: 'senbermyau',  start: '7 June 2021', first: '1401785082810077200', last: "1404197948167278598" },
     { username: 'me_Noemi',  start: '31 May 2021', first: '1399273927227199500' },
     { username: 'ablkmv',  start: '24 May 2021', first: '1396869162849476610' },
     { username: '2dead4lines',  start: '17 May 2021', first: '1394599630202151000' },
