@@ -121,12 +121,14 @@ task('rss', done => {
   const feed = new RSS(underhood.site);
   const authorsToPost = authors.filter(author => author.post !== false);
   authorsToPost.forEach(author => {
-    feed.item({
-      title: author.username,
-      description: render(firstTweet(author)),
-      url: `https://jsunderhood.ru/${author.username}/`,
-      date: firstTweet(author).created_at,
-    });
+    if (author.tweets.length > 0) {
+      feed.item({
+        title: author.username,
+        description: render(firstTweet(author)),
+        url: `https://jsunderhood.ru/${author.username}/`,
+        date: firstTweet(author).created_at,
+      });
+    }
   });
   output('dist/rss.xml', feed.xml({ indent: true }), done);
 });
