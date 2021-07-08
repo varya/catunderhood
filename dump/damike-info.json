@@ -30,42 +30,109 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8231,
+  "favourites_count": 8238,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21851,
+  "statuses_count": 21852,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 08 15:25:42 +0000 2021",
-    "id": 1413157351671140400,
-    "id_str": "1413157351671140358",
-    "text": "@chunga1changa Тооочно! Надо сделать что-нибудь смешное на эту тему.",
+    "created_at": "Thu Jul 08 15:31:40 +0000 2021",
+    "id": 1413158852472844300,
+    "id_str": "1413158852472844289",
+    "text": "Когда Робин был в гостях и впервые увидел котенка без шерсти и хвоста, он очень удивился. https://t.co/mgvP16rwXz",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "chunga1changa",
-          "name": "❌ i didn't like it but i ❌",
-          "id": 247528368,
-          "id_str": "247528368",
+          "id": 1413158656355577900,
+          "id_str": "1413158656355577858",
           "indices": [
-            0,
-            14
-          ]
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
+          "url": "https://t.co/mgvP16rwXz",
+          "display_url": "pic.twitter.com/mgvP16rwXz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1413158852472844289/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1413158656355577900,
+          "id_str": "1413158656355577858",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
+          "url": "https://t.co/mgvP16rwXz",
+          "display_url": "pic.twitter.com/mgvP16rwXz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1413158852472844289/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1413156119745335300,
-    "in_reply_to_status_id_str": "1413156119745335297",
-    "in_reply_to_user_id": 247528368,
-    "in_reply_to_user_id_str": "247528368",
-    "in_reply_to_screen_name": "chunga1changa",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +140,11 @@
       14598056
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 184,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
