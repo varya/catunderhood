@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21852,
+  "statuses_count": 21855,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 08 15:31:40 +0000 2021",
-    "id": 1413158852472844300,
-    "id_str": "1413158852472844289",
-    "text": "Когда Робин был в гостях и впервые увидел котенка без шерсти и хвоста, он очень удивился. https://t.co/mgvP16rwXz",
+    "created_at": "Thu Jul 08 16:50:01 +0000 2021",
+    "id": 1413178569640091600,
+    "id_str": "1413178569640091650",
+    "text": "Чё как? https://t.co/3GK4bkHfQT",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1413158656355577900,
-          "id_str": "1413158656355577858",
+          "id": 1413178481010167800,
+          "id_str": "1413178481010167813",
           "indices": [
-            90,
-            113
+            8,
+            31
           ],
-          "media_url": "http://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
-          "url": "https://t.co/mgvP16rwXz",
-          "display_url": "pic.twitter.com/mgvP16rwXz",
-          "expanded_url": "https://twitter.com/catunderhood/status/1413158852472844289/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E5yeV1TWUAUutMe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5yeV1TWUAUutMe.jpg",
+          "url": "https://t.co/3GK4bkHfQT",
+          "display_url": "pic.twitter.com/3GK4bkHfQT",
+          "expanded_url": "https://twitter.com/catunderhood/status/1413178569640091650/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -69,18 +69,18 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1024,
-              "h": 768,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
+              "w": 768,
+              "h": 1024,
               "resize": "fit"
             },
             "medium": {
-              "w": 1024,
-              "h": 768,
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
               "resize": "fit"
             }
           }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1413158656355577900,
-          "id_str": "1413158656355577858",
+          "id": 1413178481010167800,
+          "id_str": "1413178481010167813",
           "indices": [
-            90,
-            113
+            8,
+            31
           ],
-          "media_url": "http://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E5yMT4tXsAI4fkP.jpg",
-          "url": "https://t.co/mgvP16rwXz",
-          "display_url": "pic.twitter.com/mgvP16rwXz",
-          "expanded_url": "https://twitter.com/catunderhood/status/1413158852472844289/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E5yeV1TWUAUutMe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5yeV1TWUAUutMe.jpg",
+          "url": "https://t.co/3GK4bkHfQT",
+          "display_url": "pic.twitter.com/3GK4bkHfQT",
+          "expanded_url": "https://twitter.com/catunderhood/status/1413178569640091650/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -109,18 +109,18 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1024,
-              "h": 768,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
+              "w": 768,
+              "h": 1024,
               "resize": "fit"
             },
             "medium": {
-              "w": 1024,
-              "h": 768,
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
               "resize": "fit"
             }
           }
@@ -140,8 +140,8 @@
       14598056
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 184,
+    "retweet_count": 6,
+    "favorite_count": 142,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
