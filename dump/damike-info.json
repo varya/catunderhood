@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 8525,
+  "followers_count": 8528,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5371,
+  "favourites_count": 8258,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21890,
+  "statuses_count": 21894,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 10 10:16:42 +0000 2021",
-    "id": 1413804366365134800,
-    "id_str": "1413804366365134852",
-    "text": "6/4 В результате мы перевели кота полностью на натуральный рацион. Заготовки мяса (обычно делаем и морозим на 10 дн… https://t.co/7F3IKf7xKP",
-    "truncated": true,
+    "created_at": "Sat Jul 10 11:00:13 +0000 2021",
+    "id": 1413815317587955700,
+    "id_str": "1413815317587955717",
+    "text": "@Dontchase1 Так точно! \"А то снег башка попадёт — совсем мёртвый будешь\". Мало ли что сверху кидают - у нас 8 этаж, а всего 16.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/7F3IKf7xKP",
-          "expanded_url": "https://twitter.com/i/web/status/1413804366365134852",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Dontchase1",
+          "name": "бородатый антресоль",
+          "id": 1301192333858402300,
+          "id_str": "1301192333858402305",
           "indices": [
-            117,
-            140
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1413801880178790400,
-    "in_reply_to_status_id_str": "1413801880178790402",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1413812933616967700,
+    "in_reply_to_status_id_str": "1413812933616967684",
+    "in_reply_to_user_id": 1301192333858402300,
+    "in_reply_to_user_id_str": "1301192333858402305",
+    "in_reply_to_screen_name": "Dontchase1",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +74,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
