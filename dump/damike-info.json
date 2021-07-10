@@ -26,46 +26,45 @@
     }
   },
   "protected": false,
-  "followers_count": 8523,
+  "followers_count": 8525,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8256,
+  "favourites_count": 5371,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21882,
+  "statuses_count": 21890,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 09 19:54:17 +0000 2021",
-    "id": 1413587329084805000,
-    "id_str": "1413587329084805121",
-    "text": "@_vanswan Очень клёво. Наверное, кошка должна хотеть гулять и при этом обладать вполне устойчивой психикой. Тогда все получается.",
-    "truncated": false,
+    "created_at": "Sat Jul 10 10:16:42 +0000 2021",
+    "id": 1413804366365134800,
+    "id_str": "1413804366365134852",
+    "text": "6/4 В результате мы перевели кота полностью на натуральный рацион. Заготовки мяса (обычно делаем и морозим на 10 дн… https://t.co/7F3IKf7xKP",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "_vanswan",
-          "name": "A",
-          "id": 997231252351533000,
-          "id_str": "997231252351533058",
+          "url": "https://t.co/7F3IKf7xKP",
+          "expanded_url": "https://twitter.com/i/web/status/1413804366365134852",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1413537053178990600,
-    "in_reply_to_status_id_str": "1413537053178990600",
-    "in_reply_to_user_id": 997231252351533000,
-    "in_reply_to_user_id_str": "997231252351533058",
-    "in_reply_to_screen_name": "_vanswan",
+    "in_reply_to_status_id": 1413801880178790400,
+    "in_reply_to_status_id_str": "1413801880178790402",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
