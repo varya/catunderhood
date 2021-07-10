@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8528,
+  "followers_count": 8529,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21894,
+  "statuses_count": 21896,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 10 11:00:13 +0000 2021",
-    "id": 1413815317587955700,
-    "id_str": "1413815317587955717",
-    "text": "@Dontchase1 Так точно! \"А то снег башка попадёт — совсем мёртвый будешь\". Мало ли что сверху кидают - у нас 8 этаж, а всего 16.",
-    "truncated": false,
+    "created_at": "Sat Jul 10 11:59:23 +0000 2021",
+    "id": 1413830206704455700,
+    "id_str": "1413830206704455681",
+    "text": "6/7 Робин - на промышленном корме. Проблем с аппетитом и перевариванием у него никогда не было (дворовая закалка).… https://t.co/h9J7t8dw8U",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Dontchase1",
-          "name": "бородатый антресоль",
-          "id": 1301192333858402300,
-          "id_str": "1301192333858402305",
+          "url": "https://t.co/h9J7t8dw8U",
+          "expanded_url": "https://twitter.com/i/web/status/1413830206704455681",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            11
+            116,
+            139
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1413812933616967700,
-    "in_reply_to_status_id_str": "1413812933616967684",
-    "in_reply_to_user_id": 1301192333858402300,
-    "in_reply_to_user_id_str": "1301192333858402305",
-    "in_reply_to_screen_name": "Dontchase1",
+    "in_reply_to_status_id": 1413827017934573600,
+    "in_reply_to_status_id_str": "1413827017934573570",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
