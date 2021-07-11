@@ -35,33 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21905,
+  "statuses_count": 21907,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 10 18:37:27 +0000 2021",
-    "id": 1413930381154394000,
-    "id_str": "1413930381154394125",
-    "text": "@sweet_markellin Так неправильно. Это как ребенка после рождения оставить как есть - выплывет так выплывет. Но на с… https://t.co/nqT1B2pJBG",
+    "created_at": "Sun Jul 11 12:51:43 +0000 2021",
+    "id": 1414205766005936000,
+    "id_str": "1414205766005936132",
+    "text": "Хочется сказать важное про безопасность: пожалуйста, ставьте сетки-антикошки на балкон и проветриваемые окна!\nМоски… https://t.co/GCB2HSiOuY",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "sweet_markellin",
-          "name": "✨Маркеллин Роу✨",
-          "id": 1255548383319687200,
-          "id_str": "1255548383319687168",
-          "indices": [
-            0,
-            16
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/nqT1B2pJBG",
-          "expanded_url": "https://twitter.com/i/web/status/1413930381154394125",
+          "url": "https://t.co/GCB2HSiOuY",
+          "expanded_url": "https://twitter.com/i/web/status/1414205766005936132",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +60,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1413905786279968800,
-    "in_reply_to_status_id_str": "1413905786279968768",
-    "in_reply_to_user_id": 1255548383319687200,
-    "in_reply_to_user_id_str": "1255548383319687168",
-    "in_reply_to_screen_name": "sweet_markellin",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -83,8 +72,8 @@
       14598056
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 4,
+    "retweet_count": 3,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
