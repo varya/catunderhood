@@ -30,100 +30,32 @@
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5422,
+  "favourites_count": 5430,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21956,
+  "statuses_count": 21957,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 15 16:23:00 +0000 2021",
-    "id": 1415708485690396700,
-    "id_str": "1415708485690396677",
-    "text": "Что же с нами стало.jpg https://t.co/rcltqAsaZM",
-    "truncated": false,
+    "created_at": "Thu Jul 15 17:28:00 +0000 2021",
+    "id": 1415724843543191600,
+    "id_str": "1415724843543191552",
+    "text": "Месяцев до пяти сохранялся сосательный рефлекс. И по какой-то причине применялся он исключительно по отношению... к… https://t.co/vLeewAprJa",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1415613054880997400,
-          "id_str": "1415613054880997376",
+          "url": "https://t.co/vLeewAprJa",
+          "expanded_url": "https://twitter.com/i/web/status/1415724843543191552",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6VEkruWYAALcEn.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6VEkruWYAALcEn.jpg",
-          "url": "https://t.co/rcltqAsaZM",
-          "display_url": "pic.twitter.com/rcltqAsaZM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1415708485690396677/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1415613054880997400,
-          "id_str": "1415613054880997376",
-          "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6VEkruWYAALcEn.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6VEkruWYAALcEn.jpg",
-          "url": "https://t.co/rcltqAsaZM",
-          "display_url": "pic.twitter.com/rcltqAsaZM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1415708485690396677/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 243,
+    "retweet_count": 0,
+    "favorite_count": 92,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
