@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21947,
+  "statuses_count": 21948,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 15 08:05:45 +0000 2021",
-    "id": 1415583349419151400,
-    "id_str": "1415583349419151360",
-    "text": "Инспекция свежепостированного белья на предмет чистоты (до сих пор любимое занятие) https://t.co/IzBbdL480d",
-    "truncated": false,
+    "created_at": "Thu Jul 15 09:28:00 +0000 2021",
+    "id": 1415604047453646800,
+    "id_str": "1415604047453646852",
+    "text": "Здесь выражение кота называется: Ну ты посмотри в мои честные глаза и скажи, разве мог я прыгать по шторам? (спойле… https://t.co/x3wfqOIWnz",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1415583141025169400,
-          "id_str": "1415583141025169408",
+          "url": "https://t.co/x3wfqOIWnz",
+          "expanded_url": "https://twitter.com/i/web/status/1415604047453646852",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            84,
-            107
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6UpXd7WQAAxb13.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6UpXd7WQAAxb13.jpg",
-          "url": "https://t.co/IzBbdL480d",
-          "display_url": "pic.twitter.com/IzBbdL480d",
-          "expanded_url": "https://twitter.com/catunderhood/status/1415583349419151360/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1152,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1415583141025169400,
-          "id_str": "1415583141025169408",
-          "indices": [
-            84,
-            107
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6UpXd7WQAAxb13.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6UpXd7WQAAxb13.jpg",
-          "url": "https://t.co/IzBbdL480d",
-          "display_url": "pic.twitter.com/IzBbdL480d",
-          "expanded_url": "https://twitter.com/catunderhood/status/1415583349419151360/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1152,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,12 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1315325675683876900
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 159,
+    "retweet_count": 4,
+    "favorite_count": 151,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
