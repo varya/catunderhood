@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8587,
+  "followers_count": 8589,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21958,
+  "statuses_count": 21959,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 15 19:35:00 +0000 2021",
-    "id": 1415756804173176800,
-    "id_str": "1415756804173176832",
-    "text": "Оставайтесь с нами. Завтра о знакомстве с крысой, любви к кофе и просмотру кино и о том, что коты тоже умеют в \"дай… https://t.co/sjg2jZrvzH",
+    "created_at": "Fri Jul 16 09:53:49 +0000 2021",
+    "id": 1415972932875075600,
+    "id_str": "1415972932875075587",
+    "text": "Привет. Сегодня нет электричества - соседи что-то не то сделали с проводкой и подключили высокую нагрузку. Как резу… https://t.co/M6eJDlOuUI",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/sjg2jZrvzH",
-          "expanded_url": "https://twitter.com/i/web/status/1415756804173176832",
+          "url": "https://t.co/M6eJDlOuUI",
+          "expanded_url": "https://twitter.com/i/web/status/1415972932875075587",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -68,13 +68,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      1315325675683876900
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 196,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
