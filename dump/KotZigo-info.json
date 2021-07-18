@@ -26,35 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 8581,
+  "followers_count": 8579,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8363,
+  "favourites_count": 5479,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21997,
+  "statuses_count": 21998,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 18 16:29:23 +0000 2021",
-    "id": 1416797255714156500,
-    "id_str": "1416797255714156546",
-    "text": "Собака теперь живёт у меня, я её забрала у предыдущих хозяев, которые отказались. Всё хорошо)",
-    "truncated": false,
+    "created_at": "Sun Jul 18 17:53:01 +0000 2021",
+    "id": 1416818304879050800,
+    "id_str": "1416818304879050754",
+    "text": "@vlrkrllv Это он исполнил в самый первый день. )Из-за чего и провёл следующие три, передвигаясь по верхам квартиры… https://t.co/z1i9EirFh6",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "vlrkrllv",
+          "name": "oxfordComa",
+          "id": 1208139518,
+          "id_str": "1208139518",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z1i9EirFh6",
+          "expanded_url": "https://twitter.com/i/web/status/1416818304879050754",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1416792372160209000,
-    "in_reply_to_status_id_str": "1416792372160208898",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1416799973308502000,
+    "in_reply_to_status_id_str": "1416799973308502026",
+    "in_reply_to_user_id": 1208139518,
+    "in_reply_to_user_id_str": "1208139518",
+    "in_reply_to_screen_name": "vlrkrllv",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -63,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 31,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
