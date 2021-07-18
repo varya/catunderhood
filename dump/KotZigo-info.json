@@ -26,160 +26,69 @@
     }
   },
   "protected": false,
-  "followers_count": 8585,
+  "followers_count": 8584,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8346,
+  "favourites_count": 8362,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 21989,
+  "statuses_count": 21996,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 18 15:00:01 +0000 2021",
-    "id": 1416774768385273900,
-    "id_str": "1416774768385273860",
-    "text": "Вот ту вы можете видеть выражение кота: В смысле \"Зиготвоюмать\"? Я охотился и победил остатки рулона полотенец! https://t.co/3hcqYHKeSd",
+    "created_at": "Sun Jul 18 16:11:39 +0000 2021",
+    "id": 1416792793452789800,
+    "id_str": "1416792793452789762",
+    "text": "@chotkadivka https://t.co/F7pYU3qG3D",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1416686004191301600,
-          "id_str": "1416686004191301635",
+          "screen_name": "chotkadivka",
+          "name": "и шо?",
+          "id": 970928594192126000,
+          "id_str": "970928594192125952",
           "indices": [
-            112,
-            135
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6kUajYXEAMEEF8.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6kUajYXEAMEEF8.jpg",
-          "url": "https://t.co/3hcqYHKeSd",
-          "display_url": "pic.twitter.com/3hcqYHKeSd",
-          "expanded_url": "https://twitter.com/catunderhood/status/1416774768385273860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            0,
+            12
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 1416686004191301600,
-          "id_str": "1416686004191301635",
+          "url": "https://t.co/F7pYU3qG3D",
+          "expanded_url": "https://t.me/zigokot",
+          "display_url": "t.me/zigokot",
           "indices": [
-            112,
-            135
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6kUajYXEAMEEF8.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6kUajYXEAMEEF8.jpg",
-          "url": "https://t.co/3hcqYHKeSd",
-          "display_url": "pic.twitter.com/3hcqYHKeSd",
-          "expanded_url": "https://twitter.com/catunderhood/status/1416774768385273860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1416686004178653200,
-          "id_str": "1416686004178653188",
-          "indices": [
-            112,
-            135
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6kUajVWEAQt-i1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6kUajVWEAQt-i1.jpg",
-          "url": "https://t.co/3hcqYHKeSd",
-          "display_url": "pic.twitter.com/3hcqYHKeSd",
-          "expanded_url": "https://twitter.com/catunderhood/status/1416774768385273860/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            13,
+            36
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1416772663238930400,
+    "in_reply_to_status_id_str": "1416772663238930432",
+    "in_reply_to_user_id": 970928594192126000,
+    "in_reply_to_user_id_str": "970928594192125952",
+    "in_reply_to_screen_name": "chotkadivka",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      1315325675683876900
+    ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 58,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
