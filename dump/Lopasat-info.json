@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8624,
+  "followers_count": 8621,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22012,
+  "statuses_count": 22024,
   "lang": null,
   "status": {
-    "created_at": "Mon Jul 19 13:56:57 +0000 2021",
-    "id": 1417121282001416200,
-    "id_str": "1417121282001416200",
-    "text": "Он и сейчас продолжает так спать даже на новых квартирах. Хочется верить, что это от того, что он доверяет людям, к… https://t.co/o9riwIfsVI",
+    "created_at": "Tue Jul 20 17:14:11 +0000 2021",
+    "id": 1417533306430701600,
+    "id_str": "1417533306430701568",
+    "text": "@litchiclaw Вы правы - все зависит от кота. Мне бы было очень интересно погулять с активным котом и посмотреть, как… https://t.co/cUu026tZLS",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "litchiclaw",
+          "name": "Edge Lady | from roots to moons",
+          "id": 389494118,
+          "id_str": "389494118",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/o9riwIfsVI",
-          "expanded_url": "https://twitter.com/i/web/status/1417121282001416200",
+          "url": "https://t.co/cUu026tZLS",
+          "expanded_url": "https://twitter.com/i/web/status/1417533306430701568",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +71,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1417120629896192000,
-    "in_reply_to_status_id_str": "1417120629896192002",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1417528693765943300,
+    "in_reply_to_status_id_str": "1417528693765943300",
+    "in_reply_to_user_id": 389494118,
+    "in_reply_to_user_id_str": "389494118",
+    "in_reply_to_screen_name": "litchiclaw",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,11 +83,10 @@
       390328645
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 443,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
