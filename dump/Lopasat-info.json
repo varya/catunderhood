@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8621,
+  "followers_count": 8620,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,33 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22032,
+  "statuses_count": 22036,
   "lang": null,
   "status": {
-    "created_at": "Wed Jul 21 15:07:45 +0000 2021",
-    "id": 1417863878764081200,
-    "id_str": "1417863878764081164",
-    "text": "@supersergei4 Нет, тут я написала в русских рублях. (Это были расценки именно клиник в России). В РБ можно было сде… https://t.co/batZnskUfc",
+    "created_at": "Wed Jul 21 15:57:10 +0000 2021",
+    "id": 1417876311096369200,
+    "id_str": "1417876311096369154",
+    "text": "@SpyJ Мы не делали, и решали этот вопрос отдельно. Обычно, когда создаются ситуации невозможности сдачи анализа - э… https://t.co/r3WF3jTpUe",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "supersergei4",
-          "name": "Сергей (0+)",
-          "id": 289220870,
-          "id_str": "289220870",
+          "screen_name": "SpyJ",
+          "name": "$ladkaYA Ko$hechKa",
+          "id": 91564787,
+          "id_str": "91564787",
           "indices": [
             0,
-            13
+            5
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/batZnskUfc",
-          "expanded_url": "https://twitter.com/i/web/status/1417863878764081164",
+          "url": "https://t.co/r3WF3jTpUe",
+          "expanded_url": "https://twitter.com/i/web/status/1417876311096369154",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +71,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1417862811410120700,
-    "in_reply_to_status_id_str": "1417862811410120712",
-    "in_reply_to_user_id": 289220870,
-    "in_reply_to_user_id_str": "289220870",
-    "in_reply_to_screen_name": "supersergei4",
+    "in_reply_to_status_id": 1417874694812799000,
+    "in_reply_to_status_id_str": "1417874694812798979",
+    "in_reply_to_user_id": 91564787,
+    "in_reply_to_user_id_str": "91564787",
+    "in_reply_to_screen_name": "SpyJ",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
