@@ -26,113 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 8620,
+  "followers_count": 8621,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5469,
+  "favourites_count": 8355,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22025,
+  "statuses_count": 22032,
   "lang": null,
   "status": {
-    "created_at": "Tue Jul 20 17:54:37 +0000 2021",
-    "id": 1417543481044656000,
-    "id_str": "1417543481044656132",
-    "text": "\"Ну скока можно писать, можно же просто меня гладить\" https://t.co/rJiEZkCiFg",
-    "truncated": false,
+    "created_at": "Wed Jul 21 15:07:45 +0000 2021",
+    "id": 1417863878764081200,
+    "id_str": "1417863878764081164",
+    "text": "@supersergei4 Нет, тут я написала в русских рублях. (Это были расценки именно клиник в России). В РБ можно было сде… https://t.co/batZnskUfc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1417543455698571300,
-          "id_str": "1417543455698571265",
+          "screen_name": "supersergei4",
+          "name": "Сергей (0+)",
+          "id": 289220870,
+          "id_str": "289220870",
           "indices": [
-            54,
-            77
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6wgQzKX0AEojAA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6wgQzKX0AEojAA.jpg",
-          "url": "https://t.co/rJiEZkCiFg",
-          "display_url": "pic.twitter.com/rJiEZkCiFg",
-          "expanded_url": "https://twitter.com/catunderhood/status/1417543481044656132/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            0,
+            13
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 1417543455698571300,
-          "id_str": "1417543455698571265",
+          "url": "https://t.co/batZnskUfc",
+          "expanded_url": "https://twitter.com/i/web/status/1417863878764081164",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            54,
-            77
-          ],
-          "media_url": "http://pbs.twimg.com/media/E6wgQzKX0AEojAA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E6wgQzKX0AEojAA.jpg",
-          "url": "https://t.co/rJiEZkCiFg",
-          "display_url": "pic.twitter.com/rJiEZkCiFg",
-          "expanded_url": "https://twitter.com/catunderhood/status/1417543481044656132/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1417862811410120700,
+    "in_reply_to_status_id_str": "1417862811410120712",
+    "in_reply_to_user_id": 289220870,
+    "in_reply_to_user_id_str": "289220870",
+    "in_reply_to_screen_name": "supersergei4",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -140,11 +83,10 @@
       390328645
     ],
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 629,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
