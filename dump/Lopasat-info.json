@@ -30,42 +30,41 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8355,
+  "favourites_count": 5469,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22038,
+  "statuses_count": 22040,
   "lang": null,
   "status": {
-    "created_at": "Wed Jul 21 17:01:59 +0000 2021",
-    "id": 1417892623625425000,
-    "id_str": "1417892623625424901",
-    "text": "@EmptinessMs Производитель кота - это очень забавно))))))",
-    "truncated": false,
+    "created_at": "Thu Jul 22 14:22:44 +0000 2021",
+    "id": 1418214936094777300,
+    "id_str": "1418214936094777350",
+    "text": "Сегодня расскажу еще один забавный факт, про турудности жизни с котом. Не хватало мне, что моя жизнь полна переездо… https://t.co/l6OTF9rmTk",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "EmptinessMs",
-          "name": "невывожук.",
-          "id": 1053709213468377100,
-          "id_str": "1053709213468377088",
+          "url": "https://t.co/l6OTF9rmTk",
+          "expanded_url": "https://twitter.com/i/web/status/1418214936094777350",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            12
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1417868207956926500,
-    "in_reply_to_status_id_str": "1417868207956926470",
-    "in_reply_to_user_id": 1053709213468377100,
-    "in_reply_to_user_id_str": "1053709213468377088",
-    "in_reply_to_screen_name": "EmptinessMs",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
