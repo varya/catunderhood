@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8648,
+  "followers_count": 8649,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,33 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22054,
+  "statuses_count": 22067,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 24 14:15:31 +0000 2021",
-    "id": 1418937895914705000,
-    "id_str": "1418937895914704907",
-    "text": "@sweet_markellin Ну, так как мы жили совсем не долго мне сложно сказать обьективно - данная птица была с очень сква… https://t.co/k5XgfgVWV9",
+    "created_at": "Sat Jul 24 15:11:41 +0000 2021",
+    "id": 1418952030853415000,
+    "id_str": "1418952030853414913",
+    "text": "Я уже давно не работаю в этом месте и кошку не видела очень давно. Скучаю. Но я знаю, что у нее все хорошо и все, к… https://t.co/rRjoieUPCq",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "sweet_markellin",
-          "name": "✨Маркеллин Роу✨",
-          "id": 1255548383319687200,
-          "id_str": "1255548383319687168",
-          "indices": [
-            0,
-            16
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/k5XgfgVWV9",
-          "expanded_url": "https://twitter.com/i/web/status/1418937895914704907",
+          "url": "https://t.co/rRjoieUPCq",
+          "expanded_url": "https://twitter.com/i/web/status/1418952030853414913",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +60,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1418688234259992600,
-    "in_reply_to_status_id_str": "1418688234259992580",
-    "in_reply_to_user_id": 1255548383319687200,
-    "in_reply_to_user_id_str": "1255548383319687168",
-    "in_reply_to_screen_name": "sweet_markellin",
+    "in_reply_to_status_id": 1418951805678100500,
+    "in_reply_to_status_id_str": "1418951805678100488",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
