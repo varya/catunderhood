@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 8665,
+  "followers_count": 8664,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8355,
+  "favourites_count": 8356,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22069,
+  "statuses_count": 22073,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 25 17:34:31 +0000 2021",
-    "id": 1419350362557980700,
-    "id_str": "1419350362557980676",
-    "text": "Ну что, настала пора прощаться. Все ваши комплименты были переданы коту Хосе, ему очень приятно. А мне было очень п… https://t.co/NPzF9a9qoD",
+    "created_at": "Mon Jul 26 12:23:27 +0000 2021",
+    "id": 1419634466834821000,
+    "id_str": "1419634466834821120",
+    "text": "какое-то время алиса жила на улице. но благодаря своей настойчивости добрые люди забрали её к себе, а после отдали… https://t.co/jtDWc2NEKo",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,34 +49,33 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NPzF9a9qoD",
-          "expanded_url": "https://twitter.com/i/web/status/1419350362557980676",
+          "url": "https://t.co/jtDWc2NEKo",
+          "expanded_url": "https://twitter.com/i/web/status/1419634466834821120",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1419630372636221400,
+    "in_reply_to_status_id_str": "1419630372636221443",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
-      390328645
+      3794728049
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 601,
+    "retweet_count": 0,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
