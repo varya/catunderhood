@@ -26,113 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 8687,
+  "followers_count": 8686,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8368,
+  "favourites_count": 5485,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22128,
+  "statuses_count": 22131,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 04 11:19:40 +0000 2021",
-    "id": 1422879907617575000,
-    "id_str": "1422879907617574915",
-    "text": "Если на плите ничего нет тёпленького, то можно покараулить меня в душе. Вдруг утону🤨 https://t.co/UfEgf9ZwjC",
+    "created_at": "Wed Aug 04 15:23:41 +0000 2021",
+    "id": 1422941316879691800,
+    "id_str": "1422941316879691781",
+    "text": "@kaoririna Две коти-вдвое больше счастья 😍",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1422879600972025900,
-          "id_str": "1422879600972025858",
+          "screen_name": "kaoririna",
+          "name": "Кислый бойфренд",
+          "id": 94398828,
+          "id_str": "94398828",
           "indices": [
-            85,
-            108
-          ],
-          "media_url": "http://pbs.twimg.com/media/E78VdVYWUAIvi2G.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E78VdVYWUAIvi2G.jpg",
-          "url": "https://t.co/UfEgf9ZwjC",
-          "display_url": "pic.twitter.com/UfEgf9ZwjC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1422879907617574915/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 720,
-              "h": 923,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 923,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 530,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            0,
+            10
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1422879600972025900,
-          "id_str": "1422879600972025858",
-          "indices": [
-            85,
-            108
-          ],
-          "media_url": "http://pbs.twimg.com/media/E78VdVYWUAIvi2G.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E78VdVYWUAIvi2G.jpg",
-          "url": "https://t.co/UfEgf9ZwjC",
-          "display_url": "pic.twitter.com/UfEgf9ZwjC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1422879907617574915/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 720,
-              "h": 923,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 923,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 530,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1422878893208391700,
-    "in_reply_to_status_id_str": "1422878893208391685",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1422940587964182500,
+    "in_reply_to_status_id_str": "1422940587964182532",
+    "in_reply_to_user_id": 94398828,
+    "in_reply_to_user_id_str": "94398828",
+    "in_reply_to_screen_name": "kaoririna",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -140,11 +73,10 @@
       3352986532
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 139,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
