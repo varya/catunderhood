@@ -26,46 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 8690,
+  "followers_count": 8686,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8372,
+  "favourites_count": 8374,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22158,
+  "statuses_count": 22166,
   "lang": null,
   "status": {
-    "created_at": "Fri Aug 06 21:34:37 +0000 2021",
-    "id": 1423759438796759000,
-    "id_str": "1423759438796759047",
-    "text": "@glornaith Бедная зайка!",
+    "created_at": "Sun Aug 08 13:14:42 +0000 2021",
+    "id": 1424358407662932000,
+    "id_str": "1424358407662931971",
+    "text": "Я просто бешеный хозяин, трясусь над Котом как над ребенком и мне не стыдно😂 Может поэтому и здоров!!!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "glornaith",
-          "name": "Айриэн",
-          "id": 2734735976,
-          "id_str": "2734735976",
-          "indices": [
-            0,
-            10
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1423759033840898000,
-    "in_reply_to_status_id_str": "1423759033840898059",
-    "in_reply_to_user_id": 2734735976,
-    "in_reply_to_user_id_str": "2734735976",
-    "in_reply_to_screen_name": "glornaith",
+    "in_reply_to_status_id": 1424357315889803300,
+    "in_reply_to_status_id_str": "1424357315889803267",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,7 +63,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
