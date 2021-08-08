@@ -26,35 +26,113 @@
     }
   },
   "protected": false,
-  "followers_count": 8687,
+  "followers_count": 8686,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8374,
+  "favourites_count": 8375,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22166,
+  "statuses_count": 22167,
   "lang": null,
   "status": {
-    "created_at": "Sun Aug 08 13:14:42 +0000 2021",
-    "id": 1424358407662932000,
-    "id_str": "1424358407662931971",
-    "text": "Я просто бешеный хозяин, трясусь над Котом как над ребенком и мне не стыдно😂 Может поэтому и здоров!!!",
+    "created_at": "Sun Aug 08 17:38:37 +0000 2021",
+    "id": 1424424824634544000,
+    "id_str": "1424424824634544131",
+    "text": "Чиво делаешь тут?🙃 https://t.co/dmfALK6quW",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1424424660805070800,
+          "id_str": "1424424660805070856",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8SSrpyXsAggryN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8SSrpyXsAggryN.jpg",
+          "url": "https://t.co/dmfALK6quW",
+          "display_url": "pic.twitter.com/dmfALK6quW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1424424824634544131/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1629,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 915,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 518,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1424424660805070800,
+          "id_str": "1424424660805070856",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8SSrpyXsAggryN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8SSrpyXsAggryN.jpg",
+          "url": "https://t.co/dmfALK6quW",
+          "display_url": "pic.twitter.com/dmfALK6quW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1424424824634544131/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1629,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 915,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 518,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1424357315889803300,
-    "in_reply_to_status_id_str": "1424357315889803267",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -62,10 +140,11 @@
       3352986532
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 38,
+    "retweet_count": 1,
+    "favorite_count": 85,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
