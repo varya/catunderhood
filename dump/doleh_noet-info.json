@@ -35,33 +35,23 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22201,
+  "statuses_count": 22213,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 09 15:02:03 +0000 2021",
-    "id": 1424747812038881300,
-    "id_str": "1424747812038881283",
-    "text": "приколов у Шубса, кстати, много, в них входят\n-презрение к воде, которая находится в миске больше суток\n-сранье в т… https://t.co/KAe1h7Rc1j",
-    "truncated": true,
+    "created_at": "Mon Aug 09 20:17:51 +0000 2021",
+    "id": 1424827286990332000,
+    "id_str": "1424827286990331913",
+    "text": "весь сок в последних трех секундах, тренируем свою продолжительность внимания :)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/KAe1h7Rc1j",
-          "expanded_url": "https://twitter.com/i/web/status/1424747812038881283",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1424747334110433300,
-    "in_reply_to_status_id_str": "1424747334110433285",
+    "in_reply_to_status_id": 1424827085181395000,
+    "in_reply_to_status_id_str": "1424827085181394950",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -72,8 +62,8 @@
       783046632946434000
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 73,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
