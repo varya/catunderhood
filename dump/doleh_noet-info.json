@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8726,
+  "followers_count": 8728,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22256,
+  "statuses_count": 22260,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 11 13:24:40 +0000 2021",
-    "id": 1425448079721894000,
-    "id_str": "1425448079721893888",
-    "text": "@lacrima_less да, оттуда! спасибо большое :)",
-    "truncated": false,
+    "created_at": "Wed Aug 11 15:21:19 +0000 2021",
+    "id": 1425477434007294000,
+    "id_str": "1425477434007293953",
+    "text": "чтобы вы понимали, насколько Луночка не в нашей реальности бОльшую часть времени, расскажу про ее хобби\n\nона любит… https://t.co/FyADbVIY3v",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "lacrima_less",
-          "name": "бинхэ на полставки",
-          "id": 1860523446,
-          "id_str": "1860523446",
+          "url": "https://t.co/FyADbVIY3v",
+          "expanded_url": "https://twitter.com/i/web/status/1425477434007293953",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            13
+            116,
+            139
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1425434703016964000,
-    "in_reply_to_status_id_str": "1425434703016964118",
-    "in_reply_to_user_id": 1860523446,
-    "in_reply_to_user_id_str": "1860523446",
-    "in_reply_to_screen_name": "lacrima_less",
+    "in_reply_to_status_id": 1425476977918713900,
+    "in_reply_to_status_id_str": "1425476977918713858",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +72,11 @@
       783046632946434000
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
