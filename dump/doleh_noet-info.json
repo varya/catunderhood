@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8782,
+  "followers_count": 8789,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,47 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22270,
+  "statuses_count": 22277,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 11 19:02:25 +0000 2021",
-    "id": 1425533076373917700,
-    "id_str": "1425533076373917702",
-    "text": "@sran_gospodnja не знаю, если честно, по словам котохранителей Дора так делала всегда\n\nмы это списываем на то, что… https://t.co/Beft8Dz8w6",
+    "created_at": "Thu Aug 12 08:43:35 +0000 2021",
+    "id": 1425739732567445500,
+    "id_str": "1425739732567445506",
+    "text": "многие посетители, услышав, что в Республике есть президент, сразу думают о Хеми, однако он слишком глубоко погруже… https://t.co/a1d5oY358I",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "sran_gospodnja",
-          "name": "Princess Spewella",
-          "id": 318653813,
-          "id_str": "318653813",
-          "indices": [
-            0,
-            15
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/Beft8Dz8w6",
-          "expanded_url": "https://twitter.com/i/web/status/1425533076373917702",
+          "url": "https://t.co/a1d5oY358I",
+          "expanded_url": "https://twitter.com/i/web/status/1425739732567445506",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1425529690249388000,
-    "in_reply_to_status_id_str": "1425529690249388035",
-    "in_reply_to_user_id": 318653813,
-    "in_reply_to_user_id_str": "318653813",
-    "in_reply_to_screen_name": "sran_gospodnja",
+    "in_reply_to_status_id": 1425739353372995600,
+    "in_reply_to_status_id_str": "1425739353372995587",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 63,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
