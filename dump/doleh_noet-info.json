@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 8860,
+  "followers_count": 8859,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,33 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22311,
+  "statuses_count": 22315,
   "lang": null,
   "status": {
-    "created_at": "Fri Aug 13 18:10:41 +0000 2021",
-    "id": 1426244834617139200,
-    "id_str": "1426244834617139205",
-    "text": "@ciysha тут скорее бедный Ваня - многочасовые смены пашет, садится передохнуть, а к нему коты наперебой с требовани… https://t.co/p7kN56LuMx",
+    "created_at": "Fri Aug 13 19:56:01 +0000 2021",
+    "id": 1426271341846712300,
+    "id_str": "1426271341846712320",
+    "text": "и по возрасту (9, для породистых котиков это много), и по характеру Али - настоящая бабуля, она любит посопеть и по… https://t.co/DA0gTsfU4X",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ciysha",
-          "name": "Матильда Кшесинская",
-          "id": 313848836,
-          "id_str": "313848836",
-          "indices": [
-            0,
-            7
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/p7kN56LuMx",
-          "expanded_url": "https://twitter.com/i/web/status/1426244834617139205",
+          "url": "https://t.co/DA0gTsfU4X",
+          "expanded_url": "https://twitter.com/i/web/status/1426271341846712320",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +60,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1426243502682296300,
-    "in_reply_to_status_id_str": "1426243502682296321",
-    "in_reply_to_user_id": 313848836,
-    "in_reply_to_user_id_str": "313848836",
-    "in_reply_to_screen_name": "ciysha",
+    "in_reply_to_status_id": 1426270280188633000,
+    "in_reply_to_status_id_str": "1426270280188633089",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 63,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
