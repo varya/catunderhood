@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 8951,
+  "followers_count": 8952,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8422,
+  "favourites_count": 8435,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22421,
+  "statuses_count": 22433,
   "lang": null,
   "status": {
-    "created_at": "Tue Aug 17 09:28:36 +0000 2021",
-    "id": 1427562997673779200,
-    "id_str": "1427562997673779215",
-    "text": "Следующее включение будет через несколько часов, хозяйка уходит работать и делать исследование. Кошка, конечно же,… https://t.co/b43niriSRq",
-    "truncated": true,
+    "created_at": "Tue Aug 17 11:54:29 +0000 2021",
+    "id": 1427599711956095000,
+    "id_str": "1427599711956094981",
+    "text": "Настроение интроверт https://t.co/rBbjTCDn9U",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/b43niriSRq",
-          "expanded_url": "https://twitter.com/i/web/status/1427562997673779215",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1427599703307440000,
+          "id_str": "1427599703307440172",
           "indices": [
-            116,
-            139
-          ]
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
+          "url": "https://t.co/rBbjTCDn9U",
+          "display_url": "pic.twitter.com/rBbjTCDn9U",
+          "expanded_url": "https://twitter.com/catunderhood/status/1427599711956094981/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1427599703307440000,
+          "id_str": "1427599703307440172",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
+          "url": "https://t.co/rBbjTCDn9U",
+          "display_url": "pic.twitter.com/rBbjTCDn9U",
+          "expanded_url": "https://twitter.com/catunderhood/status/1427599711956094981/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,10 +140,11 @@
       1318143704184606700
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 27,
+    "retweet_count": 1,
+    "favorite_count": 86,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
