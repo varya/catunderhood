@@ -30,18 +30,18 @@
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8435,
+  "favourites_count": 8442,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22433,
+  "statuses_count": 22436,
   "lang": null,
   "status": {
-    "created_at": "Tue Aug 17 11:54:29 +0000 2021",
-    "id": 1427599711956095000,
-    "id_str": "1427599711956094981",
-    "text": "Настроение интроверт https://t.co/rBbjTCDn9U",
+    "created_at": "Tue Aug 17 15:17:35 +0000 2021",
+    "id": 1427650822045831200,
+    "id_str": "1427650822045831175",
+    "text": "Так, у хозяйки Чипы дедлайн и видяшки немного откладываются. Пока предлагается полюбоваться королевской креветочкой. https://t.co/6Sg2jkKkf7",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,19 +50,24 @@
       "urls": [],
       "media": [
         {
-          "id": 1427599703307440000,
-          "id_str": "1427599703307440172",
+          "id": 1427650730073149400,
+          "id_str": "1427650730073149448",
           "indices": [
-            21,
-            44
+            117,
+            140
           ],
-          "media_url": "http://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
-          "url": "https://t.co/rBbjTCDn9U",
-          "display_url": "pic.twitter.com/rBbjTCDn9U",
-          "expanded_url": "https://twitter.com/catunderhood/status/1427599711956094981/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E9AIxmVWUAghOiH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9AIxmVWUAghOiH.jpg",
+          "url": "https://t.co/6Sg2jkKkf7",
+          "display_url": "pic.twitter.com/6Sg2jkKkf7",
+          "expanded_url": "https://twitter.com/catunderhood/status/1427650822045831175/photo/1",
           "type": "photo",
           "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -76,11 +81,6 @@
             "large": {
               "w": 960,
               "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,19 +90,24 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1427599703307440000,
-          "id_str": "1427599703307440172",
+          "id": 1427650730073149400,
+          "id_str": "1427650730073149448",
           "indices": [
-            21,
-            44
+            117,
+            140
           ],
-          "media_url": "http://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E8_aXc0X0Cw-EK6.jpg",
-          "url": "https://t.co/rBbjTCDn9U",
-          "display_url": "pic.twitter.com/rBbjTCDn9U",
-          "expanded_url": "https://twitter.com/catunderhood/status/1427599711956094981/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E9AIxmVWUAghOiH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9AIxmVWUAghOiH.jpg",
+          "url": "https://t.co/6Sg2jkKkf7",
+          "display_url": "pic.twitter.com/6Sg2jkKkf7",
+          "expanded_url": "https://twitter.com/catunderhood/status/1427650822045831175/photo/1",
           "type": "photo",
           "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -116,11 +121,6 @@
             "large": {
               "w": 960,
               "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
               "resize": "fit"
             }
           }
@@ -140,8 +140,8 @@
       1318143704184606700
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 156,
+    "retweet_count": 0,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
