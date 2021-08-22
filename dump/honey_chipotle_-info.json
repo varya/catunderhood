@@ -30,42 +30,109 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5592,
+  "favourites_count": 8478,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22468,
+  "statuses_count": 22469,
   "lang": null,
   "status": {
-    "created_at": "Sun Aug 22 17:08:36 +0000 2021",
-    "id": 1429490702313050000,
-    "id_str": "1429490702313050115",
-    "text": "@li1401 Передала, слышится довольное урчание!",
+    "created_at": "Sun Aug 22 17:44:05 +0000 2021",
+    "id": 1429499632737038300,
+    "id_str": "1429499632737038343",
+    "text": "Редкое фото: ожившее чудо таксидермии (нет) https://t.co/dipjQtDFZo",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "li1401",
-          "name": "li",
-          "id": 3304044430,
-          "id_str": "3304044430",
+          "id": 1429499613338292200,
+          "id_str": "1429499613338292227",
           "indices": [
-            0,
-            7
-          ]
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9aaUxOWUAMcT6K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9aaUxOWUAMcT6K.jpg",
+          "url": "https://t.co/dipjQtDFZo",
+          "display_url": "pic.twitter.com/dipjQtDFZo",
+          "expanded_url": "https://twitter.com/catunderhood/status/1429499632737038343/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1429499613338292200,
+          "id_str": "1429499613338292227",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9aaUxOWUAMcT6K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9aaUxOWUAMcT6K.jpg",
+          "url": "https://t.co/dipjQtDFZo",
+          "display_url": "pic.twitter.com/dipjQtDFZo",
+          "expanded_url": "https://twitter.com/catunderhood/status/1429499632737038343/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1429490410150375400,
-    "in_reply_to_status_id_str": "1429490410150375429",
-    "in_reply_to_user_id": 3304044430,
-    "in_reply_to_user_id_str": "3304044430",
-    "in_reply_to_screen_name": "li1401",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +141,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 104,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
