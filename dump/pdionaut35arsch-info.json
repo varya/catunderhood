@@ -26,56 +26,113 @@
     }
   },
   "protected": false,
-  "followers_count": 8984,
+  "followers_count": 8983,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8489,
+  "favourites_count": 5614,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22489,
+  "statuses_count": 22500,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 23 15:12:13 +0000 2021",
-    "id": 1429823801894834200,
-    "id_str": "1429823801894834177",
-    "text": "@no_2ndchances Ого, ничего себе. Не, у нас такого не наблюдалось, все мячики на месте, только один потеряли при пер… https://t.co/ooBw2biL8w",
-    "truncated": true,
+    "created_at": "Mon Aug 23 16:30:27 +0000 2021",
+    "id": 1429843487344799700,
+    "id_str": "1429843487344799751",
+    "text": "Честно, это просто мех https://t.co/G7axblTU1k",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "no_2ndchances",
-          "name": "Meow",
-          "id": 1603732728,
-          "id_str": "1603732728",
+          "id": 1429843422911897600,
+          "id_str": "1429843422911897605",
           "indices": [
-            0,
-            14
-          ]
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9fTBHsXoAUVQfj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9fTBHsXoAUVQfj.jpg",
+          "url": "https://t.co/G7axblTU1k",
+          "display_url": "pic.twitter.com/G7axblTU1k",
+          "expanded_url": "https://twitter.com/catunderhood/status/1429843487344799751/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": [
+      ]
+    },
+    "extended_entities": {
+      "media": [
         {
-          "url": "https://t.co/ooBw2biL8w",
-          "expanded_url": "https://twitter.com/i/web/status/1429823801894834177",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1429843422911897600,
+          "id_str": "1429843422911897605",
           "indices": [
-            117,
-            140
-          ]
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9fTBHsXoAUVQfj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9fTBHsXoAUVQfj.jpg",
+          "url": "https://t.co/G7axblTU1k",
+          "display_url": "pic.twitter.com/G7axblTU1k",
+          "expanded_url": "https://twitter.com/catunderhood/status/1429843487344799751/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1429804424768147500,
-    "in_reply_to_status_id_str": "1429804424768147462",
-    "in_reply_to_user_id": 1603732728,
-    "in_reply_to_user_id_str": "1603732728",
-    "in_reply_to_screen_name": "no_2ndchances",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,9 +141,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
