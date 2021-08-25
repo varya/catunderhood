@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 8981,
+  "followers_count": 8979,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8518,
+  "favourites_count": 5639,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22566,
+  "statuses_count": 22569,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 25 13:56:54 +0000 2021",
-    "id": 1430529621745938400,
-    "id_str": "1430529621745938438",
-    "text": "Самая вкусная питса https://t.co/GokD9tu8av",
-    "truncated": false,
+    "created_at": "Wed Aug 25 15:18:48 +0000 2021",
+    "id": 1430550232148889600,
+    "id_str": "1430550232148889606",
+    "text": "Когда Дасти валяется или тянется, это всегда очень смешно для меня. Хочется подойти и начать ее тискать. А еще она… https://t.co/T2AK6Gt2BC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1430529555845025800,
-          "id_str": "1430529555845025795",
+          "url": "https://t.co/T2AK6Gt2BC",
+          "expanded_url": "https://twitter.com/i/web/status/1430550232148889606",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/media/E9pDDUDXEAM1a0A.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9pDDUDXEAM1a0A.jpg",
-          "url": "https://t.co/GokD9tu8av",
-          "display_url": "pic.twitter.com/GokD9tu8av",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430529621745938438/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1430529555845025800,
-          "id_str": "1430529555845025795",
-          "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/media/E9pDDUDXEAM1a0A.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9pDDUDXEAM1a0A.jpg",
-          "url": "https://t.co/GokD9tu8av",
-          "display_url": "pic.twitter.com/GokD9tu8av",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430529621745938438/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -139,9 +71,11 @@
     "contributors": [
       203118606
     ],
-    "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 122,
+    "is_quote_status": true,
+    "quoted_status_id": 1430549798441074700,
+    "quoted_status_id_str": "1430549798441074692",
+    "retweet_count": 0,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
