@@ -26,123 +26,67 @@
     }
   },
   "protected": false,
-  "followers_count": 8978,
+  "followers_count": 8979,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8515,
+  "favourites_count": 8516,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22561,
+  "statuses_count": 22562,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 25 07:10:00 +0000 2021",
-    "id": 1430427221039063000,
-    "id_str": "1430427221039063040",
-    "text": "Удобно https://t.co/MoK4Gvq0os",
-    "truncated": false,
+    "created_at": "Wed Aug 25 08:17:19 +0000 2021",
+    "id": 1430444164441854000,
+    "id_str": "1430444164441853952",
+    "text": "@sygqa Из натурального могу довериться только lick nose. К сожалению, сейчас сложно найти реально нормальное мясо.… https://t.co/xELgKor3ME",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1430421980105293800,
-          "id_str": "1430421980105293824",
+          "screen_name": "sygqa",
+          "name": "sygqa",
+          "id": 204315973,
+          "id_str": "204315973",
           "indices": [
-            7,
-            30
-          ],
-          "media_url": "http://pbs.twimg.com/media/E9nhNlMWQAAXvlg.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9nhNlMWQAAXvlg.jpg",
-          "url": "https://t.co/MoK4Gvq0os",
-          "display_url": "pic.twitter.com/MoK4Gvq0os",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430427221039063040/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            0,
+            6
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 1430421980105293800,
-          "id_str": "1430421980105293824",
+          "url": "https://t.co/xELgKor3ME",
+          "expanded_url": "https://twitter.com/i/web/status/1430444164441853952",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            7,
-            30
-          ],
-          "media_url": "http://pbs.twimg.com/media/E9nhNlMWQAAXvlg.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9nhNlMWQAAXvlg.jpg",
-          "url": "https://t.co/MoK4Gvq0os",
-          "display_url": "pic.twitter.com/MoK4Gvq0os",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430427221039063040/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1430424350709125000,
+    "in_reply_to_status_id_str": "1430424350709125121",
+    "in_reply_to_user_id": 204315973,
+    "in_reply_to_user_id_str": "204315973",
+    "in_reply_to_screen_name": "sygqa",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      203118606
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 42,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
