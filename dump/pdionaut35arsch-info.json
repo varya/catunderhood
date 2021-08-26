@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 8989,
+  "followers_count": 8991,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5668,
+  "favourites_count": 8557,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22587,
+  "statuses_count": 22588,
   "lang": null,
   "status": {
-    "created_at": "Thu Aug 26 13:56:41 +0000 2021",
-    "id": 1430891955420942300,
-    "id_str": "1430891955420942353",
-    "text": "Но однажды она выдала себя. Села передо мной и жалобно так смотрела. Но, кстати, воровать не хотела. Только смотрел… https://t.co/ao1HZYEdDn",
-    "truncated": true,
+    "created_at": "Thu Aug 26 14:31:18 +0000 2021",
+    "id": 1430900665061036000,
+    "id_str": "1430900665061036037",
+    "text": "@chikiro_twi Я не рискую иногда. Особенно, если в составе того, что я ем, есть опасные для кошек продукты.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/ao1HZYEdDn",
-          "expanded_url": "https://twitter.com/i/web/status/1430891955420942353",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "chikiro_twi",
+          "name": "Chikiro",
+          "id": 51188176,
+          "id_str": "51188176",
           "indices": [
-            117,
-            140
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1430891477031276500,
-    "in_reply_to_status_id_str": "1430891477031276552",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1430899626127757300,
+    "in_reply_to_status_id_str": "1430899626127757323",
+    "in_reply_to_user_id": 51188176,
+    "in_reply_to_user_id_str": "51188176",
+    "in_reply_to_screen_name": "chikiro_twi",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +74,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 66,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
