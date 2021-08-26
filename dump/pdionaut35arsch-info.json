@@ -30,18 +30,18 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5667,
+  "favourites_count": 8551,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22582,
+  "statuses_count": 22583,
   "lang": null,
   "status": {
-    "created_at": "Thu Aug 26 05:45:12 +0000 2021",
-    "id": 1430768267984052200,
-    "id_str": "1430768267984052228",
-    "text": "Проснулись не улыбнулись https://t.co/OlJz7SnkKQ",
+    "created_at": "Thu Aug 26 08:50:16 +0000 2021",
+    "id": 1430814842512945200,
+    "id_str": "1430814842512945156",
+    "text": "По всем законам тви \"нюдсочетверг\" https://t.co/j32vWAUzhF",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,22 +50,22 @@
       "urls": [],
       "media": [
         {
-          "id": 1430761061779640300,
-          "id_str": "1430761061779640321",
+          "id": 1430814762196144000,
+          "id_str": "1430814762196144129",
           "indices": [
-            25,
-            48
+            35,
+            58
           ],
-          "media_url": "http://pbs.twimg.com/media/E9sVmu3WEAEUYQO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9sVmu3WEAEUYQO.jpg",
-          "url": "https://t.co/OlJz7SnkKQ",
-          "display_url": "pic.twitter.com/OlJz7SnkKQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430768267984052228/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E9tGcggWEAE-EO6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9tGcggWEAE-EO6.jpg",
+          "url": "https://t.co/j32vWAUzhF",
+          "display_url": "pic.twitter.com/j32vWAUzhF",
+          "expanded_url": "https://twitter.com/catunderhood/status/1430814842512945156/photo/1",
           "type": "photo",
           "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
+            "medium": {
+              "w": 900,
+              "h": 1200,
               "resize": "fit"
             },
             "thumb": {
@@ -73,9 +73,9 @@
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+            "large": {
+              "w": 960,
+              "h": 1280,
               "resize": "fit"
             },
             "small": {
@@ -90,22 +90,22 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1430761061779640300,
-          "id_str": "1430761061779640321",
+          "id": 1430814762196144000,
+          "id_str": "1430814762196144129",
           "indices": [
-            25,
-            48
+            35,
+            58
           ],
-          "media_url": "http://pbs.twimg.com/media/E9sVmu3WEAEUYQO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E9sVmu3WEAEUYQO.jpg",
-          "url": "https://t.co/OlJz7SnkKQ",
-          "display_url": "pic.twitter.com/OlJz7SnkKQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1430768267984052228/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E9tGcggWEAE-EO6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9tGcggWEAE-EO6.jpg",
+          "url": "https://t.co/j32vWAUzhF",
+          "display_url": "pic.twitter.com/j32vWAUzhF",
+          "expanded_url": "https://twitter.com/catunderhood/status/1430814842512945156/photo/1",
           "type": "photo",
           "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
+            "medium": {
+              "w": 900,
+              "h": 1200,
               "resize": "fit"
             },
             "thumb": {
@@ -113,9 +113,9 @@
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+            "large": {
+              "w": 960,
+              "h": 1280,
               "resize": "fit"
             },
             "small": {
@@ -140,8 +140,8 @@
       203118606
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 332,
+    "retweet_count": 1,
+    "favorite_count": 100,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
