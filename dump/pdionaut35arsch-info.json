@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 9007,
+  "followers_count": 9008,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5700,
+  "favourites_count": 8583,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22632,
+  "statuses_count": 22635,
   "lang": null,
   "status": {
-    "created_at": "Sat Aug 28 16:04:06 +0000 2021",
-    "id": 1431648797625573400,
-    "id_str": "1431648797625573380",
-    "text": "-Давай купим дырокол?\n-У нас есть дома дырокол\n\nДырокол дома: https://t.co/1oXGe439os",
+    "created_at": "Sat Aug 28 16:52:36 +0000 2021",
+    "id": 1431661001636724700,
+    "id_str": "1431661001636724738",
+    "text": "Какой-то неправильный котик https://t.co/OJNvaElcNo",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,37 +50,37 @@
       "urls": [],
       "media": [
         {
-          "id": 1431648546403586000,
-          "id_str": "1431648546403586053",
+          "id": 1431660924528627700,
+          "id_str": "1431660924528627721",
           "indices": [
-            62,
-            85
+            28,
+            51
           ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
-          "url": "https://t.co/1oXGe439os",
-          "display_url": "pic.twitter.com/1oXGe439os",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431648797625573380/video/1",
+          "media_url": "http://pbs.twimg.com/media/E95IBo1WEAk8T-V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E95IBo1WEAk8T-V.jpg",
+          "url": "https://t.co/OJNvaElcNo",
+          "display_url": "pic.twitter.com/OJNvaElcNo",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431661001636724738/photo/1",
           "type": "photo",
           "sizes": {
+            "large": {
+              "w": 970,
+              "h": 1280,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 669,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 714,
-              "h": 1280,
-              "resize": "fit"
-            },
             "small": {
-              "w": 379,
+              "w": 515,
               "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 909,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,70 +90,39 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1431648546403586000,
-          "id_str": "1431648546403586053",
+          "id": 1431660924528627700,
+          "id_str": "1431660924528627721",
           "indices": [
-            62,
-            85
+            28,
+            51
           ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
-          "url": "https://t.co/1oXGe439os",
-          "display_url": "pic.twitter.com/1oXGe439os",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431648797625573380/video/1",
-          "type": "video",
+          "media_url": "http://pbs.twimg.com/media/E95IBo1WEAk8T-V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E95IBo1WEAk8T-V.jpg",
+          "url": "https://t.co/OJNvaElcNo",
+          "display_url": "pic.twitter.com/OJNvaElcNo",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431661001636724738/photo/1",
+          "type": "photo",
           "sizes": {
+            "large": {
+              "w": 970,
+              "h": 1280,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 669,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 714,
-              "h": 1280,
-              "resize": "fit"
-            },
             "small": {
-              "w": 379,
+              "w": 515,
               "h": 680,
               "resize": "fit"
+            },
+            "medium": {
+              "w": 909,
+              "h": 1200,
+              "resize": "fit"
             }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              357,
-              640
-            ],
-            "duration_millis": 14250,
-            "variants": [
-              {
-                "bitrate": 950000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/480x860/kGQ3Fu8NshrLcsBZ.mp4?tag=12"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/pl/TyaJNgImLxGTD3HR.m3u8?tag=12"
-              },
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/320x572/UN18WAUP0zF2tCW4.mp4?tag=12"
-              },
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/714x1280/Rl9vFqWktV-aLO8I.mp4?tag=12"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false
           }
         }
       ]
@@ -171,8 +140,8 @@
       203118606
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 88,
+    "retweet_count": 1,
+    "favorite_count": 60,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
