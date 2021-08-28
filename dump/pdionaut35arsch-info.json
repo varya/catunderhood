@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 9006,
+  "followers_count": 9007,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8581,
+  "favourites_count": 5700,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22628,
+  "statuses_count": 22632,
   "lang": null,
   "status": {
-    "created_at": "Sat Aug 28 13:29:19 +0000 2021",
-    "id": 1431609843723427800,
-    "id_str": "1431609843723427847",
-    "text": "Извините, а что-то какой-то вроде как буп будет? https://t.co/2iIVbOsegM",
+    "created_at": "Sat Aug 28 16:04:06 +0000 2021",
+    "id": 1431648797625573400,
+    "id_str": "1431648797625573380",
+    "text": "-Давай купим дырокол?\n-У нас есть дома дырокол\n\nДырокол дома: https://t.co/1oXGe439os",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1431609761666044000,
-          "id_str": "1431609761666043913",
+          "id": 1431648546403586000,
+          "id_str": "1431648546403586053",
           "indices": [
-            49,
-            72
+            62,
+            85
           ],
-          "media_url": "http://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
-          "url": "https://t.co/2iIVbOsegM",
-          "display_url": "pic.twitter.com/2iIVbOsegM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431609843723427847/photo/1",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
+          "url": "https://t.co/1oXGe439os",
+          "display_url": "pic.twitter.com/1oXGe439os",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431648797625573380/video/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -69,17 +69,17 @@
               "resize": "crop"
             },
             "medium": {
-              "w": 900,
+              "w": 669,
               "h": 1200,
               "resize": "fit"
             },
             "large": {
-              "w": 960,
+              "w": 714,
               "h": 1280,
               "resize": "fit"
             },
             "small": {
-              "w": 510,
+              "w": 379,
               "h": 680,
               "resize": "fit"
             }
@@ -90,18 +90,18 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1431609761666044000,
-          "id_str": "1431609761666043913",
+          "id": 1431648546403586000,
+          "id_str": "1431648546403586053",
           "indices": [
-            49,
-            72
+            62,
+            85
           ],
-          "media_url": "http://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
-          "url": "https://t.co/2iIVbOsegM",
-          "display_url": "pic.twitter.com/2iIVbOsegM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431609843723427847/photo/1",
-          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431648546403586053/pu/img/OnYbQjvAUNY-c8fC.jpg",
+          "url": "https://t.co/1oXGe439os",
+          "display_url": "pic.twitter.com/1oXGe439os",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431648797625573380/video/1",
+          "type": "video",
           "sizes": {
             "thumb": {
               "w": 150,
@@ -109,20 +109,51 @@
               "resize": "crop"
             },
             "medium": {
-              "w": 900,
+              "w": 669,
               "h": 1200,
               "resize": "fit"
             },
             "large": {
-              "w": 960,
+              "w": 714,
               "h": 1280,
               "resize": "fit"
             },
             "small": {
-              "w": 510,
+              "w": 379,
               "h": 680,
               "resize": "fit"
             }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              357,
+              640
+            ],
+            "duration_millis": 14250,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/480x860/kGQ3Fu8NshrLcsBZ.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/pl/TyaJNgImLxGTD3HR.m3u8?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/320x572/UN18WAUP0zF2tCW4.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1431648546403586053/pu/vid/714x1280/Rl9vFqWktV-aLO8I.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
           }
         }
       ]
@@ -140,8 +171,8 @@
       203118606
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 227,
+    "retweet_count": 7,
+    "favorite_count": 88,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
