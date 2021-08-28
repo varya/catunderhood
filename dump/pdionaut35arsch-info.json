@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9002,
+  "followers_count": 9004,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,47 +35,104 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22627,
+  "statuses_count": 22628,
   "lang": null,
   "status": {
-    "created_at": "Sat Aug 28 12:51:39 +0000 2021",
-    "id": 1431600365045223400,
-    "id_str": "1431600365045223426",
-    "text": "@boskrynnik Норм, да. А воняет(для людей), так как состав более натуральный и так пахнет белок, как я поняла. Все т… https://t.co/zaYQsML35V",
-    "truncated": true,
+    "created_at": "Sat Aug 28 13:29:19 +0000 2021",
+    "id": 1431609843723427800,
+    "id_str": "1431609843723427847",
+    "text": "Извините, а что-то какой-то вроде как буп будет? https://t.co/2iIVbOsegM",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "boskrynnik",
-          "name": "Boris Skrynnik",
-          "id": 137074876,
-          "id_str": "137074876",
+          "id": 1431609761666044000,
+          "id_str": "1431609761666043913",
           "indices": [
-            0,
-            11
-          ]
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
+          "url": "https://t.co/2iIVbOsegM",
+          "display_url": "pic.twitter.com/2iIVbOsegM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431609843723427847/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": [
+      ]
+    },
+    "extended_entities": {
+      "media": [
         {
-          "url": "https://t.co/zaYQsML35V",
-          "expanded_url": "https://twitter.com/i/web/status/1431600365045223426",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1431609761666044000,
+          "id_str": "1431609761666043913",
           "indices": [
-            117,
-            140
-          ]
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E94ZfkUWEAkOM4N.jpg",
+          "url": "https://t.co/2iIVbOsegM",
+          "display_url": "pic.twitter.com/2iIVbOsegM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1431609843723427847/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1430613906326790100,
-    "in_reply_to_status_id_str": "1430613906326790147",
-    "in_reply_to_user_id": 137074876,
-    "in_reply_to_user_id_str": "137074876",
-    "in_reply_to_screen_name": "boskrynnik",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -83,10 +140,11 @@
       203118606
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 5,
+    "favorite_count": 137,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
