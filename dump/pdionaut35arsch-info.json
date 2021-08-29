@@ -26,144 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9019,
+  "followers_count": 9021,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8583,
+  "favourites_count": 8586,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22637,
+  "statuses_count": 22639,
   "lang": null,
   "status": {
-    "created_at": "Sat Aug 28 19:19:15 +0000 2021",
-    "id": 1431697908638929000,
-    "id_str": "1431697908638928899",
-    "text": "Сладких снов 😌 https://t.co/b5xlq7C6IK",
+    "created_at": "Sun Aug 29 06:26:12 +0000 2021",
+    "id": 1431865750650867700,
+    "id_str": "1431865750650867714",
+    "text": "@Kat_shymaher93 Дыроколит вмеру, работает исправно. Правда таймера нет, будет работать когда вздумается",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1431697695920599000,
-          "id_str": "1431697695920599048",
+          "screen_name": "Kat_shymaher93",
+          "name": "🌚 Лишь бы поржать 🌚",
+          "id": 3637546937,
+          "id_str": "3637546937",
           "indices": [
-            15,
-            38
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431697695920599048/pu/img/-IiRYGgynFp6QjEa.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431697695920599048/pu/img/-IiRYGgynFp6QjEa.jpg",
-          "url": "https://t.co/b5xlq7C6IK",
-          "display_url": "pic.twitter.com/b5xlq7C6IK",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431697908638928899/video/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1280,
-              "h": 720,
-              "resize": "fit"
-            }
-          }
+            0,
+            15
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1431697695920599000,
-          "id_str": "1431697695920599048",
-          "indices": [
-            15,
-            38
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431697695920599048/pu/img/-IiRYGgynFp6QjEa.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431697695920599048/pu/img/-IiRYGgynFp6QjEa.jpg",
-          "url": "https://t.co/b5xlq7C6IK",
-          "display_url": "pic.twitter.com/b5xlq7C6IK",
-          "expanded_url": "https://twitter.com/catunderhood/status/1431697908638928899/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1280,
-              "h": 720,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              16,
-              9
-            ],
-            "duration_millis": 33967,
-            "variants": [
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431697695920599048/pu/vid/1280x720/xazc6q4X3Ea5R4QT.mp4?tag=12"
-              },
-              {
-                "bitrate": 256000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431697695920599048/pu/vid/480x270/EYTehYD4ck1BIdvt.mp4?tag=12"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1431697695920599048/pu/pl/Dv5giXnclEN3snls.m3u8?tag=12"
-              },
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1431697695920599048/pu/vid/640x360/dp90jk6o5Zr6A-UH.mp4?tag=12"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1431690898316877800,
+    "in_reply_to_status_id_str": "1431690898316877826",
+    "in_reply_to_user_id": 3637546937,
+    "in_reply_to_user_id_str": "3637546937",
+    "in_reply_to_screen_name": "Kat_shymaher93",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -171,11 +73,10 @@
       203118606
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 155,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
