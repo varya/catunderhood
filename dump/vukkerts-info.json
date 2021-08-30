@@ -26,40 +26,116 @@
     }
   },
   "protected": false,
-  "followers_count": 9036,
+  "followers_count": 9039,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5713,
+  "favourites_count": 8596,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22676,
+  "statuses_count": 22677,
   "lang": null,
   "status": {
-    "created_at": "Sun Aug 29 19:30:00 +0000 2021",
-    "id": 1432063001356431400,
-    "id_str": "1432063001356431361",
-    "text": "Ребята, спасибо вам огромное за эту крутецкую неделю.\nБыло приятно читать ваши отзывы.\nНадеюсь, вам тоже было интер… https://t.co/xoeyeuEZA3",
-    "truncated": true,
+    "created_at": "Mon Aug 30 08:11:42 +0000 2021",
+    "id": 1432254686854254600,
+    "id_str": "1432254686854254593",
+    "text": "#NewProfilePic https://t.co/eNyKtUcJhW",
+    "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "NewProfilePic",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/xoeyeuEZA3",
-          "expanded_url": "https://twitter.com/i/web/status/1432063001356431361",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1432254682513223700,
+          "id_str": "1432254682513223683",
           "indices": [
-            117,
-            140
-          ]
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-BkC5sXMAMOFLE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-BkC5sXMAMOFLE.jpg",
+          "url": "https://t.co/eNyKtUcJhW",
+          "display_url": "pic.twitter.com/eNyKtUcJhW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1432254686854254593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1432254682513223700,
+          "id_str": "1432254682513223683",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-BkC5sXMAMOFLE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-BkC5sXMAMOFLE.jpg",
+          "url": "https://t.co/eNyKtUcJhW",
+          "display_url": "pic.twitter.com/eNyKtUcJhW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1432254686854254593/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -71,11 +147,11 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 203,
+    "favorite_count": 47,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -84,8 +160,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1429720320995364866/l7pOgjJD_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429720320995364866/l7pOgjJD_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1432254668227350533/-Abs1myM_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432254668227350533/-Abs1myM_normal.jpg",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
