@@ -26,46 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 9052,
+  "followers_count": 9053,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8610,
+  "favourites_count": 8629,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22707,
+  "statuses_count": 22724,
   "lang": null,
   "status": {
-    "created_at": "Tue Aug 31 18:23:26 +0000 2021",
-    "id": 1432771022588162000,
-    "id_str": "1432771022588162053",
-    "text": "@NanaMaria44 ой, у Стикса какие-то опасные игры! может, купить ему мышку с кошачьей мятой?))",
-    "truncated": false,
+    "created_at": "Tue Aug 31 18:48:20 +0000 2021",
+    "id": 1432777290543505400,
+    "id_str": "1432777290543505415",
+    "text": "@BBB_Dandelion очень четкие цветовые предпочтения, уважаю!! взгляд у Цири, конечно, прекрасный! передаю  поглаживан… https://t.co/Bei9SZvzfE",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "NanaMaria44",
-          "name": "Нана",
-          "id": 921533957136580600,
-          "id_str": "921533957136580608",
+          "screen_name": "BBB_Dandelion",
+          "name": "плохAя $очная $ука",
+          "id": 1283094284,
+          "id_str": "1283094284",
           "indices": [
             0,
-            12
+            14
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Bei9SZvzfE",
+          "expanded_url": "https://twitter.com/i/web/status/1432777290543505415",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1432749371691577300,
-    "in_reply_to_status_id_str": "1432749371691577349",
-    "in_reply_to_user_id": 921533957136580600,
-    "in_reply_to_user_id_str": "921533957136580608",
-    "in_reply_to_screen_name": "NanaMaria44",
+    "in_reply_to_status_id": 1432712455822745600,
+    "in_reply_to_status_id_str": "1432712455822745611",
+    "in_reply_to_user_id": 1283094284,
+    "in_reply_to_user_id_str": "1283094284",
+    "in_reply_to_screen_name": "BBB_Dandelion",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
