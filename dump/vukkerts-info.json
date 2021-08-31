@@ -30,41 +30,52 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8596,
+  "favourites_count": 8599,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22682,
+  "statuses_count": 22688,
   "lang": null,
   "status": {
-    "created_at": "Tue Aug 31 09:21:17 +0000 2021",
-    "id": 1432634587465896000,
-    "id_str": "1432634587465895938",
-    "text": "я думаю, по нему видно, что он настоящий породистый дворянин 😅 он появился в нашей семье после того, как я маленька… https://t.co/lj4wbdo67j",
-    "truncated": true,
+    "created_at": "Tue Aug 31 09:35:29 +0000 2021",
+    "id": 1432638159553237000,
+    "id_str": "1432638159553236996",
+    "text": "@simps_barton @vukkerts я ему передам!!)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/lj4wbdo67j",
-          "expanded_url": "https://twitter.com/i/web/status/1432634587465895938",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "simps_barton",
+          "name": "Рентген Мопса🏴‍☠️",
+          "id": 1811730476,
+          "id_str": "1811730476",
           "indices": [
-            117,
-            140
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "vukkerts",
+          "name": "здравствуйте, киберславяне",
+          "id": 4170601948,
+          "id_str": "4170601948",
+          "indices": [
+            14,
+            23
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1432632704122691600,
-    "in_reply_to_status_id_str": "1432632704122691585",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1432637616344612900,
+    "in_reply_to_status_id_str": "1432637616344612867",
+    "in_reply_to_user_id": 1811730476,
+    "in_reply_to_user_id_str": "1811730476",
+    "in_reply_to_screen_name": "simps_barton",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
