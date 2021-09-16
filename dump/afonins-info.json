@@ -26,146 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 9088,
+  "followers_count": 9087,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8771,
+  "favourites_count": 5890,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22903,
+  "statuses_count": 22905,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 16 12:45:06 +0000 2021",
-    "id": 1438484087082262500,
-    "id_str": "1438484087082262533",
-    "text": "1. Животные и дети учат человека быть бдительным. \nЖивотное может сделать кусь из самого неожиданного места https://t.co/cbK1bPNOcU",
-    "truncated": false,
+    "created_at": "Thu Sep 16 13:52:11 +0000 2021",
+    "id": 1438500969696751600,
+    "id_str": "1438500969696751631",
+    "text": "8. Соло слишком милый, чтобы ему отказывать. Иногда он этим пользуется и наглеет :)))\nНапример, лечь мне на лицо не… https://t.co/tNfXt3egbC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1438483750187380700,
-          "id_str": "1438483750187380743",
+          "url": "https://t.co/tNfXt3egbC",
+          "expanded_url": "https://twitter.com/i/web/status/1438500969696751631",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_aFWXEXMAcVsVP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_aFWXEXMAcVsVP.jpg",
-          "url": "https://t.co/cbK1bPNOcU",
-          "display_url": "pic.twitter.com/cbK1bPNOcU",
-          "expanded_url": "https://twitter.com/catunderhood/status/1438484087082262533/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1438483750187380700,
-          "id_str": "1438483750187380743",
-          "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_aFWXEXMAcVsVP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_aFWXEXMAcVsVP.jpg",
-          "url": "https://t.co/cbK1bPNOcU",
-          "display_url": "pic.twitter.com/cbK1bPNOcU",
-          "expanded_url": "https://twitter.com/catunderhood/status/1438484087082262533/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1438484046888251400,
-          "id_str": "1438484046888251393",
-          "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_aFnoXXMAEIVCv.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_aFnoXXMAEIVCv.jpg",
-          "url": "https://t.co/cbK1bPNOcU",
-          "display_url": "pic.twitter.com/cbK1bPNOcU",
-          "expanded_url": "https://twitter.com/catunderhood/status/1438484087082262533/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 835,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 473,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1425,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1438469247533977600,
-    "in_reply_to_status_id_str": "1438469247533977601",
+    "in_reply_to_status_id": 1438484087082262500,
+    "in_reply_to_status_id_str": "1438484087082262533",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -176,8 +72,8 @@
       217097615
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 83,
+    "retweet_count": 0,
+    "favorite_count": 65,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
