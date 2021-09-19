@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22908,
+  "statuses_count": 22909,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 19 09:59:02 +0000 2021",
-    "id": 1439529458390683600,
-    "id_str": "1439529458390683650",
-    "text": "День рождения каждого члена семьи — важный праздник :) https://t.co/Dv2JvjLDNG",
-    "truncated": false,
+    "created_at": "Sun Sep 19 10:52:00 +0000 2021",
+    "id": 1439542785871425500,
+    "id_str": "1439542785871425538",
+    "text": "Кот очень любит мужа и может висеть на нем в любой позе. Да и сидеть сверху предпочитает у него на руках, а не на м… https://t.co/QUOCdYC4Ei",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1439529352207741000,
-          "id_str": "1439529352207740938",
+          "url": "https://t.co/QUOCdYC4Ei",
+          "expanded_url": "https://twitter.com/i/web/status/1439542785871425538",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_o8UaIXMAopWIN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_o8UaIXMAopWIN.jpg",
-          "url": "https://t.co/Dv2JvjLDNG",
-          "display_url": "pic.twitter.com/Dv2JvjLDNG",
-          "expanded_url": "https://twitter.com/catunderhood/status/1439529458390683650/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1439529352207741000,
-          "id_str": "1439529352207740938",
-          "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_o8UaIXMAopWIN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_o8UaIXMAopWIN.jpg",
-          "url": "https://t.co/Dv2JvjLDNG",
-          "display_url": "pic.twitter.com/Dv2JvjLDNG",
-          "expanded_url": "https://twitter.com/catunderhood/status/1439529458390683650/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,12 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      217097615
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 129,
+    "retweet_count": 1,
+    "favorite_count": 74,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
