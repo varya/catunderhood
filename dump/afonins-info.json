@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22914,
+  "statuses_count": 22915,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 19 15:35:26 +0000 2021",
-    "id": 1439614116046454800,
-    "id_str": "1439614116046454786",
-    "text": "О чем думает кот? https://t.co/g2bzlVoxpc",
-    "truncated": false,
+    "created_at": "Sun Sep 19 16:36:00 +0000 2021",
+    "id": 1439629356276465700,
+    "id_str": "1439629356276465670",
+    "text": "Гугусик доказал, что вселенская эгоистичность котов это миф. Если сильно любить кота и показывать ему это, он в отв… https://t.co/4VOZFMhdgc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1439614089152630800,
-          "id_str": "1439614089152630790",
+          "url": "https://t.co/4VOZFMhdgc",
+          "expanded_url": "https://twitter.com/i/web/status/1439629356276465670",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_qJYv2XEAYxECe.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_qJYv2XEAYxECe.jpg",
-          "url": "https://t.co/g2bzlVoxpc",
-          "display_url": "pic.twitter.com/g2bzlVoxpc",
-          "expanded_url": "https://twitter.com/catunderhood/status/1439614116046454786/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1439614089152630800,
-          "id_str": "1439614089152630790",
-          "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_qJYv2XEAYxECe.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_qJYv2XEAYxECe.jpg",
-          "url": "https://t.co/g2bzlVoxpc",
-          "display_url": "pic.twitter.com/g2bzlVoxpc",
-          "expanded_url": "https://twitter.com/catunderhood/status/1439614116046454786/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,12 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      217097615
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 165,
+    "retweet_count": 1,
+    "favorite_count": 111,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
