@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 9096,
+  "followers_count": 9097,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5917,
+  "favourites_count": 8798,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22915,
+  "statuses_count": 22916,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 19 16:36:00 +0000 2021",
-    "id": 1439629356276465700,
-    "id_str": "1439629356276465670",
-    "text": "Гугусик доказал, что вселенская эгоистичность котов это миф. Если сильно любить кота и показывать ему это, он в отв… https://t.co/4VOZFMhdgc",
-    "truncated": true,
+    "created_at": "Sun Sep 19 18:58:00 +0000 2021",
+    "id": 1439665091805384700,
+    "id_str": "1439665091805384708",
+    "text": "Капитан Хан Соло благодарит всех, кто читал и лайкал его на этой неделе!\nСпокойной ночи :) https://t.co/CZeeaQaX8k",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/4VOZFMhdgc",
-          "expanded_url": "https://twitter.com/i/web/status/1439629356276465670",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1439539398765424600,
+          "id_str": "1439539398765424643",
           "indices": [
-            117,
-            140
-          ]
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_pFdMeXsAMTXGR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_pFdMeXsAMTXGR.jpg",
+          "url": "https://t.co/CZeeaQaX8k",
+          "display_url": "pic.twitter.com/CZeeaQaX8k",
+          "expanded_url": "https://twitter.com/catunderhood/status/1439665091805384708/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1439539398765424600,
+          "id_str": "1439539398765424643",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_pFdMeXsAMTXGR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_pFdMeXsAMTXGR.jpg",
+          "url": "https://t.co/CZeeaQaX8k",
+          "display_url": "pic.twitter.com/CZeeaQaX8k",
+          "expanded_url": "https://twitter.com/catunderhood/status/1439665091805384708/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 163,
+    "retweet_count": 0,
+    "favorite_count": 89,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
