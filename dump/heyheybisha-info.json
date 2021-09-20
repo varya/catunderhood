@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22919,
+  "statuses_count": 22920,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 20 20:14:26 +0000 2021",
-    "id": 1440046716758073300,
-    "id_str": "1440046716758073348",
-    "text": "Питомники любят давать странные имена своим подопечным. По паспорту он Энтони Зависть Богов https://t.co/ICv3gtXuCi",
-    "truncated": false,
+    "created_at": "Mon Sep 20 20:53:16 +0000 2021",
+    "id": 1440056487745704000,
+    "id_str": "1440056487745703940",
+    "text": "Поясняю за имя. Йошимитсу это самурай из игры Tekken. Но на самом деле самурай из него никакущий. Он, как типичный… https://t.co/PkHBK5efR0",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1440046663112945700,
-          "id_str": "1440046663112945676",
+          "url": "https://t.co/PkHBK5efR0",
+          "expanded_url": "https://twitter.com/i/web/status/1440056487745703940",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            92,
-            115
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_wSz3bVcAwCb3S.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_wSz3bVcAwCb3S.jpg",
-          "url": "https://t.co/ICv3gtXuCi",
-          "display_url": "pic.twitter.com/ICv3gtXuCi",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440046716758073348/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1440046663112945700,
-          "id_str": "1440046663112945676",
-          "indices": [
-            92,
-            115
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_wSz3bVcAwCb3S.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_wSz3bVcAwCb3S.jpg",
-          "url": "https://t.co/ICv3gtXuCi",
-          "display_url": "pic.twitter.com/ICv3gtXuCi",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440046716758073348/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 50,
+    "retweet_count": 2,
+    "favorite_count": 101,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
