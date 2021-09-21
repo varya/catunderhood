@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9107,
+  "followers_count": 9108,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22920,
+  "statuses_count": 22921,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 20 20:53:16 +0000 2021",
-    "id": 1440056487745704000,
-    "id_str": "1440056487745703940",
-    "text": "Поясняю за имя. Йошимитсу это самурай из игры Tekken. Но на самом деле самурай из него никакущий. Он, как типичный… https://t.co/PkHBK5efR0",
-    "truncated": true,
+    "created_at": "Tue Sep 21 04:49:12 +0000 2021",
+    "id": 1440176262438211600,
+    "id_str": "1440176262438211605",
+    "text": "Йоши, Ёжик, Ёршик, Лёша https://t.co/AD9zZniU9y",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/PkHBK5efR0",
-          "expanded_url": "https://twitter.com/i/web/status/1440056487745703940",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1440175443982774300,
+          "id_str": "1440175443982774280",
           "indices": [
-            116,
-            139
-          ]
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
+          "url": "https://t.co/AD9zZniU9y",
+          "display_url": "pic.twitter.com/AD9zZniU9y",
+          "expanded_url": "https://twitter.com/catunderhood/status/1440176262438211605/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1440175443982774300,
+          "id_str": "1440175443982774280",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
+          "url": "https://t.co/AD9zZniU9y",
+          "display_url": "pic.twitter.com/AD9zZniU9y",
+          "expanded_url": "https://twitter.com/catunderhood/status/1440176262438211605/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,8 +140,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 372,
+    "retweet_count": 0,
+    "favorite_count": 103,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
