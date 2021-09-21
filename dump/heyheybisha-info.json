@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9113,
+  "followers_count": 9119,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22921,
+  "statuses_count": 22922,
   "lang": null,
   "status": {
-    "created_at": "Tue Sep 21 04:49:12 +0000 2021",
-    "id": 1440176262438211600,
-    "id_str": "1440176262438211605",
-    "text": "Йоши, Ёжик, Ёршик, Лёша https://t.co/AD9zZniU9y",
-    "truncated": false,
+    "created_at": "Tue Sep 21 08:58:08 +0000 2021",
+    "id": 1440238909263286300,
+    "id_str": "1440238909263286286",
+    "text": "Йоши очень избалованный парень. У него есть целых 2 кошачьих домика и муж регулярно мастерит ему новые из коробок,… https://t.co/imVsgAtfsq",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1440175443982774300,
-          "id_str": "1440175443982774280",
+          "url": "https://t.co/imVsgAtfsq",
+          "expanded_url": "https://twitter.com/i/web/status/1440238909263286286",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
-          "url": "https://t.co/AD9zZniU9y",
-          "display_url": "pic.twitter.com/AD9zZniU9y",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440176262438211605/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1440175443982774300,
-          "id_str": "1440175443982774280",
-          "indices": [
-            24,
-            47
-          ],
-          "media_url": "http://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_yH75jVcAgRTXZ.jpg",
-          "url": "https://t.co/AD9zZniU9y",
-          "display_url": "pic.twitter.com/AD9zZniU9y",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440176262438211605/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 410,
+    "retweet_count": 1,
+    "favorite_count": 89,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
