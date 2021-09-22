@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22927,
+  "statuses_count": 22928,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 22 07:30:42 +0000 2021",
-    "id": 1440579293667487700,
-    "id_str": "1440579293667487751",
-    "text": "Зазеркалье https://t.co/4VuB2xx1Kg",
+    "created_at": "Wed Sep 22 18:00:20 +0000 2021",
+    "id": 1440737745400320000,
+    "id_str": "1440737745400320008",
+    "text": "Единственное место в машине, где он спокойно переносит поездку https://t.co/aW0EptjGvE",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,28 +50,23 @@
       "urls": [],
       "media": [
         {
-          "id": 1440577129998024700,
-          "id_str": "1440577129998024706",
+          "id": 1440737679134494700,
+          "id_str": "1440737679134494723",
           "indices": [
-            11,
-            34
+            63,
+            86
           ],
-          "media_url": "http://pbs.twimg.com/media/E_31RGkVgAIN9px.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_31RGkVgAIN9px.jpg",
-          "url": "https://t.co/4VuB2xx1Kg",
-          "display_url": "pic.twitter.com/4VuB2xx1Kg",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440579293667487751/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E_6HSStVEAMmB5Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_6HSStVEAMmB5Q.jpg",
+          "url": "https://t.co/aW0EptjGvE",
+          "display_url": "pic.twitter.com/aW0EptjGvE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1440737745400320008/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
             },
             "small": {
               "w": 510,
@@ -81,6 +76,11 @@
             "medium": {
               "w": 900,
               "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
               "resize": "fit"
             }
           }
@@ -90,28 +90,23 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1440577129998024700,
-          "id_str": "1440577129998024706",
+          "id": 1440737679134494700,
+          "id_str": "1440737679134494723",
           "indices": [
-            11,
-            34
+            63,
+            86
           ],
-          "media_url": "http://pbs.twimg.com/media/E_31RGkVgAIN9px.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_31RGkVgAIN9px.jpg",
-          "url": "https://t.co/4VuB2xx1Kg",
-          "display_url": "pic.twitter.com/4VuB2xx1Kg",
-          "expanded_url": "https://twitter.com/catunderhood/status/1440579293667487751/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E_6HSStVEAMmB5Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_6HSStVEAMmB5Q.jpg",
+          "url": "https://t.co/aW0EptjGvE",
+          "display_url": "pic.twitter.com/aW0EptjGvE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1440737745400320008/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
             },
             "small": {
               "w": 510,
@@ -121,6 +116,11 @@
             "medium": {
               "w": 900,
               "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
               "resize": "fit"
             }
           }
@@ -140,12 +140,12 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 390,
+    "retweet_count": 1,
+    "favorite_count": 94,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
