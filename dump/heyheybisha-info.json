@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22931,
+  "statuses_count": 22932,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 23 15:32:27 +0000 2021",
-    "id": 1441062916166496300,
-    "id_str": "1441062916166496257",
-    "text": "Обязательный ритуал перед сном, намывать свою жопу по пол часа в кровати https://t.co/pERZ6I1mhG",
+    "created_at": "Thu Sep 23 18:51:35 +0000 2021",
+    "id": 1441113031388254200,
+    "id_str": "1441113031388254212",
+    "text": "Мявкнул котик, - Nevermore! https://t.co/Tt1yYJQ4B1",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,37 +50,37 @@
       "urls": [],
       "media": [
         {
-          "id": 1441062010402181000,
-          "id_str": "1441062010402181128",
+          "id": 1441112838903238700,
+          "id_str": "1441112838903238662",
           "indices": [
-            73,
-            96
+            28,
+            51
           ],
-          "media_url": "http://pbs.twimg.com/media/E_-uQ21VEAgYuRh.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_-uQ21VEAgYuRh.jpg",
-          "url": "https://t.co/pERZ6I1mhG",
-          "display_url": "pic.twitter.com/pERZ6I1mhG",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441062916166496257/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E__cfdwVEAYKITF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E__cfdwVEAYKITF.jpg",
+          "url": "https://t.co/Tt1yYJQ4B1",
+          "display_url": "pic.twitter.com/Tt1yYJQ4B1",
+          "expanded_url": "https://twitter.com/catunderhood/status/1441113031388254212/photo/1",
           "type": "photo",
           "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
             "large": {
               "w": 1536,
               "h": 2048,
               "resize": "fit"
             },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
             "small": {
               "w": 510,
               "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,37 +90,37 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1441062010402181000,
-          "id_str": "1441062010402181128",
+          "id": 1441112838903238700,
+          "id_str": "1441112838903238662",
           "indices": [
-            73,
-            96
+            28,
+            51
           ],
-          "media_url": "http://pbs.twimg.com/media/E_-uQ21VEAgYuRh.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/E_-uQ21VEAgYuRh.jpg",
-          "url": "https://t.co/pERZ6I1mhG",
-          "display_url": "pic.twitter.com/pERZ6I1mhG",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441062916166496257/photo/1",
+          "media_url": "http://pbs.twimg.com/media/E__cfdwVEAYKITF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E__cfdwVEAYKITF.jpg",
+          "url": "https://t.co/Tt1yYJQ4B1",
+          "display_url": "pic.twitter.com/Tt1yYJQ4B1",
+          "expanded_url": "https://twitter.com/catunderhood/status/1441113031388254212/photo/1",
           "type": "photo",
           "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
             "large": {
               "w": 1536,
               "h": 2048,
               "resize": "fit"
             },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
             "small": {
               "w": 510,
               "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -140,12 +140,12 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 304,
+    "retweet_count": 0,
+    "favorite_count": 124,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
