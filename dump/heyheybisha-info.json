@@ -30,32 +30,100 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8804,
+  "favourites_count": 5923,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22934,
+  "statuses_count": 22935,
   "lang": null,
   "status": {
-    "created_at": "Fri Sep 24 10:09:57 +0000 2021",
-    "id": 1441344145755312000,
-    "id_str": "1441344145755312138",
-    "text": "Ещё один факт про кунов. Они не любят воду. А те, кто любят и плавают, скорее исключение из правил. Попить из под к… https://t.co/54gUxK9R7U",
-    "truncated": true,
+    "created_at": "Fri Sep 24 14:19:36 +0000 2021",
+    "id": 1441406969760338000,
+    "id_str": "1441406969760337920",
+    "text": "Романтический ужин с любимым https://t.co/mMETUdEyyj",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/54gUxK9R7U",
-          "expanded_url": "https://twitter.com/i/web/status/1441344145755312138",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1441405644293148700,
+          "id_str": "1441405644293148673",
           "indices": [
-            117,
-            140
-          ]
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FADmy-1WEAEsNHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FADmy-1WEAEsNHl.jpg",
+          "url": "https://t.co/mMETUdEyyj",
+          "display_url": "pic.twitter.com/mMETUdEyyj",
+          "expanded_url": "https://twitter.com/catunderhood/status/1441406969760337920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1441405644293148700,
+          "id_str": "1441405644293148673",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FADmy-1WEAEsNHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FADmy-1WEAEsNHl.jpg",
+          "url": "https://t.co/mMETUdEyyj",
+          "display_url": "pic.twitter.com/mMETUdEyyj",
+          "expanded_url": "https://twitter.com/catunderhood/status/1441406969760337920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,8 +140,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 274,
+    "retweet_count": 8,
+    "favorite_count": 196,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
