@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9161,
+  "followers_count": 9162,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22933,
+  "statuses_count": 22934,
   "lang": null,
   "status": {
-    "created_at": "Fri Sep 24 04:01:34 +0000 2021",
-    "id": 1441251437137252400,
-    "id_str": "1441251437137252352",
-    "text": "Хорошо быть котом, можно спать целый день, а потом ночью наводить ужас на домочадцев https://t.co/NmCvyNba0p",
-    "truncated": false,
+    "created_at": "Fri Sep 24 10:09:57 +0000 2021",
+    "id": 1441344145755312000,
+    "id_str": "1441344145755312138",
+    "text": "Ещё один факт про кунов. Они не любят воду. А те, кто любят и плавают, скорее исключение из правил. Попить из под к… https://t.co/54gUxK9R7U",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1441251185713897500,
-          "id_str": "1441251185713897473",
+          "url": "https://t.co/54gUxK9R7U",
+          "expanded_url": "https://twitter.com/i/web/status/1441344145755312138",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            85,
-            108
-          ],
-          "media_url": "http://pbs.twimg.com/media/FABaUTyWYAEAmxf.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FABaUTyWYAEAmxf.jpg",
-          "url": "https://t.co/NmCvyNba0p",
-          "display_url": "pic.twitter.com/NmCvyNba0p",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441251437137252352/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1441251185713897500,
-          "id_str": "1441251185713897473",
-          "indices": [
-            85,
-            108
-          ],
-          "media_url": "http://pbs.twimg.com/media/FABaUTyWYAEAmxf.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FABaUTyWYAEAmxf.jpg",
-          "url": "https://t.co/NmCvyNba0p",
-          "display_url": "pic.twitter.com/NmCvyNba0p",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441251437137252352/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 463,
+    "retweet_count": 1,
+    "favorite_count": 51,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
