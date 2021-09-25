@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 9181,
+  "followers_count": 9183,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5923,
+  "favourites_count": 8804,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22938,
+  "statuses_count": 22939,
   "lang": null,
   "status": {
-    "created_at": "Sat Sep 25 15:35:59 +0000 2021",
-    "id": 1441788580095950800,
-    "id_str": "1441788580095950848",
-    "text": "Ничто котячье ему не чуждо. Даже впихнуть свою большую жёпку в маленькую коробку https://t.co/Teg3ZJP8Hn",
-    "truncated": false,
+    "created_at": "Sat Sep 25 20:42:07 +0000 2021",
+    "id": 1441865623995392000,
+    "id_str": "1441865623995392001",
+    "text": "С кунами можно гулять как с собаками, на улице. Но не всем это по душе. Йоши куда лучше чувствует себя в деревне на… https://t.co/eUU6yNtton",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1441788507526103000,
-          "id_str": "1441788507526103041",
+          "url": "https://t.co/eUU6yNtton",
+          "expanded_url": "https://twitter.com/i/web/status/1441865623995392001",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            81,
-            104
-          ],
-          "media_url": "http://pbs.twimg.com/media/FAJDAjhVgAEN_QI.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FAJDAjhVgAEN_QI.jpg",
-          "url": "https://t.co/Teg3ZJP8Hn",
-          "display_url": "pic.twitter.com/Teg3ZJP8Hn",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441788580095950848/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1441788507526103000,
-          "id_str": "1441788507526103041",
-          "indices": [
-            81,
-            104
-          ],
-          "media_url": "http://pbs.twimg.com/media/FAJDAjhVgAEN_QI.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FAJDAjhVgAEN_QI.jpg",
-          "url": "https://t.co/Teg3ZJP8Hn",
-          "display_url": "pic.twitter.com/Teg3ZJP8Hn",
-          "expanded_url": "https://twitter.com/catunderhood/status/1441788580095950848/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       436028851
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 398,
+    "retweet_count": 1,
+    "favorite_count": 77,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
