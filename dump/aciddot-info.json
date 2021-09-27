@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22946,
+  "statuses_count": 22947,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 27 15:30:00 +0000 2021",
-    "id": 1442511852093706200,
-    "id_str": "1442511852093706243",
-    "text": ".в декабре 2005 моя одногруппница сказала, что ее кошка (дворянка по происхождению) родила котят от сибирского кота… https://t.co/sC6KyXceHr",
+    "created_at": "Mon Sep 27 19:01:57 +0000 2021",
+    "id": 1442565187911839700,
+    "id_str": "1442565187911839747",
+    "text": ".когда я пришла забирать черного котенка, Мара слегка путаясь в шагах, но не теряя при этом уверенности и гордости,… https://t.co/4uUxcLKSQw",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/sC6KyXceHr",
-          "expanded_url": "https://twitter.com/i/web/status/1442511852093706243",
+          "url": "https://t.co/4uUxcLKSQw",
+          "expanded_url": "https://twitter.com/i/web/status/1442565187911839747",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -68,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      829649682716565500
+    ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 239,
+    "retweet_count": 0,
+    "favorite_count": 66,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
