@@ -35,95 +35,35 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22943,
+  "statuses_count": 22945,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 26 20:34:30 +0000 2021",
-    "id": 1442226092539056000,
-    "id_str": "1442226092539056128",
-    "text": "Рады были провести в вами эту недельку! Куны ван лав. Купите себе куна и будет вам счастье 😉 https://t.co/GZpfhUSli6",
-    "truncated": false,
+    "created_at": "Mon Sep 27 12:22:03 +0000 2021",
+    "id": 1442464551530815500,
+    "id_str": "1442464551530815490",
+    "text": ".недавно у Мары появился свой хештег #мохнатыйкусок\n\n.я не из тех котовладельцев, кто любит сюсюкаться, поэтому у М… https://t.co/Z7NSCzuFmx",
+    "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "мохнатыйкусок",
+          "indices": [
+            37,
+            51
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1442225781879550000,
-          "id_str": "1442225781879549955",
+          "url": "https://t.co/Z7NSCzuFmx",
+          "expanded_url": "https://twitter.com/i/web/status/1442464551530815490",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FAPQtRbXMAM8Ikx.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FAPQtRbXMAM8Ikx.jpg",
-          "url": "https://t.co/GZpfhUSli6",
-          "display_url": "pic.twitter.com/GZpfhUSli6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1442226092539056128/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1442225781879550000,
-          "id_str": "1442225781879549955",
-          "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FAPQtRbXMAM8Ikx.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FAPQtRbXMAM8Ikx.jpg",
-          "url": "https://t.co/GZpfhUSli6",
-          "display_url": "pic.twitter.com/GZpfhUSli6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1442226092539056128/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -137,11 +77,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      436028851
+      829649682716565500
     ],
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 497,
+    "retweet_count": 0,
+    "favorite_count": 27,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
