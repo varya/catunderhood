@@ -35,30 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22950,
+  "statuses_count": 22951,
   "lang": null,
   "status": {
-    "created_at": "Tue Sep 28 09:20:00 +0000 2021",
-    "id": 1442781124191821800,
-    "id_str": "1442781124191821824",
-    "text": "#мохнатыйкусок прекрасно понимает, что накосячил - всегда виновато подглядывая изза угла\n\n.когда я грозным тоном вы… https://t.co/0mFiJyDpJa",
+    "created_at": "Tue Sep 28 10:42:22 +0000 2021",
+    "id": 1442801854350598100,
+    "id_str": "1442801854350598156",
+    "text": ".самое злостное правонарушение - это сделать боольшие дела на коврик в ванной\n\n.так Мара поступает, если ей не понр… https://t.co/nXqKAvkutj",
     "truncated": true,
     "entities": {
-      "hashtags": [
-        {
-          "text": "мохнатыйкусок",
-          "indices": [
-            0,
-            14
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/0mFiJyDpJa",
-          "expanded_url": "https://twitter.com/i/web/status/1442781124191821824",
+          "url": "https://t.co/nXqKAvkutj",
+          "expanded_url": "https://twitter.com/i/web/status/1442801854350598156",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -76,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      829649682716565500
+    ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 101,
+    "retweet_count": 0,
+    "favorite_count": 51,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
