@@ -35,22 +35,30 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22949,
+  "statuses_count": 22950,
   "lang": null,
   "status": {
-    "created_at": "Tue Sep 28 06:25:00 +0000 2021",
-    "id": 1442737084058333200,
-    "id_str": "1442737084058333188",
-    "text": ".Мара прекрасно знает, что вся квартира в ее полном распоряжении \n.исключение - обеденный стол или кухонная рабочая… https://t.co/q0yuaXBWva",
+    "created_at": "Tue Sep 28 09:20:00 +0000 2021",
+    "id": 1442781124191821800,
+    "id_str": "1442781124191821824",
+    "text": "#мохнатыйкусок прекрасно понимает, что накосячил - всегда виновато подглядывая изза угла\n\n.когда я грозным тоном вы… https://t.co/0mFiJyDpJa",
     "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "мохнатыйкусок",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/q0yuaXBWva",
-          "expanded_url": "https://twitter.com/i/web/status/1442737084058333188",
+          "url": "https://t.co/0mFiJyDpJa",
+          "expanded_url": "https://twitter.com/i/web/status/1442781124191821824",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -70,8 +78,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 197,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
