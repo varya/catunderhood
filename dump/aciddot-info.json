@@ -30,27 +30,35 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8804,
+  "favourites_count": 5923,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22954,
+  "statuses_count": 22955,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 29 13:22:00 +0000 2021",
-    "id": 1443204413447884800,
-    "id_str": "1443204413447884806",
-    "text": ".вторая ее любимая игрушка, набита мятой и вроде как предназначена для чистки зубов, но ей просто нравится об нее т… https://t.co/w5mQt2ufRZ",
+    "created_at": "Wed Sep 29 19:34:18 +0000 2021",
+    "id": 1443298107991761000,
+    "id_str": "1443298107991760898",
+    "text": "как и большинство котиков #мохнатыйкусок любит располагаться на хозяйских вещах\n\n.почти всегда все вещи убраны и не… https://t.co/QQyE3Ngeav",
     "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "мохнатыйкусок",
+          "indices": [
+            26,
+            40
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/w5mQt2ufRZ",
-          "expanded_url": "https://twitter.com/i/web/status/1443204413447884806",
+          "url": "https://t.co/QQyE3Ngeav",
+          "expanded_url": "https://twitter.com/i/web/status/1443298107991760898",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -68,10 +76,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      829649682716565500
+    ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 197,
+    "retweet_count": 0,
+    "favorite_count": 93,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
