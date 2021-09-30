@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9214,
+  "followers_count": 9213,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,26 +35,34 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22957,
+  "statuses_count": 22958,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 30 05:54:00 +0000 2021",
-    "id": 1443454058174496800,
-    "id_str": "1443454058174496769",
-    "text": ".Мара первая кошка, у которой я увидела шерсть между подушечками (полагаю это от папы, как и меховая шуба)… https://t.co/snUqp5mF4Z",
+    "created_at": "Thu Sep 30 10:22:00 +0000 2021",
+    "id": 1443521502653997000,
+    "id_str": "1443521502653997059",
+    "text": ".до пандемии #мохнатыйкусок очень часто устраивал \"шерстяной блеф\", а чтобы облегчить жизнь себе и Маре я решила ее… https://t.co/V4Vodf03Z3",
     "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "мохнатыйкусок",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/snUqp5mF4Z",
-          "expanded_url": "https://twitter.com/i/web/status/1443454058174496769",
+          "url": "https://t.co/V4Vodf03Z3",
+          "expanded_url": "https://twitter.com/i/web/status/1443521502653997059",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            108,
-            131
+            117,
+            140
           ]
         }
       ]
@@ -71,7 +79,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 167,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
