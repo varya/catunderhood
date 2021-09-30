@@ -35,30 +35,22 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22958,
+  "statuses_count": 22959,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 30 10:22:00 +0000 2021",
-    "id": 1443521502653997000,
-    "id_str": "1443521502653997059",
-    "text": ".до пандемии #мохнатыйкусок очень часто устраивал \"шерстяной блеф\", а чтобы облегчить жизнь себе и Маре я решила ее… https://t.co/V4Vodf03Z3",
+    "created_at": "Thu Sep 30 16:46:59 +0000 2021",
+    "id": 1443618386869637000,
+    "id_str": "1443618386869637123",
+    "text": ".теперь я знаю, что стрижка не решение.. следовало сразу обратиться к ветеринару\n\n.нам повезло, хоть мы и были на г… https://t.co/ch88CQqbQu",
     "truncated": true,
     "entities": {
-      "hashtags": [
-        {
-          "text": "мохнатыйкусок",
-          "indices": [
-            13,
-            27
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/V4Vodf03Z3",
-          "expanded_url": "https://twitter.com/i/web/status/1443521502653997059",
+          "url": "https://t.co/ch88CQqbQu",
+          "expanded_url": "https://twitter.com/i/web/status/1443618386869637123",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -76,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      829649682716565500
+    ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 116,
+    "favorite_count": 66,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
