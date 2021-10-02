@@ -26,35 +26,43 @@
     }
   },
   "protected": false,
-  "followers_count": 9213,
+  "followers_count": 9214,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5918,
+  "favourites_count": 8797,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22962,
+  "statuses_count": 22963,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 02 16:46:10 +0000 2021",
-    "id": 1444342958195712000,
-    "id_str": "1444342958195712000",
-    "text": ".Мара не из тех кошек, которые запрыгивают на колени и всячески требуют поглаживаний\n.но при этом ей важно быть все… https://t.co/GX5ebYbWrB",
+    "created_at": "Sat Oct 02 19:28:54 +0000 2021",
+    "id": 1444383909744201700,
+    "id_str": "1444383909744201734",
+    "text": ".кроме теплого пола в ванной и дивана, больше всего #мохнатыйкусок любит чилить в определённом углу кухни на стуле… https://t.co/taGjh3dtec",
     "truncated": true,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "мохнатыйкусок",
+          "indices": [
+            52,
+            66
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/GX5ebYbWrB",
-          "expanded_url": "https://twitter.com/i/web/status/1444342958195712000",
+          "url": "https://t.co/taGjh3dtec",
+          "expanded_url": "https://twitter.com/i/web/status/1444383909744201734",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
@@ -72,8 +80,8 @@
       829649682716565500
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 149,
+    "retweet_count": 0,
+    "favorite_count": 91,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
