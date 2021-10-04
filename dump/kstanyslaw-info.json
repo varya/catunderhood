@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9219,
+  "followers_count": 9222,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 5920,
+  "favourites_count": 8810,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 22969,
+  "statuses_count": 22974,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 04 16:27:09 +0000 2021",
-    "id": 1445062947060035600,
-    "id_str": "1445062947060035585",
-    "text": "Тогда моя младшая сестра начала откладывать деньги на Мейн-куна. Так у нас появился Макс. \nНа этом фото он ещё мале… https://t.co/T3uqqHAWzm",
-    "truncated": true,
+    "created_at": "Mon Oct 04 17:05:16 +0000 2021",
+    "id": 1445072538632167400,
+    "id_str": "1445072538632167430",
+    "text": "@gip00 И правда похож😂",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/T3uqqHAWzm",
-          "expanded_url": "https://twitter.com/i/web/status/1445062947060035585",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "gip00",
+          "name": "Ivan",
+          "id": 34578514,
+          "id_str": "34578514",
           "indices": [
-            117,
-            140
+            0,
+            6
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1445061546997166000,
-    "in_reply_to_status_id_str": "1445061546997166084",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1445071139655626800,
+    "in_reply_to_status_id_str": "1445071139655626754",
+    "in_reply_to_user_id": 34578514,
+    "in_reply_to_user_id_str": "34578514",
+    "in_reply_to_screen_name": "gip00",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +74,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 16,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
