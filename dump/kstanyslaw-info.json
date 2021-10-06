@@ -26,53 +26,43 @@
     }
   },
   "protected": false,
-  "followers_count": 9261,
+  "followers_count": 9259,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8831,
+  "favourites_count": 5952,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23008,
+  "statuses_count": 23009,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 06 19:25:47 +0000 2021",
-    "id": 1445832677903450000,
-    "id_str": "1445832677903450113",
-    "text": "@_crash_n_burn Макс - не глупый, но вообще интеллект - штука индивидуальная для каждого отдельно взятого кота. Вооб… https://t.co/n5UNHMeyJG",
-    "truncated": true,
+    "created_at": "Wed Oct 06 20:25:58 +0000 2021",
+    "id": 1445847822331351000,
+    "id_str": "1445847822331351049",
+    "text": "@ANETANET10 *принесла, конечно же",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "_crash_n_burn",
-          "name": "Ступор мозговины",
-          "id": 209443193,
-          "id_str": "209443193",
+          "screen_name": "ANETANET10",
+          "name": "Анет Anet",
+          "id": 3297882166,
+          "id_str": "3297882166",
           "indices": [
             0,
-            14
+            11
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/n5UNHMeyJG",
-          "expanded_url": "https://twitter.com/i/web/status/1445832677903450113",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1445831379602792400,
-    "in_reply_to_status_id_str": "1445831379602792448",
+    "in_reply_to_status_id": 1445828163188166700,
+    "in_reply_to_status_id_str": "1445828163188166659",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -87,7 +77,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
