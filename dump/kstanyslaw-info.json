@@ -30,41 +30,42 @@
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8841,
+  "favourites_count": 8850,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23018,
+  "statuses_count": 23027,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 07 16:19:10 +0000 2021",
-    "id": 1446148100934996000,
-    "id_str": "1446148100934995972",
-    "text": "Мы думаем, что Феликс был домашним котом, потому что приучен к лотку. Но мы очень удивились, когда узнали, что Фели… https://t.co/1JUWLh2EPP",
-    "truncated": true,
+    "created_at": "Thu Oct 07 17:19:30 +0000 2021",
+    "id": 1446163288253993000,
+    "id_str": "1446163288253992964",
+    "text": "@Koteg_rnd Нам очень приятно, что Феликс Вам понравился😃",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1JUWLh2EPP",
-          "expanded_url": "https://twitter.com/i/web/status/1446148100934995972",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Koteg_rnd",
+          "name": "Bubblegum Cat",
+          "id": 244987576,
+          "id_str": "244987576",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1446145624580182000,
-    "in_reply_to_status_id_str": "1446145624580182019",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1446162815606313000,
+    "in_reply_to_status_id_str": "1446162815606312962",
+    "in_reply_to_user_id": 244987576,
+    "in_reply_to_user_id_str": "244987576",
+    "in_reply_to_screen_name": "Koteg_rnd",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,11 +73,10 @@
       207376653
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 13,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
