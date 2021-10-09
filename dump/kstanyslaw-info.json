@@ -26,35 +26,113 @@
     }
   },
   "protected": false,
-  "followers_count": 9272,
+  "followers_count": 9271,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8855,
+  "favourites_count": 5981,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23038,
+  "statuses_count": 23039,
   "lang": null,
   "status": {
-    "created_at": "Fri Oct 08 18:12:31 +0000 2021",
-    "id": 1446539016866869200,
-    "id_str": "1446539016866869249",
-    "text": "Рыся любит играть с верёвочкой, но она стесняется объективов, так что фото и видео у нас нет. Феликс слишком серьезный, он не любит играть.",
+    "created_at": "Sat Oct 09 15:17:23 +0000 2021",
+    "id": 1446857332042997800,
+    "id_str": "1446857332042997763",
+    "text": "Сегодня расскажем о том, как котики ведут (или не ведут) себя на улице. https://t.co/tOkHHSFSQM",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1446857310056423400,
+          "id_str": "1446857310056423431",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBRFDsaXIAc7pzW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBRFDsaXIAc7pzW.jpg",
+          "url": "https://t.co/tOkHHSFSQM",
+          "display_url": "pic.twitter.com/tOkHHSFSQM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1446857332042997763/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 853,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1446857310056423400,
+          "id_str": "1446857310056423431",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBRFDsaXIAc7pzW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBRFDsaXIAc7pzW.jpg",
+          "url": "https://t.co/tOkHHSFSQM",
+          "display_url": "pic.twitter.com/tOkHHSFSQM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1446857332042997763/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 853,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1446537981926551600,
-    "in_reply_to_status_id_str": "1446537981926551557",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -63,9 +141,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 152,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
