@@ -26,23 +26,23 @@
     }
   },
   "protected": false,
-  "followers_count": 9277,
+  "followers_count": 9278,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8876,
+  "favourites_count": 8877,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23080,
+  "statuses_count": 23081,
   "lang": null,
   "status": {
-    "created_at": "Sun Oct 10 19:02:32 +0000 2021",
-    "id": 1447276380790612000,
-    "id_str": "1447276380790611989",
-    "text": "@aurgelmyr @kstanyslaw @Sum_mer1810 На этих фото ещё ракурс играет важную роль. Объектив ближе к Максу. В жизни раз… https://t.co/wQSZxmxRYH",
-    "truncated": true,
+    "created_at": "Sun Oct 10 19:47:21 +0000 2021",
+    "id": 1447287655679545300,
+    "id_str": "1447287655679545345",
+    "text": "@aurgelmyr @kstanyslaw @Sum_mer1810 В этом Твитте есть фото, на которых нагляднее видны масштабы.\nhttps://t.co/CVbnpk2HBK",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -80,33 +80,36 @@
       ],
       "urls": [
         {
-          "url": "https://t.co/wQSZxmxRYH",
-          "expanded_url": "https://twitter.com/i/web/status/1447276380790611989",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/CVbnpk2HBK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1446145624580182019",
+          "display_url": "twitter.com/catunderhood/s…",
           "indices": [
-            117,
-            140
+            98,
+            121
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1447272197689577500,
-    "in_reply_to_status_id_str": "1447272197689577481",
-    "in_reply_to_user_id": 870997346800336900,
-    "in_reply_to_user_id_str": "870997346800336896",
-    "in_reply_to_screen_name": "aurgelmyr",
+    "in_reply_to_status_id": 1447276380790612000,
+    "in_reply_to_status_id_str": "1447276380790611989",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       207376653
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1446145624580182000,
+    "quoted_status_id_str": "1446145624580182019",
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
