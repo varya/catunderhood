@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9290,
+  "followers_count": 9291,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23103,
+  "statuses_count": 23112,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 13 16:27:04 +0000 2021",
-    "id": 1448324418992701400,
-    "id_str": "1448324418992701442",
-    "text": "@strepsosi лея не обделена) у неё на Пасху есть ещё красивый худа с кроликами )",
-    "truncated": false,
+    "created_at": "Wed Oct 13 19:12:50 +0000 2021",
+    "id": 1448366136412700700,
+    "id_str": "1448366136412700673",
+    "text": "В комментариях к твиту, где очень все подробно рассказываю про классы кормов и на что именно надо обратить внимание… https://t.co/hOley14n5G",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "strepsosi",
-          "name": "двуствольный анус",
-          "id": 1261206541082005500,
-          "id_str": "1261206541082005505",
+          "url": "https://t.co/hOley14n5G",
+          "expanded_url": "https://twitter.com/i/web/status/1448366136412700673",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            10
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1448320247719776300,
-    "in_reply_to_status_id_str": "1448320247719776257",
-    "in_reply_to_user_id": 1261206541082005500,
-    "in_reply_to_user_id_str": "1261206541082005505",
-    "in_reply_to_screen_name": "strepsosi",
+    "in_reply_to_status_id": 1448365675467063300,
+    "in_reply_to_status_id_str": "1448365675467063297",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
