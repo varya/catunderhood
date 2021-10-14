@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23114,
+  "statuses_count": 23116,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 14 03:14:40 +0000 2021",
-    "id": 1448487391132483600,
-    "id_str": "1448487391132483587",
-    "text": "@garkavem Так выглядит неплохо, хорошо бы видеть аналитический состав, посмотреть сколько процентов белок",
-    "truncated": false,
+    "created_at": "Thu Oct 14 04:10:50 +0000 2021",
+    "id": 1448501527308472300,
+    "id_str": "1448501527308472333",
+    "text": "Что удивительно,не смотря на всю раздражительность Леи и на то,что она гоняет Пеппер, стоит только Пеппер попасть в… https://t.co/kHC16wpP4S",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "garkavem",
-          "name": "Mariia Garkavenko",
-          "id": 975176727596060700,
-          "id_str": "975176727596060672",
+          "url": "https://t.co/kHC16wpP4S",
+          "expanded_url": "https://twitter.com/i/web/status/1448501527308472333",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1448423952745910300,
-    "in_reply_to_status_id_str": "1448423952745910282",
-    "in_reply_to_user_id": 975176727596060700,
-    "in_reply_to_user_id_str": "975176727596060672",
-    "in_reply_to_screen_name": "garkavem",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
