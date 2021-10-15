@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 9306,
+  "followers_count": 9307,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6033,
+  "favourites_count": 6039,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23121,
+  "statuses_count": 23122,
   "lang": null,
   "status": {
-    "created_at": "Fri Oct 15 16:09:40 +0000 2021",
-    "id": 1449044812972187600,
-    "id_str": "1449044812972187650",
-    "text": "Пеппер в отличии от Леи большая трусиха. Когда мы только ее взяли, она не могла мяукать. Она «скрипела», один раз м… https://t.co/0xKeNDWHHC",
-    "truncated": true,
+    "created_at": "Fri Oct 15 19:52:01 +0000 2021",
+    "id": 1449100770180157400,
+    "id_str": "1449100770180157440",
+    "text": "Уши. Картина маслом https://t.co/i6j6iMUiNk",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/0xKeNDWHHC",
-          "expanded_url": "https://twitter.com/i/web/status/1449044812972187650",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1449100395477815300,
+          "id_str": "1449100395477815300",
           "indices": [
-            117,
-            140
-          ]
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
+          "url": "https://t.co/i6j6iMUiNk",
+          "display_url": "pic.twitter.com/i6j6iMUiNk",
+          "expanded_url": "https://twitter.com/catunderhood/status/1449100770180157440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1669,
+              "h": 1669,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1449100395477815300,
+          "id_str": "1449100395477815300",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
+          "url": "https://t.co/i6j6iMUiNk",
+          "display_url": "pic.twitter.com/i6j6iMUiNk",
+          "expanded_url": "https://twitter.com/catunderhood/status/1449100770180157440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1669,
+              "h": 1669,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,9 +140,9 @@
       1062833442700906500
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 161,
-    "favorited": false,
+    "retweet_count": 7,
+    "favorite_count": 173,
+    "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
