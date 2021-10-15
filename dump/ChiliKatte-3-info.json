@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 9303,
+  "followers_count": 9305,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6031,
+  "favourites_count": 8905,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23119,
+  "statuses_count": 23120,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 14 19:28:39 +0000 2021",
-    "id": 1448732503490007000,
-    "id_str": "1448732503490007042",
-    "text": "Придумайте подпись к фотографии 😂 у меня это «ждун» https://t.co/nzzlTphWuP",
-    "truncated": false,
+    "created_at": "Fri Oct 15 15:19:30 +0000 2021",
+    "id": 1449032191212593200,
+    "id_str": "1449032191212593153",
+    "text": "С самого раннего детства, Пеппер все повторяла за Леей. Рыжая пьёт воду, смешно наклонив голову и Пеппер ее копиров… https://t.co/nBK47ymJqV",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1448732291291779000,
-          "id_str": "1448732291291779073",
+          "url": "https://t.co/nBK47ymJqV",
+          "expanded_url": "https://twitter.com/i/web/status/1449032191212593153",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            52,
-            75
-          ],
-          "media_url": "http://pbs.twimg.com/media/FBruV90VkAEi1hk.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FBruV90VkAEi1hk.jpg",
-          "url": "https://t.co/nzzlTphWuP",
-          "display_url": "pic.twitter.com/nzzlTphWuP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1448732503490007042/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 720,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 720,
-              "h": 960,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1448732291291779000,
-          "id_str": "1448732291291779073",
-          "indices": [
-            52,
-            75
-          ],
-          "media_url": "http://pbs.twimg.com/media/FBruV90VkAEi1hk.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FBruV90VkAEi1hk.jpg",
-          "url": "https://t.co/nzzlTphWuP",
-          "display_url": "pic.twitter.com/nzzlTphWuP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1448732503490007042/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 720,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 720,
-              "h": 960,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -140,9 +72,9 @@
       1062833442700906500
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 477,
-    "favorited": true,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
