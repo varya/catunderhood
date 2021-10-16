@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 9312,
+  "followers_count": 9314,
   "friends_count": 41,
   "listed_count": 24,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8913,
+  "favourites_count": 8915,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23122,
+  "statuses_count": 23126,
   "lang": null,
   "status": {
-    "created_at": "Fri Oct 15 19:52:01 +0000 2021",
-    "id": 1449100770180157400,
-    "id_str": "1449100770180157440",
-    "text": "Уши. Картина маслом https://t.co/i6j6iMUiNk",
-    "truncated": false,
+    "created_at": "Sat Oct 16 07:19:26 +0000 2021",
+    "id": 1449273767117484000,
+    "id_str": "1449273767117484037",
+    "text": "У Леи был домик, который она очень любила, пока не появилась Пеппер. Мы купили второй, абсолютно такой же. Думаете… https://t.co/jUufTfLbhN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1449100395477815300,
-          "id_str": "1449100395477815300",
+          "url": "https://t.co/jUufTfLbhN",
+          "expanded_url": "https://twitter.com/i/web/status/1449273767117484037",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
-          "url": "https://t.co/i6j6iMUiNk",
-          "display_url": "pic.twitter.com/i6j6iMUiNk",
-          "expanded_url": "https://twitter.com/catunderhood/status/1449100770180157440/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1669,
-              "h": 1669,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1449100395477815300,
-          "id_str": "1449100395477815300",
-          "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FBw9IcxVUAQv06b.jpg",
-          "url": "https://t.co/i6j6iMUiNk",
-          "display_url": "pic.twitter.com/i6j6iMUiNk",
-          "expanded_url": "https://twitter.com/catunderhood/status/1449100770180157440/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1669,
-              "h": 1669,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       1062833442700906500
     ],
     "is_quote_status": false,
-    "retweet_count": 23,
-    "favorite_count": 850,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
