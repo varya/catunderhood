@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9343,
+  "followers_count": 9344,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,23 +35,44 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23136,
+  "statuses_count": 23137,
   "lang": null,
   "status": {
-    "created_at": "Tue Oct 19 11:09:02 +0000 2021",
-    "id": 1450418710062186500,
-    "id_str": "1450418710062186497",
-    "text": "У подруги Ро прожил три года. А в 2019 я наконец-то съехала в отдельное жилье и забрала кота себе!",
-    "truncated": false,
+    "created_at": "Tue Oct 19 12:48:45 +0000 2021",
+    "id": 1450443803601551400,
+    "id_str": "1450443803601551365",
+    "text": "@YYURITIM2000 у нас изначально с подругой была договоренность что кот мой. А у нее свои две кошки, так что без люби… https://t.co/fFDVJio3cB",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "YYURITIM2000",
+          "name": "YUT",
+          "id": 943148835811061800,
+          "id_str": "943148835811061760",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fFDVJio3cB",
+          "expanded_url": "https://twitter.com/i/web/status/1450443803601551365",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1450416261842837500,
-    "in_reply_to_status_id_str": "1450416261842837505",
+    "in_reply_to_status_id": 1450418710062186500,
+    "in_reply_to_status_id_str": "1450418710062186497",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -63,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 63,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
