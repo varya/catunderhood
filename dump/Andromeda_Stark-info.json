@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23155,
+  "statuses_count": 23156,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 23 08:48:26 +0000 2021",
-    "id": 1451832878233493500,
-    "id_str": "1451832878233493516",
-    "text": "Без лишних слов. https://t.co/Uqz5YFyiks",
+    "created_at": "Sat Oct 23 09:30:00 +0000 2021",
+    "id": 1451843339129602000,
+    "id_str": "1451843339129602054",
+    "text": "Твое лицо когда пришел требовать второй завтрак. https://t.co/nbUsgKccSB",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1451832702580232200,
-          "id_str": "1451832702580232192",
+          "id": 1451835077906866200,
+          "id_str": "1451835077906866180",
           "indices": [
-            17,
-            40
+            49,
+            72
           ],
-          "media_url": "http://pbs.twimg.com/media/FCXyJp6XEAAoRfN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FCXyJp6XEAAoRfN.jpg",
-          "url": "https://t.co/Uqz5YFyiks",
-          "display_url": "pic.twitter.com/Uqz5YFyiks",
-          "expanded_url": "https://twitter.com/catunderhood/status/1451832878233493516/photo/1",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451835077906866180/pu/img/9RagoIvgjcqGPdVv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451835077906866180/pu/img/9RagoIvgjcqGPdVv.jpg",
+          "url": "https://t.co/nbUsgKccSB",
+          "display_url": "pic.twitter.com/nbUsgKccSB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1451843339129602054/video/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -68,19 +68,19 @@
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 1200,
-              "h": 675,
+            "small": {
+              "w": 383,
+              "h": 680,
               "resize": "fit"
             },
             "large": {
-              "w": 1280,
-              "h": 720,
+              "w": 720,
+              "h": 1280,
               "resize": "fit"
             },
-            "small": {
-              "w": 680,
-              "h": 383,
+            "medium": {
+              "w": 675,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,39 +90,70 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1451832702580232200,
-          "id_str": "1451832702580232192",
+          "id": 1451835077906866200,
+          "id_str": "1451835077906866180",
           "indices": [
-            17,
-            40
+            49,
+            72
           ],
-          "media_url": "http://pbs.twimg.com/media/FCXyJp6XEAAoRfN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FCXyJp6XEAAoRfN.jpg",
-          "url": "https://t.co/Uqz5YFyiks",
-          "display_url": "pic.twitter.com/Uqz5YFyiks",
-          "expanded_url": "https://twitter.com/catunderhood/status/1451832878233493516/photo/1",
-          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1451835077906866180/pu/img/9RagoIvgjcqGPdVv.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1451835077906866180/pu/img/9RagoIvgjcqGPdVv.jpg",
+          "url": "https://t.co/nbUsgKccSB",
+          "display_url": "pic.twitter.com/nbUsgKccSB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1451843339129602054/video/1",
+          "type": "video",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 1200,
-              "h": 675,
+            "small": {
+              "w": 383,
+              "h": 680,
               "resize": "fit"
             },
             "large": {
-              "w": 1280,
-              "h": 720,
+              "w": 720,
+              "h": 1280,
               "resize": "fit"
             },
-            "small": {
-              "w": 680,
-              "h": 383,
+            "medium": {
+              "w": 675,
+              "h": 1200,
               "resize": "fit"
             }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 39697,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1451835077906866180/pu/vid/320x568/xXvHRERHue5jHa4S.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1451835077906866180/pu/vid/480x852/vkCVYdGxAWZ8cFmu.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1451835077906866180/pu/pl/VgPOVeugW8cXWE8w.m3u8?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1451835077906866180/pu/vid/720x1280/dDSuUROYkiZATtKX.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
           }
         }
       ]
@@ -136,16 +167,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1107034477
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 134,
+    "retweet_count": 3,
+    "favorite_count": 109,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
