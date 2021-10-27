@@ -26,58 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 9380,
+  "followers_count": 9378,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8936,
+  "favourites_count": 6073,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23230,
+  "statuses_count": 23231,
   "lang": null,
   "status": {
-    "created_at": "Wed Oct 27 07:27:18 +0000 2021",
-    "id": 1453262010016219100,
-    "id_str": "1453262010016219140",
-    "text": "@Mekkie_Joy :)))",
-    "truncated": false,
+    "created_at": "Wed Oct 27 11:24:00 +0000 2021",
+    "id": 1453321578104725500,
+    "id_str": "1453321578104725506",
+    "text": "Кошка на самом деле очень мелкая. К зиме распушается и кажется толстой. Но она почти не выросла с тех пор как мы ее… https://t.co/9FQX0Rije7",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Mekkie_Joy",
-          "name": "Свинина в пиве",
-          "id": 484145579,
-          "id_str": "484145579",
+          "url": "https://t.co/9FQX0Rije7",
+          "expanded_url": "https://twitter.com/i/web/status/1453321578104725506",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            11
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1453261690922049500,
-    "in_reply_to_status_id_str": "1453261690922049539",
-    "in_reply_to_user_id": 484145579,
-    "in_reply_to_user_id_str": "484145579",
-    "in_reply_to_screen_name": "Mekkie_Joy",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      80895019
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 2,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
-    "lang": "und"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
