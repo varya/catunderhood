@@ -26,57 +26,123 @@
     }
   },
   "protected": false,
-  "followers_count": 9383,
+  "followers_count": 9381,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8949,
+  "favourites_count": 6085,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23255,
+  "statuses_count": 23256,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 28 08:05:30 +0000 2021",
-    "id": 1453634011516002300,
-    "id_str": "1453634011516002305",
-    "text": "@MaraStrega а-ха-ха",
+    "created_at": "Thu Oct 28 12:33:00 +0000 2021",
+    "id": 1453701330342760400,
+    "id_str": "1453701330342760454",
+    "text": "Найдёте кота? https://t.co/YvER3EQm7t",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "MaraStrega",
-          "name": "Доктор Сон",
-          "id": 264424780,
-          "id_str": "264424780",
+          "id": 1453575871541952500,
+          "id_str": "1453575871541952513",
           "indices": [
-            0,
-            11
-          ]
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCwjjcVWQAEhYu4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCwjjcVWQAEhYu4.jpg",
+          "url": "https://t.co/YvER3EQm7t",
+          "display_url": "pic.twitter.com/YvER3EQm7t",
+          "expanded_url": "https://twitter.com/catunderhood/status/1453701330342760454/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453575871541952500,
+          "id_str": "1453575871541952513",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCwjjcVWQAEhYu4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCwjjcVWQAEhYu4.jpg",
+          "url": "https://t.co/YvER3EQm7t",
+          "display_url": "pic.twitter.com/YvER3EQm7t",
+          "expanded_url": "https://twitter.com/catunderhood/status/1453701330342760454/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1453595167072604200,
-    "in_reply_to_status_id_str": "1453595167072604166",
-    "in_reply_to_user_id": 264424780,
-    "in_reply_to_user_id_str": "264424780",
-    "in_reply_to_screen_name": "MaraStrega",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      80895019
-    ],
+    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 98,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
