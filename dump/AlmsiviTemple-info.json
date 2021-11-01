@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9408,
+  "followers_count": 9409,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,38 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23289,
+  "statuses_count": 23290,
   "lang": null,
   "status": {
-    "created_at": "Sun Oct 31 15:47:31 +0000 2021",
-    "id": 1454837445787332600,
-    "id_str": "1454837445787332620",
-    "text": "Пока-пока. Будем с котам с удовольствуем наблюдать за жизнью новых котиков. https://t.co/F6UpiUayDC",
-    "truncated": false,
+    "created_at": "Mon Nov 01 08:53:53 +0000 2021",
+    "id": 1455095741282717700,
+    "id_str": "1455095741282717711",
+    "text": "Всем привет, на этой неделе с вами будут два серых брата - Никодим и Феофан, а также их хозяйка @AlmsiviTemple \nБуд… https://t.co/4MwWxSanTv",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1454836949534093300,
-          "id_str": "1454836949534093321",
+          "screen_name": "AlmsiviTemple",
+          "name": "Невъебенная лапочность",
+          "id": 824778158,
+          "id_str": "824778158",
           "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDCef18XsAkeVPC.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDCef18XsAkeVPC.jpg",
-          "url": "https://t.co/F6UpiUayDC",
-          "display_url": "pic.twitter.com/F6UpiUayDC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1454837445787332620/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            96,
+            110
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 1454836949534093300,
-          "id_str": "1454836949534093321",
+          "url": "https://t.co/4MwWxSanTv",
+          "expanded_url": "https://twitter.com/i/web/status/1455095741282717711",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDCef18XsAkeVPC.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDCef18XsAkeVPC.jpg",
-          "url": "https://t.co/F6UpiUayDC",
-          "display_url": "pic.twitter.com/F6UpiUayDC",
-          "expanded_url": "https://twitter.com/catunderhood/status/1454837445787332620/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -137,11 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      80895019
+      824778158
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 413,
+    "retweet_count": 2,
+    "favorite_count": 125,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
