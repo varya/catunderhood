@@ -26,42 +26,31 @@
     }
   },
   "protected": false,
-  "followers_count": 9409,
+  "followers_count": 9403,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8978,
+  "favourites_count": 6114,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23290,
+  "statuses_count": 23295,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 01 08:53:53 +0000 2021",
-    "id": 1455095741282717700,
-    "id_str": "1455095741282717711",
-    "text": "Всем привет, на этой неделе с вами будут два серых брата - Никодим и Феофан, а также их хозяйка @AlmsiviTemple \nБуд… https://t.co/4MwWxSanTv",
+    "created_at": "Mon Nov 01 09:49:00 +0000 2021",
+    "id": 1455109609589407700,
+    "id_str": "1455109609589407749",
+    "text": "После гибели тех котят я понимала, что других нужно будет брать после болезни - во-первых, это оградило бы их от во… https://t.co/KikvQxq6Jv",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "AlmsiviTemple",
-          "name": "Невъебенная лапочность",
-          "id": 824778158,
-          "id_str": "824778158",
-          "indices": [
-            96,
-            110
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/4MwWxSanTv",
-          "expanded_url": "https://twitter.com/i/web/status/1455095741282717711",
+          "url": "https://t.co/KikvQxq6Jv",
+          "expanded_url": "https://twitter.com/i/web/status/1455109609589407749",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -79,15 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      824778158
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 125,
+    "retweet_count": 0,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
