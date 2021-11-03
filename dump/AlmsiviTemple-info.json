@@ -35,115 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23346,
+  "statuses_count": 23347,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 03 12:52:25 +0000 2021",
-    "id": 1455880543619399700,
-    "id_str": "1455880543619399680",
-    "text": "По последней фотке моя подруга @Zolushka_II даже сделала мем! https://t.co/5R3zqgPSj6",
-    "truncated": false,
+    "created_at": "Wed Nov 03 15:21:00 +0000 2021",
+    "id": 1455917938406482000,
+    "id_str": "1455917938406481920",
+    "text": "Как я уже говорила коты очень любят друг друга. Но не смотря на это иногда устраивают ритуальные драки - скорее, иг… https://t.co/63WYnmUeGm",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Zolushka_II",
-          "name": "artificial intelligentsia",
-          "id": 161203324,
-          "id_str": "161203324",
+          "url": "https://t.co/63WYnmUeGm",
+          "expanded_url": "https://twitter.com/i/web/status/1455917938406481920",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            31,
-            43
+            117,
+            140
           ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1455880536002531300,
-          "id_str": "1455880536002531330",
-          "indices": [
-            62,
-            85
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDRTokfWEAIEvE3.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDRTokfWEAIEvE3.jpg",
-          "url": "https://t.co/5R3zqgPSj6",
-          "display_url": "pic.twitter.com/5R3zqgPSj6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1455880543619399680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 720,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1455880536002531300,
-          "id_str": "1455880536002531330",
-          "indices": [
-            62,
-            85
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDRTokfWEAIEvE3.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDRTokfWEAIEvE3.jpg",
-          "url": "https://t.co/5R3zqgPSj6",
-          "display_url": "pic.twitter.com/5R3zqgPSj6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1455880543619399680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 720,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 383,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            }
-          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1455879791400341500,
-    "in_reply_to_status_id_str": "1455879791400341507",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -151,11 +72,10 @@
       824778158
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 86,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
