@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9432,
+  "followers_count": 9431,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23395,
+  "statuses_count": 23400,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 08 18:26:48 +0000 2021",
-    "id": 1457776634883240000,
-    "id_str": "1457776634883239938",
-    "text": "Сегодня я очень мало рассказала вам о своих кошочках, но обязательно исправлюсь завтра! Для пущего драматизму вот ф… https://t.co/siWeGjwj4H",
+    "created_at": "Tue Nov 09 08:24:22 +0000 2021",
+    "id": 1457987415851819000,
+    "id_str": "1457987415851819009",
+    "text": "особой любовью у Ларри пользуются мои кремы для ног (и вообще все, что пахнет мятой) и гель с алое для лица. Оставл… https://t.co/LaKihSf2pd",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/siWeGjwj4H",
-          "expanded_url": "https://twitter.com/i/web/status/1457776634883239938",
+          "url": "https://t.co/LaKihSf2pd",
+          "expanded_url": "https://twitter.com/i/web/status/1457987415851819009",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +60,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1457986950770667500,
+    "in_reply_to_status_id_str": "1457986950770667522",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,11 +72,10 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 273,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
