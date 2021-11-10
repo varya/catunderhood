@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 9441,
+  "followers_count": 9442,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8987,
+  "favourites_count": 8993,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23430,
+  "statuses_count": 23431,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 09 20:08:08 +0000 2021",
-    "id": 1458164523613970400,
-    "id_str": "1458164523613970438",
-    "text": "На этом мы с кошочками прощаемся с вами до завтра и желаем всем спокойной ночи! https://t.co/qITfEQGnAQ",
-    "truncated": false,
+    "created_at": "Wed Nov 10 06:15:26 +0000 2021",
+    "id": 1458317355352739800,
+    "id_str": "1458317355352739845",
+    "text": "Доброго всем утра! Сегодня я расскажу вам о Лаки. Кажется, что Лаки - очень милая и мягенькая, красивая и нежная ки… https://t.co/HxQmbv2AAJ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1458164359583129600,
-          "id_str": "1458164359583129611",
+          "url": "https://t.co/HxQmbv2AAJ",
+          "expanded_url": "https://twitter.com/i/web/status/1458317355352739845",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            80,
-            103
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDxwwmUWYAsYlgx.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDxwwmUWYAsYlgx.jpg",
-          "url": "https://t.co/qITfEQGnAQ",
-          "display_url": "pic.twitter.com/qITfEQGnAQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1458164523613970438/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1769,
-              "h": 1769,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1458164359583129600,
-          "id_str": "1458164359583129611",
-          "indices": [
-            80,
-            103
-          ],
-          "media_url": "http://pbs.twimg.com/media/FDxwwmUWYAsYlgx.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FDxwwmUWYAsYlgx.jpg",
-          "url": "https://t.co/qITfEQGnAQ",
-          "display_url": "pic.twitter.com/qITfEQGnAQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1458164523613970438/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1769,
-              "h": 1769,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -141,7 +73,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 240,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
