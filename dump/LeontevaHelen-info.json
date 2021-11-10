@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 9459,
+  "followers_count": 9462,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9010,
+  "favourites_count": 9011,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23452,
+  "statuses_count": 23453,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 10 16:22:44 +0000 2021",
-    "id": 1458470189385855000,
-    "id_str": "1458470189385854979",
-    "text": "У Лаки есть прозвище - Эль Кукуй. Это такой страшный мексиканский бабайка, который ходит-пугает по ночам. Прям как… https://t.co/3KI3LYRD4b",
-    "truncated": true,
+    "created_at": "Wed Nov 10 17:53:26 +0000 2021",
+    "id": 1458493012766560300,
+    "id_str": "1458493012766560261",
+    "text": "Раз пятки Ларри набрали аж 2к лайков, то и жопэ Лаки должно набрать не меньше. И хвостэ https://t.co/MHBfEslLPz",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/3KI3LYRD4b",
-          "expanded_url": "https://twitter.com/i/web/status/1458470189385854979",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1458492927915827200,
+          "id_str": "1458492927915827208",
           "indices": [
-            116,
-            139
-          ]
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD2blyvXoAguvHp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD2blyvXoAguvHp.jpg",
+          "url": "https://t.co/MHBfEslLPz",
+          "display_url": "pic.twitter.com/MHBfEslLPz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1458493012766560261/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1843,
+              "h": 1843,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1458492927915827200,
+          "id_str": "1458492927915827208",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD2blyvXoAguvHp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD2blyvXoAguvHp.jpg",
+          "url": "https://t.co/MHBfEslLPz",
+          "display_url": "pic.twitter.com/MHBfEslLPz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1458493012766560261/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1843,
+              "h": 1843,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -73,7 +141,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 107,
+    "favorite_count": 174,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
