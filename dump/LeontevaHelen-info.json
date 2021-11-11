@@ -26,31 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 9498,
+  "followers_count": 9505,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9021,
+  "favourites_count": 9024,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23466,
+  "statuses_count": 23470,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 11 14:08:28 +0000 2021",
-    "id": 1458798785677729800,
-    "id_str": "1458798785677729793",
-    "text": "Ларри просто заставила Лёню себя полюбить. Она совершенно его не боялась, регулярно умывала деда, и вообще через не… https://t.co/AyHqIE81rc",
+    "created_at": "Thu Nov 11 16:29:10 +0000 2021",
+    "id": 1458834193455198200,
+    "id_str": "1458834193455198210",
+    "text": "@Pluie_en_acier Леня еще как может побегать по квартире, что прямо сейчас и делал. Но, конечно, он видел всякое дер… https://t.co/1NIOnnmCy9",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Pluie_en_acier",
+          "name": "Леди тронулась",
+          "id": 766149308,
+          "id_str": "766149308",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/AyHqIE81rc",
-          "expanded_url": "https://twitter.com/i/web/status/1458798785677729793",
+          "url": "https://t.co/1NIOnnmCy9",
+          "expanded_url": "https://twitter.com/i/web/status/1458834193455198210",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +71,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1458833734191530000,
+    "in_reply_to_status_id_str": "1458833734191529986",
+    "in_reply_to_user_id": 766149308,
+    "in_reply_to_user_id_str": "766149308",
+    "in_reply_to_screen_name": "Pluie_en_acier",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,11 +83,10 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 180,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
