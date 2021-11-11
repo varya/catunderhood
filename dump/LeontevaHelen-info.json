@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9530,
+  "followers_count": 9547,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23485,
+  "statuses_count": 23486,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 11 18:49:53 +0000 2021",
-    "id": 1458869606475513900,
-    "id_str": "1458869606475513856",
-    "text": "@li1401 сначала будет злобный дрыг, потом не менее злобный кусь!",
-    "truncated": false,
+    "created_at": "Thu Nov 11 19:58:55 +0000 2021",
+    "id": 1458886980918460400,
+    "id_str": "1458886980918460420",
+    "text": "Сегодня и не рассказала и половины запланированного, но сил уже нет, так что мы с кошками прощаемся с вами на сегод… https://t.co/UdzLIaVp7M",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "li1401",
-          "name": "li",
-          "id": 3304044430,
-          "id_str": "3304044430",
+          "url": "https://t.co/UdzLIaVp7M",
+          "expanded_url": "https://twitter.com/i/web/status/1458886980918460420",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            7
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1458868388592341000,
-    "in_reply_to_status_id_str": "1458868388592340993",
-    "in_reply_to_user_id": 3304044430,
-    "in_reply_to_user_id_str": "3304044430",
-    "in_reply_to_screen_name": "li1401",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +72,11 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 64,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
