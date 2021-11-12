@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9617,
+  "followers_count": 9622,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6178,
+  "favourites_count": 9051,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23491,
+  "statuses_count": 23497,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 12 08:50:51 +0000 2021",
-    "id": 1459081245112123400,
-    "id_str": "1459081245112123421",
-    "text": "После болезни (чуть позже расскажу) Лёня похудел и стал каким-то гулким внутри. Как будто там пусто. Сестры как два… https://t.co/x9QYUGidnX",
-    "truncated": true,
+    "created_at": "Fri Nov 12 09:31:25 +0000 2021",
+    "id": 1459091450881355800,
+    "id_str": "1459091450881355776",
+    "text": "@kajigor Создание Адама =)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/x9QYUGidnX",
-          "expanded_url": "https://twitter.com/i/web/status/1459081245112123421",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "kajigor",
+          "name": "Карл",
+          "id": 377876720,
+          "id_str": "377876720",
           "indices": [
-            117,
-            140
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1459091015323861000,
+    "in_reply_to_status_id_str": "1459091015323860993",
+    "in_reply_to_user_id": 377876720,
+    "in_reply_to_user_id_str": "377876720",
+    "in_reply_to_screen_name": "kajigor",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +74,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 53,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
