@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9647,
+  "followers_count": 9651,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6190,
+  "favourites_count": 9061,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23513,
+  "statuses_count": 23519,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 12 17:55:51 +0000 2021",
-    "id": 1459218395300253700,
-    "id_str": "1459218395300253697",
-    "text": "Выводы. Насморк кошек легко может перейти в пневмонию. И от насморка коты умирают тоже.\nВообще позорная смерть. От… https://t.co/MQrb340lOl",
-    "truncated": true,
+    "created_at": "Fri Nov 12 20:06:42 +0000 2021",
+    "id": 1459251328203505700,
+    "id_str": "1459251328203505677",
+    "text": "@YeClown С ней все отлично! Скрепка нашлась на покрывале, а Лаки сделала очень дорогую фотосессию",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/MQrb340lOl",
-          "expanded_url": "https://twitter.com/i/web/status/1459218395300253697",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "YeClown",
+          "name": "Сыч кукожится",
+          "id": 2239227978,
+          "id_str": "2239227978",
           "indices": [
-            116,
-            139
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1459218034606882800,
-    "in_reply_to_status_id_str": "1459218034606882821",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1459093579129921500,
+    "in_reply_to_status_id_str": "1459093579129921537",
+    "in_reply_to_user_id": 2239227978,
+    "in_reply_to_user_id_str": "2239227978",
+    "in_reply_to_screen_name": "YeClown",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,8 +73,8 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 80,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
