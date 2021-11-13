@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9668,
+  "followers_count": 9667,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23518,
+  "statuses_count": 23529,
   "lang": null,
   "status": {
-    "created_at": "Fri Nov 12 20:06:42 +0000 2021",
-    "id": 1459251328203505700,
-    "id_str": "1459251328203505677",
-    "text": "@YeClown С ней все отлично! Скрепка нашлась на покрывале, а Лаки сделала очень дорогую фотосессию",
-    "truncated": false,
+    "created_at": "Sat Nov 13 12:21:54 +0000 2021",
+    "id": 1459496742597144600,
+    "id_str": "1459496742597144581",
+    "text": "После всех этих историй у меня вьетнамские флешбеки на кошачье чихание, а наполненному лотку (да и не лотку, пофиг)… https://t.co/dYESy3MBMb",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "YeClown",
-          "name": "Сыч кукожится",
-          "id": 2239227978,
-          "id_str": "2239227978",
+          "url": "https://t.co/dYESy3MBMb",
+          "expanded_url": "https://twitter.com/i/web/status/1459496742597144581",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            8
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1459093579129921500,
-    "in_reply_to_status_id_str": "1459093579129921537",
-    "in_reply_to_user_id": 2239227978,
-    "in_reply_to_user_id_str": "2239227978",
-    "in_reply_to_screen_name": "YeClown",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +72,11 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
+    "retweet_count": 1,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
