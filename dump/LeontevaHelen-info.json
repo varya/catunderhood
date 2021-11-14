@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 9681,
+  "followers_count": 9683,
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6221,
+  "favourites_count": 9086,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23541,
+  "statuses_count": 23544,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 14 14:14:31 +0000 2021",
-    "id": 1459887472310165500,
-    "id_str": "1459887472310165506",
-    "text": "Не знаю как у вас, но у меня возможность почитать книгу лежа всегда заканчивается вторжением кошек. \nКнигу, кстати,… https://t.co/nNbSoJL2bt",
-    "truncated": true,
+    "created_at": "Sun Nov 14 17:22:31 +0000 2021",
+    "id": 1459934785850286000,
+    "id_str": "1459934785850286096",
+    "text": "BREAKING NEWS!!!\nКотик встретил человеков, лёг и не хочет уходить! https://t.co/jtGJZZH75w",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/nNbSoJL2bt",
-          "expanded_url": "https://twitter.com/i/web/status/1459887472310165506",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1459934755403833300,
+          "id_str": "1459934755403833350",
           "indices": [
-            117,
-            140
-          ]
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEK67MsXoAYUPWf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEK67MsXoAYUPWf.jpg",
+          "url": "https://t.co/jtGJZZH75w",
+          "display_url": "pic.twitter.com/jtGJZZH75w",
+          "expanded_url": "https://twitter.com/catunderhood/status/1459934785850286096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1690,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 990,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 561,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1459934755403833300,
+          "id_str": "1459934755403833350",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEK67MsXoAYUPWf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEK67MsXoAYUPWf.jpg",
+          "url": "https://t.co/jtGJZZH75w",
+          "display_url": "pic.twitter.com/jtGJZZH75w",
+          "expanded_url": "https://twitter.com/catunderhood/status/1459934785850286096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1690,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 990,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 561,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -73,7 +141,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 179,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
