@@ -30,100 +30,32 @@
   "friends_count": 41,
   "listed_count": 25,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9071,
+  "favourites_count": 9082,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23538,
+  "statuses_count": 23540,
   "lang": null,
   "status": {
-    "created_at": "Sat Nov 13 20:27:44 +0000 2021",
-    "id": 1459619009742217200,
-    "id_str": "1459619009742217218",
-    "text": "Все три кота желают всем спокойной ночи! https://t.co/HY9zwrrXES",
-    "truncated": false,
+    "created_at": "Sun Nov 14 12:51:14 +0000 2021",
+    "id": 1459866515642232800,
+    "id_str": "1459866515642232839",
+    "text": "А еще из котостада смогли выбраться не только сестры, но и их брат. Тоже болел, поправился, теперь полон сил и любв… https://t.co/rMOB6YfjVb",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1459618910853116000,
-          "id_str": "1459618910853115913",
+          "url": "https://t.co/rMOB6YfjVb",
+          "expanded_url": "https://twitter.com/i/web/status/1459866515642232839",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FEGbqoDXsAkMnMQ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FEGbqoDXsAkMnMQ.jpg",
-          "url": "https://t.co/HY9zwrrXES",
-          "display_url": "pic.twitter.com/HY9zwrrXES",
-          "expanded_url": "https://twitter.com/catunderhood/status/1459619009742217218/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 922,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 540,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 306,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1459618910853116000,
-          "id_str": "1459618910853115913",
-          "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FEGbqoDXsAkMnMQ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FEGbqoDXsAkMnMQ.jpg",
-          "url": "https://t.co/HY9zwrrXES",
-          "display_url": "pic.twitter.com/HY9zwrrXES",
-          "expanded_url": "https://twitter.com/catunderhood/status/1459619009742217218/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 922,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 540,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 306,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       760865568421445600
     ],
     "is_quote_status": false,
-    "retweet_count": 25,
-    "favorite_count": 1660,
+    "retweet_count": 0,
+    "favorite_count": 88,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
