@@ -30,42 +30,145 @@
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9137,
+  "favourites_count": 6274,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23661,
+  "statuses_count": 23669,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 17 13:40:46 +0000 2021",
-    "id": 1460966144274227200,
-    "id_str": "1460966144274227203",
-    "text": "@lena_neva мне кажется, скрипты твиттера специально так построены чтобы встрато-мемно соединять превью фотографий!",
+    "created_at": "Thu Nov 18 10:16:27 +0000 2021",
+    "id": 1461277113445671000,
+    "id_str": "1461277113445670914",
+    "text": "Можно сказать, между котиками полный коннект! https://t.co/EHTNayysVO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "lena_neva",
-          "name": "Гостья из настоящего 💞✌️",
-          "id": 430747975,
-          "id_str": "430747975",
+          "id": 1461277051462332400,
+          "id_str": "1461277051462332421",
           "indices": [
-            0,
-            10
-          ]
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEd_vHLXsAU8Q1v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEd_vHLXsAU8Q1v.jpg",
+          "url": "https://t.co/EHTNayysVO",
+          "display_url": "pic.twitter.com/EHTNayysVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1461277113445670914/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1461277051462332400,
+          "id_str": "1461277051462332421",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEd_vHLXsAU8Q1v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEd_vHLXsAU8Q1v.jpg",
+          "url": "https://t.co/EHTNayysVO",
+          "display_url": "pic.twitter.com/EHTNayysVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1461277113445670914/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1461277051407802400,
+          "id_str": "1461277051407802372",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEd_vG-XoAQtZhg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEd_vG-XoAQtZhg.jpg",
+          "url": "https://t.co/EHTNayysVO",
+          "display_url": "pic.twitter.com/EHTNayysVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1461277113445670914/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1460964683440087000,
-    "in_reply_to_status_id_str": "1460964683440087043",
-    "in_reply_to_user_id": 430747975,
-    "in_reply_to_user_id_str": "430747975",
-    "in_reply_to_screen_name": "lena_neva",
+    "in_reply_to_status_id": 1461276773946216400,
+    "in_reply_to_status_id_str": "1461276773946216452",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +177,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
