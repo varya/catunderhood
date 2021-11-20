@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9726,
+  "followers_count": 9728,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,57 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23708,
+  "statuses_count": 23715,
   "lang": null,
   "status": {
-    "created_at": "Sat Nov 20 13:25:23 +0000 2021",
-    "id": 1462049434188005400,
-    "id_str": "1462049434188005384",
-    "text": "@Gm1LmDxGsC1hJO3 @mashashilo1 оЙ, у меня почему то не все реплаи отображаются, но да, кот был кастрирован, тк ему у… https://t.co/In4lnxeou2",
+    "created_at": "Sat Nov 20 14:44:33 +0000 2021",
+    "id": 1462069358323187700,
+    "id_str": "1462069358323187712",
+    "text": "На следующий день я слезах поехала проверять второго кота. Хвала Зевсу, у Дени ничего не нашли. Все таки за 10 лет… https://t.co/u0c32fSKca",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Gm1LmDxGsC1hJO3",
-          "name": "одинокий волк-подкаблучник",
-          "id": 1257038973089742800,
-          "id_str": "1257038973089742850",
-          "indices": [
-            0,
-            16
-          ]
-        },
-        {
-          "screen_name": "mashashilo1",
-          "name": "mashashilo",
-          "id": 716689624299663400,
-          "id_str": "716689624299663360",
-          "indices": [
-            17,
-            29
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/In4lnxeou2",
-          "expanded_url": "https://twitter.com/i/web/status/1462049434188005384",
+          "url": "https://t.co/u0c32fSKca",
+          "expanded_url": "https://twitter.com/i/web/status/1462069358323187712",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1462048361830404000,
-    "in_reply_to_status_id_str": "1462048361830404100",
-    "in_reply_to_user_id": 1257038973089742800,
-    "in_reply_to_user_id_str": "1257038973089742850",
-    "in_reply_to_screen_name": "Gm1LmDxGsC1hJO3",
+    "in_reply_to_status_id": 1462068903845240800,
+    "in_reply_to_status_id_str": "1462068903845240833",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -94,7 +73,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
