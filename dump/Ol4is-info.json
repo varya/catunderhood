@@ -26,35 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 9725,
+  "followers_count": 9723,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6290,
+  "favourites_count": 6293,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23754,
+  "statuses_count": 23761,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 21 13:54:53 +0000 2021",
-    "id": 1462419245904638000,
-    "id_str": "1462419245904637952",
-    "text": "Ирония в том, что фантик без конфеты внутри ему не интересен!",
+    "created_at": "Sun Nov 21 14:56:48 +0000 2021",
+    "id": 1462434828641620000,
+    "id_str": "1462434828641619978",
+    "text": "@RexServius Я рада что вы так высоко оценили мою проф деформацию )",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "RexServius",
+          "name": "Антон Иванов",
+          "id": 543667408,
+          "id_str": "543667408",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1462417745878868000,
-    "in_reply_to_status_id_str": "1462417745878867976",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1462433202195386400,
+    "in_reply_to_status_id_str": "1462433202195386379",
+    "in_reply_to_user_id": 543667408,
+    "in_reply_to_user_id_str": "543667408",
+    "in_reply_to_screen_name": "RexServius",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -63,7 +74,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 16,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
