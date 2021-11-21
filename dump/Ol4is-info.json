@@ -26,56 +26,149 @@
     }
   },
   "protected": false,
-  "followers_count": 9727,
+  "followers_count": 9728,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6290,
+  "favourites_count": 9154,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23740,
+  "statuses_count": 23744,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 21 09:31:47 +0000 2021",
-    "id": 1462353033669619700,
-    "id_str": "1462353033669619720",
-    "text": "@mashashilo1 @Gm1LmDxGsC1hJO3 У меня Морти, он почти черный, к слову у Салема тоже же было белое пятнышко-галстучек.",
+    "created_at": "Sun Nov 21 13:20:40 +0000 2021",
+    "id": 1462410634142924800,
+    "id_str": "1462410634142924806",
+    "text": "Морти временами ворует еду с плиты или рядом и ему не стыдно ) https://t.co/Tx8FYFh4hY",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "mashashilo1",
-          "name": "mashashilo",
-          "id": 716689624299663400,
-          "id_str": "716689624299663360",
+          "id": 1462410411576377300,
+          "id_str": "1462410411576377352",
           "indices": [
-            0,
-            12
-          ]
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEuGhWnXwAgxTr7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEuGhWnXwAgxTr7.jpg",
+          "url": "https://t.co/Tx8FYFh4hY",
+          "display_url": "pic.twitter.com/Tx8FYFh4hY",
+          "expanded_url": "https://twitter.com/catunderhood/status/1462410634142924806/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1462410411576377300,
+          "id_str": "1462410411576377352",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEuGhWnXwAgxTr7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEuGhWnXwAgxTr7.jpg",
+          "url": "https://t.co/Tx8FYFh4hY",
+          "display_url": "pic.twitter.com/Tx8FYFh4hY",
+          "expanded_url": "https://twitter.com/catunderhood/status/1462410634142924806/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
         },
         {
-          "screen_name": "Gm1LmDxGsC1hJO3",
-          "name": "одинокий волк-подкаблучник",
-          "id": 1257038973089742800,
-          "id_str": "1257038973089742850",
+          "id": 1462410411546923000,
+          "id_str": "1462410411546923014",
           "indices": [
-            13,
-            29
-          ]
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEuGhWgWUAY9LlS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEuGhWgWUAY9LlS.jpg",
+          "url": "https://t.co/Tx8FYFh4hY",
+          "display_url": "pic.twitter.com/Tx8FYFh4hY",
+          "expanded_url": "https://twitter.com/catunderhood/status/1462410634142924806/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1462352608597840000,
-    "in_reply_to_status_id_str": "1462352608597839873",
-    "in_reply_to_user_id": 716689624299663400,
-    "in_reply_to_user_id_str": "716689624299663360",
-    "in_reply_to_screen_name": "mashashilo1",
+    "in_reply_to_status_id": 1462410270052135000,
+    "in_reply_to_status_id_str": "1462410270052134917",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,9 +177,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
