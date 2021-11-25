@@ -26,46 +26,45 @@
     }
   },
   "protected": false,
-  "followers_count": 9738,
+  "followers_count": 9740,
   "friends_count": 41,
   "listed_count": 26,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9186,
+  "favourites_count": 9190,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23862,
+  "statuses_count": 23864,
   "lang": null,
   "status": {
-    "created_at": "Thu Nov 25 11:56:28 +0000 2021",
-    "id": 1463838998384754700,
-    "id_str": "1463838998384754690",
-    "text": "@Moonhalf Ааа смеюсь. Наших кото-детей на мемы растаскивают х)",
-    "truncated": false,
+    "created_at": "Thu Nov 25 16:23:44 +0000 2021",
+    "id": 1463906258604462000,
+    "id_str": "1463906258604462082",
+    "text": "С одной стороны она всегда сама по себе, ей не слишком интересны другие коты, как и Соне, с другой - всегда находит… https://t.co/OuctivqZ4W",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Moonhalf",
-          "name": "Половинка луны и меховые сыновья",
-          "id": 14383707,
-          "id_str": "14383707",
+          "url": "https://t.co/OuctivqZ4W",
+          "expanded_url": "https://twitter.com/i/web/status/1463906258604462082",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1463744301880459300,
-    "in_reply_to_status_id_str": "1463744301880459269",
-    "in_reply_to_user_id": 14383707,
-    "in_reply_to_user_id_str": "14383707",
-    "in_reply_to_screen_name": "Moonhalf",
+    "in_reply_to_status_id": 1463893291896914000,
+    "in_reply_to_status_id_str": "1463893291896913925",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,7 +73,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
