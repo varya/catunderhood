@@ -26,140 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 9777,
+  "followers_count": 9775,
   "friends_count": 41,
   "listed_count": 27,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9216,
+  "favourites_count": 6353,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23982,
+  "statuses_count": 23983,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 01 09:07:18 +0000 2021",
-    "id": 1465970754286239700,
-    "id_str": "1465970754286239744",
-    "text": "Сеня - отличный фон для фотографий чего угодно! На этом покидаю вас до вечера и желаю хорошего дня :) https://t.co/YAVCZQ8HDP",
-    "truncated": false,
+    "created_at": "Wed Dec 01 18:32:02 +0000 2021",
+    "id": 1466112872828833800,
+    "id_str": "1466112872828833797",
+    "text": "Сенино любимое место - ванная. Пить он предпочитает - исключительно из-под крана проточную воду. И как умный кот, о… https://t.co/sENGMKCCRl",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1465970555761352700,
-          "id_str": "1465970555761352710",
+          "url": "https://t.co/sENGMKCCRl",
+          "expanded_url": "https://twitter.com/i/web/status/1466112872828833797",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FFgsdBNWYAY4-O_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FFgsdBNWYAY4-O_.jpg",
-          "url": "https://t.co/YAVCZQ8HDP",
-          "display_url": "pic.twitter.com/YAVCZQ8HDP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1465970754286239744/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1465970555761352700,
-          "id_str": "1465970555761352710",
-          "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FFgsdBNWYAY4-O_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FFgsdBNWYAY4-O_.jpg",
-          "url": "https://t.co/YAVCZQ8HDP",
-          "display_url": "pic.twitter.com/YAVCZQ8HDP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1465970754286239744/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1465970555765637000,
-          "id_str": "1465970555765637122",
-          "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FFgsdBOXwAI5LgE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FFgsdBOXwAI5LgE.jpg",
-          "url": "https://t.co/YAVCZQ8HDP",
-          "display_url": "pic.twitter.com/YAVCZQ8HDP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1465970754286239744/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -176,8 +72,8 @@
       386026624
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 248,
+    "retweet_count": 2,
+    "favorite_count": 114,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
