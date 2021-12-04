@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 9781,
+  "followers_count": 9783,
   "friends_count": 41,
   "listed_count": 27,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6353,
+  "favourites_count": 9215,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 23995,
+  "statuses_count": 24006,
   "lang": null,
   "status": {
-    "created_at": "Sat Dec 04 19:17:45 +0000 2021",
-    "id": 1467211542928232400,
-    "id_str": "1467211542928232449",
-    "text": "Я на сегодня все, спасибо за внимание! \nПокажите ваших красавчиков, а я поретвичу :)",
+    "created_at": "Sat Dec 04 19:48:05 +0000 2021",
+    "id": 1467219176318292000,
+    "id_str": "1467219176318291968",
+    "text": "Доставка уюта) https://t.co/quxfSuhnf9",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/quxfSuhnf9",
+          "expanded_url": "https://twitter.com/likerkalikerka/status/1467214379515092996",
+          "display_url": "twitter.com/likerkalikerka…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,11 +71,14 @@
     "contributors": [
       386026624
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1467214379515093000,
+    "quoted_status_id_str": "1467214379515092996",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
