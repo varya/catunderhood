@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9808,
+  "followers_count": 9806,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,26 +35,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24006,
+  "statuses_count": 24012,
   "lang": null,
   "status": {
-    "created_at": "Sat Dec 04 19:48:05 +0000 2021",
-    "id": 1467219176318292000,
-    "id_str": "1467219176318291968",
-    "text": "Доставка уюта) https://t.co/quxfSuhnf9",
-    "truncated": false,
+    "created_at": "Mon Dec 06 08:11:38 +0000 2021",
+    "id": 1467768683422441500,
+    "id_str": "1467768683422441475",
+    "text": "\"Ласковая\" - это значит что кошка предпочитает быть на мне максимальное количество времени. Буквально. Стоит мне се… https://t.co/7aMv1XOKQ5",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/quxfSuhnf9",
-          "expanded_url": "https://twitter.com/likerkalikerka/status/1467214379515092996",
-          "display_url": "twitter.com/likerkalikerka…",
+          "url": "https://t.co/7aMv1XOKQ5",
+          "expanded_url": "https://twitter.com/i/web/status/1467768683422441475",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            15,
-            38
+            117,
+            140
           ]
         }
       ]
@@ -69,13 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      386026624
+      96950650
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1467214379515093000,
-    "quoted_status_id_str": "1467214379515092996",
-    "retweet_count": 1,
-    "favorite_count": 120,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 81,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
