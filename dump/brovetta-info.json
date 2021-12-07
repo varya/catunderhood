@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9933,
+  "followers_count": 9935,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24043,
+  "statuses_count": 24045,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 07 16:17:03 +0000 2021",
-    "id": 1468253231390371800,
-    "id_str": "1468253231390371846",
-    "text": "«сфоткай, как я, изящный сфинкс с мускулистыми ногами и подтянутым телом, интеллигентно ем с табуреточки остатки па… https://t.co/iIffOXFXl0",
-    "truncated": true,
+    "created_at": "Tue Dec 07 19:44:07 +0000 2021",
+    "id": 1468305338541781000,
+    "id_str": "1468305338541780994",
+    "text": "- Смотри как я могу! Ты смотришь?\n- Смотрю.\n- *падает с подоконника на пол* https://t.co/Lzq48jvDqE",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/iIffOXFXl0",
-          "expanded_url": "https://twitter.com/i/web/status/1468253231390371846",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1468305322204975000,
+          "id_str": "1468305322204975119",
           "indices": [
-            117,
-            140
-          ]
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
+          "url": "https://t.co/Lzq48jvDqE",
+          "display_url": "pic.twitter.com/Lzq48jvDqE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1468305338541780994/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1870,
+              "h": 2015,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1114,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 631,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1468305322204975000,
+          "id_str": "1468305322204975119",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
+          "url": "https://t.co/Lzq48jvDqE",
+          "display_url": "pic.twitter.com/Lzq48jvDqE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1468305338541780994/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1870,
+              "h": 2015,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1114,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 631,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,8 +140,8 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 577,
+    "retweet_count": 1,
+    "favorite_count": 145,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
