@@ -26,113 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 9935,
+  "followers_count": 9933,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9215,
+  "favourites_count": 6352,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24045,
+  "statuses_count": 24051,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 07 19:44:07 +0000 2021",
-    "id": 1468305338541781000,
-    "id_str": "1468305338541780994",
-    "text": "- Смотри как я могу! Ты смотришь?\n- Смотрю.\n- *падает с подоконника на пол* https://t.co/Lzq48jvDqE",
+    "created_at": "Tue Dec 07 21:13:16 +0000 2021",
+    "id": 1468327773240500200,
+    "id_str": "1468327773240500232",
+    "text": "Такое название придумал муж для фотографии в следующем посте. Просто однажды я купила кошке корону.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1468305322204975000,
-          "id_str": "1468305322204975119",
-          "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
-          "url": "https://t.co/Lzq48jvDqE",
-          "display_url": "pic.twitter.com/Lzq48jvDqE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1468305338541780994/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1870,
-              "h": 2015,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1114,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 631,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1468305322204975000,
-          "id_str": "1468305322204975119",
-          "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGB36T_X0A8o4VK.jpg",
-          "url": "https://t.co/Lzq48jvDqE",
-          "display_url": "pic.twitter.com/Lzq48jvDqE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1468305338541780994/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1870,
-              "h": 2015,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1114,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 631,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1468327123949662200,
+    "in_reply_to_status_id_str": "1468327123949662211",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -140,11 +62,10 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 145,
+    "retweet_count": 0,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
