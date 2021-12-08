@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 9975,
+  "followers_count": 9976,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24070,
+  "statuses_count": 24071,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 08 11:19:43 +0000 2021",
-    "id": 1468540791366770700,
-    "id_str": "1468540791366770696",
-    "text": "Очень сложно все время мониторить своего человека, так что ты работай, а я пока вздремну https://t.co/owJNAjGXwv",
-    "truncated": false,
+    "created_at": "Wed Dec 08 11:57:59 +0000 2021",
+    "id": 1468550421044248600,
+    "id_str": "1468550421044248580",
+    "text": "Часто застаю кошку в позе человека, который долго работал и наконец-то присел, осознав, что все вокруг суета. Это в… https://t.co/b29dGOT9Cp",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1468540762631639000,
-          "id_str": "1468540762631639049",
+          "url": "https://t.co/b29dGOT9Cp",
+          "expanded_url": "https://twitter.com/i/web/status/1468550421044248580",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            89,
-            112
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGFOCv7XEAkhIrW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGFOCv7XEAkhIrW.jpg",
-          "url": "https://t.co/owJNAjGXwv",
-          "display_url": "pic.twitter.com/owJNAjGXwv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1468540791366770696/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1080,
-              "h": 587,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1080,
-              "h": 587,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 370,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1468540762631639000,
-          "id_str": "1468540762631639049",
-          "indices": [
-            89,
-            112
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGFOCv7XEAkhIrW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGFOCv7XEAkhIrW.jpg",
-          "url": "https://t.co/owJNAjGXwv",
-          "display_url": "pic.twitter.com/owJNAjGXwv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1468540791366770696/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1080,
-              "h": 587,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1080,
-              "h": 587,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 370,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 117,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
