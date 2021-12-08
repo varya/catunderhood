@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 9964,
+  "followers_count": 9965,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9215,
+  "favourites_count": 6352,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24053,
+  "statuses_count": 24057,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 08 05:46:00 +0000 2021",
-    "id": 1468456807714726000,
-    "id_str": "1468456807714725894",
-    "text": "Серьезно? Ты считаешь, что я как собака буду играть с бутылочкой, из которой высыпаются сухарики? Я не такая дура.… https://t.co/uymufuFr2K",
-    "truncated": true,
+    "created_at": "Wed Dec 08 06:59:00 +0000 2021",
+    "id": 1468475178657136600,
+    "id_str": "1468475178657136641",
+    "text": "- А по шкале всратости я на сколько баллов? От одного до десяти?\n- Ты шкала, кошечка. Ты шкала. https://t.co/2efJ3aIReL",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/uymufuFr2K",
-          "expanded_url": "https://twitter.com/i/web/status/1468456807714725894",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1468455230501265400,
+          "id_str": "1468455230501265409",
           "indices": [
-            116,
-            139
-          ]
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGEAQH6XoAEH76Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGEAQH6XoAEH76Z.jpg",
+          "url": "https://t.co/2efJ3aIReL",
+          "display_url": "pic.twitter.com/2efJ3aIReL",
+          "expanded_url": "https://twitter.com/catunderhood/status/1468475178657136641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 961,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 901,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1468455230501265400,
+          "id_str": "1468455230501265409",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGEAQH6XoAEH76Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGEAQH6XoAEH76Z.jpg",
+          "url": "https://t.co/2efJ3aIReL",
+          "display_url": "pic.twitter.com/2efJ3aIReL",
+          "expanded_url": "https://twitter.com/catunderhood/status/1468475178657136641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 961,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 901,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 118,
+    "retweet_count": 5,
+    "favorite_count": 102,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
