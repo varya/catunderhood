@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 10097,
+  "followers_count": 10099,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9212,
+  "favourites_count": 6349,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24100,
+  "statuses_count": 24101,
   "lang": null,
   "status": {
-    "created_at": "Fri Dec 10 15:59:04 +0000 2021",
-    "id": 1469335869186265000,
-    "id_str": "1469335869186265104",
-    "text": "Если я сижу и плачу (такое бывает редко, но вот сравнительно недавно умер папа и я плакала очень много), то кошка з… https://t.co/I7pSr5O1x3",
-    "truncated": true,
+    "created_at": "Fri Dec 10 17:25:57 +0000 2021",
+    "id": 1469357733010886700,
+    "id_str": "1469357733010886670",
+    "text": "Фанаты считают, что сходство есть. Кто мы такие, чтобы спорить с фанатами. https://t.co/o0wjlr0I7G",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/I7pSr5O1x3",
-          "expanded_url": "https://twitter.com/i/web/status/1469335869186265104",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1469357714333651000,
+          "id_str": "1469357714333650948",
           "indices": [
-            117,
-            140
-          ]
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGQ1DmLWUAQbyQM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGQ1DmLWUAQbyQM.jpg",
+          "url": "https://t.co/o0wjlr0I7G",
+          "display_url": "pic.twitter.com/o0wjlr0I7G",
+          "expanded_url": "https://twitter.com/catunderhood/status/1469357733010886670/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1469357714333651000,
+          "id_str": "1469357714333650948",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGQ1DmLWUAQbyQM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGQ1DmLWUAQbyQM.jpg",
+          "url": "https://t.co/o0wjlr0I7G",
+          "display_url": "pic.twitter.com/o0wjlr0I7G",
+          "expanded_url": "https://twitter.com/catunderhood/status/1469357733010886670/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,8 +140,8 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 95,
+    "retweet_count": 1,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
