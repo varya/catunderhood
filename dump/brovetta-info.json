@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 10245,
+  "followers_count": 10248,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6346,
+  "favourites_count": 9208,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24132,
+  "statuses_count": 24133,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 12 16:29:41 +0000 2021",
-    "id": 1470068346561433600,
-    "id_str": "1470068346561433604",
-    "text": "Очень приятно, царь. Гладь и поклоняйся. https://t.co/YQ5KZlqJb6",
-    "truncated": false,
+    "created_at": "Sun Dec 12 17:11:51 +0000 2021",
+    "id": 1470078961464062000,
+    "id_str": "1470078961464061957",
+    "text": "Когда муж стрижет кошке когти, она боится, но не возражает. Потому что доверяет, да и спорить с хозяином все равно… https://t.co/b3FUc4hbFE",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1470068276973686800,
-          "id_str": "1470068276973686791",
+          "url": "https://t.co/b3FUc4hbFE",
+          "expanded_url": "https://twitter.com/i/web/status/1470078961464061957",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGa7TySWUAcZZn0.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGa7TySWUAcZZn0.jpg",
-          "url": "https://t.co/YQ5KZlqJb6",
-          "display_url": "pic.twitter.com/YQ5KZlqJb6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1470068346561433604/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1280,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1470068276973686800,
-          "id_str": "1470068276973686791",
-          "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FGa7TySWUAcZZn0.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FGa7TySWUAcZZn0.jpg",
-          "url": "https://t.co/YQ5KZlqJb6",
-          "display_url": "pic.twitter.com/YQ5KZlqJb6",
-          "expanded_url": "https://twitter.com/catunderhood/status/1470068346561433604/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1280,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -140,8 +72,8 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 10,
+    "retweet_count": 0,
+    "favorite_count": 63,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
