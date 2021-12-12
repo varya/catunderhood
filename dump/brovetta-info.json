@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 10220,
+  "followers_count": 10230,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24124,
+  "statuses_count": 24125,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 12 09:51:50 +0000 2021",
-    "id": 1469968224783634400,
-    "id_str": "1469968224783634437",
-    "text": "\"Добро пожаловать в мой замок. Побыстрее уходите\". Ни одна лежаночка, ни один плед не сравнится по притягательности… https://t.co/YCFBGyVgjW",
+    "created_at": "Sun Dec 12 10:33:59 +0000 2021",
+    "id": 1469978835525456000,
+    "id_str": "1469978835525455878",
+    "text": "- Ты почему сказала читателям @catunderhood , что я не моюсь? Вот даже фотографии есть\n- Да просто ты моешься так р… https://t.co/x2BNu6Ac8J",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "catunderhood",
+          "name": "catunderhood",
+          "id": 739569483556225000,
+          "id_str": "739569483556225025",
+          "indices": [
+            30,
+            43
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/YCFBGyVgjW",
-          "expanded_url": "https://twitter.com/i/web/status/1469968224783634437",
+          "url": "https://t.co/x2BNu6Ac8J",
+          "expanded_url": "https://twitter.com/i/web/status/1469978835525455878",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -72,8 +83,8 @@
       96950650
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 114,
+    "retweet_count": 1,
+    "favorite_count": 108,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
