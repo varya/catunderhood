@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 10233,
+  "followers_count": 10234,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24126,
+  "statuses_count": 24129,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 12 11:46:58 +0000 2021",
-    "id": 1469997202042937300,
-    "id_str": "1469997202042937345",
-    "text": "- Слушай, а можно ты с меня уже слезешь? И так голова болит\n- Ниможно. Потерпите, больная. Доктор кошенька вас выле… https://t.co/hoTov8cCoG",
-    "truncated": true,
+    "created_at": "Sun Dec 12 13:07:00 +0000 2021",
+    "id": 1470017340599410700,
+    "id_str": "1470017340599410688",
+    "text": "Эта фотография называется \"этюд с кошкой и удлинителем\". Иногда выражение мордочки у нее бывает совершенно детское. https://t.co/cJZ4EFTVYu",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/hoTov8cCoG",
-          "expanded_url": "https://twitter.com/i/web/status/1469997202042937345",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1470011972129276000,
+          "id_str": "1470011972129275908",
           "indices": [
-            117,
-            140
-          ]
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGaIGaZWQAQecy9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGaIGaZWQAQecy9.jpg",
+          "url": "https://t.co/cJZ4EFTVYu",
+          "display_url": "pic.twitter.com/cJZ4EFTVYu",
+          "expanded_url": "https://twitter.com/catunderhood/status/1470017340599410688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1470011972129276000,
+          "id_str": "1470011972129275908",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGaIGaZWQAQecy9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGaIGaZWQAQecy9.jpg",
+          "url": "https://t.co/cJZ4EFTVYu",
+          "display_url": "pic.twitter.com/cJZ4EFTVYu",
+          "expanded_url": "https://twitter.com/catunderhood/status/1470017340599410688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -68,12 +136,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      96950650
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 152,
+    "retweet_count": 1,
+    "favorite_count": 69,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
