@@ -1,8 +1,14 @@
 export default [
   {
+    "username": "rediska_is_love",
+    "start": "06 December 2021",
+    "post": false
+  },
+  {
     "username": "brovetta",
     "start": "29 November 2021",
-    "post": false
+    "post": true,
+    "last": "1470116450690027533"
   },
   {
     "username": "velichkina_a",
