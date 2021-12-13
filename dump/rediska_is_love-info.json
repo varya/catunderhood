@@ -30,52 +30,52 @@
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9208,
+  "favourites_count": 6346,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24165,
+  "statuses_count": 24171,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 13 10:12:19 +0000 2021",
-    "id": 1470335767402664000,
-    "id_str": "1470335767402663936",
-    "text": "@chudovishchew Молочный шаг они могут всю жизнь делать) Если верить источникам, которые я читала, они так делают, к… https://t.co/K7ggBlegos",
-    "truncated": true,
+    "created_at": "Mon Dec 13 11:50:35 +0000 2021",
+    "id": 1470360496641564700,
+    "id_str": "1470360496641564677",
+    "text": "@Olga79_ @chudovishchew Я подписана на один аккаунт в инсте, там маленькая девочка говорит, что коты так делают бисквиты))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
+        {
+          "screen_name": "Olga79_",
+          "name": "Ольга",
+          "id": 975755168003383300,
+          "id_str": "975755168003383296",
+          "indices": [
+            0,
+            8
+          ]
+        },
         {
           "screen_name": "chudovishchew",
           "name": "чудовищеw",
           "id": 3908683635,
           "id_str": "3908683635",
           "indices": [
-            0,
-            14
+            9,
+            23
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/K7ggBlegos",
-          "expanded_url": "https://twitter.com/i/web/status/1470335767402663936",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1470333957795369000,
-    "in_reply_to_status_id_str": "1470333957795368966",
-    "in_reply_to_user_id": 3908683635,
-    "in_reply_to_user_id_str": "3908683635",
-    "in_reply_to_screen_name": "chudovishchew",
+    "in_reply_to_status_id": 1470358292987887600,
+    "in_reply_to_status_id_str": "1470358292987887616",
+    "in_reply_to_user_id": 975755168003383300,
+    "in_reply_to_user_id_str": "975755168003383296",
+    "in_reply_to_screen_name": "Olga79_",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,7 +84,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 13,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
