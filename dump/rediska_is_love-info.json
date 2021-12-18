@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24262,
+  "statuses_count": 24277,
   "lang": null,
   "status": {
-    "created_at": "Fri Dec 17 13:45:00 +0000 2021",
-    "id": 1471838842789367800,
-    "id_str": "1471838842789367810",
-    "text": "Как у вас и ваших котиков дела с новогодним настроением? Редиска ёлку не трогает, роняла один раз и сильно тогда на… https://t.co/P4wIViSC2T",
+    "created_at": "Sat Dec 18 11:17:27 +0000 2021",
+    "id": 1472164100197261300,
+    "id_str": "1472164100197261316",
+    "text": "Вчера всем понравились истории про Сраку, так что вот вам видос) Это период карантина весной 2020, мы тогда работал… https://t.co/9fhu34D7Im",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/P4wIViSC2T",
-          "expanded_url": "https://twitter.com/i/web/status/1471838842789367810",
+          "url": "https://t.co/9fhu34D7Im",
+          "expanded_url": "https://twitter.com/i/web/status/1472164100197261316",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -68,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      1197803934754185200
+    ],
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 640,
+    "retweet_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
