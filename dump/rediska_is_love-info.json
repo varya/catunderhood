@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 10477,
+  "followers_count": 10483,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6344,
+  "favourites_count": 9205,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24301,
+  "statuses_count": 24302,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 19 13:15:00 +0000 2021",
-    "id": 1472556068802752500,
-    "id_str": "1472556068802752514",
-    "text": "Почти как у Пушкина:\nСижу в переноске, в темнице сырой,\nВскормленный в квартире Редис молодой! https://t.co/DDuQyXHamm",
-    "truncated": false,
+    "created_at": "Sun Dec 19 13:46:42 +0000 2021",
+    "id": 1472564046150910000,
+    "id_str": "1472564046150909960",
+    "text": "Сегодня меняли батарейку в настенных часах, и Редиса была весьма озадачена тем, как быстро идет время... В смысле д… https://t.co/ShnxYxJGmf",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1472508352265699300,
-          "id_str": "1472508352265699331",
+          "url": "https://t.co/ShnxYxJGmf",
+          "expanded_url": "https://twitter.com/i/web/status/1472564046150909960",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            95,
-            118
-          ],
-          "media_url": "http://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
-          "url": "https://t.co/DDuQyXHamm",
-          "display_url": "pic.twitter.com/DDuQyXHamm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1472556068802752514/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1472508352265699300,
-          "id_str": "1472508352265699331",
-          "indices": [
-            95,
-            118
-          ],
-          "media_url": "http://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
-          "url": "https://t.co/DDuQyXHamm",
-          "display_url": "pic.twitter.com/DDuQyXHamm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1472556068802752514/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      1197803934754185200
+    ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 88,
+    "retweet_count": 0,
+    "favorite_count": 78,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
