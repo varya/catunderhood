@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 10478,
+  "followers_count": 10477,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9205,
+  "favourites_count": 6344,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24299,
+  "statuses_count": 24301,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 19 11:12:00 +0000 2021",
-    "id": 1472525114998624300,
-    "id_str": "1472525114998624258",
-    "text": "Когда мы обзавелись роботом-пылесосом, я грезила, как буду снимать ролики с Редиской, катающейся на нем верхом. Но… https://t.co/qrrzhcvHdR",
-    "truncated": true,
+    "created_at": "Sun Dec 19 13:15:00 +0000 2021",
+    "id": 1472556068802752500,
+    "id_str": "1472556068802752514",
+    "text": "Почти как у Пушкина:\nСижу в переноске, в темнице сырой,\nВскормленный в квартире Редис молодой! https://t.co/DDuQyXHamm",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/qrrzhcvHdR",
-          "expanded_url": "https://twitter.com/i/web/status/1472525114998624258",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1472508352265699300,
+          "id_str": "1472508352265699331",
           "indices": [
-            116,
-            139
-          ]
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
+          "url": "https://t.co/DDuQyXHamm",
+          "display_url": "pic.twitter.com/DDuQyXHamm",
+          "expanded_url": "https://twitter.com/catunderhood/status/1472556068802752514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1472508352265699300,
+          "id_str": "1472508352265699331",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FG9mi3GXwAMFBMS.jpg",
+          "url": "https://t.co/DDuQyXHamm",
+          "display_url": "pic.twitter.com/DDuQyXHamm",
+          "expanded_url": "https://twitter.com/catunderhood/status/1472556068802752514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 63,
+    "retweet_count": 6,
+    "favorite_count": 88,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
