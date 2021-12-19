@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 10450,
+  "followers_count": 10449,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24286,
+  "statuses_count": 24293,
   "lang": null,
   "status": {
-    "created_at": "Sun Dec 19 04:25:36 +0000 2021",
-    "id": 1472422841744334800,
-    "id_str": "1472422841744334850",
-    "text": "Приют существует благодаря инициативе девушки Анастасии с очень большой душой, а также благодаря пожертвованиям нер… https://t.co/CmAxf0kvyC",
+    "created_at": "Sun Dec 19 05:03:00 +0000 2021",
+    "id": 1472432253292540000,
+    "id_str": "1472432253292539907",
+    "text": "А вы уже выбрали костюм своему коту для новогоднего маскарада? Редиса вот не может решить, кем хочет нынче быть: ол… https://t.co/yTBJpWaXPF",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/CmAxf0kvyC",
-          "expanded_url": "https://twitter.com/i/web/status/1472422841744334850",
+          "url": "https://t.co/yTBJpWaXPF",
+          "expanded_url": "https://twitter.com/i/web/status/1472432253292539907",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,22 +60,21 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1472422013847445500,
-    "in_reply_to_status_id_str": "1472422013847445505",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1197803934754185200
-    ],
+    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
