@@ -30,62 +30,109 @@
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6344,
+  "favourites_count": 9205,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24344,
+  "statuses_count": 24358,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 27 15:00:10 +0000 2021",
-    "id": 1475481640260358100,
-    "id_str": "1475481640260358145",
-    "text": "Всем привет и с наступающим! Эту пред- и новогоднюю неделю на связи @epic_fair, @KuhKudah и большой канадский кот Ш… https://t.co/03v2hbIy3K",
-    "truncated": true,
+    "created_at": "Mon Dec 27 18:19:18 +0000 2021",
+    "id": 1475531754131771400,
+    "id_str": "1475531754131771393",
+    "text": "В общем, взяли самую хитрую морду https://t.co/51x1MtJpDQ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "epic_fair",
-          "name": "Базовый Шлёпа Гигачад",
-          "id": 237645187,
-          "id_str": "237645187",
+          "id": 1475531614419505200,
+          "id_str": "1475531614419505155",
           "indices": [
-            68,
-            78
-          ]
-        },
-        {
-          "screen_name": "KuhKudah",
-          "name": "Dina",
-          "id": 403595338,
-          "id_str": "403595338",
-          "indices": [
-            80,
-            89
-          ]
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHokL4RVUAM3PUX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHokL4RVUAM3PUX.jpg",
+          "url": "https://t.co/51x1MtJpDQ",
+          "display_url": "pic.twitter.com/51x1MtJpDQ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1475531754131771393/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": [
+      ]
+    },
+    "extended_entities": {
+      "media": [
         {
-          "url": "https://t.co/03v2hbIy3K",
-          "expanded_url": "https://twitter.com/i/web/status/1475481640260358145",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1475531614419505200,
+          "id_str": "1475531614419505155",
           "indices": [
-            117,
-            140
-          ]
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHokL4RVUAM3PUX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHokL4RVUAM3PUX.jpg",
+          "url": "https://t.co/51x1MtJpDQ",
+          "display_url": "pic.twitter.com/51x1MtJpDQ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1475531754131771393/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1475531506609111000,
+    "in_reply_to_status_id_str": "1475531506609111045",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -93,8 +140,8 @@
       403595338
     ],
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 236,
+    "retweet_count": 1,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
