@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 10535,
+  "followers_count": 10536,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,22 +35,43 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24343,
+  "statuses_count": 24344,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 21 16:00:42 +0000 2021",
-    "id": 1473322546003157000,
-    "id_str": "1473322546003156999",
-    "text": "тянула руку , но она не могла так высоко запрыгнуть . В какой то момент психанула и пошла за кошкой в чем была , тр… https://t.co/cUhZBBpk40",
+    "created_at": "Mon Dec 27 15:00:10 +0000 2021",
+    "id": 1475481640260358100,
+    "id_str": "1475481640260358145",
+    "text": "Всем привет и с наступающим! Эту пред- и новогоднюю неделю на связи @epic_fair, @KuhKudah и большой канадский кот Ш… https://t.co/03v2hbIy3K",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "epic_fair",
+          "name": "Базовый Шлёпа Гигачад",
+          "id": 237645187,
+          "id_str": "237645187",
+          "indices": [
+            68,
+            78
+          ]
+        },
+        {
+          "screen_name": "KuhKudah",
+          "name": "Dina",
+          "id": 403595338,
+          "id_str": "403595338",
+          "indices": [
+            80,
+            89
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/cUhZBBpk40",
-          "expanded_url": "https://twitter.com/i/web/status/1473322546003156999",
+          "url": "https://t.co/03v2hbIy3K",
+          "expanded_url": "https://twitter.com/i/web/status/1475481640260358145",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,22 +81,23 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1473321734396956700,
-    "in_reply_to_status_id_str": "1473321734396956693",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
-      142033758
+      403595338
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 190,
+    "retweet_count": 2,
+    "favorite_count": 91,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
