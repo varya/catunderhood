@@ -26,35 +26,45 @@
     }
   },
   "protected": false,
-  "followers_count": 10663,
+  "followers_count": 10662,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9292,
+  "favourites_count": 6442,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24414,
+  "statuses_count": 24417,
   "lang": null,
   "status": {
-    "created_at": "Wed Dec 29 18:19:21 +0000 2021",
-    "id": 1476256542567460900,
-    "id_str": "1476256542567460865",
-    "text": "Пожалуй, закончим на этом :) Как всегда, есть бонусные видео по заявкам!",
-    "truncated": false,
+    "created_at": "Thu Dec 30 06:24:41 +0000 2021",
+    "id": 1476439077809320000,
+    "id_str": "1476439077809319936",
+    "text": "Тред про первое путешествие со Шноркелем! Ровно год назад мы решили отметить Рождество в северном городке (3.5 часа… https://t.co/78BnzIdzWc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/78BnzIdzWc",
+          "expanded_url": "https://twitter.com/i/web/status/1476439077809319936",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1476255596001173500,
-    "in_reply_to_status_id_str": "1476255596001173509",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -63,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 43,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
