@@ -26,135 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 10749,
+  "followers_count": 10750,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9372,
+  "favourites_count": 9373,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24458,
+  "statuses_count": 24459,
   "lang": null,
   "status": {
-    "created_at": "Sun Jan 02 07:40:00 +0000 2022",
-    "id": 1477545193259864000,
-    "id_str": "1477545193259864065",
-    "text": "Когда устал сидеть дома, но ты кот и вместо упаковки чемоданов упаковываешься сам https://t.co/i5YURVEd4V",
-    "truncated": false,
+    "created_at": "Sun Jan 02 16:37:44 +0000 2022",
+    "id": 1477680518627876900,
+    "id_str": "1477680518627876865",
+    "text": "Друзья, наша со Шноркелем смена подошла к концу. Были очень рады провести эту новогоднюю неделю вместе с замечатель… https://t.co/RZbi4A5p2n",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1477479176831594500,
-          "id_str": "1477479176831594497",
+          "url": "https://t.co/RZbi4A5p2n",
+          "expanded_url": "https://twitter.com/i/web/status/1477680518627876865",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            82,
-            105
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1477479176831594497/pu/img/beGDVKaUphDk8NVx.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1477479176831594497/pu/img/beGDVKaUphDk8NVx.jpg",
-          "url": "https://t.co/i5YURVEd4V",
-          "display_url": "pic.twitter.com/i5YURVEd4V",
-          "expanded_url": "https://twitter.com/catunderhood/status/1477545193259864065/video/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1477479176831594500,
-          "id_str": "1477479176831594497",
-          "indices": [
-            82,
-            105
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1477479176831594497/pu/img/beGDVKaUphDk8NVx.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1477479176831594497/pu/img/beGDVKaUphDk8NVx.jpg",
-          "url": "https://t.co/i5YURVEd4V",
-          "display_url": "pic.twitter.com/i5YURVEd4V",
-          "expanded_url": "https://twitter.com/catunderhood/status/1477545193259864065/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              9,
-              16
-            ],
-            "duration_millis": 10800,
-            "variants": [
-              {
-                "bitrate": 950000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1477479176831594497/pu/vid/480x852/7m6H45IMbMPMYZz-.mp4?tag=12"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1477479176831594497/pu/pl/ZGgrEFgycfSFRtjx.m3u8?tag=12"
-              },
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1477479176831594497/pu/vid/720x1280/2-Bu6_pyVt1DyrN6.mp4?tag=12"
-              },
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1477479176831594497/pu/vid/320x568/BEE330pfVCCSe2mW.mp4?tag=12"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -167,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      403595338
+    ],
     "is_quote_status": false,
-    "retweet_count": 16,
-    "favorite_count": 573,
+    "retweet_count": 2,
+    "favorite_count": 192,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
