@@ -26,31 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 10773,
+  "followers_count": 10775,
   "friends_count": 41,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6513,
+  "favourites_count": 9373,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24459,
+  "statuses_count": 24460,
   "lang": null,
   "status": {
-    "created_at": "Sun Jan 02 16:37:44 +0000 2022",
-    "id": 1477680518627876900,
-    "id_str": "1477680518627876865",
-    "text": "Друзья, наша со Шноркелем смена подошла к концу. Были очень рады провести эту новогоднюю неделю вместе с замечатель… https://t.co/RZbi4A5p2n",
+    "created_at": "Tue Jan 04 08:22:43 +0000 2022",
+    "id": 1478280718627262500,
+    "id_str": "1478280718627262466",
+    "text": "Всем привет! Я @_sexomnia и на этой неделе буду рассказывать о своих кошках Севе и Лоре. \n\nВот это их первая фотогр… https://t.co/rYQoHve5R3",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "_sexomnia",
+          "name": "вечная агония оргазма",
+          "id": 184828017,
+          "id_str": "184828017",
+          "indices": [
+            15,
+            25
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/RZbi4A5p2n",
-          "expanded_url": "https://twitter.com/i/web/status/1477680518627876865",
+          "url": "https://t.co/rYQoHve5R3",
+          "expanded_url": "https://twitter.com/i/web/status/1478280718627262466",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -69,12 +80,12 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      403595338
+      184828017
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 645,
-    "favorited": true,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "ru"
