@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 10958,
+  "followers_count": 10957,
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6527,
+  "favourites_count": 9386,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24573,
+  "statuses_count": 24580,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 12 19:15:59 +0000 2022",
-    "id": 1481344222821298200,
-    "id_str": "1481344222821298182",
-    "text": "Возможно, из-за недостатка коммуникации с людьми, Инесса очень любит повторять все за Нельсоном.\n\nИногда это очень… https://t.co/qB8QpsYlnv",
-    "truncated": true,
+    "created_at": "Thu Jan 13 15:44:35 +0000 2022",
+    "id": 1481653410717790200,
+    "id_str": "1481653410717790214",
+    "text": "@CDgehog потому что там дофига всяких добавок, которые делают корм вкусным))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/qB8QpsYlnv",
-          "expanded_url": "https://twitter.com/i/web/status/1481344222821298182",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "CDgehog",
+          "name": "Весёлый Йожык",
+          "id": 1141291781436444700,
+          "id_str": "1141291781436444678",
           "indices": [
-            116,
-            139
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1481651868589707300,
+    "in_reply_to_status_id_str": "1481651868589707267",
+    "in_reply_to_user_id": 1141291781436444700,
+    "in_reply_to_user_id_str": "1141291781436444678",
+    "in_reply_to_screen_name": "CDgehog",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,11 +73,10 @@
       1266675476
     ],
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 488,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
