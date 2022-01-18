@@ -26,59 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 10993,
+  "followers_count": 10991,
   "friends_count": 41,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9385,
+  "favourites_count": 6528,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24668,
+  "statuses_count": 24672,
   "lang": null,
   "status": {
-    "created_at": "Tue Jan 18 15:19:01 +0000 2022",
-    "id": 1483458916549857300,
-    "id_str": "1483458916549857284",
-    "text": "В своём кошачьем детстве робот-пылесос был злейшим врагом котенка, даже сидя на коленях он вырывался изо всех сил,… https://t.co/JbqUSjV28P",
-    "truncated": true,
+    "created_at": "Tue Jan 18 15:52:26 +0000 2022",
+    "id": 1483467324518772700,
+    "id_str": "1483467324518772737",
+    "text": "@rus_potato Ватные палочки тоже игрушка, но там цель -стащить ее и сгрызть саму ватку это быстро и поэтому это неинтересно.)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/JbqUSjV28P",
-          "expanded_url": "https://twitter.com/i/web/status/1483458916549857284",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "rus_potato",
+          "name": "радикальная картошка",
+          "id": 984459039760441300,
+          "id_str": "984459039760441345",
           "indices": [
-            116,
-            139
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1483459702944063500,
+    "in_reply_to_status_id_str": "1483459702944063497",
+    "in_reply_to_user_id": 984459039760441300,
+    "in_reply_to_user_id_str": "984459039760441345",
+    "in_reply_to_screen_name": "rus_potato",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       486830876
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1483458334829260800,
-    "quoted_status_id_str": "1483458334829260812",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 21,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
