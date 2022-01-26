@@ -26,23 +26,23 @@
     }
   },
   "protected": false,
-  "followers_count": 11010,
+  "followers_count": 11009,
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9421,
+  "favourites_count": 6564,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24872,
+  "statuses_count": 24873,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 26 19:52:25 +0000 2022",
-    "id": 1486426821633712000,
-    "id_str": "1486426821633712132",
-    "text": "@Whirab84 все так!! а у вас какое сочетание ингредиентов любимое у котов?)",
-    "truncated": false,
+    "created_at": "Wed Jan 26 20:55:29 +0000 2022",
+    "id": 1486442693353947100,
+    "id_str": "1486442693353947136",
+    "text": "@Whirab84 ох, в еде - точно! нашему только курица/утка нравится, пробовал еще пару, не зашло, пока решили другие не… https://t.co/Tzrt9KJm24",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -58,11 +58,21 @@
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Tzrt9KJm24",
+          "expanded_url": "https://twitter.com/i/web/status/1486442693353947136",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1486412881537155000,
-    "in_reply_to_status_id_str": "1486412881537155074",
+    "in_reply_to_status_id": 1486427845857579000,
+    "in_reply_to_status_id_str": "1486427845857579014",
     "in_reply_to_user_id": 732335454,
     "in_reply_to_user_id_str": "732335454",
     "in_reply_to_screen_name": "Whirab84",
