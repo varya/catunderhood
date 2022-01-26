@@ -26,42 +26,52 @@
     }
   },
   "protected": false,
-  "followers_count": 11010,
+  "followers_count": 11011,
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9415,
+  "favourites_count": 9420,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24863,
+  "statuses_count": 24871,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 26 16:27:35 +0000 2022",
-    "id": 1486375273209770000,
-    "id_str": "1486375273209769986",
-    "text": "@Tatarinsky220 Мы с котоанестезиологом рассчитали необходимую дозировку препарата и отправились домой. Далее двое с… https://t.co/KhY1Ica0Ra",
+    "created_at": "Wed Jan 26 16:58:05 +0000 2022",
+    "id": 1486382949201240000,
+    "id_str": "1486382949201240067",
+    "text": "@ri_mercores @Gala_Martin хорошо! здоровья вам тоже, радует, что причина известна, докопаться до нее иногда непрост… https://t.co/JMwqg1Toxm",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Tatarinsky220",
-          "name": "Tatarinsky",
-          "id": 279564006,
-          "id_str": "279564006",
+          "screen_name": "ri_mercores",
+          "name": "Libby S",
+          "id": 910676354,
+          "id_str": "910676354",
           "indices": [
             0,
-            14
+            12
+          ]
+        },
+        {
+          "screen_name": "Gala_Martin",
+          "name": "no future for",
+          "id": 416947190,
+          "id_str": "416947190",
+          "indices": [
+            13,
+            25
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/KhY1Ica0Ra",
-          "expanded_url": "https://twitter.com/i/web/status/1486375273209769986",
+          "url": "https://t.co/JMwqg1Toxm",
+          "expanded_url": "https://twitter.com/i/web/status/1486382949201240067",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,11 +81,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1486374846938464300,
-    "in_reply_to_status_id_str": "1486374846938464263",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1486382062751920000,
+    "in_reply_to_status_id_str": "1486382062751920137",
+    "in_reply_to_user_id": 910676354,
+    "in_reply_to_user_id_str": "910676354",
+    "in_reply_to_screen_name": "ri_mercores",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -84,7 +94,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
