@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11008,
+  "followers_count": 11009,
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24895,
+  "statuses_count": 24896,
   "lang": null,
   "status": {
-    "created_at": "Thu Jan 27 20:07:46 +0000 2022",
-    "id": 1486793074172960800,
-    "id_str": "1486793074172960780",
-    "text": "И кто бы как не относился к разведению, я за то, чтобы и питомники были ответственнее и отслеживали такие вещи. Наш… https://t.co/l8BucxctDL",
+    "created_at": "Thu Jan 27 22:19:48 +0000 2022",
+    "id": 1486826298630619100,
+    "id_str": "1486826298630619140",
+    "text": "@Gavzilla5 цель была показать, что есть вероятность, что в помете, в линии по маме или папе есть проблемы и нужно п… https://t.co/0biqlftHmQ",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Gavzilla5",
+          "name": "Gavzilla",
+          "id": 1317531003439714300,
+          "id_str": "1317531003439714305",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/l8BucxctDL",
-          "expanded_url": "https://twitter.com/i/web/status/1486793074172960780",
+          "url": "https://t.co/0biqlftHmQ",
+          "expanded_url": "https://twitter.com/i/web/status/1486826298630619140",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +71,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1486791636340326400,
-    "in_reply_to_status_id_str": "1486791636340326409",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1486798695261745200,
+    "in_reply_to_status_id_str": "1486798695261745157",
+    "in_reply_to_user_id": 1317531003439714300,
+    "in_reply_to_user_id_str": "1317531003439714305",
+    "in_reply_to_screen_name": "Gavzilla5",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +84,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 53,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
