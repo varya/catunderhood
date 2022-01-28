@@ -30,39 +30,38 @@
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9429,
+  "favourites_count": 9432,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24898,
+  "statuses_count": 24905,
   "lang": null,
   "status": {
-    "created_at": "Thu Jan 27 22:22:42 +0000 2022",
-    "id": 1486827028758290400,
-    "id_str": "1486827028758290432",
-    "text": "@onegin_lox чудесно! хах",
-    "truncated": false,
+    "created_at": "Fri Jan 28 10:14:59 +0000 2022",
+    "id": 1487006281919611000,
+    "id_str": "1487006281919610884",
+    "text": "По этой теме все! Мы надеемся и делаем все возможное, чтобы Ама жил свою лучшую кошачью жизнь!\n\nИ главное: животные… https://t.co/ZxUeFsSfqA",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "onegin_lox",
-          "name": "жена или подлец",
-          "id": 1147196093840658400,
-          "id_str": "1147196093840658432",
+          "url": "https://t.co/ZxUeFsSfqA",
+          "expanded_url": "https://twitter.com/i/web/status/1487006281919610884",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            11
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1486789430321029000,
-    "in_reply_to_status_id_str": "1486789430321029123",
+    "in_reply_to_status_id": 1487005163630043100,
+    "in_reply_to_status_id_str": "1487005163630043136",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
