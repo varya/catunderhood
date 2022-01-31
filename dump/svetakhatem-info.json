@@ -28,108 +28,40 @@
   "protected": false,
   "followers_count": 11021,
   "friends_count": 42,
-  "listed_count": 29,
+  "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
   "favourites_count": 9500,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24981,
+  "statuses_count": 24983,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 31 12:33:20 +0000 2022",
-    "id": 1488128262878470100,
-    "id_str": "1488128262878470148",
-    "text": "Вот, нашла фотографию, где Рыжик сразу после стрижки (и явно этому не рад). Начало 2017 года https://t.co/tS5vva9TTL",
-    "truncated": false,
+    "created_at": "Mon Jan 31 13:37:51 +0000 2022",
+    "id": 1488144497775100000,
+    "id_str": "1488144497775099907",
+    "text": "Также Рыжа уважает тазики и всякие ёмкости, куда можно влететь с разбегу))\nВ данном случае – 5-литровая бутыль с от… https://t.co/RBOvIa7FmF",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1488128193752088600,
-          "id_str": "1488128193752088586",
+          "url": "https://t.co/RBOvIa7FmF",
+          "expanded_url": "https://twitter.com/i/web/status/1488144497775099907",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FKbktTDWQAodizc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FKbktTDWQAodizc.jpg",
-          "url": "https://t.co/tS5vva9TTL",
-          "display_url": "pic.twitter.com/tS5vva9TTL",
-          "expanded_url": "https://twitter.com/catunderhood/status/1488128262878470148/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1488128193752088600,
-          "id_str": "1488128193752088586",
-          "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FKbktTDWQAodizc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FKbktTDWQAodizc.jpg",
-          "url": "https://t.co/tS5vva9TTL",
-          "display_url": "pic.twitter.com/tS5vva9TTL",
-          "expanded_url": "https://twitter.com/catunderhood/status/1488128262878470148/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 576,
-              "h": 1024,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1488126131555512300,
-    "in_reply_to_status_id_str": "1488126131555512321",
+    "in_reply_to_status_id": 1488142523239309300,
+    "in_reply_to_status_id_str": "1488142523239309312",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -140,8 +72,8 @@
       1228177218867564500
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 53,
+    "retweet_count": 2,
+    "favorite_count": 83,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
