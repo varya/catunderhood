@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11019,
+  "followers_count": 11020,
   "friends_count": 42,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 24987,
+  "statuses_count": 24988,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 31 19:48:13 +0000 2022",
-    "id": 1488237706249445400,
-    "id_str": "1488237706249445389",
-    "text": "Несмотря на возрастные изменения, сейчас, почти в 17 лет, Рыжик вполне бодрый и довольный собой кот. Я надеюсь, что… https://t.co/778ehE3NGz",
+    "created_at": "Tue Feb 01 08:19:18 +0000 2022",
+    "id": 1488426721741361200,
+    "id_str": "1488426721741361155",
+    "text": "Всем привет и хорошего дня! На связи по-прежнему @svetakhatem 😊\nВчера я рассказала про Рыжика, сегодня на очереди Ч… https://t.co/RGrpXtgj3D",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "svetakhatem",
+          "name": "Лана ван Хаттем",
+          "id": 1228177218867564500,
+          "id_str": "1228177218867564544",
+          "indices": [
+            49,
+            61
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/778ehE3NGz",
-          "expanded_url": "https://twitter.com/i/web/status/1488237706249445389",
+          "url": "https://t.co/RGrpXtgj3D",
+          "expanded_url": "https://twitter.com/i/web/status/1488426721741361155",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -72,8 +83,8 @@
       1228177218867564500
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 243,
+    "retweet_count": 1,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
