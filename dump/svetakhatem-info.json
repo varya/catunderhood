@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25010,
+  "statuses_count": 25011,
   "lang": null,
   "status": {
-    "created_at": "Tue Feb 01 17:10:00 +0000 2022",
-    "id": 1488560274856550400,
-    "id_str": "1488560274856550401",
-    "text": "Ещё пару слов об играх Чарлика. Он любит мячики и дразнилки. Ну, и с криком носиться ночью по квартире, как угорелы… https://t.co/HzTjsO6upd",
+    "created_at": "Tue Feb 01 18:00:02 +0000 2022",
+    "id": 1488572866832617500,
+    "id_str": "1488572866832617473",
+    "text": "А вот так Чарли охотится на насекомых.\nЕсли коты видят птичку/муху, но не могут их поймать, они часто начинают вот… https://t.co/weN2WFM2D6",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,12 +49,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/HzTjsO6upd",
-          "expanded_url": "https://twitter.com/i/web/status/1488560274856550401",
+          "url": "https://t.co/weN2WFM2D6",
+          "expanded_url": "https://twitter.com/i/web/status/1488572866832617473",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
@@ -70,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 21,
+    "retweet_count": 2,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
