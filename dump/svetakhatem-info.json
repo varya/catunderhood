@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11014,
+  "followers_count": 11015,
   "friends_count": 42,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,43 +35,113 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25038,
+  "statuses_count": 25041,
   "lang": null,
   "status": {
-    "created_at": "Wed Feb 02 12:30:00 +0000 2022",
-    "id": 1488852200138764300,
-    "id_str": "1488852200138764290",
-    "text": "Как я уже говорила, Кузя очень дружелюбен с другими кисами. Разве что иногда достаёт Рыжика, желая с ним поиграть,… https://t.co/o6PWom0N8v",
-    "truncated": true,
+    "created_at": "Wed Feb 02 12:36:30 +0000 2022",
+    "id": 1488853837091901400,
+    "id_str": "1488853837091901445",
+    "text": "А иногда даже и потискать) https://t.co/EOFKw126tz",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/o6PWom0N8v",
-          "expanded_url": "https://twitter.com/i/web/status/1488852200138764290",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1488853772373741600,
+          "id_str": "1488853772373741568",
           "indices": [
-            116,
-            139
-          ]
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKl4niDWUAAnTPk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKl4niDWUAAnTPk.jpg",
+          "url": "https://t.co/EOFKw126tz",
+          "display_url": "pic.twitter.com/EOFKw126tz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1488853837091901445/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 599,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 846,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 846,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1488853772373741600,
+          "id_str": "1488853772373741568",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKl4niDWUAAnTPk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKl4niDWUAAnTPk.jpg",
+          "url": "https://t.co/EOFKw126tz",
+          "display_url": "pic.twitter.com/EOFKw126tz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1488853837091901445/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 599,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 846,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 846,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1488853676844273700,
+    "in_reply_to_status_id_str": "1488853676844273666",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      1228177218867564500
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
