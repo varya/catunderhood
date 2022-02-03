@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11018,
+  "followers_count": 11019,
   "friends_count": 42,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25055,
+  "statuses_count": 25056,
   "lang": null,
   "status": {
-    "created_at": "Thu Feb 03 08:10:26 +0000 2022",
-    "id": 1489149266765697000,
-    "id_str": "1489149266765697027",
-    "text": "Всем отличного дня! \nСегодня познакомлю вас с нашей четвёртой кисой – Глашей, или Глафирой Павловной) https://t.co/McjFeJzcxF",
-    "truncated": false,
+    "created_at": "Thu Feb 03 08:59:00 +0000 2022",
+    "id": 1489161486224150500,
+    "id_str": "1489161486224150529",
+    "text": "Глаше примерно лет пять (а может, и больше). Как и Кузька, она была взята (точнее, выловлена) с улицы.\nСейчас это н… https://t.co/x7FFTl1ABv",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1489148571505074200,
-          "id_str": "1489148571505074182",
+          "url": "https://t.co/x7FFTl1ABv",
+          "expanded_url": "https://twitter.com/i/web/status/1489161486224150529",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FKqEvGZXIAYAmwV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FKqEvGZXIAYAmwV.jpg",
-          "url": "https://t.co/McjFeJzcxF",
-          "display_url": "pic.twitter.com/McjFeJzcxF",
-          "expanded_url": "https://twitter.com/catunderhood/status/1489149266765697027/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 705,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 752,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 400,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1489148571505074200,
-          "id_str": "1489148571505074182",
-          "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FKqEvGZXIAYAmwV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FKqEvGZXIAYAmwV.jpg",
-          "url": "https://t.co/McjFeJzcxF",
-          "display_url": "pic.twitter.com/McjFeJzcxF",
-          "expanded_url": "https://twitter.com/catunderhood/status/1489149266765697027/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 705,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 752,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 400,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -136,12 +68,10 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      1228177218867564500
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 65,
+    "retweet_count": 0,
+    "favorite_count": 61,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
