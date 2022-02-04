@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11037,
+  "followers_count": 11038,
   "friends_count": 42,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,167 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25097,
+  "statuses_count": 25099,
   "lang": null,
   "status": {
-    "created_at": "Thu Feb 03 18:42:00 +0000 2022",
-    "id": 1489308202911117300,
-    "id_str": "1489308202911117315",
-    "text": "Рассказ о кисах я продолжу завтра. А сегодня посмотрите, как замечательно Глаша исполняет обязанности пресс-секрета… https://t.co/prMJbaLaN5",
-    "truncated": true,
+    "created_at": "Fri Feb 04 08:00:00 +0000 2022",
+    "id": 1489509029034422300,
+    "id_str": "1489509029034422276",
+    "text": "Не знаю, насколько Глаша любит мышей и свинок, но она, во всяком случае, не против))) https://t.co/y8MWRIznxb",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/prMJbaLaN5",
-          "expanded_url": "https://twitter.com/i/web/status/1489308202911117315",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1489301449527939000,
+          "id_str": "1489301449527939078",
           "indices": [
-            117,
-            140
-          ]
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKsPxxaWUAYBM-w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKsPxxaWUAYBM-w.jpg",
+          "url": "https://t.co/y8MWRIznxb",
+          "display_url": "pic.twitter.com/y8MWRIznxb",
+          "expanded_url": "https://twitter.com/catunderhood/status/1489509029034422276/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 599,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 599,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1489301449527939000,
+          "id_str": "1489301449527939078",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKsPxxaWUAYBM-w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKsPxxaWUAYBM-w.jpg",
+          "url": "https://t.co/y8MWRIznxb",
+          "display_url": "pic.twitter.com/y8MWRIznxb",
+          "expanded_url": "https://twitter.com/catunderhood/status/1489509029034422276/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 599,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 599,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1489301449511260200,
+          "id_str": "1489301449511260173",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKsPxxWX0A0Z_f7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKsPxxWX0A0Z_f7.jpg",
+          "url": "https://t.co/y8MWRIznxb",
+          "display_url": "pic.twitter.com/y8MWRIznxb",
+          "expanded_url": "https://twitter.com/catunderhood/status/1489509029034422276/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1489301449507053600,
+          "id_str": "1489301449507053571",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKsPxxVXoAMW97f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKsPxxVXoAMW97f.jpg",
+          "url": "https://t.co/y8MWRIznxb",
+          "display_url": "pic.twitter.com/y8MWRIznxb",
+          "expanded_url": "https://twitter.com/catunderhood/status/1489509029034422276/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +210,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 11,
-    "favorite_count": 427,
+    "retweet_count": 3,
+    "favorite_count": 60,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
