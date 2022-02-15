@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 11080,
+  "followers_count": 11081,
   "friends_count": 42,
   "listed_count": 28,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6649,
+  "favourites_count": 9508,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25277,
+  "statuses_count": 25278,
   "lang": null,
   "status": {
-    "created_at": "Tue Feb 15 08:00:02 +0000 2022",
-    "id": 1493495301893730300,
-    "id_str": "1493495301893730306",
-    "text": "Доброе утро! Начинаем новый день со следующего котика ;)\nВторой по старшинству (тоже с конца) - Родион. Коротко - Р… https://t.co/PwEiyTLmiD",
-    "truncated": true,
+    "created_at": "Tue Feb 15 10:04:00 +0000 2022",
+    "id": 1493526499042943000,
+    "id_str": "1493526499042942976",
+    "text": "Радя - здоровенный, очень добрый котик, но порой не осознает своих габаритов и ведет себя как маленький котенок. https://t.co/pmpl5w5tbu",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/PwEiyTLmiD",
-          "expanded_url": "https://twitter.com/i/web/status/1493495301893730306",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1493279601434546200,
+          "id_str": "1493279601434546181",
           "indices": [
-            117,
-            140
-          ]
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
+          "url": "https://t.co/pmpl5w5tbu",
+          "display_url": "pic.twitter.com/pmpl5w5tbu",
+          "expanded_url": "https://twitter.com/catunderhood/status/1493526499042942976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1493279601434546200,
+          "id_str": "1493279601434546181",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
+          "url": "https://t.co/pmpl5w5tbu",
+          "display_url": "pic.twitter.com/pmpl5w5tbu",
+          "expanded_url": "https://twitter.com/catunderhood/status/1493526499042942976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 170,
+    "retweet_count": 0,
+    "favorite_count": 80,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
