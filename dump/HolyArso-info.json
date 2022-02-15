@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25278,
+  "statuses_count": 25279,
   "lang": null,
   "status": {
-    "created_at": "Tue Feb 15 10:04:00 +0000 2022",
-    "id": 1493526499042943000,
-    "id_str": "1493526499042942976",
-    "text": "Радя - здоровенный, очень добрый котик, но порой не осознает своих габаритов и ведет себя как маленький котенок. https://t.co/pmpl5w5tbu",
+    "created_at": "Tue Feb 15 11:05:00 +0000 2022",
+    "id": 1493541849851703300,
+    "id_str": "1493541849851703300",
+    "text": "У него великолепная и супер мягкая шерсть - этим он пошел в своего папу, которого зовут Годзилла х) https://t.co/5yvXTFBzPp",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,24 +50,19 @@
       "urls": [],
       "media": [
         {
-          "id": 1493279601434546200,
-          "id_str": "1493279601434546181",
+          "id": 1493279963985985500,
+          "id_str": "1493279963985985540",
           "indices": [
-            113,
-            136
+            100,
+            123
           ],
-          "media_url": "http://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
-          "url": "https://t.co/pmpl5w5tbu",
-          "display_url": "pic.twitter.com/pmpl5w5tbu",
-          "expanded_url": "https://twitter.com/catunderhood/status/1493526499042942976/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FLkyNyuXwAQ74BR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLkyNyuXwAQ74BR.jpg",
+          "url": "https://t.co/5yvXTFBzPp",
+          "display_url": "pic.twitter.com/5yvXTFBzPp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1493541849851703300/photo/1",
           "type": "photo",
           "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -81,6 +76,11 @@
             "medium": {
               "w": 900,
               "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
               "resize": "fit"
             }
           }
@@ -90,24 +90,19 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1493279601434546200,
-          "id_str": "1493279601434546181",
+          "id": 1493279963985985500,
+          "id_str": "1493279963985985540",
           "indices": [
-            113,
-            136
+            100,
+            123
           ],
-          "media_url": "http://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FLkx4sHX0AUmW2G.jpg",
-          "url": "https://t.co/pmpl5w5tbu",
-          "display_url": "pic.twitter.com/pmpl5w5tbu",
-          "expanded_url": "https://twitter.com/catunderhood/status/1493526499042942976/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FLkyNyuXwAQ74BR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLkyNyuXwAQ74BR.jpg",
+          "url": "https://t.co/5yvXTFBzPp",
+          "display_url": "pic.twitter.com/5yvXTFBzPp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1493541849851703300/photo/1",
           "type": "photo",
           "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -121,6 +116,11 @@
             "medium": {
               "w": 900,
               "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
               "resize": "fit"
             }
           }
@@ -139,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 80,
+    "favorite_count": 99,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
