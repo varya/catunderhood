@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 11336,
+  "followers_count": 11335,
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9508,
+  "favourites_count": 6649,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25307,
+  "statuses_count": 25308,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 19 12:43:00 +0000 2022",
-    "id": 1495016063452385300,
-    "id_str": "1495016063452385285",
-    "text": "Все наши котики носят ошейники, потому что их хозяин (я) - параноик, а на подвесках к ошейникам есть qr коды, по ко… https://t.co/RZmUsWzf8O",
-    "truncated": true,
+    "created_at": "Sat Feb 19 13:46:00 +0000 2022",
+    "id": 1495031917930061800,
+    "id_str": "1495031917930061827",
+    "text": "Бродский  часто смешно лежит! https://t.co/VrF8zkLjtC",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/RZmUsWzf8O",
-          "expanded_url": "https://twitter.com/i/web/status/1495016063452385285",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1493305859216191500,
+          "id_str": "1493305859216191489",
           "indices": [
-            117,
-            140
-          ]
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLlJxF-XMAE7h5_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLlJxF-XMAE7h5_.jpg",
+          "url": "https://t.co/VrF8zkLjtC",
+          "display_url": "pic.twitter.com/VrF8zkLjtC",
+          "expanded_url": "https://twitter.com/catunderhood/status/1495031917930061827/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1493305859216191500,
+          "id_str": "1493305859216191489",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLlJxF-XMAE7h5_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLlJxF-XMAE7h5_.jpg",
+          "url": "https://t.co/VrF8zkLjtC",
+          "display_url": "pic.twitter.com/VrF8zkLjtC",
+          "expanded_url": "https://twitter.com/catunderhood/status/1495031917930061827/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 90,
+    "retweet_count": 3,
+    "favorite_count": 137,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
