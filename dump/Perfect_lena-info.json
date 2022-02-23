@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 11607,
+  "followers_count": 11606,
   "friends_count": 42,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9508,
+  "favourites_count": 6649,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25325,
+  "statuses_count": 25329,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 21 01:13:00 +0000 2022",
-    "id": 1495567194897326000,
-    "id_str": "1495567194897326082",
-    "text": "На этом моя неделя заканчивается, и я передаю эстафету следующему человеку, кто решит рассказать о котиках, своих и… https://t.co/G35lT32r0n",
+    "created_at": "Wed Feb 23 11:17:24 +0000 2022",
+    "id": 1496444075410604000,
+    "id_str": "1496444075410604033",
+    "text": "Дома мы прикалываем друг друга тем, что если нас замуровать, то ещё примерно полгода мы успешно будем питаться друг… https://t.co/Tg3xZoAL9Q",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/G35lT32r0n",
-          "expanded_url": "https://twitter.com/i/web/status/1495567194897326082",
+          "url": "https://t.co/Tg3xZoAL9Q",
+          "expanded_url": "https://twitter.com/i/web/status/1496444075410604033",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -68,13 +68,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      47066406
+    ],
     "is_quote_status": false,
-    "retweet_count": 33,
-    "favorite_count": 1505,
+    "retweet_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
