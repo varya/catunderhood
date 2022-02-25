@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 11380,
+  "followers_count": 11379,
   "friends_count": 42,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6649,
+  "favourites_count": 9508,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25428,
+  "statuses_count": 25441,
   "lang": null,
   "status": {
-    "created_at": "Fri Feb 25 14:52:53 +0000 2022",
-    "id": 1497223078472003600,
-    "id_str": "1497223078472003590",
-    "text": "Меня ждало разочарование.\nОказывается кошка у новых хозяев, но от них она успела сбежать. Ну и собственно кошку акт… https://t.co/54fAu4JpxM",
-    "truncated": true,
+    "created_at": "Fri Feb 25 20:22:00 +0000 2022",
+    "id": 1497305904718434300,
+    "id_str": "1497305904718434310",
+    "text": "@LisavetaJS Есть и еще более ржачные фотки этой морды 😆😆",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/54fAu4JpxM",
-          "expanded_url": "https://twitter.com/i/web/status/1497223078472003590",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "LisavetaJS",
+          "name": "Lisaveta",
+          "id": 3351049797,
+          "id_str": "3351049797",
           "indices": [
-            117,
-            140
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1497218837070102500,
-    "in_reply_to_status_id_str": "1497218837070102550",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1497303557523091500,
+    "in_reply_to_status_id_str": "1497303557523091462",
+    "in_reply_to_user_id": 3351049797,
+    "in_reply_to_user_id_str": "3351049797",
+    "in_reply_to_screen_name": "LisavetaJS",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,7 +74,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 48,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
