@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11284,
+  "followers_count": 11276,
   "friends_count": 42,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25545,
+  "statuses_count": 25560,
   "lang": null,
   "status": {
-    "created_at": "Sun Feb 27 22:10:24 +0000 2022",
-    "id": 1498057956327309300,
-    "id_str": "1498057956327309319",
-    "text": "@Tinvald Какой мощный 😎 \nМощны его лапищи, мощен его хвост!\n\nСпасибо, что были со мной! ❤️",
-    "truncated": false,
+    "created_at": "Sun Feb 27 23:20:23 +0000 2022",
+    "id": 1498075570801946600,
+    "id_str": "1498075570801946625",
+    "text": "На этом я и моя банда прощаемся с вами, дорогие читатели ❤️\n\nНайти нас и посмотреть на пушистые жопы в их естествен… https://t.co/qGOxxjlWJb",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Tinvald",
-          "name": "Natali",
-          "id": 494328872,
-          "id_str": "494328872",
+          "url": "https://t.co/qGOxxjlWJb",
+          "expanded_url": "https://twitter.com/i/web/status/1498075570801946625",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            8
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1498056554855211000,
-    "in_reply_to_status_id_str": "1498056554855211008",
-    "in_reply_to_user_id": 494328872,
-    "in_reply_to_user_id_str": "494328872",
-    "in_reply_to_screen_name": "Tinvald",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
