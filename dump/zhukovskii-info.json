@@ -26,121 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 11183,
+  "followers_count": 11184,
   "friends_count": 41,
   "listed_count": 29,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6638,
+  "favourites_count": 9492,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 25732,
+  "statuses_count": 25735,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 09 13:38:09 +0000 2022",
-    "id": 1501552924689932300,
-    "id_str": "1501552924689932294",
-    "text": "@zhukovskii Так начался квест по поиску нового рыжего члена семьи. https://t.co/loIfLL0AkS",
-    "truncated": false,
+    "created_at": "Wed Mar 09 15:11:53 +0000 2022",
+    "id": 1501576515259183000,
+    "id_str": "1501576515259183104",
+    "text": "Ветеринары нашли жидкость. А когда мы на всякий случай еще и к \"нашему\" основному доктору съездили, то он не моргну… https://t.co/JuRH3qWpZO",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "zhukovskii",
-          "name": "муж пирожка",
-          "id": 935624561416200200,
-          "id_str": "935624561416200192",
+          "url": "https://t.co/JuRH3qWpZO",
+          "expanded_url": "https://twitter.com/i/web/status/1501576515259183104",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            11
+            117,
+            140
           ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1501552870122049500,
-          "id_str": "1501552870122049538",
-          "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FNaWYTsX0AITofa.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FNaWYTsX0AITofa.jpg",
-          "url": "https://t.co/loIfLL0AkS",
-          "display_url": "pic.twitter.com/loIfLL0AkS",
-          "expanded_url": "https://twitter.com/catunderhood/status/1501552924689932294/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1501552870122049500,
-          "id_str": "1501552870122049538",
-          "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FNaWYTsX0AITofa.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FNaWYTsX0AITofa.jpg",
-          "url": "https://t.co/loIfLL0AkS",
-          "display_url": "pic.twitter.com/loIfLL0AkS",
-          "expanded_url": "https://twitter.com/catunderhood/status/1501552924689932294/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 640,
-              "h": 640,
-              "resize": "fit"
-            }
-          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1501552676743663600,
-    "in_reply_to_status_id_str": "1501552676743663622",
+    "in_reply_to_status_id": 1501574670772019200,
+    "in_reply_to_status_id_str": "1501574670772019207",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -151,8 +72,8 @@
       935624561416200200
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 43,
+    "retweet_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
