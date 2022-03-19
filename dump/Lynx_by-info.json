@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 11235,
+  "followers_count": 11236,
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9569,
+  "favourites_count": 9594,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26107,
+  "statuses_count": 26108,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 19 11:54:56 +0000 2022",
-    "id": 1505150826964267000,
-    "id_str": "1505150826964267009",
-    "text": "А какие есть \"нельзя\" у ваших котиков и как они к этому относятся? https://t.co/gB3E9B1XBV",
-    "truncated": false,
+    "created_at": "Sat Mar 19 18:24:42 +0000 2022",
+    "id": 1505248917516132400,
+    "id_str": "1505248917516132363",
+    "text": "Когда матерям пришла книжка про котологику, Пандора исследовала её первой. Потому что мало ли что там про котиков н… https://t.co/k13PpDIUBR",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1505150804646367200,
-          "id_str": "1505150804646367233",
+          "url": "https://t.co/k13PpDIUBR",
+          "expanded_url": "https://twitter.com/i/web/status/1505248917516132363",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FONerqRXEAEVsTo.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FONerqRXEAEVsTo.jpg",
-          "url": "https://t.co/gB3E9B1XBV",
-          "display_url": "pic.twitter.com/gB3E9B1XBV",
-          "expanded_url": "https://twitter.com/catunderhood/status/1505150826964267009/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1505150804646367200,
-          "id_str": "1505150804646367233",
-          "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FONerqRXEAEVsTo.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FONerqRXEAEVsTo.jpg",
-          "url": "https://t.co/gB3E9B1XBV",
-          "display_url": "pic.twitter.com/gB3E9B1XBV",
-          "expanded_url": "https://twitter.com/catunderhood/status/1505150826964267009/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -141,7 +73,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 346,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
