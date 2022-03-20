@@ -26,45 +26,113 @@
     }
   },
   "protected": false,
-  "followers_count": 11261,
+  "followers_count": 11265,
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9632,
+  "favourites_count": 9656,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26138,
+  "statuses_count": 26151,
   "lang": null,
   "status": {
-    "created_at": "Sun Mar 20 10:48:58 +0000 2022",
-    "id": 1505496615259455500,
-    "id_str": "1505496615259455495",
-    "text": "Никогда раньше не видела, чтобы котики сидели на попе, балансируя передними лапками так долго.\nНо ради того, чтобы… https://t.co/Yz4hqOIAeN",
-    "truncated": true,
+    "created_at": "Sun Mar 20 19:06:22 +0000 2022",
+    "id": 1505621791838023700,
+    "id_str": "1505621791838023686",
+    "text": "Она у нас чудесная, хоть иногда устает непрерывно контролировать своих непутевых двуногих. https://t.co/rQ20IxaIDj",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/Yz4hqOIAeN",
-          "expanded_url": "https://twitter.com/i/web/status/1505496615259455495",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1505621769964638200,
+          "id_str": "1505621769964638208",
           "indices": [
-            116,
-            139
-          ]
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOULBczWUAAZmlY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOULBczWUAAZmlY.jpg",
+          "url": "https://t.co/rQ20IxaIDj",
+          "display_url": "pic.twitter.com/rQ20IxaIDj",
+          "expanded_url": "https://twitter.com/catunderhood/status/1505621791838023686/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1505621769964638200,
+          "id_str": "1505621769964638208",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOULBczWUAAZmlY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOULBczWUAAZmlY.jpg",
+          "url": "https://t.co/rQ20IxaIDj",
+          "display_url": "pic.twitter.com/rQ20IxaIDj",
+          "expanded_url": "https://twitter.com/catunderhood/status/1505621791838023686/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1505621501613068300,
+    "in_reply_to_status_id_str": "1505621501613068297",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,8 +140,8 @@
       143445617
     ],
     "is_quote_status": false,
-    "retweet_count": 18,
-    "favorite_count": 686,
+    "retweet_count": 0,
+    "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
