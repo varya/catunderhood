@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11312,
+  "followers_count": 11315,
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,37 +35,36 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26178,
+  "statuses_count": 26179,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 22 13:09:52 +0000 2022",
-    "id": 1506256848843952000,
-    "id_str": "1506256848843952128",
-    "text": "@KoteMarkote Какая буханочка😍😍😍",
-    "truncated": false,
+    "created_at": "Tue Mar 22 13:35:55 +0000 2022",
+    "id": 1506263403224043500,
+    "id_str": "1506263403224043527",
+    "text": "Я в своем познании настолько преисполнился, что я как будто бы уже сто триллионов миллиардов лет проживаю на трилли… https://t.co/0OL6u3P9oR",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "KoteMarkote",
-          "name": "🤍❤️🤍щеколдунья",
-          "id": 2364327499,
-          "id_str": "2364327499",
+          "url": "https://t.co/0OL6u3P9oR",
+          "expanded_url": "https://twitter.com/i/web/status/1506263403224043527",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            12
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1506256622628352000,
-    "in_reply_to_status_id_str": "1506256622628352008",
-    "in_reply_to_user_id": 2364327499,
-    "in_reply_to_user_id_str": "2364327499",
-    "in_reply_to_screen_name": "KoteMarkote",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,9 +73,10 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 104,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
