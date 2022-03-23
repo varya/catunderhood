@@ -30,42 +30,217 @@
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9723,
+  "favourites_count": 6877,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26236,
+  "statuses_count": 26239,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 23 10:24:32 +0000 2022",
-    "id": 1506577630891581400,
-    "id_str": "1506577630891581440",
-    "text": "@ArkadiyDarchuk хочется в нее окунуться лицом",
+    "created_at": "Wed Mar 23 11:01:39 +0000 2022",
+    "id": 1506586970859974700,
+    "id_str": "1506586970859974665",
+    "text": "Твит любви к ноутбукам. https://t.co/Yqgx7nrDPD",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "ArkadiyDarchuk",
-          "name": "Кризис дачного возраста",
-          "id": 152615205,
-          "id_str": "152615205",
+          "id": 1506586956532232200,
+          "id_str": "1506586956532232197",
           "indices": [
-            0,
-            15
-          ]
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOh42s9XMAUR5zi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOh42s9XMAUR5zi.jpg",
+          "url": "https://t.co/Yqgx7nrDPD",
+          "display_url": "pic.twitter.com/Yqgx7nrDPD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1506586970859974665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1506586956532232200,
+          "id_str": "1506586956532232197",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOh42s9XMAUR5zi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOh42s9XMAUR5zi.jpg",
+          "url": "https://t.co/Yqgx7nrDPD",
+          "display_url": "pic.twitter.com/Yqgx7nrDPD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1506586970859974665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1506586956515491800,
+          "id_str": "1506586956515491842",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOh42s5XwAIsvuX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOh42s5XwAIsvuX.jpg",
+          "url": "https://t.co/Yqgx7nrDPD",
+          "display_url": "pic.twitter.com/Yqgx7nrDPD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1506586970859974665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1506586956523876400,
+          "id_str": "1506586956523876364",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOh42s7XsAwkOr7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOh42s7XsAwkOr7.jpg",
+          "url": "https://t.co/Yqgx7nrDPD",
+          "display_url": "pic.twitter.com/Yqgx7nrDPD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1506586970859974665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1506586956528070700,
+          "id_str": "1506586956528070665",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOh42s8XsAkZ7f_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOh42s8XsAkZ7f_.jpg",
+          "url": "https://t.co/Yqgx7nrDPD",
+          "display_url": "pic.twitter.com/Yqgx7nrDPD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1506586970859974665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1506542349392007200,
-    "in_reply_to_status_id_str": "1506542349392007170",
-    "in_reply_to_user_id": 152615205,
-    "in_reply_to_user_id_str": "152615205",
-    "in_reply_to_screen_name": "ArkadiyDarchuk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,10 +248,11 @@
       1283094284
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 67,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
