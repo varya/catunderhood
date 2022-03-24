@@ -26,99 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 11353,
+  "followers_count": 11356,
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9848,
+  "favourites_count": 9857,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26273,
+  "statuses_count": 26275,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 24 08:04:34 +0000 2022",
-    "id": 1506904792278483000,
-    "id_str": "1506904792278482946",
-    "text": "RT @catunderhood: Пропала кошка! Если вы располагаете какой нибудь информацией, напишите в реплаи пожалуйста, вознаграждение за любую инфор…",
+    "created_at": "Thu Mar 24 09:49:58 +0000 2022",
+    "id": 1506931318113906700,
+    "id_str": "1506931318113906696",
+    "text": "@dimasinelnik наша тоже, крякает, квокочет, мявкает\n\nа мяучит только если ей лапы моют ахаха",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "catunderhood",
-          "name": "catunderhood",
-          "id": 739569483556225000,
-          "id_str": "739569483556225025",
+          "screen_name": "dimasinelnik",
+          "name": "💙Молодой Джанки💛",
+          "id": 459776732,
+          "id_str": "459776732",
           "indices": [
-            3,
-            16
+            0,
+            13
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1506909787447074800,
+    "in_reply_to_status_id_str": "1506909787447074816",
+    "in_reply_to_user_id": 459776732,
+    "in_reply_to_user_id_str": "459776732",
+    "in_reply_to_screen_name": "dimasinelnik",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       1283094284
     ],
-    "retweeted_status": {
-      "created_at": "Thu Mar 24 07:07:35 +0000 2022",
-      "id": 1506890452519248000,
-      "id_str": "1506890452519247876",
-      "text": "Пропала кошка! Если вы располагаете какой нибудь информацией, напишите в реплаи пожалуйста, вознаграждение за любую… https://t.co/ttvlwfoCwL",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/ttvlwfoCwL",
-            "expanded_url": "https://twitter.com/i/web/status/1506890452519247876",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-      "in_reply_to_status_id": 1506884369520246800,
-      "in_reply_to_status_id_str": "1506884369520246785",
-      "in_reply_to_user_id": 739569483556225000,
-      "in_reply_to_user_id_str": "739569483556225025",
-      "in_reply_to_screen_name": "catunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": [
-        1283094284
-      ],
-      "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 81,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
