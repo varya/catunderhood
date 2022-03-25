@@ -30,41 +30,42 @@
   "friends_count": 41,
   "listed_count": 30,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9862,
+  "favourites_count": 9871,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26288,
+  "statuses_count": 26292,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 24 13:53:27 +0000 2022",
-    "id": 1506992592323547100,
-    "id_str": "1506992592323547146",
-    "text": "и не грызла((\n\nпровода спасали безобидным методом: мазали левомеколью. Она безопасна для кошек, характерный запах о… https://t.co/gCQZWfvVtl",
-    "truncated": true,
+    "created_at": "Fri Mar 25 07:12:32 +0000 2022",
+    "id": 1507254087775146000,
+    "id_str": "1507254087775145984",
+    "text": "@_almaty_ оказывается свои тоже",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/gCQZWfvVtl",
-          "expanded_url": "https://twitter.com/i/web/status/1506992592323547146",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "_almaty_",
+          "name": "ой всё",
+          "id": 1444995556561064000,
+          "id_str": "1444995556561063940",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1506991996245889000,
-    "in_reply_to_status_id_str": "1506991996245889024",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1507253821554233300,
+    "in_reply_to_status_id_str": "1507253821554233346",
+    "in_reply_to_user_id": 1444995556561064000,
+    "in_reply_to_user_id_str": "1444995556561063940",
+    "in_reply_to_screen_name": "_almaty_",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -73,7 +74,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 76,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
