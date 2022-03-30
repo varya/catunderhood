@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11417,
+  "followers_count": 11418,
   "friends_count": 41,
   "listed_count": 31,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26410,
+  "statuses_count": 26412,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 30 14:17:51 +0000 2022",
-    "id": 1509173060611436500,
-    "id_str": "1509173060611436547",
-    "text": "В приюте было порядка 15 кошек, я посмотрела-потрогала всех, включая сфинкса. Оливка наблюдала из клетки и шипела.… https://t.co/mzXoFMFk9W",
+    "created_at": "Wed Mar 30 15:19:22 +0000 2022",
+    "id": 1509188540789190700,
+    "id_str": "1509188540789190659",
+    "text": "В общем, адаптация прошла безболезненно. Оливия немного социопат, не любит других кошек, скопления людей, но она ид… https://t.co/Ztj2SgNgoy",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,12 +49,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/mzXoFMFk9W",
-          "expanded_url": "https://twitter.com/i/web/status/1509173060611436547",
+          "url": "https://t.co/Ztj2SgNgoy",
+          "expanded_url": "https://twitter.com/i/web/status/1509188540789190659",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
@@ -71,11 +71,14 @@
     "contributors": [
       433346859
     ],
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 15,
+    "is_quote_status": true,
+    "quoted_status_id": 1509186917451010000,
+    "quoted_status_id_str": "1509186917451010052",
+    "retweet_count": 1,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
