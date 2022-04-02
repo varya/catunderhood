@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11458,
+  "followers_count": 11465,
   "friends_count": 41,
   "listed_count": 31,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,29 +35,30 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26428,
+  "statuses_count": 26429,
   "lang": null,
   "status": {
-    "created_at": "Fri Apr 01 15:37:20 +0000 2022",
-    "id": 1509917841272684500,
-    "id_str": "1509917841272684549",
-    "text": "Ещё вот такое бывает, но редко. Утро выходного и так кайфовое, ещё и Оливка приходит гладиться и урчать. У неё прям… https://t.co/Ac4RbUa2ut",
-    "truncated": true,
+    "created_at": "Sat Apr 02 07:29:38 +0000 2022",
+    "id": 1510157494399643600,
+    "id_str": "1510157494399643651",
+    "text": "RT @Katrinafrozen: Мими-видео)) Мы с Оливкой очень ждём дачный сезон. В прошлом году поехали на дачу в отпуск, кошь очаровала мою тётю - хо…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Ac4RbUa2ut",
-          "expanded_url": "https://twitter.com/i/web/status/1509917841272684549",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Katrinafrozen",
+          "name": "Екатерина",
+          "id": 433346859,
+          "id_str": "433346859",
           "indices": [
-            117,
-            140
+            3,
+            17
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -71,12 +72,51 @@
     "contributors": [
       433346859
     ],
+    "retweeted_status": {
+      "created_at": "Sat Apr 02 07:26:56 +0000 2022",
+      "id": 1510156813475278800,
+      "id_str": "1510156813475278850",
+      "text": "Мими-видео)) Мы с Оливкой очень ждём дачный сезон. В прошлом году поехали на дачу в отпуск, кошь очаровала мою тётю… https://t.co/gClxH19ZvP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gClxH19ZvP",
+            "expanded_url": "https://twitter.com/i/web/status/1510156813475278850",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 66,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 356,
+    "retweet_count": 5,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
