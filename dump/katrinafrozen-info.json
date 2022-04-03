@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26437,
+  "statuses_count": 26438,
   "lang": null,
   "status": {
-    "created_at": "Sun Apr 03 13:56:14 +0000 2022",
-    "id": 1510617171428323300,
-    "id_str": "1510617171428323331",
-    "text": "Оливка вырится и передаёт всем привет и благодарность! При всей своей идеальности она скромная кошь, и очень приятн… https://t.co/GlKhsptNld",
+    "created_at": "Sun Apr 03 16:41:59 +0000 2022",
+    "id": 1510658884037456000,
+    "id_str": "1510658884037455881",
+    "text": "Я сейчас не веду соцсети, но буду иногда выкладывать Оливьезину в своём профиле @Katrinafrozen , кототерапия нужна.… https://t.co/kTc6CHvUuj",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Katrinafrozen",
+          "name": "Екатерина",
+          "id": 433346859,
+          "id_str": "433346859",
+          "indices": [
+            80,
+            94
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/GlKhsptNld",
-          "expanded_url": "https://twitter.com/i/web/status/1510617171428323331",
+          "url": "https://t.co/kTc6CHvUuj",
+          "expanded_url": "https://twitter.com/i/web/status/1510658884037455881",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -72,8 +83,8 @@
       433346859
     ],
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 202,
+    "retweet_count": 1,
+    "favorite_count": 104,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
