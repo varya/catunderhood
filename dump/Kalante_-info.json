@@ -28,45 +28,102 @@
   "protected": false,
   "followers_count": 11494,
   "friends_count": 41,
-  "listed_count": 0,
+  "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
   "favourites_count": 9832,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26438,
+  "statuses_count": 26439,
   "lang": null,
   "status": {
-    "created_at": "Sun Apr 03 16:41:59 +0000 2022",
-    "id": 1510658884037456000,
-    "id_str": "1510658884037455881",
-    "text": "Я сейчас не веду соцсети, но буду иногда выкладывать Оливьезину в своём профиле @Katrinafrozen , кототерапия нужна.… https://t.co/kTc6CHvUuj",
-    "truncated": true,
+    "created_at": "Tue Apr 05 15:15:50 +0000 2022",
+    "id": 1511361979587477500,
+    "id_str": "1511361979587477514",
+    "text": "Всем привет. Хоть со вторника, но начинаю рассказ. Итак, это Кася. Он же Каспер. Кот, 5 лет. https://t.co/k3ylFlhrSS",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "Katrinafrozen",
-          "name": "Екатерина",
-          "id": 433346859,
-          "id_str": "433346859",
+          "id": 1511361829804642300,
+          "id_str": "1511361829804642307",
           "indices": [
-            80,
-            94
-          ]
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPlvk6CXEAMNFRX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPlvk6CXEAMNFRX.jpg",
+          "url": "https://t.co/k3ylFlhrSS",
+          "display_url": "pic.twitter.com/k3ylFlhrSS",
+          "expanded_url": "https://twitter.com/catunderhood/status/1511361979587477514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 291,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 438,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 438,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": [
+      ]
+    },
+    "extended_entities": {
+      "media": [
         {
-          "url": "https://t.co/kTc6CHvUuj",
-          "expanded_url": "https://twitter.com/i/web/status/1510658884037455881",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1511361829804642300,
+          "id_str": "1511361829804642307",
           "indices": [
-            117,
-            140
-          ]
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPlvk6CXEAMNFRX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPlvk6CXEAMNFRX.jpg",
+          "url": "https://t.co/k3ylFlhrSS",
+          "display_url": "pic.twitter.com/k3ylFlhrSS",
+          "expanded_url": "https://twitter.com/catunderhood/status/1511361979587477514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 291,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 438,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 438,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -80,11 +137,11 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      433346859
+      2990510477
     ],
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 361,
+    "retweet_count": 0,
+    "favorite_count": 42,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
