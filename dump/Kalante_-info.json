@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11492,
+  "followers_count": 11491,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,36 +35,104 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26455,
+  "statuses_count": 26457,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 05 16:05:48 +0000 2022",
-    "id": 1511374553729089500,
-    "id_str": "1511374553729089542",
-    "text": "Кот оказался очень понятливым. Лоток, видимо, знал. Промахи в конкретный угол бывали. Если мы уезжали на день, а он… https://t.co/f5HGY92W8M",
-    "truncated": true,
+    "created_at": "Tue Apr 05 16:44:09 +0000 2022",
+    "id": 1511384204935848000,
+    "id_str": "1511384204935847938",
+    "text": "Завтра продолжу. На сегодня держите ещё. https://t.co/PbBb5sPud5",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/f5HGY92W8M",
-          "expanded_url": "https://twitter.com/i/web/status/1511374553729089542",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1511384180738994200,
+          "id_str": "1511384180738994184",
           "indices": [
-            117,
-            140
-          ]
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
+          "url": "https://t.co/PbBb5sPud5",
+          "display_url": "pic.twitter.com/PbBb5sPud5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1511384204935847938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1511384180738994200,
+          "id_str": "1511384180738994184",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
+          "url": "https://t.co/PbBb5sPud5",
+          "display_url": "pic.twitter.com/PbBb5sPud5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1511384204935847938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 523,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1511373789401129000,
-    "in_reply_to_status_id_str": "1511373789401128970",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,10 +140,11 @@
       2990510477
     ],
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 15,
+    "retweet_count": 3,
+    "favorite_count": 93,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
