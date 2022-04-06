@@ -26,106 +26,28 @@
     }
   },
   "protected": false,
-  "followers_count": 11491,
+  "followers_count": 11492,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 6987,
+  "favourites_count": 9829,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26457,
+  "statuses_count": 26468,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 05 16:44:09 +0000 2022",
-    "id": 1511384204935848000,
-    "id_str": "1511384204935847938",
-    "text": "Завтра продолжу. На сегодня держите ещё. https://t.co/PbBb5sPud5",
+    "created_at": "Wed Apr 06 18:24:32 +0000 2022",
+    "id": 1511771855467786200,
+    "id_str": "1511771855467786241",
+    "text": "Но и дружественно-игривый кусь доставался тоже только мне. Первый год руки и ноги были вообще разодранными. Потом остепенился.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1511384180738994200,
-          "id_str": "1511384180738994184",
-          "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
-          "url": "https://t.co/PbBb5sPud5",
-          "display_url": "pic.twitter.com/PbBb5sPud5",
-          "expanded_url": "https://twitter.com/catunderhood/status/1511384204935847938/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1511384180738994200,
-          "id_str": "1511384180738994184",
-          "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FPmD55wXsAgos3D.jpg",
-          "url": "https://t.co/PbBb5sPud5",
-          "display_url": "pic.twitter.com/PbBb5sPud5",
-          "expanded_url": "https://twitter.com/catunderhood/status/1511384204935847938/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 523,
-              "h": 601,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -140,11 +62,10 @@
       2990510477
     ],
     "is_quote_status": false,
-    "retweet_count": 12,
-    "favorite_count": 517,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
