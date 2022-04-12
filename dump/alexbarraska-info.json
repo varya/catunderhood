@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26499,
+  "statuses_count": 26500,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 12 08:01:54 +0000 2022",
-    "id": 1513789493945458700,
-    "id_str": "1513789493945458690",
-    "text": "Ещё у этой кошки очень мягкая и приятная на ощупь шерсть, одна из самых приятных, что мне встречались (а я кошкогла… https://t.co/MwRbmhuQ6y",
+    "created_at": "Tue Apr 12 10:56:29 +0000 2022",
+    "id": 1513833428717871000,
+    "id_str": "1513833428717871111",
+    "text": "Всем обедающим приятного аппетита! Обычно Шеда ест только свой корм (1st Choice) и паштет, но изредка проявляет инт… https://t.co/EG3oo4LWZx",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/MwRbmhuQ6y",
-          "expanded_url": "https://twitter.com/i/web/status/1513789493945458690",
+          "url": "https://t.co/EG3oo4LWZx",
+          "expanded_url": "https://twitter.com/i/web/status/1513833428717871111",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +60,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1513787323640598500,
-    "in_reply_to_status_id_str": "1513787323640598534",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,10 +72,11 @@
       1279753286
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 56,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
