@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26502,
+  "statuses_count": 26503,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 12 16:57:55 +0000 2022",
-    "id": 1513924384519504000,
-    "id_str": "1513924384519503873",
-    "text": "Помимо картона кошь грызёт ещё и книги, тетради и прочий бумбел. Корешки подарочных изданий и графоманов, которые с… https://t.co/FB6lh7eyj9",
-    "truncated": true,
+    "created_at": "Tue Apr 12 19:08:48 +0000 2022",
+    "id": 1513957325186519000,
+    "id_str": "1513957325186519050",
+    "text": "Тяжелые вечерние размышления не чужды котикам https://t.co/WE4R8jgded",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/FB6lh7eyj9",
-          "expanded_url": "https://twitter.com/i/web/status/1513924384519503873",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1513957182844379100,
+          "id_str": "1513957182844379139",
           "indices": [
-            117,
-            140
-          ]
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
+          "url": "https://t.co/WE4R8jgded",
+          "display_url": "pic.twitter.com/WE4R8jgded",
+          "expanded_url": "https://twitter.com/catunderhood/status/1513957325186519050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1513957182844379100,
+          "id_str": "1513957182844379139",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
+          "url": "https://t.co/WE4R8jgded",
+          "display_url": "pic.twitter.com/WE4R8jgded",
+          "expanded_url": "https://twitter.com/catunderhood/status/1513957325186519050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -72,8 +140,8 @@
       1279753286
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 99,
+    "retweet_count": 3,
+    "favorite_count": 74,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
