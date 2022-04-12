@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11489,
+  "followers_count": 11491,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26503,
+  "statuses_count": 26504,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 12 19:08:48 +0000 2022",
-    "id": 1513957325186519000,
-    "id_str": "1513957325186519050",
-    "text": "Тяжелые вечерние размышления не чужды котикам https://t.co/WE4R8jgded",
-    "truncated": false,
+    "created_at": "Tue Apr 12 20:29:15 +0000 2022",
+    "id": 1513977570164981800,
+    "id_str": "1513977570164981776",
+    "text": "Не разобралась, как грузить видео, так что вот ещё один репост чухания. Чухаться мы любим, умеем, практикуем. Если… https://t.co/GyvItGVDqN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1513957182844379100,
-          "id_str": "1513957182844379139",
+          "url": "https://t.co/GyvItGVDqN",
+          "expanded_url": "https://twitter.com/i/web/status/1513977570164981776",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
-          "url": "https://t.co/WE4R8jgded",
-          "display_url": "pic.twitter.com/WE4R8jgded",
-          "expanded_url": "https://twitter.com/catunderhood/status/1513957325186519050/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1513957182844379100,
-          "id_str": "1513957182844379139",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FQKoCViXIAMm0YG.jpg",
-          "url": "https://t.co/WE4R8jgded",
-          "display_url": "pic.twitter.com/WE4R8jgded",
-          "expanded_url": "https://twitter.com/catunderhood/status/1513957325186519050/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -139,9 +71,11 @@
     "contributors": [
       1279753286
     ],
-    "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 182,
+    "is_quote_status": true,
+    "quoted_status_id": 1513976879153299500,
+    "quoted_status_id_str": "1513976879153299458",
+    "retweet_count": 2,
+    "favorite_count": 109,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
