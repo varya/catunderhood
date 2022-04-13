@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11495,
+  "followers_count": 11498,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26504,
+  "statuses_count": 26506,
   "lang": null,
   "status": {
-    "created_at": "Tue Apr 12 20:29:15 +0000 2022",
-    "id": 1513977570164981800,
-    "id_str": "1513977570164981776",
-    "text": "Не разобралась, как грузить видео, так что вот ещё один репост чухания. Чухаться мы любим, умеем, практикуем. Если… https://t.co/GyvItGVDqN",
+    "created_at": "Wed Apr 13 06:27:54 +0000 2022",
+    "id": 1514128225894551600,
+    "id_str": "1514128225894551552",
+    "text": "У британцев очень густой подшерсток, из-за чего шерсть иногда смотрится как будто приподнятой волнами. Казалось бы,… https://t.co/1rpWgZjnpc",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,36 +49,33 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/GyvItGVDqN",
-          "expanded_url": "https://twitter.com/i/web/status/1513977570164981776",
+          "url": "https://t.co/1rpWgZjnpc",
+          "expanded_url": "https://twitter.com/i/web/status/1514128225894551552",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1514127554420129800,
+    "in_reply_to_status_id_str": "1514127554420129798",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       1279753286
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1513976879153299500,
-    "quoted_status_id_str": "1513976879153299458",
-    "retweet_count": 5,
-    "favorite_count": 220,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
