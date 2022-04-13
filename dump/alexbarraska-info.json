@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11505,
+  "followers_count": 11507,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,33 +35,173 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26516,
+  "statuses_count": 26522,
   "lang": null,
   "status": {
-    "created_at": "Wed Apr 13 11:03:07 +0000 2022",
-    "id": 1514197486222680000,
-    "id_str": "1514197486222680074",
-    "text": "Чесание когтей уже спорт (по мнению Шеды), иногда вот такой высокохудожественный перфоманс может устроить. Вет сказ… https://t.co/eoL1fX40YB",
-    "truncated": true,
+    "created_at": "Wed Apr 13 14:55:11 +0000 2022",
+    "id": 1514255887598342100,
+    "id_str": "1514255887598342145",
+    "text": "Шеда: доминируй, властвуй, шипи https://t.co/ND1D2bPnl4",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/eoL1fX40YB",
-          "expanded_url": "https://twitter.com/i/web/status/1514197486222680074",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1514255759982354400,
+          "id_str": "1514255759982354441",
           "indices": [
-            117,
-            140
-          ]
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQO3l0DWYAkCOo6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQO3l0DWYAkCOo6.jpg",
+          "url": "https://t.co/ND1D2bPnl4",
+          "display_url": "pic.twitter.com/ND1D2bPnl4",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514255887598342145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1514255759982354400,
+          "id_str": "1514255759982354441",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQO3l0DWYAkCOo6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQO3l0DWYAkCOo6.jpg",
+          "url": "https://t.co/ND1D2bPnl4",
+          "display_url": "pic.twitter.com/ND1D2bPnl4",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514255887598342145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1514255759915327500,
+          "id_str": "1514255759915327499",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQO3lzzXoAsB_d0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQO3lzzXoAsB_d0.jpg",
+          "url": "https://t.co/ND1D2bPnl4",
+          "display_url": "pic.twitter.com/ND1D2bPnl4",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514255887598342145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1514255759919431700,
+          "id_str": "1514255759919431680",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQO3lz0WQAAcdCL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQO3lz0WQAAcdCL.jpg",
+          "url": "https://t.co/ND1D2bPnl4",
+          "display_url": "pic.twitter.com/ND1D2bPnl4",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514255887598342145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1514196269081804800,
-    "in_reply_to_status_id_str": "1514196269081804803",
+    "in_reply_to_status_id": 1514255380821397500,
+    "in_reply_to_status_id_str": "1514255380821397505",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -73,7 +213,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 50,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
