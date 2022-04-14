@@ -30,31 +30,31 @@
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9826,
+  "favourites_count": 6987,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26534,
+  "statuses_count": 26535,
   "lang": null,
   "status": {
-    "created_at": "Thu Apr 14 09:24:32 +0000 2022",
-    "id": 1514535062280224800,
-    "id_str": "1514535062280224773",
-    "text": "Когда увидела кошь, сразу подумала, что надо назвать её Shadow, потому что серенькая и спокойная. Оттуда и упрощени… https://t.co/ZTR8OdoE1J",
-    "truncated": true,
+    "created_at": "Thu Apr 14 13:23:18 +0000 2022",
+    "id": 1514595150034522000,
+    "id_str": "1514595150034522113",
+    "text": "Трудности ношения воротника (простите моё злорадное хихиканье за кадром, я любя) https://t.co/pfbqTl4fcF",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/ZTR8OdoE1J",
-          "expanded_url": "https://twitter.com/i/web/status/1514535062280224773",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/pfbqTl4fcF",
+          "expanded_url": "https://twitter.com/alexborraska/status/1514594432510672901",
+          "display_url": "twitter.com/alexborraska/s…",
           "indices": [
-            117,
-            140
+            81,
+            104
           ]
         }
       ]
@@ -71,9 +71,11 @@
     "contributors": [
       1279753286
     ],
-    "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 131,
+    "is_quote_status": true,
+    "quoted_status_id": 1514594432510673000,
+    "quoted_status_id_str": "1514594432510672901",
+    "retweet_count": 0,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
