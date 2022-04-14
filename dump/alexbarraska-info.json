@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26537,
+  "statuses_count": 26538,
   "lang": null,
   "status": {
-    "created_at": "Thu Apr 14 15:00:09 +0000 2022",
-    "id": 1514619522480701400,
-    "id_str": "1514619522480701440",
-    "text": "Вот тут вы можете видеть Шедину реакцию на сверление стены. Очень интригующе. Потом она наблюдала первый раз за пыл… https://t.co/jeOwpWN1x2",
-    "truncated": true,
+    "created_at": "Thu Apr 14 20:57:59 +0000 2022",
+    "id": 1514709575978606600,
+    "id_str": "1514709575978606602",
+    "text": "Человек, хватит листать телефон, говорит кошечка. Иди спать, человек, говорит кошечка. И свет выключи уже. https://t.co/8OSrIpbeG8",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/jeOwpWN1x2",
-          "expanded_url": "https://twitter.com/i/web/status/1514619522480701440",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1514709301654339600,
+          "id_str": "1514709301654339603",
           "indices": [
-            117,
-            140
-          ]
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQVUFacWQBMsoVg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQVUFacWQBMsoVg.jpg",
+          "url": "https://t.co/8OSrIpbeG8",
+          "display_url": "pic.twitter.com/8OSrIpbeG8",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514709575978606602/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1514709301654339600,
+          "id_str": "1514709301654339603",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQVUFacWQBMsoVg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQVUFacWQBMsoVg.jpg",
+          "url": "https://t.co/8OSrIpbeG8",
+          "display_url": "pic.twitter.com/8OSrIpbeG8",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514709575978606602/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,11 +139,9 @@
     "contributors": [
       1279753286
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1514618787798012000,
-    "quoted_status_id_str": "1514618787798011917",
-    "retweet_count": 1,
-    "favorite_count": 90,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 89,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
