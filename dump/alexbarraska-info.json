@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 11519,
+  "followers_count": 11517,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,26 +35,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26533,
+  "statuses_count": 26534,
   "lang": null,
   "status": {
-    "created_at": "Thu Apr 14 08:45:14 +0000 2022",
-    "id": 1514525173810139100,
-    "id_str": "1514525173810139139",
-    "text": "Кстати, с лёгкой руки брата и его невесты называю кошачью перенеску АВТОЗАКОМ. Кошка в автозаке (узнай себя) https://t.co/PYxuHF0a3k",
-    "truncated": false,
+    "created_at": "Thu Apr 14 09:24:32 +0000 2022",
+    "id": 1514535062280224800,
+    "id_str": "1514535062280224773",
+    "text": "Когда увидела кошь, сразу подумала, что надо назвать её Shadow, потому что серенькая и спокойная. Оттуда и упрощени… https://t.co/ZTR8OdoE1J",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/PYxuHF0a3k",
-          "expanded_url": "https://twitter.com/catunderhood/status/1514514175283892228",
-          "display_url": "twitter.com/catunderhood/s…",
+          "url": "https://t.co/ZTR8OdoE1J",
+          "expanded_url": "https://twitter.com/i/web/status/1514535062280224773",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            109,
-            132
+            117,
+            140
           ]
         }
       ]
@@ -71,11 +71,9 @@
     "contributors": [
       1279753286
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 1514514175283892200,
-    "quoted_status_id_str": "1514514175283892228",
+    "is_quote_status": false,
     "retweet_count": 2,
-    "favorite_count": 46,
+    "favorite_count": 88,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
