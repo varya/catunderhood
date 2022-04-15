@@ -35,45 +35,47 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26544,
+  "statuses_count": 26550,
   "lang": null,
   "status": {
-    "created_at": "Fri Apr 15 07:39:29 +0000 2022",
-    "id": 1514871014798278700,
-    "id_str": "1514871014798278658",
-    "text": "Но как только появилась другая кошка, привычки Шеды поменялись в сторону сметения с мисок всего корма, своего и чуж… https://t.co/Nb58QmY1HB",
-    "truncated": true,
+    "created_at": "Fri Apr 15 15:17:50 +0000 2022",
+    "id": 1514986362574975000,
+    "id_str": "1514986362574974986",
+    "text": "Твое лицо, когда сказали, что надо больше двигаться https://t.co/1FIFPiYJOz",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/Nb58QmY1HB",
-          "expanded_url": "https://twitter.com/i/web/status/1514871014798278658",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/1FIFPiYJOz",
+          "expanded_url": "https://twitter.com/catunderhood/status/1514985956562161668",
+          "display_url": "twitter.com/catunderhood/s…",
           "indices": [
-            117,
-            140
+            52,
+            75
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1514870222024544300,
-    "in_reply_to_status_id_str": "1514870222024544263",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       1279753286
     ],
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 122,
+    "is_quote_status": true,
+    "quoted_status_id": 1514985956562161700,
+    "quoted_status_id_str": "1514985956562161668",
+    "retweet_count": 1,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
