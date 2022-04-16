@@ -26,36 +26,154 @@
     }
   },
   "protected": false,
-  "followers_count": 11554,
+  "followers_count": 11552,
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9825,
+  "favourites_count": 6986,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26566,
+  "statuses_count": 26576,
   "lang": null,
   "status": {
-    "created_at": "Sat Apr 16 12:31:39 +0000 2022",
-    "id": 1515306927688929300,
-    "id_str": "1515306927688929280",
-    "text": "Следующий герой родился на хуторе почти 9 лет назад, такой обаятельный мерзавец-хуторянин, воспитанием не испорчен,… https://t.co/BLhlwCUuhx",
-    "truncated": true,
+    "created_at": "Sat Apr 16 13:06:50 +0000 2022",
+    "id": 1515315784192610300,
+    "id_str": "1515315784192610312",
+    "text": "RT @alexborraska: Рискованное чесание пузца https://t.co/lPiADpjhbx",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/BLhlwCUuhx",
-          "expanded_url": "https://twitter.com/i/web/status/1515306927688929280",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "alexborraska",
+          "name": "Coma Berenices StopWar",
+          "id": 1279753286,
+          "id_str": "1279753286",
           "indices": [
-            117,
-            140
+            3,
+            16
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1515315609751457800,
+          "id_str": "1515315609751457794",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+          "url": "https://t.co/lPiADpjhbx",
+          "display_url": "pic.twitter.com/lPiADpjhbx",
+          "expanded_url": "https://twitter.com/alexborraska/status/1515315679980892161/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1515315679980892200,
+          "source_status_id_str": "1515315679980892161",
+          "source_user_id": 1279753286,
+          "source_user_id_str": "1279753286"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1515315609751457800,
+          "id_str": "1515315609751457794",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+          "url": "https://t.co/lPiADpjhbx",
+          "display_url": "pic.twitter.com/lPiADpjhbx",
+          "expanded_url": "https://twitter.com/alexborraska/status/1515315679980892161/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1515315679980892200,
+          "source_status_id_str": "1515315679980892161",
+          "source_user_id": 1279753286,
+          "source_user_id_str": "1279753286",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 18983,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/pl/DW6Gsa0EosLiAWUu.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/480x852/ika7a7Ovl_MDSBQK.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/320x568/veUgNZOgrtyBZeGD.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/720x1280/OUNuGgn16Y5tSBoV.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
         }
       ]
     },
@@ -71,11 +189,150 @@
     "contributors": [
       1279753286
     ],
+    "retweeted_status": {
+      "created_at": "Sat Apr 16 13:06:25 +0000 2022",
+      "id": 1515315679980892200,
+      "id_str": "1515315679980892161",
+      "text": "Рискованное чесание пузца https://t.co/lPiADpjhbx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1515315609751457800,
+            "id_str": "1515315609751457794",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+            "url": "https://t.co/lPiADpjhbx",
+            "display_url": "pic.twitter.com/lPiADpjhbx",
+            "expanded_url": "https://twitter.com/alexborraska/status/1515315679980892161/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1515315609751457800,
+            "id_str": "1515315609751457794",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515315609751457794/pu/img/_g7tUawq_JeWkPPc.jpg",
+            "url": "https://t.co/lPiADpjhbx",
+            "display_url": "pic.twitter.com/lPiADpjhbx",
+            "expanded_url": "https://twitter.com/alexborraska/status/1515315679980892161/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 18983,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/pl/DW6Gsa0EosLiAWUu.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/480x852/ika7a7Ovl_MDSBQK.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/320x568/veUgNZOgrtyBZeGD.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515315609751457794/pu/vid/720x1280/OUNuGgn16Y5tSBoV.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 62,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 12,
+    "retweet_count": 3,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
