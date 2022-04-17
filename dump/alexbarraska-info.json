@@ -30,99 +30,149 @@
   "friends_count": 41,
   "listed_count": 32,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9825,
+  "favourites_count": 6986,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 26580,
+  "statuses_count": 26582,
   "lang": null,
   "status": {
-    "created_at": "Sun Apr 17 10:59:45 +0000 2022",
-    "id": 1515646187935875000,
-    "id_str": "1515646187935875077",
-    "text": "Друг Зюсса депрессивный медведь https://t.co/eiQu6y23nZ",
+    "created_at": "Sun Apr 17 11:42:01 +0000 2022",
+    "id": 1515656825730998300,
+    "id_str": "1515656825730998276",
+    "text": "RT @alexborraska: Жрать цветы, блевать на ковёр just call it a day https://t.co/v6Ne9uKQbN",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "alexborraska",
+          "name": "Coma Berenices StopWar",
+          "id": 1279753286,
+          "id_str": "1279753286",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
       "urls": [],
       "media": [
         {
-          "id": 1515646005018046500,
-          "id_str": "1515646005018046464",
+          "id": 1515656606435975200,
+          "id_str": "1515656606435975169",
           "indices": [
-            32,
-            55
+            67,
+            90
           ],
-          "media_url": "http://pbs.twimg.com/media/FQioAuZXMAA9gb_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FQioAuZXMAA9gb_.jpg",
-          "url": "https://t.co/eiQu6y23nZ",
-          "display_url": "pic.twitter.com/eiQu6y23nZ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1515646187935875077/photo/1",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+          "url": "https://t.co/v6Ne9uKQbN",
+          "display_url": "pic.twitter.com/v6Ne9uKQbN",
+          "expanded_url": "https://twitter.com/alexborraska/status/1515656677793665025/video/1",
           "type": "photo",
           "sizes": {
-            "small": {
-              "w": 543,
-              "h": 680,
-              "resize": "fit"
-            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 828,
-              "h": 1037,
+            "small": {
+              "w": 383,
+              "h": 680,
               "resize": "fit"
             },
             "large": {
-              "w": 828,
-              "h": 1037,
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
               "resize": "fit"
             }
-          }
+          },
+          "source_status_id": 1515656677793665000,
+          "source_status_id_str": "1515656677793665025",
+          "source_user_id": 1279753286,
+          "source_user_id_str": "1279753286"
         }
       ]
     },
     "extended_entities": {
       "media": [
         {
-          "id": 1515646005018046500,
-          "id_str": "1515646005018046464",
+          "id": 1515656606435975200,
+          "id_str": "1515656606435975169",
           "indices": [
-            32,
-            55
+            67,
+            90
           ],
-          "media_url": "http://pbs.twimg.com/media/FQioAuZXMAA9gb_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FQioAuZXMAA9gb_.jpg",
-          "url": "https://t.co/eiQu6y23nZ",
-          "display_url": "pic.twitter.com/eiQu6y23nZ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1515646187935875077/photo/1",
-          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+          "url": "https://t.co/v6Ne9uKQbN",
+          "display_url": "pic.twitter.com/v6Ne9uKQbN",
+          "expanded_url": "https://twitter.com/alexborraska/status/1515656677793665025/video/1",
+          "type": "video",
           "sizes": {
-            "small": {
-              "w": 543,
-              "h": 680,
-              "resize": "fit"
-            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "medium": {
-              "w": 828,
-              "h": 1037,
+            "small": {
+              "w": 383,
+              "h": 680,
               "resize": "fit"
             },
             "large": {
-              "w": 828,
-              "h": 1037,
+              "w": 720,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
               "resize": "fit"
             }
+          },
+          "source_status_id": 1515656677793665000,
+          "source_status_id_str": "1515656677793665025",
+          "source_user_id": 1279753286,
+          "source_user_id_str": "1279753286",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 21651,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/320x568/DkHwbZGlJtbpNpHD.mp4?tag=12"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/480x852/yU0n5TEfpcYed2Ri.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/720x1280/iSWMSU14_wTMwX6o.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/pl/gdlshW5iULmL85N5.m3u8?tag=12&container=fmp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
           }
         }
       ]
@@ -139,11 +189,150 @@
     "contributors": [
       1279753286
     ],
+    "retweeted_status": {
+      "created_at": "Sun Apr 17 11:41:26 +0000 2022",
+      "id": 1515656677793665000,
+      "id_str": "1515656677793665025",
+      "text": "Жрать цветы, блевать на ковёр just call it a day https://t.co/v6Ne9uKQbN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1515656606435975200,
+            "id_str": "1515656606435975169",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+            "url": "https://t.co/v6Ne9uKQbN",
+            "display_url": "pic.twitter.com/v6Ne9uKQbN",
+            "expanded_url": "https://twitter.com/alexborraska/status/1515656677793665025/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1515656606435975200,
+            "id_str": "1515656606435975169",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1515656606435975169/pu/img/zWeCjaf1lnCu11V4.jpg",
+            "url": "https://t.co/v6Ne9uKQbN",
+            "display_url": "pic.twitter.com/v6Ne9uKQbN",
+            "expanded_url": "https://twitter.com/alexborraska/status/1515656677793665025/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 21651,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/320x568/DkHwbZGlJtbpNpHD.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/480x852/yU0n5TEfpcYed2Ri.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/vid/720x1280/iSWMSU14_wTMwX6o.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1515656606435975169/pu/pl/gdlshW5iULmL85N5.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 90,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 80,
+    "retweet_count": 7,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "possibly_sensitive": false,
     "lang": "ru"
   },
