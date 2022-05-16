@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12083,
+  "followers_count": 12086,
   "friends_count": 41,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10269,
+  "favourites_count": 10275,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27068,
+  "statuses_count": 27074,
   "lang": null,
   "status": {
-    "created_at": "Mon May 16 11:46:14 +0000 2022",
-    "id": 1526167135306895400,
-    "id_str": "1526167135306895360",
-    "text": "Декабрь, на улице холодно. Приютов для кошек в городе нет. Хозяева не находятся. Я осознаю, что «кошка из подъезда»… https://t.co/ct2HzaWTyG",
-    "truncated": true,
+    "created_at": "Mon May 16 13:41:46 +0000 2022",
+    "id": 1526196211803463700,
+    "id_str": "1526196211803463688",
+    "text": "@NektoLena именно так!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/ct2HzaWTyG",
-          "expanded_url": "https://twitter.com/i/web/status/1526167135306895360",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "NektoLena",
+          "name": "Squirrel Insitute",
+          "id": 605337887,
+          "id_str": "605337887",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1526166584737337300,
-    "in_reply_to_status_id_str": "1526166584737337345",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1526195891396305000,
+    "in_reply_to_status_id_str": "1526195891396304898",
+    "in_reply_to_user_id": 605337887,
+    "in_reply_to_user_id_str": "605337887",
+    "in_reply_to_screen_name": "NektoLena",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 69,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
