@@ -30,38 +30,28 @@
   "friends_count": 41,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7459,
+  "favourites_count": 10305,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27094,
+  "statuses_count": 27104,
   "lang": null,
   "status": {
-    "created_at": "Tue May 17 10:26:33 +0000 2022",
-    "id": 1526509472180588500,
-    "id_str": "1526509472180588549",
-    "text": "Но при этом у неё есть своё мнение, и многое зависит от настроения. Это не кот-пластилин, нужно относиться «по-чело… https://t.co/oezpiooY2T",
-    "truncated": true,
+    "created_at": "Tue May 17 11:08:59 +0000 2022",
+    "id": 1526520148596822000,
+    "id_str": "1526520148596822016",
+    "text": "*примирения, конечно же",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/oezpiooY2T",
-          "expanded_url": "https://twitter.com/i/web/status/1526509472180588549",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1526507074380828700,
-    "in_reply_to_status_id_str": "1526507074380828674",
+    "in_reply_to_status_id": 1526519677043847200,
+    "in_reply_to_status_id_str": "1526519677043847169",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,10 +61,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
