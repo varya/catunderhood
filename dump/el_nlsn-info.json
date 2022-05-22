@@ -26,53 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 12278,
+  "followers_count": 12276,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10492,
+  "favourites_count": 7662,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27246,
+  "statuses_count": 27256,
   "lang": null,
   "status": {
-    "created_at": "Sun May 22 10:44:36 +0000 2022",
-    "id": 1528325953016955000,
-    "id_str": "1528325953016954882",
-    "text": "@KulikovaElena так и есть ☺️",
+    "created_at": "Sun May 22 16:29:15 +0000 2022",
+    "id": 1528412687163703300,
+    "id_str": "1528412687163703299",
+    "text": "@mariia_lynx @toivonens Спасибо 🥹💓",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "KulikovaElena",
-          "name": "Elena-Елена",
-          "id": 319168940,
-          "id_str": "319168940",
+          "screen_name": "mariia_lynx",
+          "name": "поодинока особина",
+          "id": 949324794150912000,
+          "id_str": "949324794150912000",
           "indices": [
             0,
-            14
+            12
+          ]
+        },
+        {
+          "screen_name": "toivonens",
+          "name": "Голос из-под шкафа 🇫🇮🇷🇺🇪🇸",
+          "id": 215559242,
+          "id_str": "215559242",
+          "indices": [
+            13,
+            23
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1528323450678530000,
-    "in_reply_to_status_id_str": "1528323450678530053",
-    "in_reply_to_user_id": 319168940,
-    "in_reply_to_user_id_str": "319168940",
-    "in_reply_to_screen_name": "KulikovaElena",
+    "in_reply_to_status_id": 1528411889507639300,
+    "in_reply_to_status_id_str": "1528411889507639298",
+    "in_reply_to_user_id": 949324794150912000,
+    "in_reply_to_user_id_str": "949324794150912000",
+    "in_reply_to_screen_name": "mariia_lynx",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
