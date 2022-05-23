@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27265,
+  "statuses_count": 27268,
   "lang": null,
   "status": {
-    "created_at": "Mon May 23 10:26:54 +0000 2022",
-    "id": 1528683885307039700,
-    "id_str": "1528683885307039744",
-    "text": "На деле все оказалось не так радостно - за свои 8 лет Бэрримор сменил 3 хозяев, причем первая хозяйка отказалась от… https://t.co/VoNqzTPIjB",
+    "created_at": "Mon May 23 10:38:45 +0000 2022",
+    "id": 1528686865968156700,
+    "id_str": "1528686865968156673",
+    "text": "long story short - кота оттуда мы естественно забрали. Он был грязный, тощий и очень напуганный. Первые пару недель… https://t.co/ftgbr55k2D",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/VoNqzTPIjB",
-          "expanded_url": "https://twitter.com/i/web/status/1528683885307039744",
+          "url": "https://t.co/ftgbr55k2D",
+          "expanded_url": "https://twitter.com/i/web/status/1528686865968156673",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,8 +60,8 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1528682550767636500,
-    "in_reply_to_status_id_str": "1528682550767636480",
+    "in_reply_to_status_id": 1528685623338586000,
+    "in_reply_to_status_id_str": "1528685623338586112",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 71,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
