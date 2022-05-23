@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12279,
+  "followers_count": 12280,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27262,
+  "statuses_count": 27263,
   "lang": null,
   "status": {
-    "created_at": "Mon May 23 07:47:34 +0000 2022",
-    "id": 1528643787261726700,
-    "id_str": "1528643787261726722",
-    "text": "Всем привет! Меня зовут Анастасия, @skay_a На этой неделе с вами два моих спасённых  британских кота - Кузя и Бэрри… https://t.co/DuO8x9RSLC",
+    "created_at": "Mon May 23 08:54:30 +0000 2022",
+    "id": 1528660633159344000,
+    "id_str": "1528660633159344129",
+    "text": "@skay_a Почти все правы - Бэрримор серый, а Кузя - рыжулик) За эту неделю расскажу как они у меня оказались, как об… https://t.co/ur8zCl2Yf1",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -53,15 +53,15 @@
           "id": 102738251,
           "id_str": "102738251",
           "indices": [
-            35,
-            42
+            0,
+            7
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/DuO8x9RSLC",
-          "expanded_url": "https://twitter.com/i/web/status/1528643787261726722",
+          "url": "https://t.co/ur8zCl2Yf1",
+          "expanded_url": "https://twitter.com/i/web/status/1528660633159344129",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,18 +71,18 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1528643787261726700,
+    "in_reply_to_status_id_str": "1528643787261726722",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 170,
+    "retweet_count": 0,
+    "favorite_count": 83,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
