@@ -26,42 +26,182 @@
     }
   },
   "protected": false,
-  "followers_count": 12349,
+  "followers_count": 12352,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10536,
+  "favourites_count": 10546,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27286,
+  "statuses_count": 27292,
   "lang": null,
   "status": {
-    "created_at": "Tue May 24 06:39:01 +0000 2022",
-    "id": 1528988924957413400,
-    "id_str": "1528988924957413376",
-    "text": "Коммунизм в отношениях Кузи и Бэрримора касается и лотка. Поначалу я поставила им два лотка, в разных местах, чтобы… https://t.co/Go8lLku21T",
-    "truncated": true,
+    "created_at": "Tue May 24 08:22:34 +0000 2022",
+    "id": 1529014982133915600,
+    "id_str": "1529014982133915649",
+    "text": "Кузя очень любит пакеты и коробки. Бэрримор предпочитает шкафы и пространство за диваном) https://t.co/CLiY7NPDg5",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/Go8lLku21T",
-          "expanded_url": "https://twitter.com/i/web/status/1528988924957413376",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1529014934641823700,
+          "id_str": "1529014934641823744",
           "indices": [
-            117,
-            140
-          ]
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTgm-2OX0AAp9sh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTgm-2OX0AAp9sh.jpg",
+          "url": "https://t.co/CLiY7NPDg5",
+          "display_url": "pic.twitter.com/CLiY7NPDg5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529014982133915649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1529014934641823700,
+          "id_str": "1529014934641823744",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTgm-2OX0AAp9sh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTgm-2OX0AAp9sh.jpg",
+          "url": "https://t.co/CLiY7NPDg5",
+          "display_url": "pic.twitter.com/CLiY7NPDg5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529014982133915649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1529014934620844000,
+          "id_str": "1529014934620844032",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTgm-2JXsAAfdTF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTgm-2JXsAAfdTF.jpg",
+          "url": "https://t.co/CLiY7NPDg5",
+          "display_url": "pic.twitter.com/CLiY7NPDg5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529014982133915649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1529014934624952300,
+          "id_str": "1529014934624952322",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTgm-2KWYAIVEEc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTgm-2KWYAIVEEc.jpg",
+          "url": "https://t.co/CLiY7NPDg5",
+          "display_url": "pic.twitter.com/CLiY7NPDg5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529014982133915649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1528985433358712800,
-    "in_reply_to_status_id_str": "1528985433358712833",
+    "in_reply_to_status_id": 1529001456468123600,
+    "in_reply_to_status_id_str": "1529001456468123648",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,8 +210,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 75,
+    "retweet_count": 0,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
