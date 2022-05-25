@@ -26,123 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12367,
+  "followers_count": 12366,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10557,
+  "favourites_count": 10559,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27307,
+  "statuses_count": 27308,
   "lang": null,
   "status": {
-    "created_at": "Wed May 25 08:25:05 +0000 2022",
-    "id": 1529378004132143000,
-    "id_str": "1529378004132143104",
-    "text": "Кстати, с переездом Бэрримор стал активнее. Например, начал приходить на завтрак до того, как я положу еду. https://t.co/oC3OHSqDST",
+    "created_at": "Wed May 25 12:38:11 +0000 2022",
+    "id": 1529441700057428000,
+    "id_str": "1529441700057427968",
+    "text": "@BatutOkopjan хохочу))))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1529377969789091800,
-          "id_str": "1529377969789091843",
+          "screen_name": "BatutOkopjan",
+          "name": "Потусторонний ледокол",
+          "id": 2666434549,
+          "id_str": "2666434549",
           "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
-          "url": "https://t.co/oC3OHSqDST",
-          "display_url": "pic.twitter.com/oC3OHSqDST",
-          "expanded_url": "https://twitter.com/catunderhood/status/1529378004132143104/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            0,
+            13
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1529377969789091800,
-          "id_str": "1529377969789091843",
-          "indices": [
-            108,
-            131
-          ],
-          "media_url": "http://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
-          "url": "https://t.co/oC3OHSqDST",
-          "display_url": "pic.twitter.com/oC3OHSqDST",
-          "expanded_url": "https://twitter.com/catunderhood/status/1529378004132143104/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1529375602532311000,
-    "in_reply_to_status_id_str": "1529375602532311040",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1529427321148608500,
+    "in_reply_to_status_id_str": "1529427321148608519",
+    "in_reply_to_user_id": 2666434549,
+    "in_reply_to_user_id_str": "2666434549",
+    "in_reply_to_screen_name": "BatutOkopjan",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 130,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
