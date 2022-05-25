@@ -35,33 +35,101 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27301,
+  "statuses_count": 27308,
   "lang": null,
   "status": {
-    "created_at": "Tue May 24 19:58:43 +0000 2022",
-    "id": 1529190177658257400,
-    "id_str": "1529190177658257415",
-    "text": "Бэрримор же по ночам любит тыгыдыкать. Первый раз это случилось через месяц нашей совместной жизни. Кузи с нами еще… https://t.co/vJTX1v1XNV",
-    "truncated": true,
+    "created_at": "Wed May 25 08:25:05 +0000 2022",
+    "id": 1529378004132143000,
+    "id_str": "1529378004132143104",
+    "text": "Кстати, с переездом Бэрримор стал активнее. Например, начал приходить на завтрак до того, как я положу еду. https://t.co/oC3OHSqDST",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/vJTX1v1XNV",
-          "expanded_url": "https://twitter.com/i/web/status/1529190177658257415",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1529377969789091800,
+          "id_str": "1529377969789091843",
           "indices": [
-            117,
-            140
-          ]
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
+          "url": "https://t.co/oC3OHSqDST",
+          "display_url": "pic.twitter.com/oC3OHSqDST",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529378004132143104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1529377969789091800,
+          "id_str": "1529377969789091843",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FTlxKRiWQAMuLXt.jpg",
+          "url": "https://t.co/oC3OHSqDST",
+          "display_url": "pic.twitter.com/oC3OHSqDST",
+          "expanded_url": "https://twitter.com/catunderhood/status/1529378004132143104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1529159569640915000,
-    "in_reply_to_status_id_str": "1529159569640914946",
+    "in_reply_to_status_id": 1529375602532311000,
+    "in_reply_to_status_id_str": "1529375602532311040",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 102,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
