@@ -30,41 +30,42 @@
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10627,
+  "favourites_count": 10632,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27433,
+  "statuses_count": 27444,
   "lang": null,
   "status": {
-    "created_at": "Tue May 31 11:22:00 +0000 2022",
-    "id": 1531596853434888200,
-    "id_str": "1531596853434888193",
-    "text": "Коты периодически стали драться. Все выглядело так, будто Алиса нападает на несчастного Марусика, и тот в панике не… https://t.co/ZkjbrvWHnj",
-    "truncated": true,
+    "created_at": "Tue May 31 12:22:34 +0000 2022",
+    "id": 1531612097330745300,
+    "id_str": "1531612097330745345",
+    "text": "@NataAngel6 Биколоры классные, очень умные обычно )",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/ZkjbrvWHnj",
-          "expanded_url": "https://twitter.com/i/web/status/1531596853434888193",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "NataAngel6",
+          "name": "A-N-G-E-L",
+          "id": 172766513,
+          "id_str": "172766513",
           "indices": [
-            117,
-            140
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1531596189480648700,
-    "in_reply_to_status_id_str": "1531596189480648705",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1531604899104014300,
+    "in_reply_to_status_id_str": "1531604899104014337",
+    "in_reply_to_user_id": 172766513,
+    "in_reply_to_user_id_str": "172766513",
+    "in_reply_to_screen_name": "NataAngel6",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,7 +75,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
