@@ -30,51 +30,51 @@
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10653,
+  "favourites_count": 10654,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27508,
+  "statuses_count": 27514,
   "lang": null,
   "status": {
-    "created_at": "Fri Jun 03 11:56:42 +0000 2022",
-    "id": 1532692752479166500,
-    "id_str": "1532692752479166464",
-    "text": "@feoktistovaaa Спасибо )",
-    "truncated": false,
+    "created_at": "Fri Jun 03 16:29:02 +0000 2022",
+    "id": 1532761287444373500,
+    "id_str": "1532761287444373504",
+    "text": "Во втором случае нам как-то пришлось засунуть ему градусник в попу: муж держал, я выполняла задачу. Мало кому это п… https://t.co/nd1fP9EwxQ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "feoktistovaaa",
-          "name": "Феоктистова",
-          "id": 305126998,
-          "id_str": "305126998",
+          "url": "https://t.co/nd1fP9EwxQ",
+          "expanded_url": "https://twitter.com/i/web/status/1532761287444373504",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            14
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1532461653538791400,
-    "in_reply_to_status_id_str": "1532461653538791441",
-    "in_reply_to_user_id": 305126998,
-    "in_reply_to_user_id_str": "305126998",
-    "in_reply_to_screen_name": "feoktistovaaa",
+    "in_reply_to_status_id": 1532760158631346200,
+    "in_reply_to_status_id_str": "1532760158631346182",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
