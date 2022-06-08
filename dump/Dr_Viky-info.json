@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12459,
+  "followers_count": 12458,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7823,
+  "favourites_count": 10666,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27635,
+  "statuses_count": 27650,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 07 17:18:48 +0000 2022",
-    "id": 1534223361366274000,
-    "id_str": "1534223361366274049",
-    "text": "По болячкам я в принципе все тоже рассказала параллельно, не буду утомлять всех)) просто скажу, что коты привиты, р… https://t.co/WJp1viGpbc",
-    "truncated": true,
+    "created_at": "Wed Jun 08 09:23:00 +0000 2022",
+    "id": 1534466009809272800,
+    "id_str": "1534466009809272832",
+    "text": "@Moonhalf Это точно))) Комок любви и нежности)))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/WJp1viGpbc",
-          "expanded_url": "https://twitter.com/i/web/status/1534223361366274049",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Moonhalf",
+          "name": "Половинка луны и меховые сыны против войны🤍💙🤍",
+          "id": 14383707,
+          "id_str": "14383707",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1534222329974296600,
-    "in_reply_to_status_id_str": "1534222329974296578",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1534459138352337000,
+    "in_reply_to_status_id_str": "1534459138352336896",
+    "in_reply_to_user_id": 14383707,
+    "in_reply_to_user_id_str": "14383707",
+    "in_reply_to_screen_name": "Moonhalf",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 80,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
