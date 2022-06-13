@@ -26,42 +26,146 @@
     }
   },
   "protected": false,
-  "followers_count": 12461,
+  "followers_count": 12462,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10709,
+  "favourites_count": 7870,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27708,
+  "statuses_count": 27711,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 13 15:26:52 +0000 2022",
-    "id": 1536369518758756400,
-    "id_str": "1536369518758756352",
-    "text": "так называемый кровавый велосипед у кота работал образцово-показательно, а пузная ловушка вообще не отказывала нико… https://t.co/T2I7GgHjcv",
-    "truncated": true,
+    "created_at": "Mon Jun 13 19:15:13 +0000 2022",
+    "id": 1536426984674365400,
+    "id_str": "1536426984674365447",
+    "text": "и если с домиком Симоня был горным котом, то после стал больше норным https://t.co/ux4KgVPfVO",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/T2I7GgHjcv",
-          "expanded_url": "https://twitter.com/i/web/status/1536369518758756352",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1536426794508861400,
+          "id_str": "1536426794508861442",
           "indices": [
-            117,
-            140
-          ]
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVJ8B34XwAIebE5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVJ8B34XwAIebE5.jpg",
+          "url": "https://t.co/ux4KgVPfVO",
+          "display_url": "pic.twitter.com/ux4KgVPfVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1536426984674365447/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1536426794508861400,
+          "id_str": "1536426794508861442",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVJ8B34XwAIebE5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVJ8B34XwAIebE5.jpg",
+          "url": "https://t.co/ux4KgVPfVO",
+          "display_url": "pic.twitter.com/ux4KgVPfVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1536426984674365447/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1536426855154303000,
+          "id_str": "1536426855154302976",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVJ8FZzXwAAC8X2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVJ8FZzXwAAC8X2.jpg",
+          "url": "https://t.co/ux4KgVPfVO",
+          "display_url": "pic.twitter.com/ux4KgVPfVO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1536426984674365447/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1536367885085720600,
-    "in_reply_to_status_id_str": "1536367885085720581",
+    "in_reply_to_status_id": 1536426718382198800,
+    "in_reply_to_status_id_str": "1536426718382198784",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,7 +175,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 72,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
