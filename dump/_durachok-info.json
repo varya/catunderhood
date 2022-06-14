@@ -26,42 +26,110 @@
     }
   },
   "protected": false,
-  "followers_count": 12462,
+  "followers_count": 12461,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10710,
+  "favourites_count": 10715,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27730,
+  "statuses_count": 27732,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 14 15:33:16 +0000 2022",
-    "id": 1536733516368691200,
-    "id_str": "1536733516368691201",
-    "text": "я читала, что у взрослых котов шерсть отрастает не очень хорошо, но Сима за пару лет пережил вроде 4 стрижки, потом… https://t.co/53G6w8WZd4",
-    "truncated": true,
+    "created_at": "Tue Jun 14 18:24:30 +0000 2022",
+    "id": 1536776610359169000,
+    "id_str": "1536776610359169025",
+    "text": "чувствует превосходство https://t.co/RWbUOhpkOt",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/53G6w8WZd4",
-          "expanded_url": "https://twitter.com/i/web/status/1536733516368691201",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1536776498513846300,
+          "id_str": "1536776498513846272",
           "indices": [
-            117,
-            140
-          ]
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVO6FU0WIAA9HaB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVO6FU0WIAA9HaB.jpg",
+          "url": "https://t.co/RWbUOhpkOt",
+          "display_url": "pic.twitter.com/RWbUOhpkOt",
+          "expanded_url": "https://twitter.com/catunderhood/status/1536776610359169025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1536776498513846300,
+          "id_str": "1536776498513846272",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVO6FU0WIAA9HaB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVO6FU0WIAA9HaB.jpg",
+          "url": "https://t.co/RWbUOhpkOt",
+          "display_url": "pic.twitter.com/RWbUOhpkOt",
+          "expanded_url": "https://twitter.com/catunderhood/status/1536776610359169025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1536732592426389500,
-    "in_reply_to_status_id_str": "1536732592426389505",
+    "in_reply_to_status_id": 1536776369283412000,
+    "in_reply_to_status_id_str": "1536776369283411968",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 77,
+    "retweet_count": 0,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
