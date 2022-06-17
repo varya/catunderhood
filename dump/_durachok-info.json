@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12452,
+  "followers_count": 12451,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27807,
+  "statuses_count": 27808,
   "lang": null,
   "status": {
-    "created_at": "Fri Jun 17 12:42:02 +0000 2022",
-    "id": 1537777588113916000,
-    "id_str": "1537777588113915906",
-    "text": "Кот вылезает из ванной, мы с мамой в шоке. На морде у кота явно читается \"шоб я эту вашу ветклинику в жизни больше… https://t.co/9IRBdJYRH0",
+    "created_at": "Fri Jun 17 12:45:57 +0000 2022",
+    "id": 1537778573066797000,
+    "id_str": "1537778573066797056",
+    "text": "Я до сих пор не знаю, что это было. \nЯ спрашивала у мамы, но она тоже не знает, каким образом кот поправился. Он пр… https://t.co/A66590iqUP",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,19 +49,19 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/9IRBdJYRH0",
-          "expanded_url": "https://twitter.com/i/web/status/1537777588113915906",
+          "url": "https://t.co/A66590iqUP",
+          "expanded_url": "https://twitter.com/i/web/status/1537778573066797056",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1537777130351861800,
-    "in_reply_to_status_id_str": "1537777130351861761",
+    "in_reply_to_status_id": 1537777588113916000,
+    "in_reply_to_status_id_str": "1537777588113915906",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 42,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
