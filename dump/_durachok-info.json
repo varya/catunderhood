@@ -26,55 +26,159 @@
     }
   },
   "protected": false,
-  "followers_count": 12447,
+  "followers_count": 12445,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10773,
+  "favourites_count": 7953,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27846,
+  "statuses_count": 27857,
   "lang": null,
   "status": {
-    "created_at": "Sat Jun 18 21:26:09 +0000 2022",
-    "id": 1538271874278477800,
-    "id_str": "1538271874278477825",
-    "text": "@Anny_Norman нет!\nесли к нему не лезть супер-настойчиво, то не обидит. \nзато Ася своими детьми чуть ли не жонглировала и в футбол играла...",
+    "created_at": "Sun Jun 19 09:11:20 +0000 2022",
+    "id": 1538449342389960700,
+    "id_str": "1538449342389960704",
+    "text": "котики в солнечных лучах получаются лучше всего! https://t.co/HcZzkEk5wK",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "Anny_Norman",
-          "name": "Аня из Зелёных Мезонинов",
-          "id": 1088827259149058000,
-          "id_str": "1088827259149058050",
+          "id": 1538449107764781000,
+          "id_str": "1538449107764781057",
           "indices": [
-            0,
-            12
-          ]
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVmrT_1WIAEK_pE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVmrT_1WIAEK_pE.jpg",
+          "url": "https://t.co/HcZzkEk5wK",
+          "display_url": "pic.twitter.com/HcZzkEk5wK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1538449342389960704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 963,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 512,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 903,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1538449107764781000,
+          "id_str": "1538449107764781057",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVmrT_1WIAEK_pE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVmrT_1WIAEK_pE.jpg",
+          "url": "https://t.co/HcZzkEk5wK",
+          "display_url": "pic.twitter.com/HcZzkEk5wK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1538449342389960704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 963,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 512,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 903,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1538449133937348600,
+          "id_str": "1538449133937348608",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVmrVhVX0AAtjsG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVmrVhVX0AAtjsG.jpg",
+          "url": "https://t.co/HcZzkEk5wK",
+          "display_url": "pic.twitter.com/HcZzkEk5wK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1538449342389960704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1538263161660485600,
-    "in_reply_to_status_id_str": "1538263161660485635",
-    "in_reply_to_user_id": 1088827259149058000,
-    "in_reply_to_user_id_str": "1088827259149058050",
-    "in_reply_to_screen_name": "Anny_Norman",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
