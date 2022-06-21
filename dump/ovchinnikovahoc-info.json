@@ -35,44 +35,43 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27952,
+  "statuses_count": 27954,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 21 12:20:13 +0000 2022",
-    "id": 1539221652080320500,
-    "id_str": "1539221652080320515",
-    "text": "@raccoonXXXX как им у вас офигенно!! возьмите меня третьей 😂😂",
-    "truncated": false,
+    "created_at": "Tue Jun 21 13:46:27 +0000 2022",
+    "id": 1539243352750755800,
+    "id_str": "1539243352750755842",
+    "text": "Берёшь на ручки - обвисает всем весом и болтается колбасой, но когда натискаешься, то сидеть с тобой не будет. Тара… https://t.co/MN5mceStTy",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "raccoonXXXX",
-          "name": "мари сюр",
-          "id": 2546076176,
-          "id_str": "2546076176",
+          "url": "https://t.co/MN5mceStTy",
+          "expanded_url": "https://twitter.com/i/web/status/1539243352750755842",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            12
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1539220995797565400,
-    "in_reply_to_status_id_str": "1539220995797565440",
-    "in_reply_to_user_id": 2546076176,
-    "in_reply_to_user_id_str": "2546076176",
-    "in_reply_to_screen_name": "raccoonXXXX",
+    "in_reply_to_status_id": 1539242241818087400,
+    "in_reply_to_status_id_str": "1539242241818087427",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
