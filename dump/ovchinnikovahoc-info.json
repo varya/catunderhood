@@ -30,48 +30,49 @@
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7984,
+  "favourites_count": 10822,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 27946,
+  "statuses_count": 27952,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 21 11:24:07 +0000 2022",
-    "id": 1539207532576637000,
-    "id_str": "1539207532576636929",
-    "text": "Причинно-следственные связи - ваще не для этого кота. Хлопанье по поверхности или коленям как знак, что нужно запры… https://t.co/aAfCOBKGxm",
-    "truncated": true,
+    "created_at": "Tue Jun 21 12:20:13 +0000 2022",
+    "id": 1539221652080320500,
+    "id_str": "1539221652080320515",
+    "text": "@raccoonXXXX как им у вас офигенно!! возьмите меня третьей 😂😂",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/aAfCOBKGxm",
-          "expanded_url": "https://twitter.com/i/web/status/1539207532576636929",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "raccoonXXXX",
+          "name": "мари сюр",
+          "id": 2546076176,
+          "id_str": "2546076176",
           "indices": [
-            117,
-            140
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1539206108090351600,
-    "in_reply_to_status_id_str": "1539206108090351617",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1539220995797565400,
+    "in_reply_to_status_id_str": "1539220995797565440",
+    "in_reply_to_user_id": 2546076176,
+    "in_reply_to_user_id_str": "2546076176",
+    "in_reply_to_screen_name": "raccoonXXXX",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
