@@ -30,32 +30,100 @@
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10822,
+  "favourites_count": 7984,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28019,
+  "statuses_count": 28020,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 23 13:28:24 +0000 2022",
-    "id": 1539963584750297000,
-    "id_str": "1539963584750297088",
-    "text": "И поскольку сам Шнапс нынче диетит, он крайне интересуется, какие самые-самые любимые вкусняхи у ваших кошок. У мен… https://t.co/9hv385TuUA",
-    "truncated": true,
+    "created_at": "Fri Jun 24 08:48:49 +0000 2022",
+    "id": 1540255613682344000,
+    "id_str": "1540255613682343936",
+    "text": "Котячья жопка сделает лучше любой день. Особенно если это ПЯТНИЦА 🥳🥳🥳 https://t.co/RrYj98pCYx",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/9hv385TuUA",
-          "expanded_url": "https://twitter.com/i/web/status/1539963584750297088",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1540255576155996200,
+          "id_str": "1540255576155996161",
           "indices": [
-            117,
-            140
-          ]
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWAWSTAXwAE8jOO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWAWSTAXwAE8jOO.jpg",
+          "url": "https://t.co/RrYj98pCYx",
+          "display_url": "pic.twitter.com/RrYj98pCYx",
+          "expanded_url": "https://twitter.com/catunderhood/status/1540255613682343936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1540255576155996200,
+          "id_str": "1540255576155996161",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWAWSTAXwAE8jOO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWAWSTAXwAE8jOO.jpg",
+          "url": "https://t.co/RrYj98pCYx",
+          "display_url": "pic.twitter.com/RrYj98pCYx",
+          "expanded_url": "https://twitter.com/catunderhood/status/1540255613682343936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 229,
+    "retweet_count": 1,
+    "favorite_count": 77,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
