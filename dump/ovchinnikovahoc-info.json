@@ -30,32 +30,100 @@
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10822,
+  "favourites_count": 7983,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28036,
+  "statuses_count": 28037,
   "lang": null,
   "status": {
-    "created_at": "Fri Jun 24 14:12:43 +0000 2022",
-    "id": 1540337126511972400,
-    "id_str": "1540337126511972359",
-    "text": "А теперь го показывать в реплаях ваш пятничный вечер с котом! Собани и прочая другая прекрасность тоже приветствуют… https://t.co/VvjOLriSrc",
-    "truncated": true,
+    "created_at": "Sat Jun 25 08:46:00 +0000 2022",
+    "id": 1540617292366635000,
+    "id_str": "1540617292366635008",
+    "text": "Шнапсовайб на выхах. И скажите, что ни разу так не выглядели утром в субботу 😁 https://t.co/cH7M8ImKqJ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/VvjOLriSrc",
-          "expanded_url": "https://twitter.com/i/web/status/1540337126511972359",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1540617001806307300,
+          "id_str": "1540617001806307329",
           "indices": [
-            117,
-            140
-          ]
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWFfACeXoAElIBg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWFfACeXoAElIBg.jpg",
+          "url": "https://t.co/cH7M8ImKqJ",
+          "display_url": "pic.twitter.com/cH7M8ImKqJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1540617292366635008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1540617001806307300,
+          "id_str": "1540617001806307329",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWFfACeXoAElIBg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWFfACeXoAElIBg.jpg",
+          "url": "https://t.co/cH7M8ImKqJ",
+          "display_url": "pic.twitter.com/cH7M8ImKqJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1540617292366635008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 230,
+    "retweet_count": 4,
+    "favorite_count": 86,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
