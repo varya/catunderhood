@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12429,
+  "followers_count": 12426,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28095,
+  "statuses_count": 28102,
   "lang": null,
   "status": {
-    "created_at": "Sun Jun 26 10:44:17 +0000 2022",
-    "id": 1541009445441912800,
-    "id_str": "1541009445441912833",
-    "text": "Я слишком стар для всего этого дерьма, мать https://t.co/KMDOzTxolN",
-    "truncated": false,
+    "created_at": "Sun Jun 26 12:32:58 +0000 2022",
+    "id": 1541036798603845600,
+    "id_str": "1541036798603845634",
+    "text": "Когда для бедного маленького котичка в доме нет ни единого двухметрового дивана, личной лежанки и даже подоконника,… https://t.co/e5AjswELLD",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1541009340559155200,
-          "id_str": "1541009340559155201",
+          "url": "https://t.co/e5AjswELLD",
+          "expanded_url": "https://twitter.com/i/web/status/1541036798603845634",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            44,
-            67
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWLD1KOWYAEh9oV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWLD1KOWYAEh9oV.jpg",
-          "url": "https://t.co/KMDOzTxolN",
-          "display_url": "pic.twitter.com/KMDOzTxolN",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541009445441912833/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1200,
-              "h": 1600,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1541009340559155200,
-          "id_str": "1541009340559155201",
-          "indices": [
-            44,
-            67
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWLD1KOWYAEh9oV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWLD1KOWYAEh9oV.jpg",
-          "url": "https://t.co/KMDOzTxolN",
-          "display_url": "pic.twitter.com/KMDOzTxolN",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541009445441912833/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1200,
-              "h": 1600,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 71,
+    "retweet_count": 0,
+    "favorite_count": 14,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
