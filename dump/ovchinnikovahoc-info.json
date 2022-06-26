@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12426,
+  "followers_count": 12425,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,26 +35,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28102,
+  "statuses_count": 28108,
   "lang": null,
   "status": {
-    "created_at": "Sun Jun 26 12:32:58 +0000 2022",
-    "id": 1541036798603845600,
-    "id_str": "1541036798603845634",
-    "text": "Когда для бедного маленького котичка в доме нет ни единого двухметрового дивана, личной лежанки и даже подоконника,… https://t.co/e5AjswELLD",
-    "truncated": true,
+    "created_at": "Sun Jun 26 13:21:48 +0000 2022",
+    "id": 1541049087151247400,
+    "id_str": "1541049087151247362",
+    "text": "Ваше любимое: кот и волосы 😁😁 https://t.co/d2zjqwTXCH",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/e5AjswELLD",
-          "expanded_url": "https://twitter.com/i/web/status/1541036798603845634",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/d2zjqwTXCH",
+          "expanded_url": "https://twitter.com/ovchinnikovahoc/status/1541048870809001984",
+          "display_url": "twitter.com/ovchinnikovaho…",
           "indices": [
-            117,
-            140
+            30,
+            53
           ]
         }
       ]
@@ -69,9 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 14,
+    "is_quote_status": true,
+    "quoted_status_id": 1541048870809002000,
+    "quoted_status_id_str": "1541048870809001984",
+    "retweet_count": 1,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
