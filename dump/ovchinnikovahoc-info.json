@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 12425,
+  "followers_count": 12424,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7983,
+  "favourites_count": 10821,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28113,
+  "statuses_count": 28115,
   "lang": null,
   "status": {
-    "created_at": "Sun Jun 26 14:11:32 +0000 2022",
-    "id": 1541061604485259300,
-    "id_str": "1541061604485259265",
-    "text": "В ночи где-то в недрах кухни готовилось дерзкое ограбление… (со звуком 😁) https://t.co/kKww0DHVOE",
-    "truncated": false,
+    "created_at": "Sun Jun 26 15:19:23 +0000 2022",
+    "id": 1541078678586671000,
+    "id_str": "1541078678586671106",
+    "text": "За эти семь месяцев в телефоне у меня скопился огромный фотовидеоархив счастливой домашней жизни Шнапса. Реально ог… https://t.co/DIssfK2iVz",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/kKww0DHVOE",
-          "expanded_url": "https://twitter.com/ovchinnikovahoc/status/1541058179974430720",
-          "display_url": "twitter.com/ovchinnikovaho…",
+          "url": "https://t.co/DIssfK2iVz",
+          "expanded_url": "https://twitter.com/i/web/status/1541078678586671106",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            74,
-            97
+            117,
+            140
           ]
         }
       ]
@@ -69,11 +69,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1541058179974430700,
-    "quoted_status_id_str": "1541058179974430720",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 11,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
