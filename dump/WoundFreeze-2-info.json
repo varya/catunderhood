@@ -35,114 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28178,
+  "statuses_count": 28179,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 27 18:00:00 +0000 2022",
-    "id": 1541481488599978000,
-    "id_str": "1541481488599977992",
-    "text": "Ну давай уже пойдём спать, я жду тебя в кроватке!\n\nPS: всем спокойной ночи и до завтра 😊 https://t.co/293oq46CaL",
+    "created_at": "Mon Jun 27 19:19:37 +0000 2022",
+    "id": 1541501524421001200,
+    "id_str": "1541501524421001218",
+    "text": "@morobzik Мы решили пойти по методу постепенного знакомства, дабы никого не травмировать морально. Ну и физически, а то всякое бывает.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1541329240628543500,
-          "id_str": "1541329240628543488",
+          "screen_name": "morobzik",
+          "name": "Кофенян Маршмелович",
+          "id": 799922746323038200,
+          "id_str": "799922746323038208",
           "indices": [
-            89,
-            112
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWPmxy2WQAAit1D.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWPmxy2WQAAit1D.jpg",
-          "url": "https://t.co/293oq46CaL",
-          "display_url": "pic.twitter.com/293oq46CaL",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541481488599977992/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1181,
-              "h": 796,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 458,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1181,
-              "h": 796,
-              "resize": "fit"
-            }
-          }
+            0,
+            9
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1541329240628543500,
-          "id_str": "1541329240628543488",
-          "indices": [
-            89,
-            112
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWPmxy2WQAAit1D.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWPmxy2WQAAit1D.jpg",
-          "url": "https://t.co/293oq46CaL",
-          "display_url": "pic.twitter.com/293oq46CaL",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541481488599977992/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1181,
-              "h": 796,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 458,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1181,
-              "h": 796,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1541490285838061600,
+    "in_reply_to_status_id_str": "1541490285838061568",
+    "in_reply_to_user_id": 799922746323038200,
+    "in_reply_to_user_id_str": "799922746323038208",
+    "in_reply_to_screen_name": "morobzik",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 41,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
