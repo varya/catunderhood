@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 12420,
+  "followers_count": 12422,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7983,
+  "favourites_count": 10821,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28129,
+  "statuses_count": 28136,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 27 07:15:00 +0000 2022",
-    "id": 1541319166451482600,
-    "id_str": "1541319166451482625",
-    "text": "Связалась, согласовала время и дату визита. Приехала, позвонила в дверь. Меня встретила женщина, сказав:\n - А, ты за рыжим! Так вот он!",
-    "truncated": false,
+    "created_at": "Mon Jun 27 08:30:00 +0000 2022",
+    "id": 1541338042765648000,
+    "id_str": "1541338042765647873",
+    "text": "В первую неделю пребывания Кузя понял, что кормят его хреново. И он спёр пакет с минтаем, который размораживался на… https://t.co/X3eTopaOoc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/X3eTopaOoc",
+          "expanded_url": "https://twitter.com/i/web/status/1541338042765647873",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -60,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 9,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
