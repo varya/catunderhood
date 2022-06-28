@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12430,
+  "followers_count": 12429,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 7984,
+  "favourites_count": 10821,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28201,
+  "statuses_count": 28204,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 07:45:00 +0000 2022",
-    "id": 1541689104173351000,
-    "id_str": "1541689104173350913",
-    "text": "Первое дружеское фото. Кузьма Кашпировский заряжает Танку. https://t.co/MPsGlz71r2",
-    "truncated": false,
+    "created_at": "Tue Jun 28 09:15:00 +0000 2022",
+    "id": 1541711753246953500,
+    "id_str": "1541711753246953472",
+    "text": "Цветы и горшки. Особая любовь юной Танки. Нет, ничего такого она в цветочные горшки не делала и растения не жевала,… https://t.co/SaKrF87Dvc",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1541450118456639500,
-          "id_str": "1541450118456639489",
+          "url": "https://t.co/SaKrF87Dvc",
+          "expanded_url": "https://twitter.com/i/web/status/1541711753246953472",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            59,
-            82
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWRUtz2XgAEKdQ9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWRUtz2XgAEKdQ9.jpg",
-          "url": "https://t.co/MPsGlz71r2",
-          "display_url": "pic.twitter.com/MPsGlz71r2",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541689104173350913/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1541450118456639500,
-          "id_str": "1541450118456639489",
-          "indices": [
-            59,
-            82
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWRUtz2XgAEKdQ9.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWRUtz2XgAEKdQ9.jpg",
-          "url": "https://t.co/MPsGlz71r2",
-          "display_url": "pic.twitter.com/MPsGlz71r2",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541689104173350913/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -139,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 34,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
