@@ -35,43 +35,111 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28246,
+  "statuses_count": 28247,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 18:25:00 +0000 2022",
-    "id": 1541850165295730700,
-    "id_str": "1541850165295730688",
-    "text": "На этой праздничной ноте мы с Танкой прощаемся с вами и желаем хороших сновидений, ну а повествование про котобанду… https://t.co/BzfEE2qC8x",
-    "truncated": true,
+    "created_at": "Tue Jun 28 18:32:47 +0000 2022",
+    "id": 1541852123217928200,
+    "id_str": "1541852123217928194",
+    "text": "И бонусный твит, представленный компанией ООО \"Зеленоглазое такси\" https://t.co/jLPWkOoMoE",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/BzfEE2qC8x",
-          "expanded_url": "https://twitter.com/i/web/status/1541850165295730688",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1541851862558773200,
+          "id_str": "1541851862558773248",
           "indices": [
-            117,
-            140
-          ]
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
+          "url": "https://t.co/jLPWkOoMoE",
+          "display_url": "pic.twitter.com/jLPWkOoMoE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541852123217928194/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 731,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 906,
+              "h": 1487,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 414,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1541851862558773200,
+          "id_str": "1541851862558773248",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
+          "url": "https://t.co/jLPWkOoMoE",
+          "display_url": "pic.twitter.com/jLPWkOoMoE",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541852123217928194/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 731,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 906,
+              "h": 1487,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 414,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1541850165295730700,
+    "in_reply_to_status_id_str": "1541850165295730688",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 20,
+    "favorite_count": 59,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
