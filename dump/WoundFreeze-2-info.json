@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12429,
+  "followers_count": 12430,
   "friends_count": 42,
   "listed_count": 36,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,43 +35,44 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28180,
+  "statuses_count": 28179,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 27 21:55:00 +0000 2022",
-    "id": 1541540625618571300,
-    "id_str": "1541540625618571264",
-    "text": "К слову, на новом месте Танка не ходила в туалет почти сутки. Но подуспокоившись, таки определила лоток безошибочно… https://t.co/lZVxoNsJjQ",
-    "truncated": true,
+    "created_at": "Mon Jun 27 19:19:37 +0000 2022",
+    "id": 1541501524421001200,
+    "id_str": "1541501524421001218",
+    "text": "@morobzik Мы решили пойти по методу постепенного знакомства, дабы никого не травмировать морально. Ну и физически, а то всякое бывает.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/lZVxoNsJjQ",
-          "expanded_url": "https://twitter.com/i/web/status/1541540625618571264",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "morobzik",
+          "name": "Кофенян Маршмелович",
+          "id": 799922746323038200,
+          "id_str": "799922746323038208",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1541490285838061600,
+    "in_reply_to_status_id_str": "1541490285838061568",
+    "in_reply_to_user_id": 799922746323038200,
+    "in_reply_to_user_id_str": "799922746323038208",
+    "in_reply_to_screen_name": "morobzik",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 23,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
