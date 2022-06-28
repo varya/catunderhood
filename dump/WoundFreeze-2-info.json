@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 12430,
+  "followers_count": 12428,
   "friends_count": 42,
-  "listed_count": 37,
+  "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10821,
+  "favourites_count": 10830,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28223,
+  "statuses_count": 28228,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 11:20:18 +0000 2022",
-    "id": 1541743285257093000,
-    "id_str": "1541743285257093120",
-    "text": "В еде Танка не особо избирательна и готова жевать всё, что не приколочено. Всем подряд мы её не кормим, потребляет… https://t.co/wFk85q92ol",
-    "truncated": true,
+    "created_at": "Tue Jun 28 12:25:00 +0000 2022",
+    "id": 1541759568253857800,
+    "id_str": "1541759568253857792",
+    "text": "Очень странный хлеп на ножках. https://t.co/KYCoPnxKeS",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/wFk85q92ol",
-          "expanded_url": "https://twitter.com/i/web/status/1541743285257093120",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1541749537752203300,
+          "id_str": "1541749537752203264",
           "indices": [
-            116,
-            139
-          ]
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWVlCTpXwAA5K43.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWVlCTpXwAA5K43.jpg",
+          "url": "https://t.co/KYCoPnxKeS",
+          "display_url": "pic.twitter.com/KYCoPnxKeS",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541759568253857792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 430,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1541749537752203300,
+          "id_str": "1541749537752203264",
+          "indices": [
+            31,
+            54
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWVlCTpXwAA5K43.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWVlCTpXwAA5K43.jpg",
+          "url": "https://t.co/KYCoPnxKeS",
+          "display_url": "pic.twitter.com/KYCoPnxKeS",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541759568253857792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1138,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 430,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,10 +138,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
