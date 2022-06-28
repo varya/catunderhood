@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 12429,
+  "followers_count": 12431,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10821,
+  "favourites_count": 7984,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28188,
+  "statuses_count": 28192,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 05:30:00 +0000 2022",
-    "id": 1541655131728629800,
-    "id_str": "1541655131728629760",
-    "text": "6)Скажу сразу про хвост: никто его не купировал специально, Танка такой родилась. Хвост изначально был коротким и н… https://t.co/1io5ZQZody",
-    "truncated": true,
+    "created_at": "Tue Jun 28 06:20:00 +0000 2022",
+    "id": 1541667712878973000,
+    "id_str": "1541667712878972929",
+    "text": "Ну привет, кожаная! https://t.co/Z5oyGd64n0",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/1io5ZQZody",
-          "expanded_url": "https://twitter.com/i/web/status/1541655131728629760",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1541445216653267000,
+          "id_str": "1541445216653266944",
           "indices": [
-            117,
-            140
-          ]
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWRQQfNX0AAmuPe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWRQQfNX0AAmuPe.jpg",
+          "url": "https://t.co/Z5oyGd64n0",
+          "display_url": "pic.twitter.com/Z5oyGd64n0",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541667712878972929/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1473,
+              "h": 1964,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1541445216653267000,
+          "id_str": "1541445216653266944",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWRQQfNX0AAmuPe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWRQQfNX0AAmuPe.jpg",
+          "url": "https://t.co/Z5oyGd64n0",
+          "display_url": "pic.twitter.com/Z5oyGd64n0",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541667712878972929/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1473,
+              "h": 1964,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,9 +139,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 24,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
