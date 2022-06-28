@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28204,
+  "statuses_count": 28211,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 09:15:00 +0000 2022",
-    "id": 1541711753246953500,
-    "id_str": "1541711753246953472",
-    "text": "Цветы и горшки. Особая любовь юной Танки. Нет, ничего такого она в цветочные горшки не делала и растения не жевала,… https://t.co/SaKrF87Dvc",
-    "truncated": true,
+    "created_at": "Tue Jun 28 10:15:00 +0000 2022",
+    "id": 1541726852649205800,
+    "id_str": "1541726852649205762",
+    "text": "Миску мне наполнила быстро https://t.co/WIZ3ttt1aI",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/SaKrF87Dvc",
-          "expanded_url": "https://twitter.com/i/web/status/1541711753246953472",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1541500412636921900,
+          "id_str": "1541500412636921857",
           "indices": [
-            117,
-            140
-          ]
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWSCdURXgAEhTK4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWSCdURXgAEhTK4.jpg",
+          "url": "https://t.co/WIZ3ttt1aI",
+          "display_url": "pic.twitter.com/WIZ3ttt1aI",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541726852649205762/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1541500412636921900,
+          "id_str": "1541500412636921857",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWSCdURXgAEhTK4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWSCdURXgAEhTK4.jpg",
+          "url": "https://t.co/WIZ3ttt1aI",
+          "display_url": "pic.twitter.com/WIZ3ttt1aI",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541726852649205762/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 17,
+    "retweet_count": 1,
+    "favorite_count": 28,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
