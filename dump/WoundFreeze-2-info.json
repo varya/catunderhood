@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12426,
+  "followers_count": 12423,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10839,
+  "favourites_count": 8005,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28235,
+  "statuses_count": 28240,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 15:15:00 +0000 2022",
-    "id": 1541802351131893800,
-    "id_str": "1541802351131893761",
-    "text": "сердечное пузико :) https://t.co/K3SV5Y5Jnm",
+    "created_at": "Tue Jun 28 16:30:00 +0000 2022",
+    "id": 1541821225290371000,
+    "id_str": "1541821225290371072",
+    "text": "И снился ей не рокот космодрома https://t.co/YsSA2kE1iq",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1541792798189518800,
-          "id_str": "1541792798189518850",
+          "id": 1541796133126774800,
+          "id_str": "1541796133126774785",
           "indices": [
-            20,
-            43
+            32,
+            55
           ],
-          "media_url": "http://pbs.twimg.com/media/FWWMYZVXgAIJfJK.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWWMYZVXgAIJfJK.jpg",
-          "url": "https://t.co/K3SV5Y5Jnm",
-          "display_url": "pic.twitter.com/K3SV5Y5Jnm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541802351131893761/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWWPag8XoAEdXQ6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWWPag8XoAEdXQ6.jpg",
+          "url": "https://t.co/YsSA2kE1iq",
+          "display_url": "pic.twitter.com/YsSA2kE1iq",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541821225290371072/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -69,18 +69,18 @@
               "resize": "crop"
             },
             "large": {
-              "w": 2048,
-              "h": 1152,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
+              "w": 1109,
+              "h": 1548,
               "resize": "fit"
             },
             "small": {
-              "w": 680,
-              "h": 382,
+              "w": 487,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 860,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1541792798189518800,
-          "id_str": "1541792798189518850",
+          "id": 1541796133126774800,
+          "id_str": "1541796133126774785",
           "indices": [
-            20,
-            43
+            32,
+            55
           ],
-          "media_url": "http://pbs.twimg.com/media/FWWMYZVXgAIJfJK.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWWMYZVXgAIJfJK.jpg",
-          "url": "https://t.co/K3SV5Y5Jnm",
-          "display_url": "pic.twitter.com/K3SV5Y5Jnm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541802351131893761/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWWPag8XoAEdXQ6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWWPag8XoAEdXQ6.jpg",
+          "url": "https://t.co/YsSA2kE1iq",
+          "display_url": "pic.twitter.com/YsSA2kE1iq",
+          "expanded_url": "https://twitter.com/catunderhood/status/1541821225290371072/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -109,18 +109,18 @@
               "resize": "crop"
             },
             "large": {
-              "w": 2048,
-              "h": 1152,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 675,
+              "w": 1109,
+              "h": 1548,
               "resize": "fit"
             },
             "small": {
-              "w": 680,
-              "h": 382,
+              "w": 487,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 860,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -138,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 40,
+    "retweet_count": 0,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
