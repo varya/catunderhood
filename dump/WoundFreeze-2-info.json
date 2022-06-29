@@ -35,101 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28247,
+  "statuses_count": 28254,
   "lang": null,
   "status": {
-    "created_at": "Tue Jun 28 18:32:47 +0000 2022",
-    "id": 1541852123217928200,
-    "id_str": "1541852123217928194",
-    "text": "И бонусный твит, представленный компанией ООО \"Зеленоглазое такси\" https://t.co/jLPWkOoMoE",
-    "truncated": false,
+    "created_at": "Wed Jun 29 04:52:31 +0000 2022",
+    "id": 1542008084641480700,
+    "id_str": "1542008084641480705",
+    "text": "Нинка была взята на руки и я громко сказала:\n - Ну что, привет, Нинка!\n - Нинка? А почему такое имя?\n - В честь под… https://t.co/qsJcxX7pMp",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1541851862558773200,
-          "id_str": "1541851862558773248",
+          "url": "https://t.co/qsJcxX7pMp",
+          "expanded_url": "https://twitter.com/i/web/status/1542008084641480705",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
-          "url": "https://t.co/jLPWkOoMoE",
-          "display_url": "pic.twitter.com/jLPWkOoMoE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541852123217928194/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 731,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 906,
-              "h": 1487,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 414,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1541851862558773200,
-          "id_str": "1541851862558773248",
-          "indices": [
-            67,
-            90
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWXCGZQXEAAqsG7.jpg",
-          "url": "https://t.co/jLPWkOoMoE",
-          "display_url": "pic.twitter.com/jLPWkOoMoE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1541852123217928194/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 731,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 906,
-              "h": 1487,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 414,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1541850165295730700,
-    "in_reply_to_status_id_str": "1541850165295730688",
+    "in_reply_to_status_id": 1542007414878347300,
+    "in_reply_to_status_id_str": "1542007414878347264",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -138,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 131,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
