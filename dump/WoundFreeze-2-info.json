@@ -30,48 +30,116 @@
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8070,
+  "favourites_count": 10910,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28346,
+  "statuses_count": 28355,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 30 07:20:00 +0000 2022",
-    "id": 1542407588184297500,
-    "id_str": "1542407588184297472",
-    "text": "Любовь к воде. \nВоду Полка любит с детства, может часами сидеть возле раковины и смотреть на то, как течёт струя во… https://t.co/nLpnSDawFW",
-    "truncated": true,
+    "created_at": "Thu Jun 30 08:10:58 +0000 2022",
+    "id": 1542420416584568800,
+    "id_str": "1542420416584568832",
+    "text": "А на ручки Полка просится примерно так. Отказать просто невозможно. https://t.co/zTu6goyIPX",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/nLpnSDawFW",
-          "expanded_url": "https://twitter.com/i/web/status/1542407588184297472",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1542420334086873000,
+          "id_str": "1542420334086873090",
           "indices": [
-            117,
-            140
-          ]
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
+          "url": "https://t.co/zTu6goyIPX",
+          "display_url": "pic.twitter.com/zTu6goyIPX",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542420416584568832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1473,
+              "h": 1964,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1542420334086873000,
+          "id_str": "1542420334086873090",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
+          "url": "https://t.co/zTu6goyIPX",
+          "display_url": "pic.twitter.com/zTu6goyIPX",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542420416584568832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1473,
+              "h": 1964,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1542420171343536000,
+    "in_reply_to_status_id_str": "1542420171343536128",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
