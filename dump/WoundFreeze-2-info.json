@@ -26,123 +26,44 @@
     }
   },
   "protected": false,
-  "followers_count": 12423,
+  "followers_count": 12424,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10902,
+  "favourites_count": 8069,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28327,
+  "statuses_count": 28332,
   "lang": null,
   "status": {
-    "created_at": "Wed Jun 29 18:40:00 +0000 2022",
-    "id": 1542216327838023700,
-    "id_str": "1542216327838023680",
-    "text": "Нинка завершает наш сегодняшний эфир и желает всем приятных сновидений! Спокойной ночи и до завтра :3 https://t.co/rBm0pvXtkE",
+    "created_at": "Thu Jun 30 05:29:40 +0000 2022",
+    "id": 1542379823124865000,
+    "id_str": "1542379823124865024",
+    "text": "По приезду домой, я посадила Полку на своё кресло, а сама пошла готовить раковину для купания.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1542154075193880600,
-          "id_str": "1542154075193880576",
-          "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWbU9fDaMAAzGGJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWbU9fDaMAAzGGJ.jpg",
-          "url": "https://t.co/rBm0pvXtkE",
-          "display_url": "pic.twitter.com/rBm0pvXtkE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542216327838023680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 554,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 945,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 314,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1542154075193880600,
-          "id_str": "1542154075193880576",
-          "indices": [
-            102,
-            125
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWbU9fDaMAAzGGJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWbU9fDaMAAzGGJ.jpg",
-          "url": "https://t.co/rBm0pvXtkE",
-          "display_url": "pic.twitter.com/rBm0pvXtkE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542216327838023680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 554,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 945,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 314,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1542378899077824500,
+    "in_reply_to_status_id_str": "1542378899077824514",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 138,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
