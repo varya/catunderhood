@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12422,
+  "followers_count": 12421,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10910,
+  "favourites_count": 10911,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28355,
+  "statuses_count": 28357,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 30 08:10:58 +0000 2022",
-    "id": 1542420416584568800,
-    "id_str": "1542420416584568832",
-    "text": "А на ручки Полка просится примерно так. Отказать просто невозможно. https://t.co/zTu6goyIPX",
+    "created_at": "Thu Jun 30 09:09:14 +0000 2022",
+    "id": 1542435077392662500,
+    "id_str": "1542435077392662530",
+    "text": "Инновационный способ дыхания. https://t.co/efCATljjEp",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1542420334086873000,
-          "id_str": "1542420334086873090",
+          "id": 1542434808789360600,
+          "id_str": "1542434808789360642",
           "indices": [
-            68,
-            91
+            30,
+            53
           ],
-          "media_url": "http://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
-          "url": "https://t.co/zTu6goyIPX",
-          "display_url": "pic.twitter.com/zTu6goyIPX",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542420416584568832/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWfUSVMWYAIoaKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWfUSVMWYAIoaKO.jpg",
+          "url": "https://t.co/efCATljjEp",
+          "display_url": "pic.twitter.com/efCATljjEp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542435077392662530/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -69,18 +69,18 @@
               "resize": "crop"
             },
             "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+              "w": 680,
+              "h": 382,
               "resize": "fit"
             },
             "large": {
-              "w": 1473,
-              "h": 1964,
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
               "resize": "fit"
             }
           }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1542420334086873000,
-          "id_str": "1542420334086873090",
+          "id": 1542434808789360600,
+          "id_str": "1542434808789360642",
           "indices": [
-            68,
-            91
+            30,
+            53
           ],
-          "media_url": "http://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWfHHyuWYAIeMR4.jpg",
-          "url": "https://t.co/zTu6goyIPX",
-          "display_url": "pic.twitter.com/zTu6goyIPX",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542420416584568832/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWfUSVMWYAIoaKO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWfUSVMWYAIoaKO.jpg",
+          "url": "https://t.co/efCATljjEp",
+          "display_url": "pic.twitter.com/efCATljjEp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542435077392662530/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -109,18 +109,54 @@
               "resize": "crop"
             },
             "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
+              "w": 680,
+              "h": 382,
               "resize": "fit"
             },
             "large": {
-              "w": 1473,
-              "h": 1964,
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1542434808797827000,
+          "id_str": "1542434808797827073",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWfUSVOXkAExDav.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWfUSVOXkAExDav.jpg",
+          "url": "https://t.co/efCATljjEp",
+          "display_url": "pic.twitter.com/efCATljjEp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542435077392662530/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
               "resize": "fit"
             }
           }
@@ -128,18 +164,18 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1542420171343536000,
-    "in_reply_to_status_id_str": "1542420171343536128",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 36,
+    "retweet_count": 2,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
