@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 12424,
+  "followers_count": 12425,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8086,
+  "favourites_count": 8087,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28381,
+  "statuses_count": 28386,
   "lang": null,
   "status": {
-    "created_at": "Thu Jun 30 16:30:00 +0000 2022",
-    "id": 1542546002371944400,
-    "id_str": "1542546002371944449",
-    "text": "Краткая характеристика Полки: из всей котобанды это самая добрая и неконфликтная кошка (если честно, то даже не пом… https://t.co/WmJpizeHCV",
-    "truncated": true,
+    "created_at": "Thu Jun 30 17:30:00 +0000 2022",
+    "id": 1542561102298378200,
+    "id_str": "1542561102298378240",
+    "text": "- Вы зачем хлеб в ванной храните? https://t.co/bekt1xLiiW",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/WmJpizeHCV",
-          "expanded_url": "https://twitter.com/i/web/status/1542546002371944449",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1542537656730624000,
+          "id_str": "1542537656730624001",
           "indices": [
-            117,
-            140
-          ]
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWgx03oXoAEJcIs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWgx03oXoAEJcIs.jpg",
+          "url": "https://t.co/bekt1xLiiW",
+          "display_url": "pic.twitter.com/bekt1xLiiW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542561102298378240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1261,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 739,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 419,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1542537656730624000,
+          "id_str": "1542537656730624001",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWgx03oXoAEJcIs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWgx03oXoAEJcIs.jpg",
+          "url": "https://t.co/bekt1xLiiW",
+          "display_url": "pic.twitter.com/bekt1xLiiW",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542561102298378240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1261,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 739,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 419,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -74,6 +142,7 @@
     "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
