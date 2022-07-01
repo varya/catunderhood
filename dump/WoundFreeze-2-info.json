@@ -26,120 +26,52 @@
     }
   },
   "protected": false,
-  "followers_count": 12431,
+  "followers_count": 12430,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10944,
+  "favourites_count": 8107,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28423,
+  "statuses_count": 28428,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 01 08:26:43 +0000 2022",
-    "id": 1542786765672665000,
-    "id_str": "1542786765672665089",
-    "text": "- Кто мешки с мусором ворошит? Я? Да я вообще цветочек! https://t.co/IUfAUHn3yy",
-    "truncated": false,
+    "created_at": "Fri Jul 01 09:15:00 +0000 2022",
+    "id": 1542798917103919000,
+    "id_str": "1542798917103919105",
+    "text": "Особую любовь Аскольда занимают шнурки. Поэтому кроссовки и толстовки со шнурками убираются в шкаф, дабы не быть по… https://t.co/RAhCt71voN",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1542786665839837200,
-          "id_str": "1542786665839837185",
+          "url": "https://t.co/RAhCt71voN",
+          "expanded_url": "https://twitter.com/i/web/status/1542798917103919105",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            56,
-            79
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWkUTG2XwAES7MG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWkUTG2XwAES7MG.jpg",
-          "url": "https://t.co/IUfAUHn3yy",
-          "display_url": "pic.twitter.com/IUfAUHn3yy",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542786765672665089/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 663,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 376,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 906,
-              "h": 1640,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1542786665839837200,
-          "id_str": "1542786665839837185",
-          "indices": [
-            56,
-            79
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWkUTG2XwAES7MG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWkUTG2XwAES7MG.jpg",
-          "url": "https://t.co/IUfAUHn3yy",
-          "display_url": "pic.twitter.com/IUfAUHn3yy",
-          "expanded_url": "https://twitter.com/catunderhood/status/1542786765672665089/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 663,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 376,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 906,
-              "h": 1640,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1542786333789208600,
-    "in_reply_to_status_id_str": "1542786333789208576",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 9,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
