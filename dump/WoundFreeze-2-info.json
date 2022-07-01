@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 12430,
+  "followers_count": 12429,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8107,
+  "favourites_count": 10944,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28428,
+  "statuses_count": 28431,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 01 09:15:00 +0000 2022",
-    "id": 1542798917103919000,
-    "id_str": "1542798917103919105",
-    "text": "Особую любовь Аскольда занимают шнурки. Поэтому кроссовки и толстовки со шнурками убираются в шкаф, дабы не быть по… https://t.co/RAhCt71voN",
-    "truncated": true,
+    "created_at": "Fri Jul 01 10:10:00 +0000 2022",
+    "id": 1542812758013517800,
+    "id_str": "1542812758013517824",
+    "text": "Саженцы которассады. https://t.co/u3E4fPX2sG",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/RAhCt71voN",
-          "expanded_url": "https://twitter.com/i/web/status/1542798917103919105",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1542797727666512000,
+          "id_str": "1542797727666511874",
           "indices": [
-            117,
-            140
-          ]
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWkeW_XXoAIxzo3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWkeW_XXoAIxzo3.jpg",
+          "url": "https://t.co/u3E4fPX2sG",
+          "display_url": "pic.twitter.com/u3E4fPX2sG",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542812758013517824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 906,
+              "h": 1553,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1542797727666512000,
+          "id_str": "1542797727666511874",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWkeW_XXoAIxzo3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWkeW_XXoAIxzo3.jpg",
+          "url": "https://t.co/u3E4fPX2sG",
+          "display_url": "pic.twitter.com/u3E4fPX2sG",
+          "expanded_url": "https://twitter.com/catunderhood/status/1542812758013517824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 906,
+              "h": 1553,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 397,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 20,
+    "favorite_count": 41,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
