@@ -30,32 +30,100 @@
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8123,
+  "favourites_count": 10961,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28528,
+  "statuses_count": 28531,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 02 14:20:00 +0000 2022",
-    "id": 1543238060732584000,
-    "id_str": "1543238060732583936",
-    "text": "Как и Аскольд, Жига порой любит охотиться на мягкие игрушки и их жевать. На фото уже чутка пожёванный медведь (лапы… https://t.co/wDh0omgzqO",
-    "truncated": true,
+    "created_at": "Sat Jul 02 15:20:00 +0000 2022",
+    "id": 1543253160109650000,
+    "id_str": "1543253160109649920",
+    "text": "Распаковка кота с алиэкспресса. https://t.co/0xT7pA3GxM",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/wDh0omgzqO",
-          "expanded_url": "https://twitter.com/i/web/status/1543238060732583936",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1543228714837762000,
+          "id_str": "1543228714837762049",
           "indices": [
-            117,
-            140
-          ]
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
+          "url": "https://t.co/0xT7pA3GxM",
+          "display_url": "pic.twitter.com/0xT7pA3GxM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543253160109649920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 438,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1963,
+              "h": 1263,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1543228714837762000,
+          "id_str": "1543228714837762049",
+          "indices": [
+            32,
+            55
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
+          "url": "https://t.co/0xT7pA3GxM",
+          "display_url": "pic.twitter.com/0xT7pA3GxM",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543253160109649920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 438,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1963,
+              "h": 1263,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
