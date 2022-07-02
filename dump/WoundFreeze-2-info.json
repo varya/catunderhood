@@ -30,18 +30,18 @@
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10961,
+  "favourites_count": 10959,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28531,
+  "statuses_count": 28533,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 02 15:20:00 +0000 2022",
-    "id": 1543253160109650000,
-    "id_str": "1543253160109649920",
-    "text": "Распаковка кота с алиэкспресса. https://t.co/0xT7pA3GxM",
+    "created_at": "Sat Jul 02 16:00:01 +0000 2022",
+    "id": 1543263231036121000,
+    "id_str": "1543263231036121088",
+    "text": "...и порой спит весьма упорото. https://t.co/IA75fleEIy",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1543228714837762000,
-          "id_str": "1543228714837762049",
+          "id": 1543253919857516500,
+          "id_str": "1543253919857516545",
           "indices": [
             32,
             55
           ],
-          "media_url": "http://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
-          "url": "https://t.co/0xT7pA3GxM",
-          "display_url": "pic.twitter.com/0xT7pA3GxM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543253160109649920/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWq9Q3tWIAEMi5q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWq9Q3tWIAEMi5q.jpg",
+          "url": "https://t.co/IA75fleEIy",
+          "display_url": "pic.twitter.com/IA75fleEIy",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543263231036121088/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -70,17 +70,17 @@
             },
             "medium": {
               "w": 1200,
-              "h": 772,
+              "h": 675,
               "resize": "fit"
             },
             "small": {
               "w": 680,
-              "h": 438,
+              "h": 383,
               "resize": "fit"
             },
             "large": {
-              "w": 1963,
-              "h": 1263,
+              "w": 1280,
+              "h": 720,
               "resize": "fit"
             }
           }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1543228714837762000,
-          "id_str": "1543228714837762049",
+          "id": 1543253919857516500,
+          "id_str": "1543253919857516545",
           "indices": [
             32,
             55
           ],
-          "media_url": "http://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWqmVvsWYAEczYO.jpg",
-          "url": "https://t.co/0xT7pA3GxM",
-          "display_url": "pic.twitter.com/0xT7pA3GxM",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543253160109649920/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FWq9Q3tWIAEMi5q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWq9Q3tWIAEMi5q.jpg",
+          "url": "https://t.co/IA75fleEIy",
+          "display_url": "pic.twitter.com/IA75fleEIy",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543263231036121088/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -110,17 +110,17 @@
             },
             "medium": {
               "w": 1200,
-              "h": 772,
+              "h": 675,
               "resize": "fit"
             },
             "small": {
               "w": 680,
-              "h": 438,
+              "h": 383,
               "resize": "fit"
             },
             "large": {
-              "w": 1963,
-              "h": 1263,
+              "w": 1280,
+              "h": 720,
               "resize": "fit"
             }
           }
@@ -138,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 13,
+    "retweet_count": 1,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
