@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28518,
+  "statuses_count": 28520,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 02 12:27:49 +0000 2022",
-    "id": 1543209830940278800,
-    "id_str": "1543209830940278785",
-    "text": "- Вы рыбов не продаёте, только показываете? Ну так мы их сами заберём! https://t.co/dHsPXHKLc3",
-    "truncated": false,
+    "created_at": "Sat Jul 02 13:20:00 +0000 2022",
+    "id": 1543222961594835000,
+    "id_str": "1543222961594834944",
+    "text": "Демонстрирует пузос. Пузос является смертельной ловушкой и любая попытка его почесать приводит к агрессивному кусб.… https://t.co/1BWygk22OC",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1543209323731591200,
-          "id_str": "1543209323731591170",
+          "url": "https://t.co/1BWygk22OC",
+          "expanded_url": "https://twitter.com/i/web/status/1543222961594834944",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            71,
-            94
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWqUtCMXoAI1BcG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWqUtCMXoAI1BcG.jpg",
-          "url": "https://t.co/dHsPXHKLc3",
-          "display_url": "pic.twitter.com/dHsPXHKLc3",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543209830940278785/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 554,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 945,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 314,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1543209323731591200,
-          "id_str": "1543209323731591170",
-          "indices": [
-            71,
-            94
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWqUtCMXoAI1BcG.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWqUtCMXoAI1BcG.jpg",
-          "url": "https://t.co/dHsPXHKLc3",
-          "display_url": "pic.twitter.com/dHsPXHKLc3",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543209830940278785/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 554,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 945,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 314,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -139,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 18,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
