@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12446,
+  "followers_count": 12447,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10960,
+  "favourites_count": 8125,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28548,
+  "statuses_count": 28554,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 03 08:15:00 +0000 2022",
-    "id": 1543508592929607700,
-    "id_str": "1543508592929607680",
-    "text": "You shall not pass https://t.co/9B8yqtyXDf",
-    "truncated": false,
+    "created_at": "Sun Jul 03 09:20:00 +0000 2022",
+    "id": 1543524950719479800,
+    "id_str": "1543524950719479809",
+    "text": "Примерно так проходит совместное кормление (потом еду стала размещать на двух отдельных блюдцах). У Кузи отдельный… https://t.co/EZdmJBACRJ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1543485303041757200,
-          "id_str": "1543485303041757185",
+          "url": "https://t.co/EZdmJBACRJ",
+          "expanded_url": "https://twitter.com/i/web/status/1543524950719479809",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            19,
-            42
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWuPtJPXEAEevaU.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWuPtJPXEAEevaU.jpg",
-          "url": "https://t.co/9B8yqtyXDf",
-          "display_url": "pic.twitter.com/9B8yqtyXDf",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543508592929607680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 380,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 671,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1146,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1543485303041757200,
-          "id_str": "1543485303041757185",
-          "indices": [
-            19,
-            42
-          ],
-          "media_url": "http://pbs.twimg.com/media/FWuPtJPXEAEevaU.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FWuPtJPXEAEevaU.jpg",
-          "url": "https://t.co/9B8yqtyXDf",
-          "display_url": "pic.twitter.com/9B8yqtyXDf",
-          "expanded_url": "https://twitter.com/catunderhood/status/1543508592929607680/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 380,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 671,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1146,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -139,11 +71,11 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 17,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
