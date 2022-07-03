@@ -35,46 +35,114 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28581,
+  "statuses_count": 28585,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 03 13:04:14 +0000 2022",
-    "id": 1543581383645446100,
-    "id_str": "1543581383645446145",
-    "text": "@blablakatia Контактирует, но редко. По большей части, он в отдельной комнате сидит, иногда выходит обнюхиваться.",
+    "created_at": "Sun Jul 03 14:10:00 +0000 2022",
+    "id": 1543597931906859000,
+    "id_str": "1543597931906859012",
+    "text": "- Слыш, включи. https://t.co/p1OMvFVp8d",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "blablakatia",
-          "name": "привет, уродец",
-          "id": 486830876,
-          "id_str": "486830876",
+          "id": 1543553103131189200,
+          "id_str": "1543553103131189248",
           "indices": [
-            0,
-            12
-          ]
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWvNXoQWIAA6jKz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWvNXoQWIAA6jKz.jpg",
+          "url": "https://t.co/p1OMvFVp8d",
+          "display_url": "pic.twitter.com/p1OMvFVp8d",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543597931906859012/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 394,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 906,
+              "h": 1562,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 696,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1543553103131189200,
+          "id_str": "1543553103131189248",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWvNXoQWIAA6jKz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWvNXoQWIAA6jKz.jpg",
+          "url": "https://t.co/p1OMvFVp8d",
+          "display_url": "pic.twitter.com/p1OMvFVp8d",
+          "expanded_url": "https://twitter.com/catunderhood/status/1543597931906859012/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 394,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 906,
+              "h": 1562,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 696,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1543580161064460300,
-    "in_reply_to_status_id_str": "1543580161064460288",
-    "in_reply_to_user_id": 486830876,
-    "in_reply_to_user_id_str": "486830876",
-    "in_reply_to_screen_name": "blablakatia",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
