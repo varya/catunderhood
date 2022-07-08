@@ -30,119 +30,51 @@
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 10998,
+  "favourites_count": 8162,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28709,
+  "statuses_count": 28713,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 08 11:36:51 +0000 2022",
-    "id": 1545371332464021500,
-    "id_str": "1545371332464021506",
-    "text": "Когда человек уходил на весь день, а вечером вернулся целый и невредимый! https://t.co/v0C68HwnGQ",
+    "created_at": "Fri Jul 08 13:40:06 +0000 2022",
+    "id": 1545402346095665200,
+    "id_str": "1545402346095665152",
+    "text": "@LedyMerilin Тоже отличный вариант! У меня она заметнее всего похудела именно когда стала много двигаться \n\nНос какой бархатный 🖤",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1545371220740378600,
-          "id_str": "1545371220740378627",
+          "screen_name": "LedyMerilin",
+          "name": "подкидыш-поленце",
+          "id": 507689577,
+          "id_str": "507689577",
           "indices": [
-            74,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/FXJC8AJXkAMOH6m.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXJC8AJXkAMOH6m.jpg",
-          "url": "https://t.co/v0C68HwnGQ",
-          "display_url": "pic.twitter.com/v0C68HwnGQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1545371332464021506/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            0,
+            12
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1545371220740378600,
-          "id_str": "1545371220740378627",
-          "indices": [
-            74,
-            97
-          ],
-          "media_url": "http://pbs.twimg.com/media/FXJC8AJXkAMOH6m.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXJC8AJXkAMOH6m.jpg",
-          "url": "https://t.co/v0C68HwnGQ",
-          "display_url": "pic.twitter.com/v0C68HwnGQ",
-          "expanded_url": "https://twitter.com/catunderhood/status/1545371332464021506/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1545401058230521900,
+    "in_reply_to_status_id_str": "1545401058230521858",
+    "in_reply_to_user_id": 507689577,
+    "in_reply_to_user_id_str": "507689577",
+    "in_reply_to_screen_name": "LedyMerilin",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 163,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
