@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12472,
+  "followers_count": 12474,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,114 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28705,
+  "statuses_count": 28707,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 08 09:18:25 +0000 2022",
-    "id": 1545336491626430500,
-    "id_str": "1545336491626430466",
-    "text": "Это мем про мою кошку! https://t.co/JMLPxYFKHh",
+    "created_at": "Fri Jul 08 09:28:59 +0000 2022",
+    "id": 1545339153533083600,
+    "id_str": "1545339153533083648",
+    "text": "@FairPhoenix самое место!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1545336376526266400,
-          "id_str": "1545336376526266369",
+          "screen_name": "FairPhoenix",
+          "name": "Phoenix 001 🇩🇪🤍💙🤍",
+          "id": 535544308,
+          "id_str": "535544308",
           "indices": [
-            23,
-            46
-          ],
-          "media_url": "http://pbs.twimg.com/media/FXIjPzVWYAE0WfD.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXIjPzVWYAE0WfD.jpg",
-          "url": "https://t.co/JMLPxYFKHh",
-          "display_url": "pic.twitter.com/JMLPxYFKHh",
-          "expanded_url": "https://twitter.com/catunderhood/status/1545336491626430466/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 973,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 551,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1038,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            0,
+            12
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1545336376526266400,
-          "id_str": "1545336376526266369",
-          "indices": [
-            23,
-            46
-          ],
-          "media_url": "http://pbs.twimg.com/media/FXIjPzVWYAE0WfD.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXIjPzVWYAE0WfD.jpg",
-          "url": "https://t.co/JMLPxYFKHh",
-          "display_url": "pic.twitter.com/JMLPxYFKHh",
-          "expanded_url": "https://twitter.com/catunderhood/status/1545336491626430466/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 973,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 551,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1038,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1545334983761531000,
-    "in_reply_to_status_id_str": "1545334983761530880",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1545335219238084600,
+    "in_reply_to_status_id_str": "1545335219238084608",
+    "in_reply_to_user_id": 535544308,
+    "in_reply_to_user_id_str": "535544308",
+    "in_reply_to_screen_name": "FairPhoenix",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 32,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
