@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28765,
+  "statuses_count": 28766,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 10 13:17:17 +0000 2022",
-    "id": 1546121382991478800,
-    "id_str": "1546121382991478784",
-    "text": "Рыбов не отдаём! Только показываем https://t.co/4BeaC2aoPx",
+    "created_at": "Sun Jul 10 13:58:45 +0000 2022",
+    "id": 1546131814619684900,
+    "id_str": "1546131814619684864",
+    "text": "И ещё раз — Сева ОЧЕНЬ мемный кот! https://t.co/TxOe55Swa5",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1546121289995358200,
-          "id_str": "1546121289995358209",
+          "id": 1546131693307920400,
+          "id_str": "1546131693307920386",
           "indices": [
             35,
             58
           ],
-          "media_url": "http://pbs.twimg.com/media/FXTtHx3XkAEwECY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXTtHx3XkAEwECY.jpg",
-          "url": "https://t.co/4BeaC2aoPx",
-          "display_url": "pic.twitter.com/4BeaC2aoPx",
-          "expanded_url": "https://twitter.com/catunderhood/status/1546121382991478784/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FXT2lVOXgAIGH3o.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXT2lVOXgAIGH3o.jpg",
+          "url": "https://t.co/TxOe55Swa5",
+          "display_url": "pic.twitter.com/TxOe55Swa5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1546131814619684864/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -69,17 +69,17 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1536,
-              "h": 2048,
+              "w": 828,
+              "h": 1477,
               "resize": "fit"
             },
             "medium": {
-              "w": 900,
+              "w": 673,
               "h": 1200,
               "resize": "fit"
             },
             "small": {
-              "w": 510,
+              "w": 381,
               "h": 680,
               "resize": "fit"
             }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1546121289995358200,
-          "id_str": "1546121289995358209",
+          "id": 1546131693307920400,
+          "id_str": "1546131693307920386",
           "indices": [
             35,
             58
           ],
-          "media_url": "http://pbs.twimg.com/media/FXTtHx3XkAEwECY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FXTtHx3XkAEwECY.jpg",
-          "url": "https://t.co/4BeaC2aoPx",
-          "display_url": "pic.twitter.com/4BeaC2aoPx",
-          "expanded_url": "https://twitter.com/catunderhood/status/1546121382991478784/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FXT2lVOXgAIGH3o.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXT2lVOXgAIGH3o.jpg",
+          "url": "https://t.co/TxOe55Swa5",
+          "display_url": "pic.twitter.com/TxOe55Swa5",
+          "expanded_url": "https://twitter.com/catunderhood/status/1546131814619684864/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -109,17 +109,17 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1536,
-              "h": 2048,
+              "w": 828,
+              "h": 1477,
               "resize": "fit"
             },
             "medium": {
-              "w": 900,
+              "w": 673,
               "h": 1200,
               "resize": "fit"
             },
             "small": {
-              "w": 510,
+              "w": 381,
               "h": 680,
               "resize": "fit"
             }
@@ -138,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 44,
+    "retweet_count": 1,
+    "favorite_count": 79,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
