@@ -26,56 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 12500,
+  "followers_count": 12499,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11046,
+  "favourites_count": 11052,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28803,
+  "statuses_count": 28812,
   "lang": null,
   "status": {
-    "created_at": "Mon Jul 11 17:02:05 +0000 2022",
-    "id": 1546540341087584300,
-    "id_str": "1546540341087584256",
-    "text": "Когда Симба была крохой и помещалась на моем плече, любимым занятием было сидеть и смотреть в монитор - а то вдруг… https://t.co/TB22NVdz4C",
-    "truncated": true,
+    "created_at": "Tue Jul 12 12:24:44 +0000 2022",
+    "id": 1546832932647698400,
+    "id_str": "1546832932647698432",
+    "text": "@IrmaLevinsky 😍😍😍😍",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/TB22NVdz4C",
-          "expanded_url": "https://twitter.com/i/web/status/1546540341087584256",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "IrmaLevinsky",
+          "name": "🌈Levinsky 🇮🇱🇫🇷 ❌",
+          "id": 3065888685,
+          "id_str": "3065888685",
           "indices": [
-            116,
-            139
+            0,
+            13
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1546832116452827100,
+    "in_reply_to_status_id_str": "1546832116452827136",
+    "in_reply_to_user_id": 3065888685,
+    "in_reply_to_user_id_str": "3065888685",
+    "in_reply_to_screen_name": "IrmaLevinsky",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 13,
-    "favorite_count": 672,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
