@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12502,
+  "followers_count": 12503,
   "friends_count": 42,
   "listed_count": 37,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28814,
+  "statuses_count": 28815,
   "lang": null,
   "status": {
-    "created_at": "Tue Jul 12 17:41:45 +0000 2022",
-    "id": 1546912712671858700,
-    "id_str": "1546912712671858694",
-    "text": "Симба очень любит свою  картонную когтеточку, особенно, если в нее засыпать кошачью мяту. Но иногда бедное компьюте… https://t.co/ZsyF5BQD00",
-    "truncated": true,
+    "created_at": "Tue Jul 12 21:34:31 +0000 2022",
+    "id": 1546971289897894000,
+    "id_str": "1546971289897893890",
+    "text": "Когда прижимает ушки назад, Китти напоминает мне Беззубика из Как приручить дракона https://t.co/7tFYznjLI0",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/ZsyF5BQD00",
-          "expanded_url": "https://twitter.com/i/web/status/1546912712671858694",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1546971045973852200,
+          "id_str": "1546971045973852160",
           "indices": [
-            117,
-            140
-          ]
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXfx-FkWAAA2gDt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXfx-FkWAAA2gDt.jpg",
+          "url": "https://t.co/7tFYznjLI0",
+          "display_url": "pic.twitter.com/7tFYznjLI0",
+          "expanded_url": "https://twitter.com/catunderhood/status/1546971289897893890/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1546971045973852200,
+          "id_str": "1546971045973852160",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXfx-FkWAAA2gDt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXfx-FkWAAA2gDt.jpg",
+          "url": "https://t.co/7tFYznjLI0",
+          "display_url": "pic.twitter.com/7tFYznjLI0",
+          "expanded_url": "https://twitter.com/catunderhood/status/1546971289897893890/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 165,
+    "retweet_count": 1,
+    "favorite_count": 48,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
