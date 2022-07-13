@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28818,
+  "statuses_count": 28826,
   "lang": null,
   "status": {
-    "created_at": "Wed Jul 13 11:34:45 +0000 2022",
-    "id": 1547182743225876500,
-    "id_str": "1547182743225876480",
-    "text": "Очень часто Симба корчит мордочки, которые попадают в объектив камеры и становятся локально-мемными в переписках с… https://t.co/JtjNW2mLM7",
-    "truncated": true,
+    "created_at": "Wed Jul 13 15:17:58 +0000 2022",
+    "id": 1547238914137661400,
+    "id_str": "1547238914137661440",
+    "text": "Упорные попытки вместиться в корзинку https://t.co/RRKHB5BAew",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/JtjNW2mLM7",
-          "expanded_url": "https://twitter.com/i/web/status/1547182743225876480",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1547238846311665700,
+          "id_str": "1547238846311665664",
           "indices": [
-            116,
-            139
-          ]
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXjliHkXkAADlmh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXjliHkXkAADlmh.jpg",
+          "url": "https://t.co/RRKHB5BAew",
+          "display_url": "pic.twitter.com/RRKHB5BAew",
+          "expanded_url": "https://twitter.com/catunderhood/status/1547238914137661440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1547238846311665700,
+          "id_str": "1547238846311665664",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXjliHkXkAADlmh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXjliHkXkAADlmh.jpg",
+          "url": "https://t.co/RRKHB5BAew",
+          "display_url": "pic.twitter.com/RRKHB5BAew",
+          "expanded_url": "https://twitter.com/catunderhood/status/1547238914137661440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 184,
+    "retweet_count": 1,
+    "favorite_count": 41,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
