@@ -35,27 +35,95 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28858,
+  "statuses_count": 28860,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 16 18:20:00 +0000 2022",
-    "id": 1548371888367440000,
-    "id_str": "1548371888367439873",
-    "text": "С тех пор, как корзинка стала мала, любимым местом Симбы, несомненно, стала постель. Иногда мне кажется, что это уж… https://t.co/drCD4t8Xnf",
-    "truncated": true,
+    "created_at": "Sat Jul 16 19:14:00 +0000 2022",
+    "id": 1548385477975314400,
+    "id_str": "1548385477975314432",
+    "text": "Действительно, зачем смотреть фильм, если можно смотреть на кошку? https://t.co/IGVCqJ6DUa",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/drCD4t8Xnf",
-          "expanded_url": "https://twitter.com/i/web/status/1548371888367439873",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1548350435202715600,
+          "id_str": "1548350435202715651",
           "indices": [
-            117,
-            140
-          ]
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXzYhG4UUAMuOqs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXzYhG4UUAMuOqs.jpg",
+          "url": "https://t.co/IGVCqJ6DUa",
+          "display_url": "pic.twitter.com/IGVCqJ6DUa",
+          "expanded_url": "https://twitter.com/catunderhood/status/1548385477975314432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 683,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1548350435202715600,
+          "id_str": "1548350435202715651",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXzYhG4UUAMuOqs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXzYhG4UUAMuOqs.jpg",
+          "url": "https://t.co/IGVCqJ6DUa",
+          "display_url": "pic.twitter.com/IGVCqJ6DUa",
+          "expanded_url": "https://twitter.com/catunderhood/status/1548385477975314432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 683,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 21,
+    "retweet_count": 1,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
