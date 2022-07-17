@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28884,
+  "statuses_count": 28890,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 17 16:45:00 +0000 2022",
-    "id": 1548710368679272400,
-    "id_str": "1548710368679272455",
-    "text": "А это Симба как раз через некоторое время после стерилизации :с еще с голым пузиком, грустит https://t.co/3QouSEfSBv",
-    "truncated": false,
+    "created_at": "Sun Jul 17 19:20:00 +0000 2022",
+    "id": 1548749376402571300,
+    "id_str": "1548749376402571264",
+    "text": "Королевна лежит в ею же испорченном компьютерном кресле. Но оно уже было старое и его итак нужно было менять, она п… https://t.co/haGCE9ZbWa",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1548676117544018000,
-          "id_str": "1548676117544017921",
+          "url": "https://t.co/haGCE9ZbWa",
+          "expanded_url": "https://twitter.com/i/web/status/1548749376402571264",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FX4AuUJXoAE-jSP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FX4AuUJXoAE-jSP.jpg",
-          "url": "https://t.co/3QouSEfSBv",
-          "display_url": "pic.twitter.com/3QouSEfSBv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1548710368679272455/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1548676117544018000,
-          "id_str": "1548676117544017921",
-          "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/FX4AuUJXoAE-jSP.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FX4AuUJXoAE-jSP.jpg",
-          "url": "https://t.co/3QouSEfSBv",
-          "display_url": "pic.twitter.com/3QouSEfSBv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1548710368679272455/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 91,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
