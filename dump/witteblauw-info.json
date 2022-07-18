@@ -35,19 +35,29 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28916,
+  "statuses_count": 28917,
   "lang": null,
   "status": {
-    "created_at": "Mon Jul 18 08:27:14 +0000 2022",
-    "id": 1548947491860750300,
-    "id_str": "1548947491860750336",
-    "text": "Веня понял, что его любят и стал подходить ко мне только, чтобы сделать кусь или ныл, что хочет кущоц",
-    "truncated": false,
+    "created_at": "Mon Jul 18 08:34:10 +0000 2022",
+    "id": 1548949236175327200,
+    "id_str": "1548949236175327233",
+    "text": "Шок контент был, когда Веня увидел себя в зеркале и охреневал от знакомства с собой. С другой стороны, а кто не охр… https://t.co/SCCCnDgSBT",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/SCCCnDgSBT",
+          "expanded_url": "https://twitter.com/i/web/status/1548949236175327233",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": 1548946811016155100,
@@ -60,10 +70,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 7,
+    "retweet_count": 1,
+    "favorite_count": 50,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
