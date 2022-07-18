@@ -1,10 +1,5 @@
 export default [
   {
-    "username": "KotZigo-2",
-    "start": "18 July 2022",
-    "post": false
-  },
-  {
     "username": "Adeshhka",
     "start": "11 July 2022",
     "post": true,
