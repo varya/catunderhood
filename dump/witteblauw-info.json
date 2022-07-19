@@ -35,46 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28924,
+  "statuses_count": 28925,
   "lang": null,
   "status": {
-    "created_at": "Mon Jul 18 14:18:00 +0000 2022",
-    "id": 1549035766101119000,
-    "id_str": "1549035766101118976",
-    "text": "@petrograd_ka до этого вывозить животных было просто. сейчас я читала только что вакцины заканчиваются для выезда за границу",
-    "truncated": false,
+    "created_at": "Tue Jul 19 07:14:00 +0000 2022",
+    "id": 1549291447513272300,
+    "id_str": "1549291447513272320",
+    "text": "Веня мог бы в своем резюме написать \"стрессоустойчивый\". Через месяц после переезда он переехал к моей подруге на п… https://t.co/bfeCmlYhTo",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "petrograd_ka",
-          "name": "ЗloiTrener",
-          "id": 3107269732,
-          "id_str": "3107269732",
+          "url": "https://t.co/bfeCmlYhTo",
+          "expanded_url": "https://twitter.com/i/web/status/1549291447513272320",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            13
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1548992111642648600,
-    "in_reply_to_status_id_str": "1548992111642648576",
-    "in_reply_to_user_id": 3107269732,
-    "in_reply_to_user_id_str": "3107269732",
-    "in_reply_to_screen_name": "petrograd_ka",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 11,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
