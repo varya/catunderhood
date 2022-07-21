@@ -30,32 +30,100 @@
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8314,
+  "favourites_count": 11153,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28963,
+  "statuses_count": 28967,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 21 16:25:03 +0000 2022",
-    "id": 1550154902676045800,
-    "id_str": "1550154902676045829",
-    "text": "Когда я завела Веню, я думала, что животные учат любви. В случае с котами, они учат безусловной любви к себе. Они н… https://t.co/8HPvj92VJL",
-    "truncated": true,
+    "created_at": "Thu Jul 21 19:08:53 +0000 2022",
+    "id": 1550196128783765500,
+    "id_str": "1550196128783765504",
+    "text": "Что такое быть котом? Только неправильные ответы от ваших котиков https://t.co/4tE8bEo5bB",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/8HPvj92VJL",
-          "expanded_url": "https://twitter.com/i/web/status/1550154902676045829",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1550196093757145000,
+          "id_str": "1550196093757145088",
           "indices": [
-            117,
-            140
-          ]
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/FYNnIkyXwAAQXSX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYNnIkyXwAAQXSX.jpg",
+          "url": "https://t.co/4tE8bEo5bB",
+          "display_url": "pic.twitter.com/4tE8bEo5bB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550196128783765504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 854,
+              "h": 912,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 854,
+              "h": 912,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 637,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1550196093757145000,
+          "id_str": "1550196093757145088",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/FYNnIkyXwAAQXSX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYNnIkyXwAAQXSX.jpg",
+          "url": "https://t.co/4tE8bEo5bB",
+          "display_url": "pic.twitter.com/4tE8bEo5bB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550196128783765504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 854,
+              "h": 912,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 854,
+              "h": 912,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 637,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 20,
-    "favorite_count": 318,
+    "retweet_count": 1,
+    "favorite_count": 35,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
