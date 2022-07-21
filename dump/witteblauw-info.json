@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28961,
+  "statuses_count": 28962,
   "lang": null,
   "status": {
-    "created_at": "Thu Jul 21 12:35:32 +0000 2022",
-    "id": 1550097142739619800,
-    "id_str": "1550097142739619840",
-    "text": "вайб недовольства https://t.co/7E1nUOBcuE",
+    "created_at": "Thu Jul 21 13:36:12 +0000 2022",
+    "id": 1550112408424763400,
+    "id_str": "1550112408424763396",
+    "text": "один раз веня подключился к рабочей встрече. хотя зачем я обманываю, не один https://t.co/Ic2RAT01ft",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1550097071679701000,
-          "id_str": "1550097071679700994",
+          "id": 1550111812514746400,
+          "id_str": "1550111812514746368",
           "indices": [
-            18,
-            41
+            77,
+            100
           ],
-          "media_url": "http://pbs.twimg.com/media/FYMNEuzXgAIxJ7H.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYMNEuzXgAIxJ7H.jpg",
-          "url": "https://t.co/7E1nUOBcuE",
-          "display_url": "pic.twitter.com/7E1nUOBcuE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1550097142739619840/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FYMaewsUEAADZIf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYMaewsUEAADZIf.jpg",
+          "url": "https://t.co/Ic2RAT01ft",
+          "display_url": "pic.twitter.com/Ic2RAT01ft",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550112408424763396/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -68,19 +68,19 @@
               "h": 150,
               "resize": "crop"
             },
-            "small": {
-              "w": 680,
-              "h": 641,
+            "large": {
+              "w": 1125,
+              "h": 1125,
               "resize": "fit"
             },
-            "large": {
-              "w": 817,
-              "h": 770,
+            "small": {
+              "w": 680,
+              "h": 680,
               "resize": "fit"
             },
             "medium": {
-              "w": 817,
-              "h": 770,
+              "w": 1125,
+              "h": 1125,
               "resize": "fit"
             }
           }
@@ -90,17 +90,17 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1550097071679701000,
-          "id_str": "1550097071679700994",
+          "id": 1550111812514746400,
+          "id_str": "1550111812514746368",
           "indices": [
-            18,
-            41
+            77,
+            100
           ],
-          "media_url": "http://pbs.twimg.com/media/FYMNEuzXgAIxJ7H.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYMNEuzXgAIxJ7H.jpg",
-          "url": "https://t.co/7E1nUOBcuE",
-          "display_url": "pic.twitter.com/7E1nUOBcuE",
-          "expanded_url": "https://twitter.com/catunderhood/status/1550097142739619840/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FYMaewsUEAADZIf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYMaewsUEAADZIf.jpg",
+          "url": "https://t.co/Ic2RAT01ft",
+          "display_url": "pic.twitter.com/Ic2RAT01ft",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550112408424763396/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -108,19 +108,19 @@
               "h": 150,
               "resize": "crop"
             },
-            "small": {
-              "w": 680,
-              "h": 641,
+            "large": {
+              "w": 1125,
+              "h": 1125,
               "resize": "fit"
             },
-            "large": {
-              "w": 817,
-              "h": 770,
+            "small": {
+              "w": 680,
+              "h": 680,
               "resize": "fit"
             },
             "medium": {
-              "w": 817,
-              "h": 770,
+              "w": 1125,
+              "h": 1125,
               "resize": "fit"
             }
           }
