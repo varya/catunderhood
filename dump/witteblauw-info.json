@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12586,
+  "followers_count": 12587,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28983,
+  "statuses_count": 28986,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 22 10:45:27 +0000 2022",
-    "id": 1550431827466371000,
-    "id_str": "1550431827466371072",
-    "text": "Из Вени бы получился отличный менеджер: https://t.co/Yj4tkE3LIw",
+    "created_at": "Fri Jul 22 12:19:25 +0000 2022",
+    "id": 1550455475090735000,
+    "id_str": "1550455475090735104",
+    "text": "Веня как бы намекает, что это ЕГО парень https://t.co/nvWt083x4F",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,19 +50,24 @@
       "urls": [],
       "media": [
         {
-          "id": 1550431820310773800,
-          "id_str": "1550431820310773760",
+          "id": 1550455410863267800,
+          "id_str": "1550455410863267846",
           "indices": [
-            40,
-            63
+            41,
+            64
           ],
-          "media_url": "http://pbs.twimg.com/media/FYQ9hqoWAAAfMAO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYQ9hqoWAAAfMAO.jpg",
-          "url": "https://t.co/Yj4tkE3LIw",
-          "display_url": "pic.twitter.com/Yj4tkE3LIw",
-          "expanded_url": "https://twitter.com/catunderhood/status/1550431827466371072/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FYRS-0SWYAYnkdN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYRS-0SWYAYnkdN.jpg",
+          "url": "https://t.co/nvWt083x4F",
+          "display_url": "pic.twitter.com/nvWt083x4F",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550455475090735104/photo/1",
           "type": "photo",
           "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -76,11 +81,6 @@
             "large": {
               "w": 960,
               "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
               "resize": "fit"
             }
           }
@@ -90,19 +90,24 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1550431820310773800,
-          "id_str": "1550431820310773760",
+          "id": 1550455410863267800,
+          "id_str": "1550455410863267846",
           "indices": [
-            40,
-            63
+            41,
+            64
           ],
-          "media_url": "http://pbs.twimg.com/media/FYQ9hqoWAAAfMAO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYQ9hqoWAAAfMAO.jpg",
-          "url": "https://t.co/Yj4tkE3LIw",
-          "display_url": "pic.twitter.com/Yj4tkE3LIw",
-          "expanded_url": "https://twitter.com/catunderhood/status/1550431827466371072/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FYRS-0SWYAYnkdN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYRS-0SWYAYnkdN.jpg",
+          "url": "https://t.co/nvWt083x4F",
+          "display_url": "pic.twitter.com/nvWt083x4F",
+          "expanded_url": "https://twitter.com/catunderhood/status/1550455475090735104/photo/1",
           "type": "photo",
           "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
@@ -116,11 +121,6 @@
             "large": {
               "w": 960,
               "h": 1280,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
               "resize": "fit"
             }
           }
@@ -138,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 58,
+    "retweet_count": 1,
+    "favorite_count": 76,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
