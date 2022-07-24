@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 12591,
+  "followers_count": 12590,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11154,
+  "favourites_count": 8319,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28991,
+  "statuses_count": 29001,
   "lang": null,
   "status": {
-    "created_at": "Sat Jul 23 17:36:13 +0000 2022",
-    "id": 1550897584985833500,
-    "id_str": "1550897584985833476",
-    "text": "Веня очень любят когда его вычёсывают. Летом он лезет в два раза больше и у меня аллергия. Из приятного - кот в экс… https://t.co/czMEtKQfb7",
-    "truncated": true,
+    "created_at": "Sun Jul 24 12:01:49 +0000 2022",
+    "id": 1551175820974198800,
+    "id_str": "1551175820974198784",
+    "text": "Вы арестованы за свою невозможную красоту! https://t.co/yyKFgzY2dB",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/czMEtKQfb7",
-          "expanded_url": "https://twitter.com/i/web/status/1550897584985833476",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1551175722441609200,
+          "id_str": "1551175722441609217",
           "indices": [
-            117,
-            140
-          ]
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/FYbiGeBXkAEFlUY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYbiGeBXkAEFlUY.jpg",
+          "url": "https://t.co/yyKFgzY2dB",
+          "display_url": "pic.twitter.com/yyKFgzY2dB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1551175820974198784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1551175722441609200,
+          "id_str": "1551175722441609217",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/FYbiGeBXkAEFlUY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FYbiGeBXkAEFlUY.jpg",
+          "url": "https://t.co/yyKFgzY2dB",
+          "display_url": "pic.twitter.com/yyKFgzY2dB",
+          "expanded_url": "https://twitter.com/catunderhood/status/1551175820974198784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 533,
+    "retweet_count": 0,
+    "favorite_count": 138,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
