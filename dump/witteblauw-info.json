@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12593,
+  "followers_count": 12594,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8342,
+  "favourites_count": 8351,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29010,
+  "statuses_count": 29013,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 24 16:51:45 +0000 2022",
-    "id": 1551248784159547400,
-    "id_str": "1551248784159547399",
-    "text": "@VladVoice проблема именно в шерсти и что она потом в глазах и во рту(",
-    "truncated": false,
+    "created_at": "Sun Jul 24 19:01:33 +0000 2022",
+    "id": 1551281447591362600,
+    "id_str": "1551281447591362563",
+    "text": "Друзья, спасибо за компанию! За эту неделю я полюбила Веню ещё больше ❤️ хотя казалось бы куда больше. Подписывайте… https://t.co/0UNNVZoHTu",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "VladVoice",
-          "name": "Котограф 💙💛",
-          "id": 1047935491,
-          "id_str": "1047935491",
+          "url": "https://t.co/0UNNVZoHTu",
+          "expanded_url": "https://twitter.com/i/web/status/1551281447591362563",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            10
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1551237987123581000,
-    "in_reply_to_status_id_str": "1551237987123580929",
-    "in_reply_to_user_id": 1047935491,
-    "in_reply_to_user_id_str": "1047935491",
-    "in_reply_to_screen_name": "VladVoice",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 62,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
