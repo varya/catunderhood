@@ -41,12 +41,6 @@ export default [
     "last": "1536060682419970051"
   },
   {
-    "username": "astaneasta",
-    "start": "30 May 2022",
-    "post": true,
-    "last": "1533407943768559617"
-  },
-  {
     "username": "sran_gospodnja",
     "start": "23 May 2022",
     "post": true,
