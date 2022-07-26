@@ -30,100 +30,32 @@
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11187,
+  "favourites_count": 8351,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29020,
+  "statuses_count": 29022,
   "lang": null,
   "status": {
-    "created_at": "Tue Jul 26 08:16:52 +0000 2022",
-    "id": 1551843984057794600,
-    "id_str": "1551843984057794560",
-    "text": "Всем доброе утро!\n\nТолько посмотрите на эту роскошь усов и мехов и плоскость морды😻 https://t.co/TrLKtuyMU1",
-    "truncated": false,
+    "created_at": "Tue Jul 26 08:44:53 +0000 2022",
+    "id": 1551851034707988500,
+    "id_str": "1551851034707988480",
+    "text": "Примечательно, что мочекаменная болезнь - не редкость для котов персидской породы. Мы столкнулись с этим в 2017 год… https://t.co/p7wIotDZ2j",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1551843801093873700,
-          "id_str": "1551843801093873664",
+          "url": "https://t.co/p7wIotDZ2j",
+          "expanded_url": "https://twitter.com/i/web/status/1551851034707988480",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            84,
-            107
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYlBtw8XoAAIJo1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYlBtw8XoAAIJo1.jpg",
-          "url": "https://t.co/TrLKtuyMU1",
-          "display_url": "pic.twitter.com/TrLKtuyMU1",
-          "expanded_url": "https://twitter.com/catunderhood/status/1551843984057794560/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1551843801093873700,
-          "id_str": "1551843801093873664",
-          "indices": [
-            84,
-            107
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYlBtw8XoAAIJo1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYlBtw8XoAAIJo1.jpg",
-          "url": "https://t.co/TrLKtuyMU1",
-          "display_url": "pic.twitter.com/TrLKtuyMU1",
-          "expanded_url": "https://twitter.com/catunderhood/status/1551843984057794560/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 53,
+    "retweet_count": 0,
+    "favorite_count": 45,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
