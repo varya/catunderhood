@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12620,
+  "followers_count": 12622,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8350,
+  "favourites_count": 11186,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29030,
+  "statuses_count": 29031,
   "lang": null,
   "status": {
-    "created_at": "Wed Jul 27 11:10:06 +0000 2022",
-    "id": 1552249967573622800,
-    "id_str": "1552249967573622785",
-    "text": "…а сейчас мистер Кабанчик❤️ https://t.co/NvHQMAJAGu",
-    "truncated": false,
+    "created_at": "Wed Jul 27 11:25:13 +0000 2022",
+    "id": 1552253770951803000,
+    "id_str": "1552253770951802881",
+    "text": "Кстати, кто не заметил, Даймондом его зовут не просто так. Обратите внимание на эти глазки!\n\nВидели когда-нибудь пе… https://t.co/R2zwbug3vd",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1552249873831010300,
-          "id_str": "1552249873831010306",
+          "url": "https://t.co/R2zwbug3vd",
+          "expanded_url": "https://twitter.com/i/web/status/1552253770951802881",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            28,
-            51
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYqzCTxXoAIq_Rt.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYqzCTxXoAIq_Rt.jpg",
-          "url": "https://t.co/NvHQMAJAGu",
-          "display_url": "pic.twitter.com/NvHQMAJAGu",
-          "expanded_url": "https://twitter.com/catunderhood/status/1552249967573622785/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1552249873831010300,
-          "id_str": "1552249873831010306",
-          "indices": [
-            28,
-            51
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYqzCTxXoAIq_Rt.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYqzCTxXoAIq_Rt.jpg",
-          "url": "https://t.co/NvHQMAJAGu",
-          "display_url": "pic.twitter.com/NvHQMAJAGu",
-          "expanded_url": "https://twitter.com/catunderhood/status/1552249967573622785/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -139,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 37,
+    "favorite_count": 96,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
