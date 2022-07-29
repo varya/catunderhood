@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12622,
+  "followers_count": 12621,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11185,
+  "favourites_count": 8349,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29036,
+  "statuses_count": 29037,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 29 04:44:43 +0000 2022",
-    "id": 1552877760930095000,
-    "id_str": "1552877760930095104",
-    "text": "«Звони в любое время…буду рад увидеть твой пропущенный» https://t.co/4ZYG6gUIv8",
-    "truncated": false,
+    "created_at": "Fri Jul 29 10:26:42 +0000 2022",
+    "id": 1552963822167724000,
+    "id_str": "1552963822167724035",
+    "text": "Даймонд просто обожает пакеты. Грызть пластик? За милую душу!\nИ ведь не отучишь, зараза.\n\nКто сталкивался с таким?… https://t.co/V4d0M0IfJR",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1552877722719977500,
-          "id_str": "1552877722719977478",
+          "url": "https://t.co/V4d0M0IfJR",
+          "expanded_url": "https://twitter.com/i/web/status/1552963822167724035",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            56,
-            79
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYzuD7JXgAYmTQT.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYzuD7JXgAYmTQT.jpg",
-          "url": "https://t.co/4ZYG6gUIv8",
-          "display_url": "pic.twitter.com/4ZYG6gUIv8",
-          "expanded_url": "https://twitter.com/catunderhood/status/1552877760930095104/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1552877722719977500,
-          "id_str": "1552877722719977478",
-          "indices": [
-            56,
-            79
-          ],
-          "media_url": "http://pbs.twimg.com/media/FYzuD7JXgAYmTQT.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FYzuD7JXgAYmTQT.jpg",
-          "url": "https://t.co/4ZYG6gUIv8",
-          "display_url": "pic.twitter.com/4ZYG6gUIv8",
-          "expanded_url": "https://twitter.com/catunderhood/status/1552877760930095104/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 210,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
