@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12623,
+  "followers_count": 12621,
   "friends_count": 43,
   "listed_count": 38,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29038,
+  "statuses_count": 29039,
   "lang": null,
   "status": {
-    "created_at": "Fri Jul 29 19:47:39 +0000 2022",
-    "id": 1553104991040184300,
-    "id_str": "1553104991040184320",
-    "text": "Происходит мытьё https://t.co/VPUnmSefxP",
-    "truncated": false,
+    "created_at": "Fri Jul 29 20:57:57 +0000 2022",
+    "id": 1553122682379665400,
+    "id_str": "1553122682379665409",
+    "text": "Фото из архива.\n\nБедняга Даймос страдает в ошейнике, чтобы не разлизывать раны от катетеризации.\n\nЧто влечёт за соб… https://t.co/urSUxsBn9M",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1553104887176745000,
-          "id_str": "1553104887176744961",
+          "url": "https://t.co/urSUxsBn9M",
+          "expanded_url": "https://twitter.com/i/web/status/1553122682379665409",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            17,
-            40
-          ],
-          "media_url": "http://pbs.twimg.com/media/FY28qosX0AEptU1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FY28qosX0AEptU1.jpg",
-          "url": "https://t.co/VPUnmSefxP",
-          "display_url": "pic.twitter.com/VPUnmSefxP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1553104991040184320/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1553104887176745000,
-          "id_str": "1553104887176744961",
-          "indices": [
-            17,
-            40
-          ],
-          "media_url": "http://pbs.twimg.com/media/FY28qosX0AEptU1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FY28qosX0AEptU1.jpg",
-          "url": "https://t.co/VPUnmSefxP",
-          "display_url": "pic.twitter.com/VPUnmSefxP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1553104991040184320/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -139,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 78,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
