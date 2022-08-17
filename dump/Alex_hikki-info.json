@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12617,
+  "followers_count": 12616,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29067,
+  "statuses_count": 29073,
   "lang": null,
   "status": {
-    "created_at": "Wed Aug 17 11:09:50 +0000 2022",
-    "id": 1559860047978668000,
-    "id_str": "1559860047978668033",
-    "text": "Как оказалось, на этом ее несчастья не закончились. Через пару дней у взрослой кошки тоже начали слезиться глаза и… https://t.co/CEQwGK2Eqm",
+    "created_at": "Wed Aug 17 16:14:57 +0000 2022",
+    "id": 1559936830081990700,
+    "id_str": "1559936830081990661",
+    "text": "ЕСТЕСТВЕННО, полным именем ее никто в итоге называть не стал, и она превратилась в банальную Снежку.\nСейчас ее такж… https://t.co/nBvOdY3HTv",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,19 +49,19 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/CEQwGK2Eqm",
-          "expanded_url": "https://twitter.com/i/web/status/1559860047978668033",
+          "url": "https://t.co/nBvOdY3HTv",
+          "expanded_url": "https://twitter.com/i/web/status/1559936830081990661",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1559853118057324500,
-    "in_reply_to_status_id_str": "1559853118057324545",
+    "in_reply_to_status_id": 1559936131747266600,
+    "in_reply_to_status_id_str": "1559936131747266564",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 33,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
