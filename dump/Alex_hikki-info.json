@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12610,
+  "followers_count": 12609,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8342,
+  "favourites_count": 11178,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29081,
+  "statuses_count": 29082,
   "lang": null,
   "status": {
-    "created_at": "Thu Aug 18 17:39:27 +0000 2022",
-    "id": 1560320484880810000,
-    "id_str": "1560320484880809986",
-    "text": "А покидайте всратых фоток своих котов в реплаи что ли https://t.co/7HlGPfGKLS",
-    "truncated": false,
+    "created_at": "Fri Aug 19 11:16:52 +0000 2022",
+    "id": 1560586591789322200,
+    "id_str": "1560586591789322240",
+    "text": "Сегодня пока без картинок, потому что с телефона твитдек почему-то не дает мне фотки прикрепить 😐\nПосле того, как С… https://t.co/ixVosrtXP9",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1560320354798784500,
-          "id_str": "1560320354798784512",
+          "url": "https://t.co/ixVosrtXP9",
+          "expanded_url": "https://twitter.com/i/web/status/1560586591789322240",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            54,
-            77
-          ],
-          "media_url": "http://pbs.twimg.com/media/FadfGIOX0AAQPxF.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FadfGIOX0AAQPxF.jpg",
-          "url": "https://t.co/7HlGPfGKLS",
-          "display_url": "pic.twitter.com/7HlGPfGKLS",
-          "expanded_url": "https://twitter.com/catunderhood/status/1560320484880809986/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1560320354798784500,
-          "id_str": "1560320354798784512",
-          "indices": [
-            54,
-            77
-          ],
-          "media_url": "http://pbs.twimg.com/media/FadfGIOX0AAQPxF.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FadfGIOX0AAQPxF.jpg",
-          "url": "https://t.co/7HlGPfGKLS",
-          "display_url": "pic.twitter.com/7HlGPfGKLS",
-          "expanded_url": "https://twitter.com/catunderhood/status/1560320484880809986/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 539,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
