@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12606,
+  "followers_count": 12607,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,23 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29088,
+  "statuses_count": 29091,
   "lang": null,
   "status": {
-    "created_at": "Fri Aug 19 14:59:20 +0000 2022",
-    "id": 1560642576864387000,
-    "id_str": "1560642576864387072",
-    "text": "Если кто-то сталкивался с такой проблемой (именно после стерилизации), расскажите о своем опыте",
-    "truncated": false,
+    "created_at": "Fri Aug 19 19:18:02 +0000 2022",
+    "id": 1560707679957532700,
+    "id_str": "1560707679957532672",
+    "text": "Кстати, по поводу глаза вынесу тоже отдельно, когда она была маленькой, нам сказали, что там ничего от него не оста… https://t.co/Myr2qu9Bm3",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Myr2qu9Bm3",
+          "expanded_url": "https://twitter.com/i/web/status/1560707679957532672",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1560586591789322200,
-    "in_reply_to_status_id_str": "1560586591789322240",
+    "in_reply_to_status_id": 1560705586500608000,
+    "in_reply_to_status_id_str": "1560705586500608000",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -61,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 15,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
