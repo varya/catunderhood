@@ -26,42 +26,110 @@
     }
   },
   "protected": false,
-  "followers_count": 12611,
+  "followers_count": 12608,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8337,
+  "favourites_count": 11173,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29183,
+  "statuses_count": 29188,
   "lang": null,
   "status": {
-    "created_at": "Sun Aug 28 09:23:05 +0000 2022",
-    "id": 1563819446866780200,
-    "id_str": "1563819446866780161",
-    "text": "Что касаемо лотка. Комфортнее всего лоток с бортами, это в нашем случае. Серега раскидывает наполнитель с большим э… https://t.co/eefGzW1ZZz",
-    "truncated": true,
+    "created_at": "Sun Aug 28 09:42:52 +0000 2022",
+    "id": 1563824425253982200,
+    "id_str": "1563824425253982209",
+    "text": "Сын маминой подруги\nДепутат вашего округа\nПросто Сергей, простой помоечный парень https://t.co/0oiJ51iTap",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/eefGzW1ZZz",
-          "expanded_url": "https://twitter.com/i/web/status/1563819446866780161",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1563824140322218000,
+          "id_str": "1563824140322217986",
           "indices": [
-            117,
-            140
-          ]
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbPRxScWIAIVXJF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbPRxScWIAIVXJF.jpg",
+          "url": "https://t.co/0oiJ51iTap",
+          "display_url": "pic.twitter.com/0oiJ51iTap",
+          "expanded_url": "https://twitter.com/catunderhood/status/1563824425253982209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563824140322218000,
+          "id_str": "1563824140322217986",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbPRxScWIAIVXJF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbPRxScWIAIVXJF.jpg",
+          "url": "https://t.co/0oiJ51iTap",
+          "display_url": "pic.twitter.com/0oiJ51iTap",
+          "expanded_url": "https://twitter.com/catunderhood/status/1563824425253982209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1563813141452144600,
-    "in_reply_to_status_id_str": "1563813141452144640",
+    "in_reply_to_status_id": 1563823497067085800,
+    "in_reply_to_status_id_str": "1563823497067085825",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,10 +138,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 91,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
