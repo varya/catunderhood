@@ -1,8 +1,14 @@
 export default [
   {
+    "username": "jkomissarowa",
+    "start": "29 August 2022",
+    "post": false
+  },
+  {
     "username": "shprotofeya",
     "start": "22 August 2022",
-    "post": false
+    "post": true,
+    "last": "1563952144750972929"
   },
   {
     "username": "Alex_hikki",
