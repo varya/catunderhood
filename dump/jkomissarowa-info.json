@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12596,
+  "followers_count": 12595,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,101 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29243,
+  "statuses_count": 29247,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 01 20:20:44 +0000 2022",
-    "id": 1565434501022589000,
-    "id_str": "1565434501022588928",
-    "text": "Молодая мама с дочкой. https://t.co/tbNG8eAiCh",
-    "truncated": false,
+    "created_at": "Thu Sep 01 20:53:14 +0000 2022",
+    "id": 1565442680490016800,
+    "id_str": "1565442680490016770",
+    "text": "Кстати, интересный факт, которым я обычно всех поражаю, но большинство из вас-то наверняка им не удивить - трёхцвет… https://t.co/pqrZ4qUNhX",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1565434424229040000,
-          "id_str": "1565434424229040129",
+          "url": "https://t.co/pqrZ4qUNhX",
+          "expanded_url": "https://twitter.com/i/web/status/1565442680490016770",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            23,
-            46
-          ],
-          "media_url": "http://pbs.twimg.com/media/FbmKUJdXEAE6mIp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FbmKUJdXEAE6mIp.jpg",
-          "url": "https://t.co/tbNG8eAiCh",
-          "display_url": "pic.twitter.com/tbNG8eAiCh",
-          "expanded_url": "https://twitter.com/catunderhood/status/1565434501022588928/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1565434424229040000,
-          "id_str": "1565434424229040129",
-          "indices": [
-            23,
-            46
-          ],
-          "media_url": "http://pbs.twimg.com/media/FbmKUJdXEAE6mIp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FbmKUJdXEAE6mIp.jpg",
-          "url": "https://t.co/tbNG8eAiCh",
-          "display_url": "pic.twitter.com/tbNG8eAiCh",
-          "expanded_url": "https://twitter.com/catunderhood/status/1565434501022588928/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1280,
-              "h": 960,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1565433786715848700,
-    "in_reply_to_status_id_str": "1565433786715848704",
+    "in_reply_to_status_id": 1565441126567485400,
+    "in_reply_to_status_id_str": "1565441126567485441",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -138,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 12,
+    "retweet_count": 1,
+    "favorite_count": 17,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
