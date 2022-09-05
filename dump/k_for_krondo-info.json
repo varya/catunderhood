@@ -35,46 +35,114 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29365,
+  "statuses_count": 29367,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 05 16:24:31 +0000 2022",
-    "id": 1566824607709028400,
-    "id_str": "1566824607709028353",
-    "text": "@AmurKa333 Лобстер голодный, но человеческой едой брезгует! Только холистики, только хардкор",
+    "created_at": "Mon Sep 05 17:05:00 +0000 2022",
+    "id": 1566834795786645500,
+    "id_str": "1566834795786645504",
+    "text": "Тут спросили, как реагирует сосед на нашего кота, однажды мы нашли на двери вот это https://t.co/pvCur08JmK",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "AmurKa333",
-          "name": "Анюта Мурзакова",
-          "id": 1546370352,
-          "id_str": "1546370352",
+          "id": 1566822229685538800,
+          "id_str": "1566822229685538816",
           "indices": [
-            0,
-            10
-          ]
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb54hDqXkAAbSOG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb54hDqXkAAbSOG.jpg",
+          "url": "https://t.co/pvCur08JmK",
+          "display_url": "pic.twitter.com/pvCur08JmK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1566834795786645504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1566822229685538800,
+          "id_str": "1566822229685538816",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb54hDqXkAAbSOG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb54hDqXkAAbSOG.jpg",
+          "url": "https://t.co/pvCur08JmK",
+          "display_url": "pic.twitter.com/pvCur08JmK",
+          "expanded_url": "https://twitter.com/catunderhood/status/1566834795786645504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1566807756702716000,
-    "in_reply_to_status_id_str": "1566807756702715904",
-    "in_reply_to_user_id": 1546370352,
-    "in_reply_to_user_id_str": "1546370352",
-    "in_reply_to_screen_name": "AmurKa333",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 131,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
