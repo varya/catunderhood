@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12586,
+  "followers_count": 12585,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8335,
+  "favourites_count": 11171,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29345,
+  "statuses_count": 29349,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 05 11:19:27 +0000 2022",
-    "id": 1566747834673639400,
-    "id_str": "1566747834673639424",
-    "text": "Расставалась семья с ним эмоционально, очень его любили, но такое случается. Во второй раз я приезжаю на следующий… https://t.co/mPU4UHX9Vu",
+    "created_at": "Mon Sep 05 12:30:00 +0000 2022",
+    "id": 1566765590382989300,
+    "id_str": "1566765590382989313",
+    "text": "- он подворачивает лапки когда лежит\n- он мастер преморбидного жирка\n- он самый изящный из всех\n- он безумно добрый… https://t.co/jTHj681bF7",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,31 +49,32 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/mPU4UHX9Vu",
-          "expanded_url": "https://twitter.com/i/web/status/1566747834673639424",
+          "url": "https://t.co/jTHj681bF7",
+          "expanded_url": "https://twitter.com/i/web/status/1566765590382989313",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1566745094409044000,
-    "in_reply_to_status_id_str": "1566745094409043974",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 44,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
