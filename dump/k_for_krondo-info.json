@@ -26,42 +26,31 @@
     }
   },
   "protected": false,
-  "followers_count": 12584,
+  "followers_count": 12587,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11171,
+  "favourites_count": 8335,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29340,
+  "statuses_count": 29341,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 05 08:06:56 +0000 2022",
-    "id": 1566699388361113600,
-    "id_str": "1566699388361113602",
-    "text": "Всем привет! На этой неделе на связи с вами три кота Крондо @k_for_krondo ! И от ее имени мы будем общаться с вами… https://t.co/8VJyakamjq",
+    "created_at": "Mon Sep 05 09:34:46 +0000 2022",
+    "id": 1566721492938883000,
+    "id_str": "1566721492938883074",
+    "text": "Спойлер: я плохо веду тви, поэтому не серчайте!\nМы начнем от старшего кота к младшему, по дороге выполняя побочные… https://t.co/UrzZ0oi6TB",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "k_for_krondo",
-          "name": "слезовик из икеи",
-          "id": 3423883318,
-          "id_str": "3423883318",
-          "indices": [
-            60,
-            73
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/8VJyakamjq",
-          "expanded_url": "https://twitter.com/i/web/status/1566699388361113602",
+          "url": "https://t.co/UrzZ0oi6TB",
+          "expanded_url": "https://twitter.com/i/web/status/1566721492938883074",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             116,
@@ -81,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 120,
+    "retweet_count": 0,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
