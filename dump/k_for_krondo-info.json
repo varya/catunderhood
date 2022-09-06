@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12624,
+  "followers_count": 12629,
   "friends_count": 44,
   "listed_count": 40,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8341,
+  "favourites_count": 11175,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29386,
+  "statuses_count": 29388,
   "lang": null,
   "status": {
-    "created_at": "Tue Sep 06 13:30:31 +0000 2022",
-    "id": 1567143206114001000,
-    "id_str": "1567143206114000897",
-    "text": "Небольшое ответвление. У меня довольно долго были проблемы психологического порядка, и только коты меня и спасали.… https://t.co/g3Azc17upk",
+    "created_at": "Tue Sep 06 15:00:00 +0000 2022",
+    "id": 1567165726179278800,
+    "id_str": "1567165726179278848",
+    "text": "Нахожу на авито объявление - продаётся коротколапый кот. Красоты невероятной, лапов и цены весьма вероятной.\nМуж сд… https://t.co/l9AEUEgmVg",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,12 +49,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/g3Azc17upk",
-          "expanded_url": "https://twitter.com/i/web/status/1567143206114000897",
+          "url": "https://t.co/l9AEUEgmVg",
+          "expanded_url": "https://twitter.com/i/web/status/1567165726179278848",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
@@ -70,10 +70,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 43,
+    "retweet_count": 0,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
