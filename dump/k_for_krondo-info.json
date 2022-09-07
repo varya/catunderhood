@@ -35,46 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29401,
+  "statuses_count": 29402,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 07 17:59:41 +0000 2022",
-    "id": 1567573334002385000,
-    "id_str": "1567573334002384897",
-    "text": "@jurgen811 приветики!!!",
-    "truncated": false,
+    "created_at": "Wed Sep 07 22:00:31 +0000 2022",
+    "id": 1567633942160744400,
+    "id_str": "1567633942160744449",
+    "text": "У каждой авиакомпании свои требования к габаритам переносок и весу котов. Прочитайте их внимательно - они меняются.… https://t.co/urdx0Qd1Ha",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "jurgen811",
-          "name": "🇺🇦Big Sister",
-          "id": 1041052548256477200,
-          "id_str": "1041052548256477184",
+          "url": "https://t.co/urdx0Qd1Ha",
+          "expanded_url": "https://twitter.com/i/web/status/1567633942160744449",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            10
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1567525567628714000,
-    "in_reply_to_status_id_str": "1567525567628713985",
-    "in_reply_to_user_id": 1041052548256477200,
-    "in_reply_to_user_id_str": "1041052548256477184",
-    "in_reply_to_screen_name": "jurgen811",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 19,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
