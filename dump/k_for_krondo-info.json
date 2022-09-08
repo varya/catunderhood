@@ -30,34 +30,24 @@
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11177,
+  "favourites_count": 8343,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29407,
+  "statuses_count": 29408,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 08 09:30:01 +0000 2022",
-    "id": 1567807457723879400,
-    "id_str": "1567807457723879425",
-    "text": "Пройдемся по формальностям:\nЕсли вы хотите вывезти животных заграницу, то вы должны их чипировать. \nНа сфинксах это… https://t.co/0t8nbmZjFa",
-    "truncated": true,
+    "created_at": "Thu Sep 08 11:00:30 +0000 2022",
+    "id": 1567830232035463200,
+    "id_str": "1567830232035463170",
+    "text": "Итак, у вас есть ветпаспорт с прививками, переноска и чипированное животное. Но это еще не все! Пам-пам.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/0t8nbmZjFa",
-          "expanded_url": "https://twitter.com/i/web/status/1567807457723879425",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -71,10 +61,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 57,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
