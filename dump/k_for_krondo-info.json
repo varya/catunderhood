@@ -30,18 +30,18 @@
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11177,
+  "favourites_count": 8343,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29422,
+  "statuses_count": 29423,
   "lang": null,
   "status": {
-    "created_at": "Thu Sep 08 18:55:35 +0000 2022",
-    "id": 1567949788691275800,
-    "id_str": "1567949788691275781",
-    "text": "Скиньте фото своих котов, где их попердолило! https://t.co/aBzBzAqLnt",
+    "created_at": "Thu Sep 08 19:40:30 +0000 2022",
+    "id": 1567961091908436000,
+    "id_str": "1567961091908435969",
+    "text": "За сим заканчиваем наш четверг! До встречи в пятницу! https://t.co/G6dn4nmnyJ",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,37 +50,37 @@
       "urls": [],
       "media": [
         {
-          "id": 1567930292094091300,
-          "id_str": "1567930292094091266",
+          "id": 1567951620033347600,
+          "id_str": "1567951620033347584",
           "indices": [
-            46,
-            69
+            54,
+            77
           ],
-          "media_url": "http://pbs.twimg.com/media/FcJoSxzXwAI2Klo.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcJoSxzXwAI2Klo.jpg",
-          "url": "https://t.co/aBzBzAqLnt",
-          "display_url": "pic.twitter.com/aBzBzAqLnt",
-          "expanded_url": "https://twitter.com/catunderhood/status/1567949788691275781/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FcJ7sOkWAAAK5wz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcJ7sOkWAAAK5wz.jpg",
+          "url": "https://t.co/G6dn4nmnyJ",
+          "display_url": "pic.twitter.com/G6dn4nmnyJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1567961091908435969/photo/1",
           "type": "photo",
           "sizes": {
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
             "medium": {
-              "w": 900,
+              "w": 902,
               "h": 1200,
               "resize": "fit"
             },
-            "small": {
-              "w": 510,
-              "h": 680,
+            "large": {
+              "w": 1539,
+              "h": 2048,
               "resize": "fit"
             }
           }
@@ -90,109 +90,37 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1567930292094091300,
-          "id_str": "1567930292094091266",
+          "id": 1567951620033347600,
+          "id_str": "1567951620033347584",
           "indices": [
-            46,
-            69
+            54,
+            77
           ],
-          "media_url": "http://pbs.twimg.com/media/FcJoSxzXwAI2Klo.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcJoSxzXwAI2Klo.jpg",
-          "url": "https://t.co/aBzBzAqLnt",
-          "display_url": "pic.twitter.com/aBzBzAqLnt",
-          "expanded_url": "https://twitter.com/catunderhood/status/1567949788691275781/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FcJ7sOkWAAAK5wz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcJ7sOkWAAAK5wz.jpg",
+          "url": "https://t.co/G6dn4nmnyJ",
+          "display_url": "pic.twitter.com/G6dn4nmnyJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1567961091908435969/photo/1",
           "type": "photo",
           "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
             "small": {
-              "w": 510,
+              "w": 511,
               "h": 680,
               "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1567930292224114700,
-          "id_str": "1567930292224114698",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/FcJoSySXwAofgHH.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcJoSySXwAofgHH.jpg",
-          "url": "https://t.co/aBzBzAqLnt",
-          "display_url": "pic.twitter.com/aBzBzAqLnt",
-          "expanded_url": "https://twitter.com/catunderhood/status/1567949788691275781/photo/1",
-          "type": "photo",
-          "sizes": {
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
             "medium": {
-              "w": 900,
+              "w": 902,
               "h": 1200,
               "resize": "fit"
             },
             "large": {
-              "w": 1536,
+              "w": 1539,
               "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1567930292102480000,
-          "id_str": "1567930292102479874",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/media/FcJoSx1XwAIERdO.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcJoSx1XwAIERdO.jpg",
-          "url": "https://t.co/aBzBzAqLnt",
-          "display_url": "pic.twitter.com/aBzBzAqLnt",
-          "expanded_url": "https://twitter.com/catunderhood/status/1567949788691275781/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
               "resize": "fit"
             }
           }
@@ -210,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 86,
+    "retweet_count": 1,
+    "favorite_count": 99,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
