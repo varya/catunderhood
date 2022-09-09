@@ -35,131 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29432,
+  "statuses_count": 29434,
   "lang": null,
   "status": {
-    "created_at": "Fri Sep 09 12:45:00 +0000 2022",
-    "id": 1568218916165402600,
-    "id_str": "1568218916165402625",
-    "text": "А так же у нас большие проблемы с потреблением корма https://t.co/qjsjKgYaPn",
-    "truncated": false,
+    "created_at": "Fri Sep 09 13:45:00 +0000 2022",
+    "id": 1568234014976053200,
+    "id_str": "1568234014976053249",
+    "text": "Так что в момент, когда Гидеон перешел в стадию «взрослый кот», мы просто стали покупать всем один и тот же корм и… https://t.co/Mo03Dx8LWU",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1568173853058162700,
-          "id_str": "1568173853058162688",
+          "url": "https://t.co/Mo03Dx8LWU",
+          "expanded_url": "https://twitter.com/i/web/status/1568234014976053249",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            53,
-            76
-          ],
-          "media_url": "http://pbs.twimg.com/media/FcNFz5GWYAAbzqN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcNFz5GWYAAbzqN.jpg",
-          "url": "https://t.co/qjsjKgYaPn",
-          "display_url": "pic.twitter.com/qjsjKgYaPn",
-          "expanded_url": "https://twitter.com/catunderhood/status/1568218916165402625/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 709,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1568173853058162700,
-          "id_str": "1568173853058162688",
-          "indices": [
-            53,
-            76
-          ],
-          "media_url": "http://pbs.twimg.com/media/FcNFz5GWYAAbzqN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcNFz5GWYAAbzqN.jpg",
-          "url": "https://t.co/qjsjKgYaPn",
-          "display_url": "pic.twitter.com/qjsjKgYaPn",
-          "expanded_url": "https://twitter.com/catunderhood/status/1568218916165402625/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 709,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 554,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 314,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1568173853032996900,
-          "id_str": "1568173853032996864",
-          "indices": [
-            53,
-            76
-          ],
-          "media_url": "http://pbs.twimg.com/media/FcNFz5AWYAAlxPK.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FcNFz5AWYAAlxPK.jpg",
-          "url": "https://t.co/qjsjKgYaPn",
-          "display_url": "pic.twitter.com/qjsjKgYaPn",
-          "expanded_url": "https://twitter.com/catunderhood/status/1568218916165402625/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -175,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
