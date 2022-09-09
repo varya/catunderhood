@@ -30,32 +30,100 @@
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11180,
+  "favourites_count": 8346,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29434,
+  "statuses_count": 29435,
   "lang": null,
   "status": {
-    "created_at": "Fri Sep 09 13:45:00 +0000 2022",
-    "id": 1568234014976053200,
-    "id_str": "1568234014976053249",
-    "text": "Так что в момент, когда Гидеон перешел в стадию «взрослый кот», мы просто стали покупать всем один и тот же корм и… https://t.co/Mo03Dx8LWU",
-    "truncated": true,
+    "created_at": "Fri Sep 09 14:15:00 +0000 2022",
+    "id": 1568241564899491800,
+    "id_str": "1568241564899491841",
+    "text": "Коты кстати поддерживают нас в нашем хобби! Вот играют с нами в Героев III https://t.co/wDeWeDBWCp",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/Mo03Dx8LWU",
-          "expanded_url": "https://twitter.com/i/web/status/1568234014976053249",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1568174290297671700,
+          "id_str": "1568174290297671683",
           "indices": [
-            116,
-            139
-          ]
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FcNGNV8X0AMN77i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcNGNV8X0AMN77i.jpg",
+          "url": "https://t.co/wDeWeDBWCp",
+          "display_url": "pic.twitter.com/wDeWeDBWCp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1568241564899491841/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1568174290297671700,
+          "id_str": "1568174290297671683",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FcNGNV8X0AMN77i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcNGNV8X0AMN77i.jpg",
+          "url": "https://t.co/wDeWeDBWCp",
+          "display_url": "pic.twitter.com/wDeWeDBWCp",
+          "expanded_url": "https://twitter.com/catunderhood/status/1568241564899491841/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 23,
+    "favorite_count": 45,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
