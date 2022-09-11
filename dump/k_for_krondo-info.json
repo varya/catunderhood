@@ -26,36 +26,140 @@
     }
   },
   "protected": false,
-  "followers_count": 12663,
+  "followers_count": 12662,
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8355,
+  "favourites_count": 11189,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29470,
+  "statuses_count": 29471,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 11 14:02:30 +0000 2022",
-    "id": 1568963195347378200,
-    "id_str": "1568963195347378182",
-    "text": "Но все, конечно же, очень сильно зависит от характера изначального. Некоторые коты могут быть единственными питомца… https://t.co/bMqu6Hs0TO",
-    "truncated": true,
+    "created_at": "Sun Sep 11 15:05:00 +0000 2022",
+    "id": 1568978924515823600,
+    "id_str": "1568978924515823621",
+    "text": "Сейчас конечно ощущение, что как только этот день закончится - я сразу вспомню кучу крутых историй про котов! https://t.co/2WiT87hK1g",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/bMqu6Hs0TO",
-          "expanded_url": "https://twitter.com/i/web/status/1568963195347378182",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1568913467611955200,
+          "id_str": "1568913467611955200",
           "indices": [
-            117,
-            140
-          ]
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/FcXmfIBWQAA2K2Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcXmfIBWQAA2K2Q.jpg",
+          "url": "https://t.co/2WiT87hK1g",
+          "display_url": "pic.twitter.com/2WiT87hK1g",
+          "expanded_url": "https://twitter.com/catunderhood/status/1568978924515823621/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 130,
+              "h": 130,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1568913467611955200,
+          "id_str": "1568913467611955200",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/FcXmfIBWQAA2K2Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcXmfIBWQAA2K2Q.jpg",
+          "url": "https://t.co/2WiT87hK1g",
+          "display_url": "pic.twitter.com/2WiT87hK1g",
+          "expanded_url": "https://twitter.com/catunderhood/status/1568978924515823621/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 130,
+              "h": 130,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 130,
+              "h": 173,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1568913467645517800,
+          "id_str": "1568913467645517826",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/FcXmfIJWYAIHCos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FcXmfIJWYAIHCos.jpg",
+          "url": "https://t.co/2WiT87hK1g",
+          "display_url": "pic.twitter.com/2WiT87hK1g",
+          "expanded_url": "https://twitter.com/catunderhood/status/1568978924515823621/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 187,
+              "h": 249,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 187,
+              "h": 249,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 187,
+              "h": 249,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +175,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 26,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
