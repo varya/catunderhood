@@ -30,119 +30,61 @@
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11209,
+  "favourites_count": 8382,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29541,
+  "statuses_count": 29543,
   "lang": null,
   "status": {
-    "created_at": "Sat Sep 17 16:44:25 +0000 2022",
-    "id": 1571178272024674300,
-    "id_str": "1571178272024674305",
-    "text": "Просто круглые пушистые жопки 🫢 https://t.co/QqHSgMXNTv",
-    "truncated": false,
+    "created_at": "Sat Sep 17 18:53:06 +0000 2022",
+    "id": 1571210653733453800,
+    "id_str": "1571210653733453825",
+    "text": "@VeroZaits Вроде как у большинства так)) Взрослые родительские коты точно жглись, наш Бублик и усы сжигал, и все ра… https://t.co/EqDcyxC5GF",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1571178186892886000,
-          "id_str": "1571178186892886016",
+          "screen_name": "VeroZaits",
+          "name": "Ведьма_Zaitseva",
+          "id": 1309751713444880400,
+          "id_str": "1309751713444880384",
           "indices": [
-            32,
-            55
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fc3yPIyXwAAGCYY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fc3yPIyXwAAGCYY.jpg",
-          "url": "https://t.co/QqHSgMXNTv",
-          "display_url": "pic.twitter.com/QqHSgMXNTv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1571178272024674305/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            0,
+            10
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 1571178186892886000,
-          "id_str": "1571178186892886016",
+          "url": "https://t.co/EqDcyxC5GF",
+          "expanded_url": "https://twitter.com/i/web/status/1571210653733453825",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            32,
-            55
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fc3yPIyXwAAGCYY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fc3yPIyXwAAGCYY.jpg",
-          "url": "https://t.co/QqHSgMXNTv",
-          "display_url": "pic.twitter.com/QqHSgMXNTv",
-          "expanded_url": "https://twitter.com/catunderhood/status/1571178272024674305/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1571180045414142000,
+    "in_reply_to_status_id_str": "1571180045414141954",
+    "in_reply_to_user_id": 1309751713444880400,
+    "in_reply_to_user_id_str": "1309751713444880384",
+    "in_reply_to_screen_name": "VeroZaits",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 144,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
