@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29570,
+  "statuses_count": 29573,
   "lang": null,
   "status": {
-    "created_at": "Wed Sep 21 15:21:34 +0000 2022",
-    "id": 1572606973467558000,
-    "id_str": "1572606973467557891",
-    "text": "Параллельно расскажу невероятную историю того, как я подобрала котенка в лесу за деревней пару лет назад. https://t.co/p3cOBOKLBB",
-    "truncated": false,
+    "created_at": "Wed Sep 21 15:55:28 +0000 2022",
+    "id": 1572615504895901700,
+    "id_str": "1572615504895901697",
+    "text": "Насчет рыжего я сразу решила, что он идет на пристрой, ибо я в разъездах с уже одной кошкой, а у матери их была тог… https://t.co/6J75UEeRrO",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1572606246741483500,
-          "id_str": "1572606246741483529",
+          "url": "https://t.co/6J75UEeRrO",
+          "expanded_url": "https://twitter.com/i/web/status/1572615504895901697",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            106,
-            129
-          ],
-          "media_url": "http://pbs.twimg.com/media/FdMFDKSWIAkZtzN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FdMFDKSWIAkZtzN.jpg",
-          "url": "https://t.co/p3cOBOKLBB",
-          "display_url": "pic.twitter.com/p3cOBOKLBB",
-          "expanded_url": "https://twitter.com/catunderhood/status/1572606973467557891/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 530,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 935,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1595,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1572606246741483500,
-          "id_str": "1572606246741483529",
-          "indices": [
-            106,
-            129
-          ],
-          "media_url": "http://pbs.twimg.com/media/FdMFDKSWIAkZtzN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FdMFDKSWIAkZtzN.jpg",
-          "url": "https://t.co/p3cOBOKLBB",
-          "display_url": "pic.twitter.com/p3cOBOKLBB",
-          "expanded_url": "https://twitter.com/catunderhood/status/1572606973467557891/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 530,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 935,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1595,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 46,
+    "retweet_count": 2,
+    "favorite_count": 84,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
