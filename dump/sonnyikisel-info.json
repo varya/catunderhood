@@ -26,104 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 12703,
+  "followers_count": 12704,
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8396,
+  "favourites_count": 11228,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29625,
+  "statuses_count": 29626,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 03 15:06:54 +0000 2022",
-    "id": 1576951934359142400,
-    "id_str": "1576951934359142404",
-    "text": "Симка прощается с вами на сегодня)\nА завтра я расскажу о втором коте - Чарли) https://t.co/82b4Vi7Zbf",
-    "truncated": false,
+    "created_at": "Tue Oct 04 09:30:12 +0000 2022",
+    "id": 1577229589482463200,
+    "id_str": "1577229589482463235",
+    "text": "Всем привет 🙂\nСегодня немного расскажу про котика Чарли, он появился у нас через несколько месяцев после Саймона.\nЧ… https://t.co/eDWbVsvyIf",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1576951453171720200,
-          "id_str": "1576951453171720194",
+          "url": "https://t.co/eDWbVsvyIf",
+          "expanded_url": "https://twitter.com/i/web/status/1577229589482463235",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/FeJ0_dpWIAI0uVY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FeJ0_dpWIAI0uVY.jpg",
-          "url": "https://t.co/82b4Vi7Zbf",
-          "display_url": "pic.twitter.com/82b4Vi7Zbf",
-          "expanded_url": "https://twitter.com/catunderhood/status/1576951934359142404/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1576951453171720200,
-          "id_str": "1576951453171720194",
-          "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/FeJ0_dpWIAI0uVY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FeJ0_dpWIAI0uVY.jpg",
-          "url": "https://t.co/82b4Vi7Zbf",
-          "display_url": "pic.twitter.com/82b4Vi7Zbf",
-          "expanded_url": "https://twitter.com/catunderhood/status/1576951934359142404/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 4,
-    "favorite_count": 436,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
