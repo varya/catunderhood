@@ -26,31 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 12697,
+  "followers_count": 12761,
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11228,
+  "favourites_count": 11237,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29613,
+  "statuses_count": 29669,
   "lang": null,
   "status": {
-    "created_at": "Sun Sep 25 20:18:22 +0000 2022",
-    "id": 1574131217678606300,
-    "id_str": "1574131217678606336",
-    "text": "Ну, что ж, пришла пора прощаться! Мне, кожаной служанке своей кошки, пора на боковую, ибо корм сам на себя не зараб… https://t.co/uOfq28ph4g",
+    "created_at": "Sun Oct 09 15:43:16 +0000 2022",
+    "id": 1579135416711598000,
+    "id_str": "1579135416711598080",
+    "text": "Пришло время попрощаться 🙂 с вами были Чарли, Саймон, Ириска, Маша и Алёна @sonnyikisel. Спасибо за все добрые слов… https://t.co/uG3ak77wzg",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "sonnyikisel",
+          "name": "Алона",
+          "id": 1482088684799377400,
+          "id_str": "1482088684799377412",
+          "indices": [
+            75,
+            87
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/uOfq28ph4g",
-          "expanded_url": "https://twitter.com/i/web/status/1574131217678606336",
+          "url": "https://t.co/uG3ak77wzg",
+          "expanded_url": "https://twitter.com/i/web/status/1579135416711598080",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -70,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 564,
+    "retweet_count": 5,
+    "favorite_count": 450,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -84,8 +95,8 @@
   "profile_background_image_url": null,
   "profile_background_image_url_https": null,
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1574275347952066562/hFXLqZBl_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1574275347952066562/hFXLqZBl_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1579348152393547776/G5LTLOsJ_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1579348152393547776/G5LTLOsJ_normal.jpg",
   "profile_link_color": "1DA1F2",
   "profile_sidebar_border_color": "C0DEED",
   "profile_sidebar_fill_color": "DDEEF6",
