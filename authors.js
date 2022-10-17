@@ -114,15 +114,21 @@ export default [
   },
   {
     "username": "sran_gospodnja",
-    "start": "23 May 2022",
+    "start": "30 May 2022",
     "post": true,
     "last": "1533407943768559617"
   },
   {
     "username": "skay_a",
-    "start": "16 May 2022",
+    "start": "23 May 2022",
     "post": true,
     "last": "1531010101406060545"
+  },
+  {
+    "username": "Swetidze",
+    "start": "16 May 2022",
+    "post": true,
+    "last": "1526150085041705000"
   },
   {
     "username": "el_nlsn",
