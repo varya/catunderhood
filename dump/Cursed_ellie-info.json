@@ -35,27 +35,131 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29676,
+  "statuses_count": 29677,
   "lang": null,
   "status": {
-    "created_at": "Tue Oct 25 15:27:07 +0000 2022",
-    "id": 1584929558037414000,
-    "id_str": "1584929558037413889",
-    "text": "Раньше у меня с самого детства была кошка, которая умерла 4 года назад, ее звали Киса. Я ее так называла с 4 лет, т… https://t.co/sfH6zVQHZK",
-    "truncated": true,
+    "created_at": "Wed Oct 26 02:33:33 +0000 2022",
+    "id": 1585097267874332700,
+    "id_str": "1585097267874332672",
+    "text": "Как думаете, удобно ей? 😂 https://t.co/3g5BFPfzJJ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/sfH6zVQHZK",
-          "expanded_url": "https://twitter.com/i/web/status/1584929558037413889",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1585097114245275600,
+          "id_str": "1585097114245275649",
           "indices": [
-            117,
-            140
-          ]
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ff9lbV0WIAEAGgr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ff9lbV0WIAEAGgr.jpg",
+          "url": "https://t.co/3g5BFPfzJJ",
+          "display_url": "pic.twitter.com/3g5BFPfzJJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1585097267874332672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1585097114245275600,
+          "id_str": "1585097114245275649",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ff9lbV0WIAEAGgr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ff9lbV0WIAEAGgr.jpg",
+          "url": "https://t.co/3g5BFPfzJJ",
+          "display_url": "pic.twitter.com/3g5BFPfzJJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1585097267874332672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1585097114299891700,
+          "id_str": "1585097114299891713",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ff9lbWBXgAEvlxz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ff9lbWBXgAEvlxz.jpg",
+          "url": "https://t.co/3g5BFPfzJJ",
+          "display_url": "pic.twitter.com/3g5BFPfzJJ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1585097267874332672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,7 +175,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 187,
+    "favorite_count": 36,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
