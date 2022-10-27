@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12868,
+  "followers_count": 12869,
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8390,
+  "favourites_count": 11221,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29689,
+  "statuses_count": 29690,
   "lang": null,
   "status": {
-    "created_at": "Thu Oct 27 14:57:00 +0000 2022",
-    "id": 1585646752077648000,
-    "id_str": "1585646752077647872",
-    "text": "Еще один прикол у сфинсов - можно разглядывать вены на ушках https://t.co/DEQl1Mbmnm",
+    "created_at": "Thu Oct 27 15:57:00 +0000 2022",
+    "id": 1585661851576287200,
+    "id_str": "1585661851576287232",
+    "text": "«Сотворение Адама» Микеланджело Буонарроти (Сикстинская капелла, Ватикан, Рим, 1508–1512) https://t.co/17m6GiN9my",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,37 +50,37 @@
       "urls": [],
       "media": [
         {
-          "id": 1585610992008003600,
-          "id_str": "1585610992008003584",
+          "id": 1585611740657639400,
+          "id_str": "1585611740657639426",
           "indices": [
-            61,
-            84
+            90,
+            113
           ],
-          "media_url": "http://pbs.twimg.com/media/FgE4y9qXgAAttm_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FgE4y9qXgAAttm_.jpg",
-          "url": "https://t.co/DEQl1Mbmnm",
-          "display_url": "pic.twitter.com/DEQl1Mbmnm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1585646752077647872/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FgE5eimWYAIkdzJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgE5eimWYAIkdzJ.jpg",
+          "url": "https://t.co/17m6GiN9my",
+          "display_url": "pic.twitter.com/17m6GiN9my",
+          "expanded_url": "https://twitter.com/catunderhood/status/1585661851576287232/photo/1",
           "type": "photo",
           "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 914,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "large": {
-              "w": 1110,
-              "h": 1280,
+            "small": {
+              "w": 680,
+              "h": 486,
               "resize": "fit"
             },
             "medium": {
-              "w": 1041,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 590,
-              "h": 680,
+              "w": 1200,
+              "h": 857,
               "resize": "fit"
             }
           }
@@ -90,37 +90,37 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1585610992008003600,
-          "id_str": "1585610992008003584",
+          "id": 1585611740657639400,
+          "id_str": "1585611740657639426",
           "indices": [
-            61,
-            84
+            90,
+            113
           ],
-          "media_url": "http://pbs.twimg.com/media/FgE4y9qXgAAttm_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FgE4y9qXgAAttm_.jpg",
-          "url": "https://t.co/DEQl1Mbmnm",
-          "display_url": "pic.twitter.com/DEQl1Mbmnm",
-          "expanded_url": "https://twitter.com/catunderhood/status/1585646752077647872/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FgE5eimWYAIkdzJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgE5eimWYAIkdzJ.jpg",
+          "url": "https://t.co/17m6GiN9my",
+          "display_url": "pic.twitter.com/17m6GiN9my",
+          "expanded_url": "https://twitter.com/catunderhood/status/1585661851576287232/photo/1",
           "type": "photo",
           "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 914,
+              "resize": "fit"
+            },
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
-            "large": {
-              "w": 1110,
-              "h": 1280,
+            "small": {
+              "w": 680,
+              "h": 486,
               "resize": "fit"
             },
             "medium": {
-              "w": 1041,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 590,
-              "h": 680,
+              "w": 1200,
+              "h": 857,
               "resize": "fit"
             }
           }
@@ -138,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 80,
+    "retweet_count": 8,
+    "favorite_count": 81,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
