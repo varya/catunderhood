@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 12900,
+  "followers_count": 12899,
   "friends_count": 44,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,95 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29698,
+  "statuses_count": 29700,
   "lang": null,
   "status": {
-    "created_at": "Sat Oct 29 06:53:00 +0000 2022",
-    "id": 1586249725128368000,
-    "id_str": "1586249725128368128",
-    "text": "А вот так мы переживали холодные времена до включения отопления с Питере https://t.co/rGCG7ybVgW",
-    "truncated": false,
+    "created_at": "Sat Oct 29 08:09:00 +0000 2022",
+    "id": 1586268851150340000,
+    "id_str": "1586268851150340096",
+    "text": "Один из котят родился слабеньким, я заметила в первый день что он лежал отдельно и не кушал. В итоге я его кормила… https://t.co/DsIAU2exVh",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1586154162307440600,
-          "id_str": "1586154162307440643",
+          "url": "https://t.co/DsIAU2exVh",
+          "expanded_url": "https://twitter.com/i/web/status/1586268851150340096",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/FgMmzotXoAMqAWc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FgMmzotXoAMqAWc.jpg",
-          "url": "https://t.co/rGCG7ybVgW",
-          "display_url": "pic.twitter.com/rGCG7ybVgW",
-          "expanded_url": "https://twitter.com/catunderhood/status/1586249725128368128/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 664,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1242,
-              "h": 1212,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1171,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1586154162307440600,
-          "id_str": "1586154162307440643",
-          "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/FgMmzotXoAMqAWc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FgMmzotXoAMqAWc.jpg",
-          "url": "https://t.co/rGCG7ybVgW",
-          "display_url": "pic.twitter.com/rGCG7ybVgW",
-          "expanded_url": "https://twitter.com/catunderhood/status/1586249725128368128/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 664,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1242,
-              "h": 1212,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1171,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -139,7 +71,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 60,
+    "favorite_count": 80,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
