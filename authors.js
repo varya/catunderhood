@@ -1,8 +1,14 @@
 export default [
   {
+    "username": "RIGerasimov",
+    "start": "24 October 2022",
+    "post": false
+  },
+  {
     "username": "Cursed_ellie",
     "start": "17 October 2022",
-    "post": false
+    "post": true,
+    "last": "1586788588942934021"
   },
   {
     "username": "lizaspoon",
