@@ -26,140 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 13137,
+  "followers_count": 13138,
   "friends_count": 44,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8407,
+  "favourites_count": 11237,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29760,
+  "statuses_count": 29761,
   "lang": null,
   "status": {
-    "created_at": "Sun Nov 06 10:30:00 +0000 2022",
-    "id": 1589203438167990300,
-    "id_str": "1589203438167990274",
-    "text": "Естественно, как только домой привезли новую стенку, он сразу ее отвоевал. https://t.co/KgjBFDuMhs",
-    "truncated": false,
+    "created_at": "Sun Nov 06 11:30:00 +0000 2022",
+    "id": 1589218539499450400,
+    "id_str": "1589218539499450370",
+    "text": "Ну и пожалуй последнее, что вам нужно знать о Лисе: он довольно игривый! Но любые игрушки мира он будет готов проме… https://t.co/jqjdOxcIta",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1589175547577438200,
-          "id_str": "1589175547577438210",
+          "url": "https://t.co/jqjdOxcIta",
+          "expanded_url": "https://twitter.com/i/web/status/1589218539499450370",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            75,
-            98
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fg3ivZ8XEAI1s8z.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fg3ivZ8XEAI1s8z.jpg",
-          "url": "https://t.co/KgjBFDuMhs",
-          "display_url": "pic.twitter.com/KgjBFDuMhs",
-          "expanded_url": "https://twitter.com/catunderhood/status/1589203438167990274/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1589175547577438200,
-          "id_str": "1589175547577438210",
-          "indices": [
-            75,
-            98
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fg3ivZ8XEAI1s8z.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fg3ivZ8XEAI1s8z.jpg",
-          "url": "https://t.co/KgjBFDuMhs",
-          "display_url": "pic.twitter.com/KgjBFDuMhs",
-          "expanded_url": "https://twitter.com/catunderhood/status/1589203438167990274/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1589175547594244000,
-          "id_str": "1589175547594244096",
-          "indices": [
-            75,
-            98
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fg3ivaAXgAABaIn.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fg3ivaAXgAABaIn.jpg",
-          "url": "https://t.co/KgjBFDuMhs",
-          "display_url": "pic.twitter.com/KgjBFDuMhs",
-          "expanded_url": "https://twitter.com/catunderhood/status/1589203438167990274/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 536,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 946,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1613,
-              "h": 2047,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
@@ -174,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 147,
+    "retweet_count": 3,
+    "favorite_count": 195,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
