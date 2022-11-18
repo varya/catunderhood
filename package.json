@@ -33,7 +33,7 @@
     "article-data": "^0.3.1",
     "autoprefixer": "^6.1.0",
     "babel": "^5.8.29",
-    "babel-loader": "^5.3.3",
+    "babel-loader": "^9.1.0",
     "bignum-dec": "^1.0.1",
     "bootstrap": "^3.3.4",
     "buildbranch": "0.0.3",
@@ -56,7 +56,7 @@
     "gulp-watch": "^4.2.4",
     "hasha": "^2.0.2",
     "ilyabirman-likely": "^2.0.4",
-    "imports-loader": "^0.6.5",
+    "imports-loader": "^4.0.1",
     "json-loader": "^0.5.3",
     "max-values": "^1.0.0",
     "moment": "^2.10.3",
@@ -80,7 +80,7 @@
     "twitter-tokens": "^1.0.1",
     "typographic-numbers": "^0.2.1",
     "unidecode": "^0.1.7",
-    "webpack": "^1.12.4"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@actions/core": "1.4.0",
