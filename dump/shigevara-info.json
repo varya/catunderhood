@@ -26,38 +26,28 @@
     }
   },
   "protected": false,
-  "followers_count": 13186,
+  "followers_count": 13190,
   "friends_count": 45,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8400,
+  "favourites_count": 11229,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29821,
+  "statuses_count": 29824,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 23 10:54:40 +0000 2022",
-    "id": 1595370241080656000,
-    "id_str": "1595370241080655872",
-    "text": "Сюрприз-сюрприз - У вас кошка! Возвращать не стали, назвали Булочка. Персик сразу же стал заботливой мамулей: умыва… https://t.co/K44tkLNjH8",
-    "truncated": true,
+    "created_at": "Wed Nov 23 14:16:40 +0000 2022",
+    "id": 1595421074120142800,
+    "id_str": "1595421074120142848",
+    "text": "Завтра будет продолжение истории про Булочку и остальных котов)))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/K44tkLNjH8",
-          "expanded_url": "https://twitter.com/i/web/status/1595370241080655872",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -70,11 +60,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 356,
+    "retweet_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
