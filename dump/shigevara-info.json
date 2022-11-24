@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 13239,
+  "followers_count": 13240,
   "friends_count": 45,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8400,
+  "favourites_count": 11228,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29824,
+  "statuses_count": 29827,
   "lang": null,
   "status": {
-    "created_at": "Wed Nov 23 14:16:40 +0000 2022",
-    "id": 1595421074120142800,
-    "id_str": "1595421074120142848",
-    "text": "Завтра будет продолжение истории про Булочку и остальных котов)))",
-    "truncated": false,
+    "created_at": "Thu Nov 24 14:34:59 +0000 2022",
+    "id": 1595788074222747600,
+    "id_str": "1595788074222747648",
+    "text": "Кекс как-то очень быстро вытянулся и стал непривлекательным для потенциальных хозяев. Еще и бельмо на глазу. После… https://t.co/eqtyHdgil1",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/eqtyHdgil1",
+          "expanded_url": "https://twitter.com/i/web/status/1595788074222747648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -60,10 +70,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 69,
+    "retweet_count": 1,
+    "favorite_count": 103,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
