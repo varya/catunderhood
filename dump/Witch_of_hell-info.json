@@ -30,31 +30,31 @@
   "friends_count": 49,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11228,
+  "favourites_count": 8399,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29859,
+  "statuses_count": 29860,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 29 14:01:57 +0000 2022",
-    "id": 1597591700234539000,
-    "id_str": "1597591700234539010",
-    "text": "Как только братика забрали Морра стала больше проявлять к нам интерес. Стала ластиться и из несуразного котёнка пре… https://t.co/4qctxPh2m3",
-    "truncated": true,
+    "created_at": "Tue Nov 29 19:51:31 +0000 2022",
+    "id": 1597679668693504000,
+    "id_str": "1597679668693504002",
+    "text": "Ещё на последок видео малышни) https://t.co/7hxxUMFdgG",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/4qctxPh2m3",
-          "expanded_url": "https://twitter.com/i/web/status/1597591700234539010",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/7hxxUMFdgG",
+          "expanded_url": "https://twitter.com/Witch_of_hell/status/1569307395779706881",
+          "display_url": "twitter.com/Witch_of_hell/…",
           "indices": [
-            117,
-            140
+            31,
+            54
           ]
         }
       ]
@@ -69,9 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 197,
+    "is_quote_status": true,
+    "quoted_status_id": 1569307395779707000,
+    "quoted_status_id_str": "1569307395779706881",
+    "retweet_count": 0,
+    "favorite_count": 31,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
