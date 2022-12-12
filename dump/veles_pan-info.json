@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13441,
+  "followers_count": 13442,
   "friends_count": 50,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,46 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29906,
+  "statuses_count": 29911,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 12 13:01:51 +0000 2022",
-    "id": 1602287616845664300,
-    "id_str": "1602287616845664257",
-    "text": "Марса я тогда еще сняла на плёнку. Невесть как вышло, но это были мои первые попытки\n\nЯ не очень активно ему новых… https://t.co/rGFnnpvkuf",
-    "truncated": true,
+    "created_at": "Mon Dec 12 14:12:51 +0000 2022",
+    "id": 1602305484664569900,
+    "id_str": "1602305484664569856",
+    "text": "@Stolengrad Всем бы таких друзей! Это очень круто с:",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/rGFnnpvkuf",
-          "expanded_url": "https://twitter.com/i/web/status/1602287616845664257",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Stolengrad",
+          "name": "Shtolen",
+          "id": 113120711,
+          "id_str": "113120711",
           "indices": [
-            116,
-            139
+            0,
+            11
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1602286293282705400,
-    "in_reply_to_status_id_str": "1602286293282705418",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1602304673037303800,
+    "in_reply_to_status_id_str": "1602304673037303808",
+    "in_reply_to_user_id": 113120711,
+    "in_reply_to_user_id_str": "113120711",
+    "in_reply_to_screen_name": "Stolengrad",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 41,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
