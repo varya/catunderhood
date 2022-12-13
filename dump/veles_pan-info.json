@@ -26,42 +26,31 @@
     }
   },
   "protected": false,
-  "followers_count": 13443,
+  "followers_count": 13444,
   "friends_count": 50,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11233,
+  "favourites_count": 11235,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29915,
+  "statuses_count": 29916,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 12 20:48:45 +0000 2022",
-    "id": 1602405117176717300,
-    "id_str": "1602405117176717312",
-    "text": "@BonnieBlue1869 Это правда\n\nУ Марса, мне кажется, противоположная ситуация: он слишком любит людей и внимание. Когд… https://t.co/hjCi7iC6Qx",
+    "created_at": "Tue Dec 13 07:34:00 +0000 2022",
+    "id": 1602567496254587000,
+    "id_str": "1602567496254586880",
+    "text": "В тему вчерашнего обсуждения: фотографии Марса с разных передержек во время ремонта квартиры\n\nМожно увидеть все сам… https://t.co/NXISPnd3M6",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "BonnieBlue1869",
-          "name": "Хвост енота",
-          "id": 1519742350771343400,
-          "id_str": "1519742350771343366",
-          "indices": [
-            0,
-            15
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/hjCi7iC6Qx",
-          "expanded_url": "https://twitter.com/i/web/status/1602405117176717312",
+          "url": "https://t.co/NXISPnd3M6",
+          "expanded_url": "https://twitter.com/i/web/status/1602567496254586880",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -71,20 +60,21 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1602373927741059000,
-    "in_reply_to_status_id_str": "1602373927741059072",
-    "in_reply_to_user_id": 1519742350771343400,
-    "in_reply_to_user_id_str": "1519742350771343366",
-    "in_reply_to_screen_name": "BonnieBlue1869",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 76,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
