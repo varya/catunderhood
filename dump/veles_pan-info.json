@@ -30,59 +30,59 @@
   "friends_count": 50,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11242,
+  "favourites_count": 11246,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 29928,
+  "statuses_count": 29929,
   "lang": null,
   "status": {
-    "created_at": "Tue Dec 13 20:46:06 +0000 2022",
-    "id": 1602766837074301000,
-    "id_str": "1602766837074300937",
-    "text": "@murpaz Ну что это за невероятная красота! Очень люблю такой окрас у котиков 🖤\n\nКупить зеркало, в которое смотрелся… https://t.co/2ltB4ihpY2",
-    "truncated": true,
+    "created_at": "Wed Dec 14 07:39:31 +0000 2022",
+    "id": 1602931273982410800,
+    "id_str": "1602931273982410752",
+    "text": "@ms_popovich @2mf Ну красавец! Думаю, многие расстроились, что без кота",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "murpaz",
-          "name": "Ирена Карпаччо",
-          "id": 309839322,
-          "id_str": "309839322",
+          "screen_name": "ms_popovich",
+          "name": "Mrs.Popovich",
+          "id": 2735796893,
+          "id_str": "2735796893",
           "indices": [
             0,
-            7
+            12
+          ]
+        },
+        {
+          "screen_name": "2mf",
+          "name": "Mihail Fedorov",
+          "id": 8511612,
+          "id_str": "8511612",
+          "indices": [
+            13,
+            17
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/2ltB4ihpY2",
-          "expanded_url": "https://twitter.com/i/web/status/1602766837074300937",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1602729337362563000,
-    "in_reply_to_status_id_str": "1602729337362563073",
-    "in_reply_to_user_id": 309839322,
-    "in_reply_to_user_id_str": "309839322",
-    "in_reply_to_screen_name": "murpaz",
+    "in_reply_to_status_id": 1602788390319030300,
+    "in_reply_to_status_id_str": "1602788390319030274",
+    "in_reply_to_user_id": 2735796893,
+    "in_reply_to_user_id_str": "2735796893",
+    "in_reply_to_screen_name": "ms_popovich",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
