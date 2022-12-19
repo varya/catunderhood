@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30022,
+  "statuses_count": 30023,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 19 10:35:39 +0000 2022",
-    "id": 1604787538329215000,
-    "id_str": "1604787538329214978",
-    "text": "Кстати, про лоток умничка все понял сам. И вообще все коты, которых я подбирала, как-то самостоятельно разбирались… https://t.co/5N9Sd03ezu",
+    "created_at": "Mon Dec 19 12:08:04 +0000 2022",
+    "id": 1604810797972168700,
+    "id_str": "1604810797972168704",
+    "text": "Очень медленно котёнок адаптировался и привыкал ко мне. Перестал каждое утро прятаться в новом месте. Разрешал себя… https://t.co/4JqGABkia6",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,19 +49,19 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/5N9Sd03ezu",
-          "expanded_url": "https://twitter.com/i/web/status/1604787538329214978",
+          "url": "https://t.co/4JqGABkia6",
+          "expanded_url": "https://twitter.com/i/web/status/1604810797972168704",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1604786545411739600,
-    "in_reply_to_status_id_str": "1604786545411739649",
+    "in_reply_to_status_id": 1604787538329215000,
+    "in_reply_to_status_id_str": "1604787538329214978",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 44,
+    "retweet_count": 0,
+    "favorite_count": 32,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
