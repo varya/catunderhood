@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13457,
+  "followers_count": 13458,
   "friends_count": 50,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30016,
+  "statuses_count": 30017,
   "lang": null,
   "status": {
-    "created_at": "Mon Dec 19 08:11:34 +0000 2022",
-    "id": 1604751280383074300,
-    "id_str": "1604751280383074305",
-    "text": "Всем доброго понедельника! Эту неделю с вами проведут румяные круасаны Персик и Ирис и матерь котья Катя. Расскажу,… https://t.co/wxDgFePfRt",
+    "created_at": "Mon Dec 19 08:28:17 +0000 2022",
+    "id": 1604755484740919300,
+    "id_str": "1604755484740919297",
+    "text": "Персик и Ирис, хоть и очень похожи, не братья и вообще не родственники. Персик появился у нас пять с половиной лет… https://t.co/IF4v9hxhKU",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,29 +49,29 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/wxDgFePfRt",
-          "expanded_url": "https://twitter.com/i/web/status/1604751280383074305",
+          "url": "https://t.co/IF4v9hxhKU",
+          "expanded_url": "https://twitter.com/i/web/status/1604755484740919297",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1604751280383074300,
+    "in_reply_to_status_id_str": "1604751280383074305",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 69,
+    "retweet_count": 0,
+    "favorite_count": 82,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
