@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30155,
+  "statuses_count": 30157,
   "lang": null,
   "status": {
-    "created_at": "Tue Jan 10 15:28:58 +0000 2023",
-    "id": 1612833886752350200,
-    "id_str": "1612833886752350208",
-    "text": "@rosioalvaa Пока я писала этот твит, под бок ко мне пришел Вася. Кто тут, говорит, людей боится? Не знаю такого! https://t.co/D1huZwu1iY",
+    "created_at": "Tue Jan 10 15:39:53 +0000 2023",
+    "id": 1612836634772250600,
+    "id_str": "1612836634772250624",
+    "text": "@rosioalvaa Продолжу в новой ветке\n\nhttps://t.co/7wjn2ccJZi",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -58,89 +58,21 @@
           ]
         }
       ],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1612833692811935700,
-          "id_str": "1612833692811935744",
+          "url": "https://t.co/7wjn2ccJZi",
+          "expanded_url": "https://twitter.com/catunderhood/status/1612836452957667332",
+          "display_url": "twitter.com/catunderhood/s…",
           "indices": [
-            113,
-            136
-          ],
-          "media_url": "http://pbs.twimg.com/media/FmHvss3WQAA3OPn.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FmHvss3WQAA3OPn.jpg",
-          "url": "https://t.co/D1huZwu1iY",
-          "display_url": "pic.twitter.com/D1huZwu1iY",
-          "expanded_url": "https://twitter.com/catunderhood/status/1612833886752350208/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1612833692811935700,
-          "id_str": "1612833692811935744",
-          "indices": [
-            113,
-            136
-          ],
-          "media_url": "http://pbs.twimg.com/media/FmHvss3WQAA3OPn.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FmHvss3WQAA3OPn.jpg",
-          "url": "https://t.co/D1huZwu1iY",
-          "display_url": "pic.twitter.com/D1huZwu1iY",
-          "expanded_url": "https://twitter.com/catunderhood/status/1612833886752350208/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            36,
+            59
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1612833113280843800,
-    "in_reply_to_status_id_str": "1612833113280843777",
+    "in_reply_to_status_id": 1612833886752350200,
+    "in_reply_to_status_id_str": "1612833886752350208",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -148,9 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1612836452957667300,
+    "quoted_status_id_str": "1612836452957667332",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
