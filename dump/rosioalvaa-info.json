@@ -35,26 +35,26 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30175,
+  "statuses_count": 30179,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 11 18:43:04 +0000 2023",
-    "id": 1613245120895148000,
-    "id_str": "1613245120895148043",
-    "text": "К нам в гости сегодня приехала кошечка Филька. Все трое пока немного стрессуют, сидят в уголках, но мы создаём для… https://t.co/tN4xuweXBn",
-    "truncated": true,
+    "created_at": "Wed Jan 11 19:36:19 +0000 2023",
+    "id": 1613258522489135000,
+    "id_str": "1613258522489135111",
+    "text": "Ну и куда же без неловких ситуаций)\n\nhttps://t.co/Kn3XO0COpC",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/tN4xuweXBn",
-          "expanded_url": "https://twitter.com/i/web/status/1613245120895148043",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/Kn3XO0COpC",
+          "expanded_url": "https://twitter.com/rosioalvaa/status/1603140639075573760?t=A8hULgn7lE7X7ofC0f2fow&s=19",
+          "display_url": "twitter.com/rosioalvaa/sta…",
           "indices": [
-            116,
-            139
+            37,
+            60
           ]
         }
       ]
@@ -69,9 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 115,
+    "is_quote_status": true,
+    "quoted_status_id": 1603140639075573800,
+    "quoted_status_id_str": "1603140639075573760",
+    "retweet_count": 1,
+    "favorite_count": 40,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
