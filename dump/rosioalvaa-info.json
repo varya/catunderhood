@@ -30,100 +30,32 @@
   "friends_count": 51,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8505,
+  "favourites_count": 11332,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30174,
+  "statuses_count": 30175,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 11 14:57:57 +0000 2023",
-    "id": 1613188469521539000,
-    "id_str": "1613188469521539072",
-    "text": "Аксиома: если оставить что-то на полу, там обязательно заведется тьмаленькость :з https://t.co/aPsD7KBW0O",
-    "truncated": false,
+    "created_at": "Wed Jan 11 18:43:04 +0000 2023",
+    "id": 1613245120895148000,
+    "id_str": "1613245120895148043",
+    "text": "К нам в гости сегодня приехала кошечка Филька. Все трое пока немного стрессуют, сидят в уголках, но мы создаём для… https://t.co/tN4xuweXBn",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1613188273718939600,
-          "id_str": "1613188273718939648",
+          "url": "https://t.co/tN4xuweXBn",
+          "expanded_url": "https://twitter.com/i/web/status/1613245120895148043",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            82,
-            105
-          ],
-          "media_url": "http://pbs.twimg.com/media/FmMyMBrX0AA845U.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FmMyMBrX0AA845U.jpg",
-          "url": "https://t.co/aPsD7KBW0O",
-          "display_url": "pic.twitter.com/aPsD7KBW0O",
-          "expanded_url": "https://twitter.com/catunderhood/status/1613188469521539072/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1613188273718939600,
-          "id_str": "1613188273718939648",
-          "indices": [
-            82,
-            105
-          ],
-          "media_url": "http://pbs.twimg.com/media/FmMyMBrX0AA845U.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FmMyMBrX0AA845U.jpg",
-          "url": "https://t.co/aPsD7KBW0O",
-          "display_url": "pic.twitter.com/aPsD7KBW0O",
-          "expanded_url": "https://twitter.com/catunderhood/status/1613188469521539072/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -138,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 187,
+    "retweet_count": 3,
+    "favorite_count": 115,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
