@@ -30,39 +30,31 @@
   "friends_count": 51,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11332,
+  "favourites_count": 8505,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30181,
+  "statuses_count": 30182,
   "lang": null,
   "status": {
-    "created_at": "Thu Jan 12 05:00:01 +0000 2023",
-    "id": 1613400382025220000,
-    "id_str": "1613400382025220098",
-    "text": "#такоеутро\n\nhttps://t.co/IjTIj29bMn",
+    "created_at": "Thu Jan 12 12:37:00 +0000 2023",
+    "id": 1613515385659162600,
+    "id_str": "1613515385659162630",
+    "text": "Охотнички, получается. Суровые хищники\n\nhttps://t.co/V1Jxfn9CX5",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "такоеутро",
-          "indices": [
-            0,
-            10
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/IjTIj29bMn",
-          "expanded_url": "https://twitter.com/rosioalvaa/status/1603137203617812480?t=bK8VizdVPssJO9EhhUYLGA&s=19",
+          "url": "https://t.co/V1Jxfn9CX5",
+          "expanded_url": "https://twitter.com/rosioalvaa/status/1597857607577874435?t=XvZwnck_x9BFBVZ99hI8tw&s=19",
           "display_url": "twitter.com/rosioalvaa/sta…",
           "indices": [
-            12,
-            35
+            40,
+            63
           ]
         }
       ]
@@ -78,14 +70,14 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1603137203617812500,
-    "quoted_status_id_str": "1603137203617812480",
+    "quoted_status_id": 1597857607577874400,
+    "quoted_status_id_str": "1597857607577874435",
     "retweet_count": 1,
-    "favorite_count": 124,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "qme"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
