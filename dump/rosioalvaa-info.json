@@ -35,26 +35,34 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30180,
+  "statuses_count": 30181,
   "lang": null,
   "status": {
-    "created_at": "Wed Jan 11 21:03:30 +0000 2023",
-    "id": 1613280462784417800,
-    "id_str": "1613280462784417796",
-    "text": "ХОБА!\n\nhttps://t.co/CqVmXRj5bb",
+    "created_at": "Thu Jan 12 05:00:01 +0000 2023",
+    "id": 1613400382025220000,
+    "id_str": "1613400382025220098",
+    "text": "#такоеутро\n\nhttps://t.co/IjTIj29bMn",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "такоеутро",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/CqVmXRj5bb",
-          "expanded_url": "https://twitter.com/rosioalvaa/status/1603020903503257601?t=7UbyLMkPopVPaxxNcNQGiw&s=19",
+          "url": "https://t.co/IjTIj29bMn",
+          "expanded_url": "https://twitter.com/rosioalvaa/status/1603137203617812480?t=bK8VizdVPssJO9EhhUYLGA&s=19",
           "display_url": "twitter.com/rosioalvaa/sta…",
           "indices": [
-            7,
-            30
+            12,
+            35
           ]
         }
       ]
@@ -70,14 +78,14 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1603020903503257600,
-    "quoted_status_id_str": "1603020903503257601",
+    "quoted_status_id": 1603137203617812500,
+    "quoted_status_id_str": "1603137203617812480",
     "retweet_count": 0,
-    "favorite_count": 66,
+    "favorite_count": 23,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "qme"
   },
   "contributors_enabled": false,
   "is_translator": false,
