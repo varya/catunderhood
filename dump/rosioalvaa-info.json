@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 13486,
+  "followers_count": 13484,
   "friends_count": 51,
   "listed_count": 41,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8505,
+  "favourites_count": 11332,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30183,
+  "statuses_count": 30184,
   "lang": null,
   "status": {
-    "created_at": "Thu Jan 12 18:16:45 +0000 2023",
-    "id": 1613600888236417000,
-    "id_str": "1613600888236417024",
-    "text": "Сегодня совсем нет времени и сил что-то рассказывать. Поэтому вот вам кисий лизык\n\nА покажите своих булкенов, пожал… https://t.co/lHMZIXj7Q0",
-    "truncated": true,
+    "created_at": "Fri Jan 13 13:02:30 +0000 2023",
+    "id": 1613884190856036400,
+    "id_str": "1613884190856036352",
+    "text": "И куда же без капельки всратости\n\nhttps://t.co/zvl0TF00tV",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/lHMZIXj7Q0",
-          "expanded_url": "https://twitter.com/i/web/status/1613600888236417024",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/zvl0TF00tV",
+          "expanded_url": "https://twitter.com/rosioalvaa/status/1595627137750470656?t=I3MBkkTPFNuAA8GhzMWIFA&s=19",
+          "display_url": "twitter.com/rosioalvaa/sta…",
           "indices": [
-            117,
-            140
+            34,
+            57
           ]
         }
       ]
@@ -69,9 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 621,
+    "is_quote_status": true,
+    "quoted_status_id": 1595627137750470700,
+    "quoted_status_id_str": "1595627137750470656",
+    "retweet_count": 0,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
