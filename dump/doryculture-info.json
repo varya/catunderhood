@@ -30,106 +30,38 @@
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8496,
+  "favourites_count": 11320,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30557,
+  "statuses_count": 30564,
   "lang": null,
   "status": {
-    "created_at": "Fri Feb 03 18:32:25 +0000 2023",
-    "id": 1621577364080660500,
-    "id_str": "1621577364080660480",
-    "text": "Шихворость и кусь за ногу https://t.co/vRnwDtjyEk",
-    "truncated": false,
+    "created_at": "Sat Feb 04 11:17:08 +0000 2023",
+    "id": 1621830208591433700,
+    "id_str": "1621830208591433731",
+    "text": "На дворе -30, я стою в глуши посреди частных домиков и созерцаю 3% зарядки на смартфоне. Такси не едет, я принимаю… https://t.co/OskkSNkc0O",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1621577288738373600,
-          "id_str": "1621577288738373632",
+          "url": "https://t.co/OskkSNkc0O",
+          "expanded_url": "https://twitter.com/i/web/status/1621830208591433731",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            26,
-            49
-          ],
-          "media_url": "http://pbs.twimg.com/media/FoD_898XgAAadOA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FoD_898XgAAadOA.jpg",
-          "url": "https://t.co/vRnwDtjyEk",
-          "display_url": "pic.twitter.com/vRnwDtjyEk",
-          "expanded_url": "https://twitter.com/catunderhood/status/1621577364080660480/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1621577288738373600,
-          "id_str": "1621577288738373632",
-          "indices": [
-            26,
-            49
-          ],
-          "media_url": "http://pbs.twimg.com/media/FoD_898XgAAadOA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FoD_898XgAAadOA.jpg",
-          "url": "https://t.co/vRnwDtjyEk",
-          "display_url": "pic.twitter.com/vRnwDtjyEk",
-          "expanded_url": "https://twitter.com/catunderhood/status/1621577364080660480/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 720,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1621570815727640600,
-    "in_reply_to_status_id_str": "1621570815727640579",
+    "in_reply_to_status_id": 1621829665865273300,
+    "in_reply_to_status_id_str": "1621829665865273344",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -138,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 123,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
