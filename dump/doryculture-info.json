@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 13344,
+  "followers_count": 13341,
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11320,
+  "favourites_count": 8496,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30564,
+  "statuses_count": 30597,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 04 11:17:08 +0000 2023",
-    "id": 1621830208591433700,
-    "id_str": "1621830208591433731",
-    "text": "На дворе -30, я стою в глуши посреди частных домиков и созерцаю 3% зарядки на смартфоне. Такси не едет, я принимаю… https://t.co/OskkSNkc0O",
+    "created_at": "Sat Feb 04 12:21:04 +0000 2023",
+    "id": 1621846299753562000,
+    "id_str": "1621846299753562112",
+    "text": "И еще вот так, потому что мы старались ее максимально отвлекать и помогать ей прийти в себя. Даже если ей для этого… https://t.co/9FTr5RdHCH",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,19 +49,19 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/OskkSNkc0O",
-          "expanded_url": "https://twitter.com/i/web/status/1621830208591433731",
+          "url": "https://t.co/9FTr5RdHCH",
+          "expanded_url": "https://twitter.com/i/web/status/1621846299753562112",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1621829665865273300,
-    "in_reply_to_status_id_str": "1621829665865273344",
+    "in_reply_to_status_id": 1621845592363122700,
+    "in_reply_to_status_id_str": "1621845592363122688",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
