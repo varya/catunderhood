@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13310,
+  "followers_count": 13307,
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,19 +35,29 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30674,
+  "statuses_count": 30693,
   "lang": null,
   "status": {
-    "created_at": "Sun Feb 05 16:26:43 +0000 2023",
-    "id": 1622270503988695000,
-    "id_str": "1622270503988695043",
-    "text": "про пристроенных котиков\n\nкак вы понимаете, нельзя приютить всех. поэтому ты ищешь им дом.\nиногда коты даже ходят с тобой в университет!",
-    "truncated": false,
+    "created_at": "Sun Feb 05 16:59:27 +0000 2023",
+    "id": 1622278742218358800,
+    "id_str": "1622278742218358786",
+    "text": "На этом мы с многокотием и Шихворостью прощаемся с вами. Это была чудесная неделя, и я рада, что смогла провести ее… https://t.co/9tvgcwmkDv",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/9tvgcwmkDv",
+          "expanded_url": "https://twitter.com/i/web/status/1622278742218358786",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 43,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
