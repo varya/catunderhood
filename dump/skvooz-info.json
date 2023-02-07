@@ -26,110 +26,42 @@
     }
   },
   "protected": false,
-  "followers_count": 13282,
+  "followers_count": 13283,
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11316,
+  "favourites_count": 8492,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30699,
+  "statuses_count": 30702,
   "lang": null,
   "status": {
-    "created_at": "Tue Feb 07 10:24:41 +0000 2023",
-    "id": 1622904173686665200,
-    "id_str": "1622904173686665218",
-    "text": "Ну ладно, есть поофициальнее. Чувствуется уже непростой характер? https://t.co/8QxcUXG7qB",
-    "truncated": false,
+    "created_at": "Tue Feb 07 12:57:43 +0000 2023",
+    "id": 1622942685932712000,
+    "id_str": "1622942685932711936",
+    "text": "Прийти на ручки, пырчать, давать себя спокойно гладить, спать под боком - это всё доступные опции только для меня.… https://t.co/zEoLc7fuxr",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1622903820794712000,
-          "id_str": "1622903820794712064",
+          "url": "https://t.co/zEoLc7fuxr",
+          "expanded_url": "https://twitter.com/i/web/status/1622942685932711936",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/FoW2bS8X0AA3E95.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FoW2bS8X0AA3E95.jpg",
-          "url": "https://t.co/8QxcUXG7qB",
-          "display_url": "pic.twitter.com/8QxcUXG7qB",
-          "expanded_url": "https://twitter.com/catunderhood/status/1622904173686665218/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 800,
-              "h": 533,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 800,
-              "h": 533,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1622903820794712000,
-          "id_str": "1622903820794712064",
-          "indices": [
-            66,
-            89
-          ],
-          "media_url": "http://pbs.twimg.com/media/FoW2bS8X0AA3E95.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FoW2bS8X0AA3E95.jpg",
-          "url": "https://t.co/8QxcUXG7qB",
-          "display_url": "pic.twitter.com/8QxcUXG7qB",
-          "expanded_url": "https://twitter.com/catunderhood/status/1622904173686665218/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 800,
-              "h": 533,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 800,
-              "h": 533,
-              "resize": "fit"
-            }
-          }
+            116,
+            139
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1622900124635496400,
-    "in_reply_to_status_id_str": "1622900124635496449",
+    "in_reply_to_status_id": 1622938678120120300,
+    "in_reply_to_status_id_str": "1622938678120120320",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -139,10 +71,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 74,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
