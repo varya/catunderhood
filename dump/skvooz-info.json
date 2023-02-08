@@ -35,43 +35,111 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30705,
+  "statuses_count": 30706,
   "lang": null,
   "status": {
-    "created_at": "Wed Feb 08 08:26:49 +0000 2023",
-    "id": 1623236896540225500,
-    "id_str": "1623236896540225537",
-    "text": "Так получилось, что Кису я не стерилизовал, каюсь. Вроде и собирался, но до дела так и не дошло. А в один момент я… https://t.co/x2j4fQMvIQ",
-    "truncated": true,
+    "created_at": "Wed Feb 08 09:34:01 +0000 2023",
+    "id": 1623253811388158000,
+    "id_str": "1623253811388157953",
+    "text": "Что было дальше? 😼 https://t.co/xZlpWHocsZ",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/x2j4fQMvIQ",
-          "expanded_url": "https://twitter.com/i/web/status/1623236896540225537",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1623253801737109500,
+          "id_str": "1623253801737109505",
           "indices": [
-            116,
-            139
-          ]
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fob0u3jXwAEHVBk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fob0u3jXwAEHVBk.jpg",
+          "url": "https://t.co/xZlpWHocsZ",
+          "display_url": "pic.twitter.com/xZlpWHocsZ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623253811388157953/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 912,
+              "h": 912,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 912,
+              "h": 912,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1623253801737109500,
+          "id_str": "1623253801737109505",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fob0u3jXwAEHVBk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fob0u3jXwAEHVBk.jpg",
+          "url": "https://t.co/xZlpWHocsZ",
+          "display_url": "pic.twitter.com/xZlpWHocsZ",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623253811388157953/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 912,
+              "h": 912,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 912,
+              "h": 912,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1623236896540225500,
+    "in_reply_to_status_id_str": "1623236896540225537",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 37,
+    "favorite_count": 38,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
