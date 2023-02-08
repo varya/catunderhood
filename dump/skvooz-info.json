@@ -30,51 +30,119 @@
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11317,
+  "favourites_count": 8493,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30721,
+  "statuses_count": 30724,
   "lang": null,
   "status": {
-    "created_at": "Wed Feb 08 17:09:36 +0000 2023",
-    "id": 1623368458984464400,
-    "id_str": "1623368458984464384",
-    "text": "@youredheadbaby уже почти настоялись :)",
+    "created_at": "Wed Feb 08 18:22:51 +0000 2023",
+    "id": 1623386893512482800,
+    "id_str": "1623386893512482820",
+    "text": "Слепышарики 😻 https://t.co/Uv15VHlBki",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "youredheadbaby",
-          "name": "KAY",
-          "id": 1157587142954107000,
-          "id_str": "1157587142954106880",
+          "id": 1623382244474728400,
+          "id_str": "1623382244474728448",
           "indices": [
-            0,
-            15
-          ]
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/FodpjOCXsAA_p_O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FodpjOCXsAA_p_O.jpg",
+          "url": "https://t.co/Uv15VHlBki",
+          "display_url": "pic.twitter.com/Uv15VHlBki",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623386893512482820/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1623382244474728400,
+          "id_str": "1623382244474728448",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/FodpjOCXsAA_p_O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FodpjOCXsAA_p_O.jpg",
+          "url": "https://t.co/Uv15VHlBki",
+          "display_url": "pic.twitter.com/Uv15VHlBki",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623386893512482820/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1623347628107759600,
-    "in_reply_to_status_id_str": "1623347628107759617",
-    "in_reply_to_user_id": 1157587142954107000,
-    "in_reply_to_user_id_str": "1157587142954106880",
-    "in_reply_to_screen_name": "youredheadbaby",
+    "in_reply_to_status_id": 1623379435343716400,
+    "in_reply_to_status_id_str": "1623379435343716370",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 15,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
