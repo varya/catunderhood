@@ -30,18 +30,18 @@
   "friends_count": 54,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11321,
+  "favourites_count": 8497,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30746,
+  "statuses_count": 30747,
   "lang": null,
   "status": {
-    "created_at": "Thu Feb 09 19:41:54 +0000 2023",
-    "id": 1623769174609633300,
-    "id_str": "1623769174609633283",
-    "text": "Зевающая фотка на ночь! https://t.co/LWo0zy5GU0",
+    "created_at": "Fri Feb 10 10:10:31 +0000 2023",
+    "id": 1623987770849915000,
+    "id_str": "1623987770849914881",
+    "text": "Пятница пускай будет днём видео (в основном на них Киса ворует еду) https://t.co/51skKVPR0R",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,17 +50,17 @@
       "urls": [],
       "media": [
         {
-          "id": 1623769085078036500,
-          "id_str": "1623769085078036485",
+          "id": 1623987713593471000,
+          "id_str": "1623987713593470978",
           "indices": [
-            24,
-            47
+            68,
+            91
           ],
-          "media_url": "http://pbs.twimg.com/media/FojJYTlWYAUZTJ1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FojJYTlWYAUZTJ1.jpg",
-          "url": "https://t.co/LWo0zy5GU0",
-          "display_url": "pic.twitter.com/LWo0zy5GU0",
-          "expanded_url": "https://twitter.com/catunderhood/status/1623769174609633283/photo/1",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623987713593470978/pu/img/A8ssBYEiC1guzJCT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623987713593470978/pu/img/A8ssBYEiC1guzJCT.jpg",
+          "url": "https://t.co/51skKVPR0R",
+          "display_url": "pic.twitter.com/51skKVPR0R",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623987770849914881/video/1",
           "type": "photo",
           "sizes": {
             "thumb": {
@@ -68,19 +68,19 @@
               "h": 150,
               "resize": "crop"
             },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
             "large": {
-              "w": 1200,
-              "h": 1600,
+              "w": 720,
+              "h": 1280,
               "resize": "fit"
             },
             "medium": {
-              "w": 900,
+              "w": 675,
               "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
               "resize": "fit"
             }
           }
@@ -90,39 +90,70 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1623769085078036500,
-          "id_str": "1623769085078036485",
+          "id": 1623987713593471000,
+          "id_str": "1623987713593470978",
           "indices": [
-            24,
-            47
+            68,
+            91
           ],
-          "media_url": "http://pbs.twimg.com/media/FojJYTlWYAUZTJ1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FojJYTlWYAUZTJ1.jpg",
-          "url": "https://t.co/LWo0zy5GU0",
-          "display_url": "pic.twitter.com/LWo0zy5GU0",
-          "expanded_url": "https://twitter.com/catunderhood/status/1623769174609633283/photo/1",
-          "type": "photo",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1623987713593470978/pu/img/A8ssBYEiC1guzJCT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1623987713593470978/pu/img/A8ssBYEiC1guzJCT.jpg",
+          "url": "https://t.co/51skKVPR0R",
+          "display_url": "pic.twitter.com/51skKVPR0R",
+          "expanded_url": "https://twitter.com/catunderhood/status/1623987770849914881/video/1",
+          "type": "video",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
             },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
             "large": {
-              "w": 1200,
-              "h": 1600,
+              "w": 720,
+              "h": 1280,
               "resize": "fit"
             },
             "medium": {
-              "w": 900,
+              "w": 675,
               "h": 1200,
               "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
             }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 17700,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1623987713593470978/pu/vid/480x852/jmsmPej-ZpXOGKlo.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1623987713593470978/pu/pl/cgXc7FfVSNgdEyaq.m3u8?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1623987713593470978/pu/vid/720x1280/-7x18GcOSKmuUjCe.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1623987713593470978/pu/vid/320x568/aCurerAtAWIqz-iJ.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
           }
         }
       ]
@@ -138,8 +169,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 192,
+    "retweet_count": 0,
+    "favorite_count": 13,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
