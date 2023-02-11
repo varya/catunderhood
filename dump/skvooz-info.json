@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30791,
+  "statuses_count": 30793,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 11 22:18:20 +0000 2023",
-    "id": 1624533320704098300,
-    "id_str": "1624533320704098304",
-    "text": "Предпоследняя вечерняя фотка, одна из моих любимых. Вот так Киса приходила и ложилась, стоило мне лечь на кровать.… https://t.co/G0miE33msu",
+    "created_at": "Sat Feb 11 23:04:29 +0000 2023",
+    "id": 1624544934295396400,
+    "id_str": "1624544934295396355",
+    "text": "@_zhnec Конечно, взяли ипотеку и купили отдельную квартиру, всё-таки не каждый день котят находишь. А в дальнейшем… https://t.co/YZa3zYpSPC",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "_zhnec",
+          "name": "zhnec",
+          "id": 231420338,
+          "id_str": "231420338",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/G0miE33msu",
-          "expanded_url": "https://twitter.com/i/web/status/1624533320704098304",
+          "url": "https://t.co/YZa3zYpSPC",
+          "expanded_url": "https://twitter.com/i/web/status/1624544934295396355",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             116,
@@ -60,21 +71,20 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1624468340168073200,
+    "in_reply_to_status_id_str": "1624468340168073216",
+    "in_reply_to_user_id": 231420338,
+    "in_reply_to_user_id_str": "231420338",
+    "in_reply_to_screen_name": "_zhnec",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
