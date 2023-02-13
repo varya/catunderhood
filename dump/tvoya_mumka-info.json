@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13304,
+  "followers_count": 13305,
   "friends_count": 55,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,114 +35,45 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30816,
+  "statuses_count": 30822,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 13 15:50:31 +0000 2023",
-    "id": 1625160500051947500,
-    "id_str": "1625160500051947526",
-    "text": "Мы с подружкой и котенкой Сарой в приюте!\n\nЛица закрыла, так как на фото хорошо получилась только Сара... https://t.co/ISMJ5LaPJ5",
-    "truncated": false,
+    "created_at": "Mon Feb 13 18:10:31 +0000 2023",
+    "id": 1625195729693118500,
+    "id_str": "1625195729693118465",
+    "text": "животные- это не только мягкие пузики и милые носики, но еще и большая ответственность. \nс ними часто бывает непоня… https://t.co/dQUjmolrC7",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1625160274771644400,
-          "id_str": "1625160274771644419",
+          "url": "https://t.co/dQUjmolrC7",
+          "expanded_url": "https://twitter.com/i/web/status/1625195729693118465",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            106,
-            129
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fo26qNDXEAMwXYW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fo26qNDXEAMwXYW.jpg",
-          "url": "https://t.co/ISMJ5LaPJ5",
-          "display_url": "pic.twitter.com/ISMJ5LaPJ5",
-          "expanded_url": "https://twitter.com/catunderhood/status/1625160500051947526/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1625160274771644400,
-          "id_str": "1625160274771644419",
-          "indices": [
-            106,
-            129
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fo26qNDXEAMwXYW.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fo26qNDXEAMwXYW.jpg",
-          "url": "https://t.co/ISMJ5LaPJ5",
-          "display_url": "pic.twitter.com/ISMJ5LaPJ5",
-          "expanded_url": "https://twitter.com/catunderhood/status/1625160500051947526/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1625194623550296000,
+    "in_reply_to_status_id_str": "1625194623550296075",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 93,
+    "retweet_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
