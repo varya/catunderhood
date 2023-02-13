@@ -26,151 +26,36 @@
     }
   },
   "protected": false,
-  "followers_count": 13303,
+  "followers_count": 13302,
   "friends_count": 55,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8533,
+  "favourites_count": 11357,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30806,
+  "statuses_count": 30807,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 13 08:54:12 +0000 2023",
-    "id": 1625055730511360000,
-    "id_str": "1625055730511360000",
-    "text": "Привет! на этой неделе в эфире Наташка @tvoya_mumka и булочки из переулочка Сара и Ева https://t.co/4tK6OxgLas",
-    "truncated": false,
+    "created_at": "Mon Feb 13 12:32:10 +0000 2023",
+    "id": 1625110580544643000,
+    "id_str": "1625110580544643072",
+    "text": "в детстве у меня не было домашних животных. я всегда любила собакенов и котеек, но относилась к ним с опаской, особ… https://t.co/EKysZaQ0bQ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "tvoya_mumka",
-          "name": "натахтари",
-          "id": 1114972413467537400,
-          "id_str": "1114972413467537408",
+          "url": "https://t.co/EKysZaQ0bQ",
+          "expanded_url": "https://twitter.com/i/web/status/1625110580544643072",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            39,
-            51
+            117,
+            140
           ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1625055444463939600,
-          "id_str": "1625055444463939587",
-          "indices": [
-            87,
-            110
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fo1bURuWcAMHkod.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fo1bURuWcAMHkod.jpg",
-          "url": "https://t.co/4tK6OxgLas",
-          "display_url": "pic.twitter.com/4tK6OxgLas",
-          "expanded_url": "https://twitter.com/catunderhood/status/1625055730511360000/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1625055444463939600,
-          "id_str": "1625055444463939587",
-          "indices": [
-            87,
-            110
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fo1bURuWcAMHkod.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fo1bURuWcAMHkod.jpg",
-          "url": "https://t.co/4tK6OxgLas",
-          "display_url": "pic.twitter.com/4tK6OxgLas",
-          "expanded_url": "https://twitter.com/catunderhood/status/1625055730511360000/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1625055444514361300,
-          "id_str": "1625055444514361344",
-          "indices": [
-            87,
-            110
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fo1bUR6X0AAZPMR.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fo1bUR6X0AAZPMR.jpg",
-          "url": "https://t.co/4tK6OxgLas",
-          "display_url": "pic.twitter.com/4tK6OxgLas",
-          "expanded_url": "https://twitter.com/catunderhood/status/1625055730511360000/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
         }
       ]
     },
@@ -185,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 164,
+    "retweet_count": 0,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
