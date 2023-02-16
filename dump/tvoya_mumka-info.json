@@ -26,53 +26,63 @@
     }
   },
   "protected": false,
-  "followers_count": 13301,
+  "followers_count": 13308,
   "friends_count": 55,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11367,
+  "favourites_count": 8544,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30862,
+  "statuses_count": 30865,
   "lang": null,
   "status": {
-    "created_at": "Thu Feb 16 14:48:46 +0000 2023",
-    "id": 1626232121596715000,
-    "id_str": "1626232121596715009",
-    "text": "@alpha_xopek к счастью, меня звук не смущает. Я пыталась отвлекать ее, но кошка начинала сильно нервничать, и я решила- ну пусть сосет...",
-    "truncated": false,
+    "created_at": "Thu Feb 16 17:18:31 +0000 2023",
+    "id": 1626269808797925400,
+    "id_str": "1626269808797925379",
+    "text": "@LisavetaJS да, все общее)\n-во второй лоток никто просто не стал ходить, так что у них один большой на двоих\n-кажда… https://t.co/TWPbx8oOLS",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "alpha_xopek",
-          "name": "пулеглот🌻☭",
-          "id": 3101483913,
-          "id_str": "3101483913",
+          "screen_name": "LisavetaJS",
+          "name": "Lisaveta",
+          "id": 3351049797,
+          "id_str": "3351049797",
           "indices": [
             0,
-            12
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/TWPbx8oOLS",
+          "expanded_url": "https://twitter.com/i/web/status/1626269808797925379",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1625818443755753500,
-    "in_reply_to_status_id_str": "1625818443755753472",
-    "in_reply_to_user_id": 3101483913,
-    "in_reply_to_user_id_str": "3101483913",
-    "in_reply_to_screen_name": "alpha_xopek",
+    "in_reply_to_status_id": 1626265913841397800,
+    "in_reply_to_status_id_str": "1626265913841397765",
+    "in_reply_to_user_id": 3351049797,
+    "in_reply_to_user_id_str": "3351049797",
+    "in_reply_to_screen_name": "LisavetaJS",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
