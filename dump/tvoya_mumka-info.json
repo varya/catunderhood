@@ -26,55 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 13300,
+  "followers_count": 13301,
   "friends_count": 55,
   "listed_count": 42,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11372,
+  "favourites_count": 11374,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30883,
+  "statuses_count": 30886,
   "lang": null,
   "status": {
-    "created_at": "Sat Feb 18 10:41:21 +0000 2023",
-    "id": 1626894632993923000,
-    "id_str": "1626894632993923073",
-    "text": "Если у вас есть вопросы или тейки по жизни с/терапии энтерита, го в комментарии! \n\nМне в тот период очень не хватал… https://t.co/sjnSAbmzoD",
-    "truncated": true,
+    "created_at": "Sun Feb 19 11:41:56 +0000 2023",
+    "id": 1627272267141902300,
+    "id_str": "1627272267141902336",
+    "text": "@DarYa89176610 сначала давала royal canin, потом перешли на Farmina VetLife",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/sjnSAbmzoD",
-          "expanded_url": "https://twitter.com/i/web/status/1626894632993923073",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "DarYa89176610",
+          "name": "Dar Ya",
+          "id": 1482799086961107000,
+          "id_str": "1482799086961106944",
           "indices": [
-            117,
-            140
+            0,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1626893941336420400,
-    "in_reply_to_status_id_str": "1626893941336420352",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1626917608439120000,
+    "in_reply_to_status_id_str": "1626917608439119872",
+    "in_reply_to_user_id": 1482799086961107000,
+    "in_reply_to_user_id_str": "1482799086961106944",
+    "in_reply_to_screen_name": "DarYa89176610",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 55,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
