@@ -1,8 +1,14 @@
 export default [
   {
+    "username": "zvaigzde_spindi",
+    "start": "30 January 2023",
+    "post": false
+  },
+  {
     "username": "tvoya_mumka",
     "start": "23 January 2023",
-    "post": false
+    "post": true,
+    "last": "1627374204567044096"
   },
   {
     "username": "skvooz",
