@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31000,
+  "statuses_count": 31016,
   "lang": null,
   "status": {
-    "created_at": "Tue Feb 28 14:05:56 +0000 2023",
-    "id": 1630569996203044900,
-    "id_str": "1630569996203044865",
-    "text": "Отличный фото-факт про сбрасывать все: помешали коту переставить стакан по феншую https://t.co/lAr9E3r7Qz",
+    "created_at": "Tue Feb 28 18:26:53 +0000 2023",
+    "id": 1630635668849213400,
+    "id_str": "1630635668849213455",
+    "text": "Иногда, правда, в моменты голода, происходит следующее https://t.co/lXsrI6Cwvw",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,28 +50,23 @@
       "urls": [],
       "media": [
         {
-          "id": 1630569964003311600,
-          "id_str": "1630569964003311616",
+          "id": 1630635614629445600,
+          "id_str": "1630635614629445650",
           "indices": [
-            82,
-            105
+            55,
+            78
           ],
-          "media_url": "http://pbs.twimg.com/media/FqDyvj3WwAAs3Ui.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqDyvj3WwAAs3Ui.jpg",
-          "url": "https://t.co/lAr9E3r7Qz",
-          "display_url": "pic.twitter.com/lAr9E3r7Qz",
-          "expanded_url": "https://twitter.com/catunderhood/status/1630569996203044865/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FqEuc7gWwBI7yZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FqEuc7gWwBI7yZJ.jpg",
+          "url": "https://t.co/lXsrI6Cwvw",
+          "display_url": "pic.twitter.com/lXsrI6Cwvw",
+          "expanded_url": "https://twitter.com/catunderhood/status/1630635668849213455/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
             },
             "small": {
               "w": 510,
@@ -81,6 +76,11 @@
             "large": {
               "w": 1066,
               "h": 1422,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
               "resize": "fit"
             }
           }
@@ -90,28 +90,23 @@
     "extended_entities": {
       "media": [
         {
-          "id": 1630569964003311600,
-          "id_str": "1630569964003311616",
+          "id": 1630635614629445600,
+          "id_str": "1630635614629445650",
           "indices": [
-            82,
-            105
+            55,
+            78
           ],
-          "media_url": "http://pbs.twimg.com/media/FqDyvj3WwAAs3Ui.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqDyvj3WwAAs3Ui.jpg",
-          "url": "https://t.co/lAr9E3r7Qz",
-          "display_url": "pic.twitter.com/lAr9E3r7Qz",
-          "expanded_url": "https://twitter.com/catunderhood/status/1630569996203044865/photo/1",
+          "media_url": "http://pbs.twimg.com/media/FqEuc7gWwBI7yZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FqEuc7gWwBI7yZJ.jpg",
+          "url": "https://t.co/lXsrI6Cwvw",
+          "display_url": "pic.twitter.com/lXsrI6Cwvw",
+          "expanded_url": "https://twitter.com/catunderhood/status/1630635668849213455/photo/1",
           "type": "photo",
           "sizes": {
             "thumb": {
               "w": 150,
               "h": 150,
               "resize": "crop"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
             },
             "small": {
               "w": 510,
@@ -122,14 +117,19 @@
               "w": 1066,
               "h": 1422,
               "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
             }
           }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1630554152139931600,
-    "in_reply_to_status_id_str": "1630554152139931650",
+    "in_reply_to_status_id": 1630635430264619000,
+    "in_reply_to_status_id_str": "1630635430264619020",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -139,7 +139,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 39,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
