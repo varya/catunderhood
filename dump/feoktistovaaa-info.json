@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13220,
+  "followers_count": 13216,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,47 +35,47 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31127,
+  "statuses_count": 31128,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 01 14:46:33 +0000 2023",
-    "id": 1630942607235752000,
-    "id_str": "1630942607235751936",
-    "text": "@wojciehelena цензурными словами не передать((",
-    "truncated": false,
+    "created_at": "Wed Mar 01 17:08:33 +0000 2023",
+    "id": 1630978341875351600,
+    "id_str": "1630978341875351560",
+    "text": "Специальный день в году, когда жамкать и сюсюкать над котиками можно без стеснения.\n\nС международным Днем кошек!  П… https://t.co/akhRKSX57R",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "wojciehelena",
-          "name": "wojciehelena",
-          "id": 1021506618159243300,
-          "id_str": "1021506618159243265",
+          "url": "https://t.co/akhRKSX57R",
+          "expanded_url": "https://twitter.com/i/web/status/1630978341875351560",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            13
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1630941927095902200,
-    "in_reply_to_status_id_str": "1630941927095902208",
-    "in_reply_to_user_id": 1021506618159243300,
-    "in_reply_to_user_id_str": "1021506618159243265",
-    "in_reply_to_screen_name": "wojciehelena",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 1,
+    "favorite_count": 39,
     "favorited": false,
     "retweeted": false,
-    "lang": "uk"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
