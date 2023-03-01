@@ -80,7 +80,7 @@
     "twitter-tokens": "^1.0.1",
     "typographic-numbers": "^0.2.1",
     "unidecode": "^0.1.7",
-    "webpack": "^1.12.4"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@actions/core": "1.4.0",
@@ -91,6 +91,6 @@
     "eslint-config-airbnb": "^0.1.0",
     "eslint-plugin-react": "^3.6.3",
     "eslint-plugin-require-path-exists": "^1.0.25",
-    "mocha": "^2.2.5"
+    "mocha": "^10.2.0"
   }
 }
