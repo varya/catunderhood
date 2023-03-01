@@ -26,134 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13216,
+  "followers_count": 13217,
   "friends_count": 55,
-  "listed_count": 42,
+  "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11408,
+  "favourites_count": 8584,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31140,
+  "statuses_count": 31143,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 01 19:41:52 +0000 2023",
-    "id": 1631016923562496000,
-    "id_str": "1631016923562496006",
-    "text": "@oh_my_hamlet пасиб) мы бодры и веселы!)) https://t.co/Qc6FWfliV7",
+    "created_at": "Wed Mar 01 22:21:26 +0000 2023",
+    "id": 1631057082936950800,
+    "id_str": "1631057082936950790",
+    "text": "@mikoyan985 А то!)) шикарные же)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "oh_my_hamlet",
-          "name": "гамлет птица-драматица хаотичный хирако хаотик",
-          "id": 1203962729356247000,
-          "id_str": "1203962729356247040",
+          "screen_name": "mikoyan985",
+          "name": "Vet",
+          "id": 771562387014942700,
+          "id_str": "771562387014942721",
           "indices": [
             0,
-            13
+            11
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1631016907800301600,
-          "id_str": "1631016907800301592",
-          "indices": [
-            42,
-            65
-          ],
-          "media_url": "http://pbs.twimg.com/media/FqKJPHQX0Bg0I-i.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqKJPHQX0Bg0I-i.jpg",
-          "url": "https://t.co/Qc6FWfliV7",
-          "display_url": "pic.twitter.com/Qc6FWfliV7",
-          "expanded_url": "https://twitter.com/catunderhood/status/1631016923562496006/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1896,
-              "h": 1422,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1631016907800301600,
-          "id_str": "1631016907800301592",
-          "indices": [
-            42,
-            65
-          ],
-          "media_url": "http://pbs.twimg.com/media/FqKJPHQX0Bg0I-i.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqKJPHQX0Bg0I-i.jpg",
-          "url": "https://t.co/Qc6FWfliV7",
-          "display_url": "pic.twitter.com/Qc6FWfliV7",
-          "expanded_url": "https://twitter.com/catunderhood/status/1631016923562496006/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1896,
-              "h": 1422,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1631014218341204000,
-    "in_reply_to_status_id_str": "1631014218341203972",
-    "in_reply_to_user_id": 1203962729356247000,
-    "in_reply_to_user_id_str": "1203962729356247040",
-    "in_reply_to_screen_name": "oh_my_hamlet",
+    "in_reply_to_status_id": 1630983922761728000,
+    "in_reply_to_status_id_str": "1630983922761728029",
+    "in_reply_to_user_id": 771562387014942700,
+    "in_reply_to_user_id_str": "771562387014942721",
+    "in_reply_to_screen_name": "mikoyan985",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
