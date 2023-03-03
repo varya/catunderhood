@@ -26,46 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 13213,
+  "followers_count": 13212,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11458,
+  "favourites_count": 8641,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31280,
+  "statuses_count": 31284,
   "lang": null,
   "status": {
-    "created_at": "Fri Mar 03 18:28:27 +0000 2023",
-    "id": 1631723225834037200,
-    "id_str": "1631723225834037259",
-    "text": "@captainSuer на Крыленко, точнее))",
+    "created_at": "Fri Mar 03 19:55:21 +0000 2023",
+    "id": 1631745093911675000,
+    "id_str": "1631745093911674891",
+    "text": "@anya_chipmunk @toivonens какой хорошенький!)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "captainSuer",
-          "name": "Котики и вандализм",
-          "id": 126284960,
-          "id_str": "126284960",
+          "screen_name": "anya_chipmunk",
+          "name": "Cat Paddington",
+          "id": 2368756765,
+          "id_str": "2368756765",
           "indices": [
             0,
-            12
+            14
+          ]
+        },
+        {
+          "screen_name": "toivonens",
+          "name": "viina-silli 🇫🇮",
+          "id": 215559242,
+          "id_str": "215559242",
+          "indices": [
+            15,
+            25
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1631448029709443000,
-    "in_reply_to_status_id_str": "1631448029709443072",
-    "in_reply_to_user_id": 126284960,
-    "in_reply_to_user_id_str": "126284960",
-    "in_reply_to_screen_name": "captainSuer",
+    "in_reply_to_status_id": 1631742293433614300,
+    "in_reply_to_status_id_str": "1631742293433614339",
+    "in_reply_to_user_id": 2368756765,
+    "in_reply_to_user_id_str": "2368756765",
+    "in_reply_to_screen_name": "anya_chipmunk",
     "geo": null,
     "coordinates": null,
     "place": null,
