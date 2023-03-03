@@ -26,123 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13212,
+  "followers_count": 13211,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11439,
+  "favourites_count": 8618,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31250,
+  "statuses_count": 31253,
   "lang": null,
   "status": {
-    "created_at": "Fri Mar 03 08:58:19 +0000 2023",
-    "id": 1631579747745497000,
-    "id_str": "1631579747745497088",
-    "text": "И всем телом эть! https://t.co/oWFahA33PP",
+    "created_at": "Fri Mar 03 09:28:27 +0000 2023",
+    "id": 1631587328362786800,
+    "id_str": "1631587328362786816",
+    "text": "@Nimraen да, как-то так оно и происходит))",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1631579736886444000,
-          "id_str": "1631579736886444038",
+          "screen_name": "Nimraen",
+          "name": "Пушишка Волшебная тварь",
+          "id": 105527172,
+          "id_str": "105527172",
           "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/media/FqSJIE_XgAYqyZY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqSJIE_XgAYqyZY.jpg",
-          "url": "https://t.co/oWFahA33PP",
-          "display_url": "pic.twitter.com/oWFahA33PP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1631579747745497088/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1066,
-              "h": 1422,
-              "resize": "fit"
-            }
-          }
+            0,
+            8
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1631579736886444000,
-          "id_str": "1631579736886444038",
-          "indices": [
-            18,
-            41
-          ],
-          "media_url": "http://pbs.twimg.com/media/FqSJIE_XgAYqyZY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FqSJIE_XgAYqyZY.jpg",
-          "url": "https://t.co/oWFahA33PP",
-          "display_url": "pic.twitter.com/oWFahA33PP",
-          "expanded_url": "https://twitter.com/catunderhood/status/1631579747745497088/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1066,
-              "h": 1422,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1631579664488571000,
-    "in_reply_to_status_id_str": "1631579664488570882",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1631579828435517400,
+    "in_reply_to_status_id_str": "1631579828435517444",
+    "in_reply_to_user_id": 105527172,
+    "in_reply_to_user_id_str": "105527172",
+    "in_reply_to_screen_name": "Nimraen",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 35,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
