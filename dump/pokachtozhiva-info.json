@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13218,
+  "followers_count": 13217,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,27 +35,131 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31399,
+  "statuses_count": 31401,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 06 12:57:29 +0000 2023",
-    "id": 1632727096408539100,
-    "id_str": "1632727096408539137",
-    "text": "Помимо пакет еще и провода (стараюсь их убирать обычно, чтобы ничего не произошло) https://t.co/TJ2nRAme1s",
+    "created_at": "Mon Mar 06 15:06:06 +0000 2023",
+    "id": 1632759465324826600,
+    "id_str": "1632759465324826627",
+    "text": "я и кот https://t.co/ikMohLaqqa",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/TJ2nRAme1s",
-          "expanded_url": "https://twitter.com/pokachtozhiva/status/1632726838647611392",
-          "display_url": "twitter.com/pokachtozhiva/…",
+          "id": 1632759450074325000,
+          "id_str": "1632759450074324994",
           "indices": [
-            83,
-            106
-          ]
+            8,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fqi6EbFXoAIYAyD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fqi6EbFXoAIYAyD.jpg",
+          "url": "https://t.co/ikMohLaqqa",
+          "display_url": "pic.twitter.com/ikMohLaqqa",
+          "expanded_url": "https://twitter.com/catunderhood/status/1632759465324826627/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1632759450074325000,
+          "id_str": "1632759450074324994",
+          "indices": [
+            8,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fqi6EbFXoAIYAyD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fqi6EbFXoAIYAyD.jpg",
+          "url": "https://t.co/ikMohLaqqa",
+          "display_url": "pic.twitter.com/ikMohLaqqa",
+          "expanded_url": "https://twitter.com/catunderhood/status/1632759465324826627/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1632759450124669000,
+          "id_str": "1632759450124668928",
+          "indices": [
+            8,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fqi6EbRX0AAln9F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fqi6EbRX0AAln9F.jpg",
+          "url": "https://t.co/ikMohLaqqa",
+          "display_url": "pic.twitter.com/ikMohLaqqa",
+          "expanded_url": "https://twitter.com/catunderhood/status/1632759465324826627/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -69,11 +173,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1632726838647611400,
-    "quoted_status_id_str": "1632726838647611392",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 38,
+    "favorite_count": 48,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
