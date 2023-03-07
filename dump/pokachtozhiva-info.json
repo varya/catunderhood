@@ -35,114 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31403,
+  "statuses_count": 31412,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 06 20:30:00 +0000 2023",
-    "id": 1632840978481422300,
-    "id_str": "1632840978481422336",
-    "text": "а это Тайсон желает спокойной ночи https://t.co/q5IgP5aD9N",
+    "created_at": "Tue Mar 07 13:13:29 +0000 2023",
+    "id": 1633093512966094800,
+    "id_str": "1633093512966094849",
+    "text": "@likirrra Иногда мяукнет в ответ и молчит. А с братом прям диалог из \"мяу-мяу-мяу\"",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1632760677344395300,
-          "id_str": "1632760677344395265",
+          "screen_name": "likirrra",
+          "name": "продолжая продолжать",
+          "id": 78957218,
+          "id_str": "78957218",
           "indices": [
-            35,
-            58
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fqi7L3BWwAEgAjM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fqi7L3BWwAEgAjM.jpg",
-          "url": "https://t.co/q5IgP5aD9N",
-          "display_url": "pic.twitter.com/q5IgP5aD9N",
-          "expanded_url": "https://twitter.com/catunderhood/status/1632840978481422336/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
+            0,
+            9
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1632760677344395300,
-          "id_str": "1632760677344395265",
-          "indices": [
-            35,
-            58
-          ],
-          "media_url": "http://pbs.twimg.com/media/Fqi7L3BWwAEgAjM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Fqi7L3BWwAEgAjM.jpg",
-          "url": "https://t.co/q5IgP5aD9N",
-          "display_url": "pic.twitter.com/q5IgP5aD9N",
-          "expanded_url": "https://twitter.com/catunderhood/status/1632840978481422336/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 960,
-              "h": 1280,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1633090321784381400,
+    "in_reply_to_status_id_str": "1633090321784381440",
+    "in_reply_to_user_id": 78957218,
+    "in_reply_to_user_id_str": "78957218",
+    "in_reply_to_screen_name": "likirrra",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 269,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
