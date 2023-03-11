@@ -26,55 +26,123 @@
     }
   },
   "protected": false,
-  "followers_count": 13225,
+  "followers_count": 13224,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11570,
+  "favourites_count": 11585,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31449,
+  "statuses_count": 31457,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 11 15:20:32 +0000 2023",
-    "id": 1634575037419102200,
-    "id_str": "1634575037419102210",
-    "text": "@NeRoizman2 Я тоже что-то подобное замечала, перешли на фармину, потом фармины не было в магазине, где обычно берем, купили опять грандорф",
+    "created_at": "Sat Mar 11 15:38:28 +0000 2023",
+    "id": 1634579549643059200,
+    "id_str": "1634579549643059201",
+    "text": "Неделя Тайсона подходит к концу, если у вас есть какие-то вопросы про него, то задавайте) https://t.co/xjesODzv2z",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "NeRoizman2",
-          "name": "Не Ройзман",
-          "id": 1563192013956141000,
-          "id_str": "1563192013956141059",
+          "id": 1634579527207723000,
+          "id_str": "1634579527207723009",
           "indices": [
-            0,
-            11
-          ]
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fq8xa2xXoAEmN8u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fq8xa2xXoAEmN8u.jpg",
+          "url": "https://t.co/xjesODzv2z",
+          "display_url": "pic.twitter.com/xjesODzv2z",
+          "expanded_url": "https://twitter.com/catunderhood/status/1634579549643059201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1634579527207723000,
+          "id_str": "1634579527207723009",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fq8xa2xXoAEmN8u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fq8xa2xXoAEmN8u.jpg",
+          "url": "https://t.co/xjesODzv2z",
+          "display_url": "pic.twitter.com/xjesODzv2z",
+          "expanded_url": "https://twitter.com/catunderhood/status/1634579549643059201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1634538668437143600,
-    "in_reply_to_status_id_str": "1634538668437143552",
-    "in_reply_to_user_id": 1563192013956141000,
-    "in_reply_to_user_id_str": "1563192013956141059",
-    "in_reply_to_screen_name": "NeRoizman2",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 71,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
