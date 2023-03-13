@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13228,
+  "followers_count": 13226,
   "friends_count": 55,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,108 +35,27 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31486,
+  "statuses_count": 31490,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 13 13:46:59 +0000 2023",
-    "id": 1635276270853562400,
-    "id_str": "1635276270853562370",
-    "text": "Мохнатки дубасятся! https://t.co/Axd3zLcuot",
-    "truncated": false,
+    "created_at": "Mon Mar 13 15:19:26 +0000 2023",
+    "id": 1635299537387667500,
+    "id_str": "1635299537387667458",
+    "text": "Кстати, воплощение кошачьей лени, долгое время он пил и ел лёжа у миски. И нет, он был абсолютно здоров и активен,… https://t.co/CWJfa25Rga",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1635275448971300900,
-          "id_str": "1635275448971300867",
+          "url": "https://t.co/CWJfa25Rga",
+          "expanded_url": "https://twitter.com/i/web/status/1635299537387667458",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FrGqW1XaEAMsoZZ.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FrGqW1XaEAMsoZZ.jpg",
-          "url": "https://t.co/Axd3zLcuot",
-          "display_url": "pic.twitter.com/Axd3zLcuot",
-          "expanded_url": "https://twitter.com/catunderhood/status/1635276270853562370/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 690,
-              "h": 388,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 690,
-              "h": 388,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 382,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1635275448971300900,
-          "id_str": "1635275448971300867",
-          "indices": [
-            20,
-            43
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FrGqW1XaEAMsoZZ.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FrGqW1XaEAMsoZZ.jpg",
-          "url": "https://t.co/Axd3zLcuot",
-          "display_url": "pic.twitter.com/Axd3zLcuot",
-          "expanded_url": "https://twitter.com/catunderhood/status/1635276270853562370/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 690,
-              "h": 388,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 690,
-              "h": 388,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 382,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              345,
-              194
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/FrGqW1XaEAMsoZZ.mp4"
-              }
-            ]
-          }
+            116,
+            139
+          ]
         }
       ]
     },
@@ -151,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 83,
+    "retweet_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
