@@ -30,48 +30,116 @@
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8766,
+  "favourites_count": 11590,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31515,
+  "statuses_count": 31519,
   "lang": null,
   "status": {
-    "created_at": "Tue Mar 14 09:56:56 +0000 2023",
-    "id": 1635580764493324300,
-    "id_str": "1635580764493324288",
-    "text": "Разбираем внешний вид мохнатых! Хоть я и до сих пор иногда путаю их со спины, они разные)\nКрюпт - очень длинный, дл… https://t.co/tw7nbSxc8c",
-    "truncated": true,
+    "created_at": "Tue Mar 14 11:20:00 +0000 2023",
+    "id": 1635601667742658600,
+    "id_str": "1635601667742658565",
+    "text": "С такими зубами игрушки нужны надёжные... https://t.co/9iPNvwfNOI",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/tw7nbSxc8c",
-          "expanded_url": "https://twitter.com/i/web/status/1635580764493324288",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1635601638214844400,
+          "id_str": "1635601638214844422",
           "indices": [
-            117,
-            140
-          ]
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/FrLTBi_XwAYZotr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FrLTBi_XwAYZotr.jpg",
+          "url": "https://t.co/9iPNvwfNOI",
+          "display_url": "pic.twitter.com/9iPNvwfNOI",
+          "expanded_url": "https://twitter.com/catunderhood/status/1635601667742658565/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1635601638214844400,
+          "id_str": "1635601638214844422",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/FrLTBi_XwAYZotr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FrLTBi_XwAYZotr.jpg",
+          "url": "https://t.co/9iPNvwfNOI",
+          "display_url": "pic.twitter.com/9iPNvwfNOI",
+          "expanded_url": "https://twitter.com/catunderhood/status/1635601667742658565/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1635601479166730200,
+    "in_reply_to_status_id_str": "1635601479166730241",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 59,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
