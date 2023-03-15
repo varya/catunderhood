@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13225,
+  "followers_count": 13224,
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8773,
+  "favourites_count": 11598,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31597,
+  "statuses_count": 31608,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 15 14:18:46 +0000 2023",
-    "id": 1636009042970640400,
-    "id_str": "1636009042970640384",
-    "text": "Поговорим про пищевые предпочтения рыжиков!)\nЗдесь Крюпт покушается на свежесобранную чернику. Витамины!\nХотя кошки… https://t.co/U6I56H4Zba",
-    "truncated": true,
+    "created_at": "Wed Mar 15 15:22:19 +0000 2023",
+    "id": 1636025038565437400,
+    "id_str": "1636025038565437441",
+    "text": "@olikjh Да 👍",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/U6I56H4Zba",
-          "expanded_url": "https://twitter.com/i/web/status/1636009042970640384",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "olikjh",
+          "name": "кошькин мыш, IT-диссидент",
+          "id": 108329896,
+          "id_str": "108329896",
           "indices": [
-            117,
-            140
+            0,
+            7
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1636020052603416600,
+    "in_reply_to_status_id_str": "1636020052603416577",
+    "in_reply_to_user_id": 108329896,
+    "in_reply_to_user_id_str": "108329896",
+    "in_reply_to_screen_name": "olikjh",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 5,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
