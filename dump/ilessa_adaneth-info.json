@@ -26,56 +26,135 @@
     }
   },
   "protected": false,
-  "followers_count": 13339,
+  "followers_count": 13341,
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8884,
+  "favourites_count": 11708,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31703,
+  "statuses_count": 31714,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 18 10:01:14 +0000 2023",
-    "id": 1637031397708710000,
-    "id_str": "1637031397708709888",
-    "text": "Нюктя напоминает:\nкотикам нельзя виноград!\nДаже если ваши котики его не просят, не оставляйте виноград без присмотр… https://t.co/AyNxE5M7cY",
-    "truncated": true,
+    "created_at": "Sat Mar 18 11:16:41 +0000 2023",
+    "id": 1637050386698608600,
+    "id_str": "1637050386698608643",
+    "text": "@Dorzhiye Кощька найдена, ура! ✨ https://t.co/X9gN9AAkEO",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/AyNxE5M7cY",
-          "expanded_url": "https://twitter.com/i/web/status/1637031397708709888",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Dorzhiye",
+          "name": "а что делать?",
+          "id": 1208709900664217600,
+          "id_str": "1208709900664217601",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1637050317278781400,
+          "id_str": "1637050317278781442",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Frf4lxDXoAIPbZ6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Frf4lxDXoAIPbZ6.jpg",
+          "url": "https://t.co/X9gN9AAkEO",
+          "display_url": "pic.twitter.com/X9gN9AAkEO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637050386698608643/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1637050317278781400,
+          "id_str": "1637050317278781442",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Frf4lxDXoAIPbZ6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Frf4lxDXoAIPbZ6.jpg",
+          "url": "https://t.co/X9gN9AAkEO",
+          "display_url": "pic.twitter.com/X9gN9AAkEO",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637050386698608643/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1637049992916476000,
+    "in_reply_to_status_id_str": "1637049992916475905",
+    "in_reply_to_user_id": 1208709900664217600,
+    "in_reply_to_user_id_str": "1208709900664217601",
+    "in_reply_to_screen_name": "Dorzhiye",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 37,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "uk"
   },
   "contributors_enabled": false,
   "is_translator": false,
