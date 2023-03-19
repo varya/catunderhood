@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 13357,
+  "followers_count": 13359,
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11768,
+  "favourites_count": 8945,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31745,
+  "statuses_count": 31746,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 18 15:22:40 +0000 2023",
-    "id": 1637112287939920000,
-    "id_str": "1637112287939919878",
-    "text": "Твиттерские кошкохозяева, расскажите, как вы совмещаете котов и растения? Есть удачный опыт?) 🐈🪴\nМечтаю выращивать… https://t.co/eXLlmukvZW",
-    "truncated": true,
+    "created_at": "Sun Mar 19 06:29:00 +0000 2023",
+    "id": 1637340374116241400,
+    "id_str": "1637340374116241408",
+    "text": "Это лапки, держите осторожно! 🐾✨ https://t.co/yMAj92EacD",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/eXLlmukvZW",
-          "expanded_url": "https://twitter.com/i/web/status/1637112287939919878",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1637304735911882800,
+          "id_str": "1637304735911882752",
           "indices": [
-            116,
-            139
-          ]
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Frjf-4UXsAAs_US.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Frjf-4UXsAAs_US.jpg",
+          "url": "https://t.co/yMAj92EacD",
+          "display_url": "pic.twitter.com/yMAj92EacD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637340374116241408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1637304735911882800,
+          "id_str": "1637304735911882752",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Frjf-4UXsAAs_US.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Frjf-4UXsAAs_US.jpg",
+          "url": "https://t.co/yMAj92EacD",
+          "display_url": "pic.twitter.com/yMAj92EacD",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637340374116241408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 7,
-    "favorite_count": 322,
+    "retweet_count": 2,
+    "favorite_count": 58,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
