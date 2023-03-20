@@ -30,51 +30,51 @@
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11834,
+  "favourites_count": 9009,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31798,
+  "statuses_count": 31799,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 20 12:41:18 +0000 2023",
-    "id": 1637796454566711300,
-    "id_str": "1637796454566711298",
-    "text": "@OokaminoShinzou шерстяной копирайтер",
-    "truncated": false,
+    "created_at": "Mon Mar 20 15:22:57 +0000 2023",
+    "id": 1637837135431577600,
+    "id_str": "1637837135431577602",
+    "text": "начну свой рассказ с момента появления котика у нас. долго ходили по выставкам, чтобы выбрать подходящую породу.\n\nп… https://t.co/zMq380BRvq",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "OokaminoShinzou",
-          "name": "Solitary Snake❌",
-          "id": 269878085,
-          "id_str": "269878085",
+          "url": "https://t.co/zMq380BRvq",
+          "expanded_url": "https://twitter.com/i/web/status/1637837135431577602",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            16
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1637792582150369300,
-    "in_reply_to_status_id_str": "1637792582150369282",
-    "in_reply_to_user_id": 269878085,
-    "in_reply_to_user_id_str": "269878085",
-    "in_reply_to_screen_name": "OokaminoShinzou",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
