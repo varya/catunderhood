@@ -26,55 +26,123 @@
     }
   },
   "protected": false,
-  "followers_count": 13364,
+  "followers_count": 13366,
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 8998,
+  "favourites_count": 11831,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31793,
+  "statuses_count": 31797,
   "lang": null,
   "status": {
-    "created_at": "Mon Mar 20 11:16:07 +0000 2023",
-    "id": 1637775017579511800,
-    "id_str": "1637775017579511810",
-    "text": "@sweet_shalqu0ir КОЦ &lt;з",
+    "created_at": "Mon Mar 20 11:57:25 +0000 2023",
+    "id": 1637785411127787500,
+    "id_str": "1637785411127787520",
+    "text": "работать, как всегда, невозможно.\n\nвпрочем, ничего нового 🌚 https://t.co/dI7PKRFCxT",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "sweet_shalqu0ir",
-          "name": "почётный вуглускр",
-          "id": 1328623560747872300,
-          "id_str": "1328623560747872257",
+          "id": 1637785071972229000,
+          "id_str": "1637785071972229122",
           "indices": [
-            0,
-            16
-          ]
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/FrqU2HlXoAI0J40.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FrqU2HlXoAI0J40.jpg",
+          "url": "https://t.co/dI7PKRFCxT",
+          "display_url": "pic.twitter.com/dI7PKRFCxT",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637785411127787520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1232,
+              "h": 1642,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1637785071972229000,
+          "id_str": "1637785071972229122",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/FrqU2HlXoAI0J40.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FrqU2HlXoAI0J40.jpg",
+          "url": "https://t.co/dI7PKRFCxT",
+          "display_url": "pic.twitter.com/dI7PKRFCxT",
+          "expanded_url": "https://twitter.com/catunderhood/status/1637785411127787520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1232,
+              "h": 1642,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1637774898394267600,
-    "in_reply_to_status_id_str": "1637774898394267651",
-    "in_reply_to_user_id": 1328623560747872300,
-    "in_reply_to_user_id_str": "1328623560747872257",
-    "in_reply_to_screen_name": "sweet_shalqu0ir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 1,
+    "favorite_count": 95,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
