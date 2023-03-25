@@ -26,159 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13379,
+  "followers_count": 13380,
   "friends_count": 56,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11949,
+  "favourites_count": 11952,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31901,
+  "statuses_count": 31907,
   "lang": null,
   "status": {
-    "created_at": "Sat Mar 25 15:18:53 +0000 2023",
-    "id": 1639648051181793300,
-    "id_str": "1639648051181793280",
-    "text": "а вот расскажите, любят ли ваши котики гулять? https://t.co/88LPwArkEY",
+    "created_at": "Sat Mar 25 15:50:57 +0000 2023",
+    "id": 1639656124126490600,
+    "id_str": "1639656124126490625",
+    "text": "@doryculture таец?)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1639647906742280200,
-          "id_str": "1639647906742280193",
+          "screen_name": "doryculture",
+          "name": "dorothea.",
+          "id": 306671286,
+          "id_str": "306671286",
           "indices": [
-            47,
-            70
-          ],
-          "media_url": "http://pbs.twimg.com/media/FsEzFX4WIAEXHMb.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FsEzFX4WIAEXHMb.jpg",
-          "url": "https://t.co/88LPwArkEY",
-          "display_url": "pic.twitter.com/88LPwArkEY",
-          "expanded_url": "https://twitter.com/catunderhood/status/1639648051181793280/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
+            0,
+            12
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1639647906742280200,
-          "id_str": "1639647906742280193",
-          "indices": [
-            47,
-            70
-          ],
-          "media_url": "http://pbs.twimg.com/media/FsEzFX4WIAEXHMb.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FsEzFX4WIAEXHMb.jpg",
-          "url": "https://t.co/88LPwArkEY",
-          "display_url": "pic.twitter.com/88LPwArkEY",
-          "expanded_url": "https://twitter.com/catunderhood/status/1639648051181793280/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1639647906654310400,
-          "id_str": "1639647906654310400",
-          "indices": [
-            47,
-            70
-          ],
-          "media_url": "http://pbs.twimg.com/media/FsEzFXjX0AAcYqI.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FsEzFXjX0AAcYqI.jpg",
-          "url": "https://t.co/88LPwArkEY",
-          "display_url": "pic.twitter.com/88LPwArkEY",
-          "expanded_url": "https://twitter.com/catunderhood/status/1639648051181793280/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1639653935865577500,
+    "in_reply_to_status_id_str": "1639653935865577472",
+    "in_reply_to_user_id": 306671286,
+    "in_reply_to_user_id_str": "306671286",
+    "in_reply_to_screen_name": "doryculture",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
