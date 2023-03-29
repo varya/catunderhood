@@ -35,44 +35,54 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31995,
+  "statuses_count": 31996,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 29 18:34:10 +0000 2023",
-    "id": 1641146747677180000,
-    "id_str": "1641146747677179921",
-    "text": "@janemikheeva Мы смеемся, что у него голова и лапки от одного кота, а тельце и хвост - от другого",
-    "truncated": false,
+    "created_at": "Wed Mar 29 21:47:14 +0000 2023",
+    "id": 1641195334113083400,
+    "id_str": "1641195334113083392",
+    "text": "@wunschdenker Да, у меня тоже теперь очень много наших с Бесом фоток. Для меня важно было фоткать нас обоих, чтобы… https://t.co/xqdF0F4JwK",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "janemikheeva",
-          "name": "котячья мать",
-          "id": 218307360,
-          "id_str": "218307360",
+          "screen_name": "wunschdenker",
+          "name": "Elsa Timekiller🌻💙💛",
+          "id": 53757552,
+          "id_str": "53757552",
           "indices": [
             0,
             13
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/xqdF0F4JwK",
+          "expanded_url": "https://twitter.com/i/web/status/1641195334113083392",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1641140668754980900,
-    "in_reply_to_status_id_str": "1641140668754980866",
-    "in_reply_to_user_id": 218307360,
-    "in_reply_to_user_id_str": "218307360",
-    "in_reply_to_screen_name": "janemikheeva",
+    "in_reply_to_status_id": 1641185079371403300,
+    "in_reply_to_status_id_str": "1641185079371403264",
+    "in_reply_to_user_id": 53757552,
+    "in_reply_to_user_id_str": "53757552",
+    "in_reply_to_screen_name": "wunschdenker",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
