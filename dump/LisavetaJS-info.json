@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13388,
+  "followers_count": 13387,
   "friends_count": 57,
   "listed_count": 43,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,111 +35,43 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 31977,
+  "statuses_count": 31979,
   "lang": null,
   "status": {
-    "created_at": "Wed Mar 29 12:20:14 +0000 2023",
-    "id": 1641052646801830000,
-    "id_str": "1641052646801829894",
-    "text": "Если в какой-то момент дальнейшего рассказа покажется, что Кузенька нежно-трепетная лань, присмотритесь еще раз https://t.co/vyUiRMBs0B",
-    "truncated": false,
+    "created_at": "Wed Mar 29 14:54:22 +0000 2023",
+    "id": 1641091432613068800,
+    "id_str": "1641091432613068806",
+    "text": "Что касается имени\nКогда-то я мечтала о черном ориентале по имени Сарек. Но вместо него был вот этот черный чепушил… https://t.co/dELjQcae0n",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 1641052542808334300,
-          "id_str": "1641052542808334337",
+          "url": "https://t.co/dELjQcae0n",
+          "expanded_url": "https://twitter.com/i/web/status/1641091432613068806",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            112,
-            135
-          ],
-          "media_url": "http://pbs.twimg.com/media/FsYwl8_XoAELjMY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FsYwl8_XoAELjMY.jpg",
-          "url": "https://t.co/vyUiRMBs0B",
-          "display_url": "pic.twitter.com/vyUiRMBs0B",
-          "expanded_url": "https://twitter.com/catunderhood/status/1641052646801829894/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1641052542808334300,
-          "id_str": "1641052542808334337",
-          "indices": [
-            112,
-            135
-          ],
-          "media_url": "http://pbs.twimg.com/media/FsYwl8_XoAELjMY.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/FsYwl8_XoAELjMY.jpg",
-          "url": "https://t.co/vyUiRMBs0B",
-          "display_url": "pic.twitter.com/vyUiRMBs0B",
-          "expanded_url": "https://twitter.com/catunderhood/status/1641052646801829894/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1641051842841854000,
-    "in_reply_to_status_id_str": "1641051842841853953",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 46,
+    "favorite_count": 21,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
