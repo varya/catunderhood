@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13420,
+  "followers_count": 13421,
   "friends_count": 57,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11991,
+  "favourites_count": 11993,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32027,
+  "statuses_count": 32032,
   "lang": null,
   "status": {
-    "created_at": "Thu Mar 30 19:07:17 +0000 2023",
-    "id": 1641517468987302000,
-    "id_str": "1641517468987301900",
-    "text": "Выждав время и снова разделив котов, я установила график гуляния на улице - пока один гуляет второго не выпускаем.… https://t.co/BGliLGq8gw",
-    "truncated": true,
+    "created_at": "Thu Mar 30 19:53:07 +0000 2023",
+    "id": 1641529003772092400,
+    "id_str": "1641529003772092435",
+    "text": "@realvectorspace Потерянные братья?)))",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/BGliLGq8gw",
-          "expanded_url": "https://twitter.com/i/web/status/1641517468987301900",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "realvectorspace",
+          "name": "Someone",
+          "id": 861922833705914400,
+          "id_str": "861922833705914368",
           "indices": [
-            116,
-            139
+            0,
+            16
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1641513501481918500,
-    "in_reply_to_status_id_str": "1641513501481918464",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1641504090042531800,
+    "in_reply_to_status_id_str": "1641504090042531840",
+    "in_reply_to_user_id": 861922833705914400,
+    "in_reply_to_user_id_str": "861922833705914368",
+    "in_reply_to_screen_name": "realvectorspace",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 18,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
