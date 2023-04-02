@@ -26,55 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 13463,
+  "followers_count": 13464,
   "friends_count": 57,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9177,
+  "favourites_count": 12005,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32076,
+  "statuses_count": 32077,
   "lang": null,
   "status": {
-    "created_at": "Sun Apr 02 13:11:57 +0000 2023",
-    "id": 1642515213445365800,
-    "id_str": "1642515213445365767",
-    "text": "Недавно Дэнно даже попытался лизнуть поднесенного к нему Кузеньку. Но в остальное время их общение скорее вооруженн… https://t.co/aKTlD0DpAN",
+    "created_at": "Sun Apr 02 13:24:50 +0000 2023",
+    "id": 1642518453775921200,
+    "id_str": "1642518453775921154",
+    "text": "@_rina7q Ну это ж отлично, что ритерлись. Тем более, если вы уделяете внимание на равных\nА гоняние по очереди и не… https://t.co/1JfDvl9qqb",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "_rina7q",
+          "name": "крутится с придурками 🕊",
+          "id": 1322940899601617000,
+          "id_str": "1322940899601616908",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/aKTlD0DpAN",
-          "expanded_url": "https://twitter.com/i/web/status/1642515213445365767",
+          "url": "https://t.co/1JfDvl9qqb",
+          "expanded_url": "https://twitter.com/i/web/status/1642518453775921154",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1642513269230387200,
-    "in_reply_to_status_id_str": "1642513269230387200",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1642397046974959600,
+    "in_reply_to_status_id_str": "1642397046974959616",
+    "in_reply_to_user_id": 1322940899601617000,
+    "in_reply_to_user_id_str": "1322940899601616908",
+    "in_reply_to_screen_name": "_rina7q",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
