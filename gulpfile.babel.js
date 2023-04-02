@@ -125,7 +125,7 @@ task('rss', done => {
       feed.item({
         title: author.username,
         description: render(firstTweet(author)),
-        url: `https://jsunderhood.ru/${author.username}/`,
+        url: `https://catunderhood.info/${author.username}/`,
         date: firstTweet(author).created_at,
       });
     }
@@ -153,12 +153,12 @@ task('authors', ['css'], done => {
 
 task('userpics', () =>
   src('dump/images/*-image*')
-    .pipe(jimp({ resize: { width: 96, height: 96 }}))
+    .pipe(jimp({ resize: { width: 96, height: 96 } }))
     .pipe(dest('dist/images')));
 
 task('current-userpic', () =>
   head(authors) && src(`dump/images/${head(authors).username}-image*`)
-    .pipe(jimp({ resize: { width: 192, height: 192 }}))
+    .pipe(jimp({ resize: { width: 192, height: 192 } }))
     .pipe(rename('current-image'))
     .pipe(dest('dist/images')));
 
@@ -205,7 +205,7 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'md-pages']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
+task('build', done => sequence('html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 
