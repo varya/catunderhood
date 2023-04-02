@@ -26,63 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 13463,
+  "followers_count": 13462,
   "friends_count": 57,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 11995,
+  "favourites_count": 11997,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32063,
+  "statuses_count": 32071,
   "lang": null,
   "status": {
-    "created_at": "Sat Apr 01 15:58:07 +0000 2023",
-    "id": 1642194642434179000,
-    "id_str": "1642194642434179072",
-    "text": "@wheat_vera Будьте действительно осторожны. Животные с агрессией всегда остаются животными. Они не понимают, что вы… https://t.co/hbH9pfNI5k",
-    "truncated": true,
+    "created_at": "Sun Apr 02 12:31:34 +0000 2023",
+    "id": 1642505048306466800,
+    "id_str": "1642505048306466817",
+    "text": "@cringeberryjam О, если косоглазие врожденное, то я даже буду рада. Боялась, что это могло быть результатом жестокого обращения(((",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "wheat_vera",
-          "name": "пшеничная вера🤍💙🤍",
-          "id": 1372780609890701300,
-          "id_str": "1372780609890701314",
+          "screen_name": "cringeberryjam",
+          "name": "Варенье из кринжовника",
+          "id": 1221114878284435500,
+          "id_str": "1221114878284435456",
           "indices": [
             0,
-            11
+            15
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/hbH9pfNI5k",
-          "expanded_url": "https://twitter.com/i/web/status/1642194642434179072",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1642175789960405000,
-    "in_reply_to_status_id_str": "1642175789960404995",
-    "in_reply_to_user_id": 1372780609890701300,
-    "in_reply_to_user_id_str": "1372780609890701314",
-    "in_reply_to_screen_name": "wheat_vera",
+    "in_reply_to_status_id": 1642246043105386500,
+    "in_reply_to_status_id_str": "1642246043105386497",
+    "in_reply_to_user_id": 1221114878284435500,
+    "in_reply_to_user_id_str": "1221114878284435456",
+    "in_reply_to_screen_name": "cringeberryjam",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 8,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
