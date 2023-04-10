@@ -1,8 +1,14 @@
 export default [
   {
+    "username": "islas_de_muerte",
+    "start": "27 March 2023",
+    "post": false
+  },
+  {
     "username": "freerussians_de",
     "start": "20 March 2023",
-    "post": false
+    "post": true,
+    "last": "1642606767308787713"
   },
   {
     "username": "LisavetaJS",
