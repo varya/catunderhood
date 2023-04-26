@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13467,
+  "followers_count": 13468,
   "friends_count": 57,
   "listed_count": 45,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32336,
+  "statuses_count": 32342,
   "lang": null,
   "status": {
-    "created_at": "Wed Apr 26 18:22:31 +0000 2023",
-    "id": 1651290676028375000,
-    "id_str": "1651290676028375062",
-    "text": "Сейчас Мавка - годовалая кошка, которая все еще выглядит, как котенок. Она обожает внимание, но не особо понимает,… https://t.co/hg7RMGDb2Z",
+    "created_at": "Wed Apr 26 19:15:00 +0000 2023",
+    "id": 1651303883031838700,
+    "id_str": "1651303883031838773",
+    "text": "Мавка не любит закрытые двери.\n\nНедавно заболел Пират, и нам пришлось изолировать девчонок, чтобы наблюдать за его… https://t.co/U2RzfyrWEq",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/hg7RMGDb2Z",
-          "expanded_url": "https://twitter.com/i/web/status/1651290676028375062",
+          "url": "https://t.co/U2RzfyrWEq",
+          "expanded_url": "https://twitter.com/i/web/status/1651303883031838773",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             116,
@@ -60,8 +60,8 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1651290182098747400,
-    "in_reply_to_status_id_str": "1651290182098747396",
+    "in_reply_to_status_id": 1651302731577950200,
+    "in_reply_to_status_id_str": "1651302731577950234",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
