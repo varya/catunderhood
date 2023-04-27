@@ -35,13 +35,13 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32386,
+  "statuses_count": 32400,
   "lang": null,
   "status": {
-    "created_at": "Thu Apr 27 15:16:49 +0000 2023",
-    "id": 1651606333194420200,
-    "id_str": "1651606333194420224",
-    "text": "Пират посмотрел на них, понюхался с каждой и пошел смотреть комнату, которую от него скрывали. Там он обследовал ми… https://t.co/gvUXQjpH9D",
+    "created_at": "Thu Apr 27 16:20:58 +0000 2023",
+    "id": 1651622477309542400,
+    "id_str": "1651622477309542407",
+    "text": "И все же он иногда приходит на руки, на колени, на компьютерный стол, иногда заваливается под бок или ложится на ст… https://t.co/VXkbaN92f4",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/gvUXQjpH9D",
-          "expanded_url": "https://twitter.com/i/web/status/1651606333194420224",
+          "url": "https://t.co/VXkbaN92f4",
+          "expanded_url": "https://twitter.com/i/web/status/1651622477309542407",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,8 +60,8 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1651605472330367000,
-    "in_reply_to_status_id_str": "1651605472330366977",
+    "in_reply_to_status_id": 1651621298781528000,
+    "in_reply_to_status_id_str": "1651621298781528070",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -71,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
