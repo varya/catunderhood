@@ -30,27 +30,38 @@
   "friends_count": 57,
   "listed_count": 45,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 12071,
+  "favourites_count": 9258,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32497,
+  "statuses_count": 32502,
   "lang": null,
   "status": {
-    "created_at": "Fri Apr 28 20:21:10 +0000 2023",
-    "id": 1652045312444211200,
-    "id_str": "1652045312444211228",
-    "text": "Поначалу его соседом по квартире был кот Тимофей. Тимофею было восемнадцать лет, солидный возраст для мужчины кошач… https://t.co/Nrkkxxf0eH",
+    "created_at": "Fri Apr 28 20:40:37 +0000 2023",
+    "id": 1652050205351501800,
+    "id_str": "1652050205351501829",
+    "text": "@janemikheeva Соболезную. Уверена, он был хорошим зверем.\n\nНадеюсь, что у младшей кошки ситуация с зубами наладится… https://t.co/FgYI9zd9tv",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "janemikheeva",
+          "name": "котячья мать",
+          "id": 218307360,
+          "id_str": "218307360",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/Nrkkxxf0eH",
-          "expanded_url": "https://twitter.com/i/web/status/1652045312444211228",
+          "url": "https://t.co/FgYI9zd9tv",
+          "expanded_url": "https://twitter.com/i/web/status/1652050205351501829",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,11 +71,11 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1652044684380852200,
-    "in_reply_to_status_id_str": "1652044684380852224",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1651867178419859500,
+    "in_reply_to_status_id_str": "1651867178419859456",
+    "in_reply_to_user_id": 218307360,
+    "in_reply_to_user_id_str": "218307360",
+    "in_reply_to_screen_name": "janemikheeva",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -74,7 +85,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
