@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13459,
+  "followers_count": 13457,
   "friends_count": 57,
   "listed_count": 45,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9262,
+  "favourites_count": 12083,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32553,
+  "statuses_count": 32563,
   "lang": null,
   "status": {
-    "created_at": "Sat Apr 29 21:14:08 +0000 2023",
-    "id": 1652421028704923600,
-    "id_str": "1652421028704923649",
-    "text": "А она посидела в укрытии день и сочла, что наконец-то попала в достойные условия. \n\nНа меня и мою девушку Маргоша т… https://t.co/qK6IoPDVDz",
-    "truncated": true,
+    "created_at": "Sat Apr 29 22:11:54 +0000 2023",
+    "id": 1652435568670769200,
+    "id_str": "1652435568670769153",
+    "text": "@lucy_cat_nanny Да! Большой, гордый, тоже во фраке, но в коричневом!",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/qK6IoPDVDz",
-          "expanded_url": "https://twitter.com/i/web/status/1652421028704923649",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "lucy_cat_nanny",
+          "name": "Здесь мог быть всратый ник, но мне лень",
+          "id": 1492012430351868000,
+          "id_str": "1492012430351867922",
           "indices": [
-            117,
-            140
+            0,
+            15
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1652418943192121300,
-    "in_reply_to_status_id_str": "1652418943192121345",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": 1652432069975507000,
+    "in_reply_to_status_id_str": "1652432069975506944",
+    "in_reply_to_user_id": 1492012430351868000,
+    "in_reply_to_user_id_str": "1492012430351867922",
+    "in_reply_to_screen_name": "lucy_cat_nanny",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
