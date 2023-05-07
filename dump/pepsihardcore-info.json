@@ -26,55 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 13457,
+  "followers_count": 13458,
   "friends_count": 57,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 12116,
+  "favourites_count": 9303,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32677,
+  "statuses_count": 32679,
   "lang": null,
   "status": {
-    "created_at": "Sun May 07 16:46:43 +0000 2023",
-    "id": 1655252835171172400,
-    "id_str": "1655252835171172353",
-    "text": "@IrisTheFox2 Потому что жопа как дикобраз пускает шерсть в лицо 😹",
-    "truncated": false,
+    "created_at": "Sun May 07 19:04:20 +0000 2023",
+    "id": 1655287464855064600,
+    "id_str": "1655287464855064578",
+    "text": "Котики ложатся спать и благодарят вас за внимание к их хвостам на протяжении этой недели 🤍🤎\n\nКогда-нибудь у нас буд… https://t.co/1hEaoJyt27",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "IrisTheFox2",
-          "name": "лисица лисица",
-          "id": 1402573362308784000,
-          "id_str": "1402573362308784128",
+          "url": "https://t.co/1hEaoJyt27",
+          "expanded_url": "https://twitter.com/i/web/status/1655287464855064578",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            12
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1655251054202613800,
-    "in_reply_to_status_id_str": "1655251054202613762",
-    "in_reply_to_user_id": 1402573362308784000,
-    "in_reply_to_user_id_str": "1402573362308784128",
-    "in_reply_to_screen_name": "IrisTheFox2",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 29,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
