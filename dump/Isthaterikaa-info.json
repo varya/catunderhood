@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 13457,
+  "followers_count": 13456,
   "friends_count": 57,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
@@ -35,46 +35,46 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32688,
+  "statuses_count": 32697,
   "lang": null,
   "status": {
-    "created_at": "Mon May 08 18:14:12 +0000 2023",
-    "id": 1655637237693038600,
-    "id_str": "1655637237693038592",
-    "text": "@predictio_star Эдди сказала никакого ретроградного Меркурия на этой неделе :D",
-    "truncated": false,
+    "created_at": "Mon May 08 19:07:58 +0000 2023",
+    "id": 1655650767917965300,
+    "id_str": "1655650767917965313",
+    "text": "Мы подошли к одному из самых важных шагов моей жизни - решение стать сингл мамой кошки Эдди. Мне повезло, во втором… https://t.co/PmhEIHWDmn",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "predictio_star",
-          "name": "passacalia.",
-          "id": 2322446106,
-          "id_str": "2322446106",
+          "url": "https://t.co/PmhEIHWDmn",
+          "expanded_url": "https://twitter.com/i/web/status/1655650767917965313",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            15
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1655614567316086800,
-    "in_reply_to_status_id_str": "1655614567316086784",
-    "in_reply_to_user_id": 2322446106,
-    "in_reply_to_user_id_str": "2322446106",
-    "in_reply_to_screen_name": "predictio_star",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 18,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
