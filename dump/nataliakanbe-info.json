@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32751,
+  "statuses_count": 32752,
   "lang": null,
   "status": {
-    "created_at": "Sun May 14 04:18:43 +0000 2023",
-    "id": 1657601307887407000,
-    "id_str": "1657601307887407108",
-    "text": "Я немного путаюсь в часовых поясах и не знаю, есть ли у меня еще время, чтобы запостить завтра. На случай, если нет… https://t.co/VkOSGruPtZ",
+    "created_at": "Mon May 15 14:05:46 +0000 2023",
+    "id": 1658111431403794400,
+    "id_str": "1658111431403794438",
+    "text": "Всем привет! \n\nЭту неделю на связи буду я @nataliakanbe и моя замечательная Мару. \n\nПочти 9 лет мы идем лапа об рук… https://t.co/m3MNwwC1cy",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "nataliakanbe",
+          "name": "швея в токио 🪡🇯🇵",
+          "id": 947242429,
+          "id_str": "947242429",
+          "indices": [
+            42,
+            55
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/VkOSGruPtZ",
-          "expanded_url": "https://twitter.com/i/web/status/1657601307887407108",
+          "url": "https://t.co/m3MNwwC1cy",
+          "expanded_url": "https://twitter.com/i/web/status/1658111431403794438",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,22 +71,22 @@
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1657599903651221500,
-    "in_reply_to_status_id_str": "1657599903651221509",
-    "in_reply_to_user_id": 739569483556225000,
-    "in_reply_to_user_id_str": "739569483556225025",
-    "in_reply_to_screen_name": "catunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 123,
+    "favorite_count": 46,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "ja"
   },
   "contributors_enabled": false,
   "is_translator": false,
