@@ -30,38 +30,106 @@
   "friends_count": 58,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9297,
+  "favourites_count": 12118,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32764,
+  "statuses_count": 32768,
   "lang": null,
   "status": {
-    "created_at": "Wed May 17 22:33:24 +0000 2023",
-    "id": 1658963958429290500,
-    "id_str": "1658963958429290496",
-    "text": "Каждые несколько месяцев у нас устраивают проверки , и приходится уходить с кошкой из дома на короткое время . Норм… https://t.co/J47PjkZSlz",
-    "truncated": true,
+    "created_at": "Fri May 19 01:20:19 +0000 2023",
+    "id": 1659368351477670000,
+    "id_str": "1659368351477669889",
+    "text": "Милая и добрая , она, конечно, только с мамой :D https://t.co/osiAPjHF3s",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/J47PjkZSlz",
-          "expanded_url": "https://twitter.com/i/web/status/1658963958429290496",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1659368082626998300,
+          "id_str": "1659368082626998273",
           "indices": [
-            117,
-            140
-          ]
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FwdCeryacAEBs4L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FwdCeryacAEBs4L.jpg",
+          "url": "https://t.co/osiAPjHF3s",
+          "display_url": "pic.twitter.com/osiAPjHF3s",
+          "expanded_url": "https://twitter.com/catunderhood/status/1659368351477669889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1659368082626998300,
+          "id_str": "1659368082626998273",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FwdCeryacAEBs4L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FwdCeryacAEBs4L.jpg",
+          "url": "https://t.co/osiAPjHF3s",
+          "display_url": "pic.twitter.com/osiAPjHF3s",
+          "expanded_url": "https://twitter.com/catunderhood/status/1659368351477669889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1658962425075601400,
-    "in_reply_to_status_id_str": "1658962425075601409",
+    "in_reply_to_status_id": 1659367221108551700,
+    "in_reply_to_status_id_str": "1659367221108551680",
     "in_reply_to_user_id": 739569483556225000,
     "in_reply_to_user_id_str": "739569483556225025",
     "in_reply_to_screen_name": "catunderhood",
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 129,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
