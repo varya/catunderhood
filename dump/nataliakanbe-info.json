@@ -30,42 +30,145 @@
   "friends_count": 58,
   "listed_count": 44,
   "created_at": "Sun Jun 05 21:28:00 +0000 2016",
-  "favourites_count": 9297,
+  "favourites_count": 12117,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 32780,
+  "statuses_count": 32781,
   "lang": null,
   "status": {
-    "created_at": "Sat May 20 11:33:57 +0000 2023",
-    "id": 1659885166523760600,
-    "id_str": "1659885166523760641",
-    "text": "@ArikNahimovich 💔💔💔",
+    "created_at": "Sat May 20 13:21:24 +0000 2023",
+    "id": 1659912206027485200,
+    "id_str": "1659912206027485186",
+    "text": "😴💙 https://t.co/sfdKMNHo3I",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [],
+      "media": [
         {
-          "screen_name": "ArikNahimovich",
-          "name": "Arik",
-          "id": 1342811189177409500,
-          "id_str": "1342811189177409537",
+          "id": 1659911812882780200,
+          "id_str": "1659911812882780164",
           "indices": [
-            0,
-            15
-          ]
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fwkw_81aUAQm15d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fwkw_81aUAQm15d.jpg",
+          "url": "https://t.co/sfdKMNHo3I",
+          "display_url": "pic.twitter.com/sfdKMNHo3I",
+          "expanded_url": "https://twitter.com/catunderhood/status/1659912206027485186/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
         }
-      ],
-      "urls": []
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1659911812882780200,
+          "id_str": "1659911812882780164",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fwkw_81aUAQm15d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fwkw_81aUAQm15d.jpg",
+          "url": "https://t.co/sfdKMNHo3I",
+          "display_url": "pic.twitter.com/sfdKMNHo3I",
+          "expanded_url": "https://twitter.com/catunderhood/status/1659912206027485186/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1659911881463840800,
+          "id_str": "1659911881463840769",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/FwkxD8UaQAE_1CF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FwkxD8UaQAE_1CF.jpg",
+          "url": "https://t.co/sfdKMNHo3I",
+          "display_url": "pic.twitter.com/sfdKMNHo3I",
+          "expanded_url": "https://twitter.com/catunderhood/status/1659912206027485186/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1066,
+              "h": 1600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 1659884828416696300,
-    "in_reply_to_status_id_str": "1659884828416696320",
-    "in_reply_to_user_id": 1342811189177409500,
-    "in_reply_to_user_id_str": "1342811189177409537",
-    "in_reply_to_screen_name": "ArikNahimovich",
+    "in_reply_to_status_id": 1659884951255515100,
+    "in_reply_to_status_id_str": "1659884951255515137",
+    "in_reply_to_user_id": 739569483556225000,
+    "in_reply_to_user_id_str": "739569483556225025",
+    "in_reply_to_screen_name": "catunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -75,6 +178,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "qme"
   },
   "contributors_enabled": false,
